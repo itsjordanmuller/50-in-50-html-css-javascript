@@ -13,7 +13,6 @@ next.addEventListener("click", () => {
   }
 
   update();
-  console.log(currentActive);
 });
 
 prev.addEventListener("click", () => {
@@ -24,7 +23,6 @@ prev.addEventListener("click", () => {
   }
 
   update();
-  console.log(currentActive);
 });
 
 function update() {
@@ -35,4 +33,8 @@ function update() {
       circle.classList.remove("active");
     }
   });
+
+  const actives = document.querySelectorAll(".active");
+
+  console.log(actives.length / circles.length);
 }
