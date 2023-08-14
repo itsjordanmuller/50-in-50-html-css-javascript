@@ -27,4 +27,7 @@ body {
   border-radius: 50px;
   color: #fff;
   cursor: pointer;
+  flex: 0.5;
+  margin: 10px;
+  position: relative;
 }
