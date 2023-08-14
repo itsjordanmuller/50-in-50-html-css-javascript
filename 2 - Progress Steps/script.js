@@ -14,3 +14,13 @@ next.addEventListener("click", () => {
 
   console.log(currentActive);
 });
+
+prev.addEventListener("click", () => {
+  currentActive--;
+
+  if (currentActive < 1) {
+    currentActive = 1;
+  }
+
+  console.log(currentActive);
+});
