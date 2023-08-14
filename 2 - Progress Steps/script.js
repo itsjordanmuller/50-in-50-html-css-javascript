@@ -4,3 +4,9 @@ const next = document.getElementById("next");
 const circles = document.getElementById(".circle");
 
 let currentActive = 1;
+
+next.addEventListener("click", () => {
+  currentActive++;
+
+  console.log(currentActive);
+});
