@@ -66,5 +66,5 @@ body {
 }
 
 .circle.active {
-  border-radius: #3498db;
+  border-color: #3498db;
 }
