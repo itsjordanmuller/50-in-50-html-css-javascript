@@ -86,6 +86,11 @@ nav ul li {
   transition: transform 0.4s ease-in;
 }
 
+nav ul li i {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
 .content img {
   max-width: 100%;
 }
