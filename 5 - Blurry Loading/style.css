@@ -18,4 +18,7 @@ body {
 .bg {
   background: url("https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80")
     no-repeat center center/cover;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
