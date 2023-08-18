@@ -17,3 +17,8 @@ body {
 h1 {
   margin: 10px;
 }
+
+.box {
+  background-color: #4682b4;
+  color: #fff;
+}
