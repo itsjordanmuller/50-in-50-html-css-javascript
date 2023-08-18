@@ -12,5 +12,7 @@ function blurring() {
     clearInterval(int);
   }
 
+  loadText.innerText = `${load}%`;
+
   console.log(load);
 }
