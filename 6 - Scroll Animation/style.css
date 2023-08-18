@@ -31,3 +31,7 @@ h1 {
   box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
   transform: translateX(400%);
 }
+
+.box.show {
+  transform: translateX(0);
+}
