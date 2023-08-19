@@ -26,6 +26,13 @@ h1 {
   white-space: nowrap;
 }
 
+.btn {
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  transform: translateX(-50%);
+}
+
 .container {
   position: relative;
   width: 100%;
