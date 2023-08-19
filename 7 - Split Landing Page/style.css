@@ -33,6 +33,7 @@ h1 {
   transform: translateX(-50%);
   text-decoration: none;
   color: #fff;
+  border: #fff solid 0.2rem;
 }
 
 .container {
