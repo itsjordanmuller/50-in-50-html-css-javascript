@@ -32,6 +32,11 @@ body {
   background-size: cover;
 }
 
+.split.left::before {
+  content: "";
+  position: absolute;
+}
+
 .split.right {
   right: 0;
   background: url("xbox.jpg");
