@@ -16,6 +16,10 @@ body {
   margin: 0;
 }
 
+h1 {
+  font-size: 4rem;
+}
+
 .container {
   position: relative;
   width: 100%;
