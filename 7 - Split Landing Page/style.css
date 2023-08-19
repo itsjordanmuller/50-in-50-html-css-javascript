@@ -28,6 +28,9 @@ h1 {
 
 .btn {
   position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   left: 50%;
   top: 40%;
   transform: translateX(-50%);
