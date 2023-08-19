@@ -38,6 +38,8 @@ h1 {
   color: #fff;
   border: #fff solid 0.2rem;
   font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
   width: 15rem;
   padding: 1.5rem;
 }
