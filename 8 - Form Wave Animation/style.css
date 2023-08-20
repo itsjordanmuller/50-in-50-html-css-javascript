@@ -37,6 +37,7 @@ body {
   cursor: pointer;
   display: inline-block;
   width: 100%;
+  background-color: #add8e6;
   padding: 15px;
 }
 
