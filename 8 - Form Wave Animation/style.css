@@ -84,3 +84,7 @@ body {
   top: 15px;
   left: 0;
 }
+
+.form-control label span {
+  display: inline-block;
+}
