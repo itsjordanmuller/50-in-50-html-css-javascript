@@ -39,6 +39,8 @@ body {
   width: 100%;
   background-color: #add8e6;
   padding: 15px;
+  font-family: inherit;
+  font-size: 16px;
 }
 
 .form-control {
