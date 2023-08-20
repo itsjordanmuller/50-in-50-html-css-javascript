@@ -87,4 +87,6 @@ body {
 
 .form-control label span {
   display: inline-block;
+  font-size: 18px;
+  min-width: 5px;
 }
