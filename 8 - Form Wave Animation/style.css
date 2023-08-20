@@ -36,6 +36,8 @@ body {
 .btn {
   cursor: pointer;
   display: inline-block;
+  width: 100%;
+  padding: 15px;
 }
 
 .form-control {
