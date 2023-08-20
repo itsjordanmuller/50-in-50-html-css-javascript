@@ -41,4 +41,5 @@ body {
 
 .form-control input {
   background-color: transparent;
+  border: 0;
 }
