@@ -33,6 +33,10 @@ body {
   color: #add8e6;
 }
 
+.btn {
+  cursor: pointer;
+}
+
 .form-control {
   position: relative;
   margin: 20px 0 40px;
