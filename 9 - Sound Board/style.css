@@ -27,3 +27,7 @@ body {
   font-size: 1.2rem;
   font-family: inherit;
 }
+
+.btn:focus {
+  outline: none;
+}
