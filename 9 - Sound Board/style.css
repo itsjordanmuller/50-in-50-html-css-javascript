@@ -20,4 +20,5 @@ body {
 .btn {
   background-color: rgb(102, 51, 153);
   border-radius: 5px;
+  border: none;
 }
