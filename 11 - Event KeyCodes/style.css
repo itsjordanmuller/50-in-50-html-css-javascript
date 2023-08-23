@@ -15,3 +15,7 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+.key {
+  border: 1px solid #999;
+}
