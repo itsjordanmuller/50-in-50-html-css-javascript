@@ -28,4 +28,11 @@ body {
   flex-direction: column;
   margin: 10px;
   min-width: 150px;
+  position: relative;
+}
+
+.key small {
+  position: absolute;
+  top: -24px;
+  left: 0;
 }
