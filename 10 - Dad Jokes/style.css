@@ -26,3 +26,7 @@ body {
   max-width: 100%;
   width: 800px;
 }
+
+h3 {
+  margin: 0;
+}
