@@ -38,4 +38,5 @@ h3 {
   letter-spacing: 1px;
   line-height: 40px;
   margin: 50px auto;
+  max-width: 600px;
 }
