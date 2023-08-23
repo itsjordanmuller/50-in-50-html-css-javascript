@@ -43,4 +43,6 @@ h3 {
 
 .btn {
   background-color: #9f68e0;
+  border: 0;
+  border-radius: 10px;
 }
