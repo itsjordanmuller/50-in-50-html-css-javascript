@@ -38,4 +38,5 @@ h1 {
 .faq.active::before {
   content: "\f075";
   font-family: "Font Awesome 5 Free";
+  color: #2ecc71;
 }
