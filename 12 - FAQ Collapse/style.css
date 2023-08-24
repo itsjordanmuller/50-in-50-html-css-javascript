@@ -71,4 +71,5 @@ h1 {
 .faq-toggle {
   background-color: transparent;
   border: 0;
+  cursor: pointer;
 }
