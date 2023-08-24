@@ -52,4 +52,5 @@ h1 {
   color: #3498db;
   top: -10px;
   left: -30px;
+  transform: rotateY(180deg);
 }
