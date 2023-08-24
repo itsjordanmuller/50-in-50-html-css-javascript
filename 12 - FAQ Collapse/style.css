@@ -21,4 +21,6 @@ h1 {
 
 .faq {
   background-color: transparent;
+  border: 1px solid #9fa4a8;
+  border-radius: 10px;
 }
