@@ -27,4 +27,5 @@ h1 {
   padding: 30px;
   position: relative;
   overflow: hidden;
+  transition: 0.3s ease;
 }
