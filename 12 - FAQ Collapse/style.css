@@ -67,3 +67,8 @@ h1 {
 .faq.active .faq-text {
   display: block;
 }
+
+.faq-toggle {
+  background-color: transparent;
+  border: 0;
+}
