@@ -94,6 +94,7 @@ h1 {
 }
 
 .faq.active .faq-toggle .fa-times {
+  color: #fff;
   display: block;
 }
 
