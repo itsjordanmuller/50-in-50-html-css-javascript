@@ -82,6 +82,7 @@ h1 {
   right: 30px;
   height: 30px;
   width: 30px;
+  border-radius: 50%;
 }
 
 .faq-toggle:focus {
