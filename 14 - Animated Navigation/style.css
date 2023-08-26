@@ -52,4 +52,5 @@ nav.active ul {
 
 nav ul li {
   transform: rotateY(0deg);
+  opacity: 0;
 }
