@@ -38,10 +38,24 @@ function randomSelect() {
 
   const interval = setInterval(() => {
     const randomTag = pickRandomTag();
+
+    highlightTag(randomTag);
+
+    setTimeout(() => {
+      unhighlightTag(randomTag);
+    }, 100);
   }, 100);
 }
 
 function pickRandomTag() {
   const tags = document.querySelectorAll(".tag");
   return tags[Math.floor(Math.random() * tags.length)];
+}
+
+function highlightTag(tag) {
+  tag.classList.add("highlight");
+}
+
+function unhighlightTag(tag) {
+  tag.classList.remove("highlight");
 }
