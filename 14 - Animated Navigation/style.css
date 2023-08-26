@@ -49,3 +49,7 @@ nav ul {
 nav.active ul {
   width: 100%;
 }
+
+nav ul li {
+  transform: rotateY(0deg);
+}
