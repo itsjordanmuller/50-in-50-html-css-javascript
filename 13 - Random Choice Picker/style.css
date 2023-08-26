@@ -46,3 +46,7 @@ textarea {
   font-weight: bold;
   display: inline-block;
 }
+
+.tag.highlight {
+  background-color: #273c75;
+}
