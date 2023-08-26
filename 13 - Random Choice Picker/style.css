@@ -27,4 +27,5 @@ h3 {
 
 textarea {
   border: none;
+  display: block;
 }
