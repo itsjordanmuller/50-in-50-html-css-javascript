@@ -35,3 +35,7 @@ textarea {
   margin: 0 0 20px;
   font-size: 16px;
 }
+
+.tag {
+  background-color: #f0932b;
+}
