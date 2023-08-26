@@ -40,3 +40,8 @@ function randomSelect() {
     const randomTag = pickRandomTag();
   }, 100);
 }
+
+function pickRandomTag() {
+  const tags = document.querySelectorAll(".tag");
+  return tags[Math.floor(Math.random() * tags.length)];
+}
