@@ -44,4 +44,5 @@ textarea {
   margin: 0 5px 10px 0;
   font-size: 14px;
   font-weight: bold;
+  display: inline-block;
 }
