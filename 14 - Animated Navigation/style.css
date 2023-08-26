@@ -36,3 +36,7 @@ nav {
 nav.active {
   width: 350px;
 }
+
+nav ul {
+  display: flex;
+}
