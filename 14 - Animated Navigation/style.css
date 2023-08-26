@@ -71,4 +71,5 @@ nav ul a {
 .icon {
   background-color: #fff;
   border: 0;
+  cursor: pointer;
 }
