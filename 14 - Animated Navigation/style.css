@@ -79,5 +79,9 @@ nav ul a {
 }
 
 .icon:focus {
-  outline: none;
+  outline: 0;
+}
+
+.icon .line {
+  background-color: #5290f9;
 }
