@@ -90,3 +90,8 @@ nav ul a {
   top: 10px;
   left: 5px;
 }
+
+.icon .line2 {
+  top: auto;
+  bottom: 10px;
+}
