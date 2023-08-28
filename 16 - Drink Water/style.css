@@ -75,4 +75,5 @@ h3 {
   justify-content: center;
   text-align: center;
   flex: 1;
+  transition: 0.3s ease;
 }
