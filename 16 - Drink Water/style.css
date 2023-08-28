@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:400,600&display=swap");
 
 * {
   box-sizing: border-box;
@@ -16,4 +16,8 @@ body {
 
 h1 {
   margin: 10px 0 0;
+}
+
+h3 {
+  font-weight: 400;
 }
