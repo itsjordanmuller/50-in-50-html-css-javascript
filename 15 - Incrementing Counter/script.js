@@ -10,7 +10,13 @@ counters.forEach((counter) => {
 
     const increment = target / 200;
 
-    console.log(increment);
+    // console.log(increment);
+    if (c < target) {
+      counter.innerText = `${Math.ceil(c + increment)}`;
+      setTimeout(updateCounter, 1);
+    } else {
+      counter.innerText = target;
+    }
   };
 
   updateCounter();
