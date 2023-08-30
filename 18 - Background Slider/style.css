@@ -37,3 +37,11 @@ body::before {
   position: relative;
   overflow: hidden;
 }
+
+.slide {
+  opacity: 0;
+}
+
+.slide.active {
+  opacity: 1;
+}
