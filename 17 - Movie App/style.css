@@ -31,3 +31,12 @@ header {
   color: #fff;
   padding: 0.5rem 1rem;
 }
+
+.search::placeholder {
+  color: #7378c5;
+}
+
+.search:focus {
+  outline: none;
+  background-color: var(--primary-color);
+}
