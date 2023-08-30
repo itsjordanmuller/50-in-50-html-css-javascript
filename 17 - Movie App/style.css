@@ -40,3 +40,16 @@ header {
   outline: none;
   background-color: var(--primary-color);
 }
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.movie {
+  width: 300px;
+}
+
+.movie img {
+  width: 100%;
+}
