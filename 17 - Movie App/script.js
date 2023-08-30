@@ -26,9 +26,11 @@ function showMovies(movies) {
     const movieEl = document.createElement("div");
     movieEl.classList.add("movie");
 
+    const imgSrc = poster_path ? IMG_PATH + poster_path : "DefaultPoster.jpg";
+
     movieEl.innerHTML = `
         <img
-        src="${IMG_PATH + poster_path}"
+        src="${imgSrc}"
         alt="${title}"
         />
         <div class="movie-info">
