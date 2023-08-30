@@ -54,3 +54,8 @@ body::before {
 .slide.active {
   opacity: 1;
 }
+
+.arrow {
+  position: fixed;
+  z-index: 100;
+}
