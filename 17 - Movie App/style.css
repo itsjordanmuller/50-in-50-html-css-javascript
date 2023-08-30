@@ -18,4 +18,5 @@ body {
 header {
   padding: 1rem;
   display: flex;
+  justify-content: flex-end;
 }
