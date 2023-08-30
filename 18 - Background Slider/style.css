@@ -47,6 +47,8 @@ body::before {
   position: absolute;
   top: -15vh;
   left: -15vw;
+  transition: 0.4s ease;
+  z-index: 1;
 }
 
 .slide.active {
