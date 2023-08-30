@@ -91,3 +91,13 @@ main {
 .movie-info span.red {
   color: #ff0000;
 }
+
+.overview {
+  background-color: #fff;
+  padding: 2rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  max-height: 100%;
+}
