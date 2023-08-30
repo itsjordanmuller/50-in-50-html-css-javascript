@@ -40,6 +40,10 @@ body::before {
 
 .slide {
   opacity: 0;
+  width: 100vw;
+  height: 100vh;
+  background-position: center center;
+  background-size: cover;
 }
 
 .slide.active {
