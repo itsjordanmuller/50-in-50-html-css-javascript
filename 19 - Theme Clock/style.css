@@ -54,3 +54,10 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+
+.clock {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background-color: #f0f0f0;
+}
