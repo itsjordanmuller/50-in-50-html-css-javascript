@@ -41,4 +41,9 @@ body {
   padding: 8px 12px;
   position: absolute;
   top: 100px;
+  cursor: pointer;
+}
+
+.toggle:focus {
+  outline: none;
 }
