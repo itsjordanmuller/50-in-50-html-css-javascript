@@ -69,4 +69,5 @@ body {
   left: 50%;
   height: 65px;
   width: 3px;
+  transform-origin: bottom center;
 }
