@@ -51,7 +51,23 @@ function setTime() {
   const minutes = time.getMinutes();
   const seconds = time.getSeconds();
   const ampm = hours >= 12 ? "PM" : "AM";
-  //   console.log(time);
+
+  hourEl.style.transition = `${hours === 0 ? "none" : "all 0.5s ease-in"}`;
+  minuteEl.style.transition = `${minutes === 0 ? "none" : "all 0.5s ease-in"}`;
+  secondEl.style.transition = `${seconds === 0 ? "none" : "all 0.5s ease-in"}`;
+
+  const secondRotation = scale(seconds, 0, 59, 0, 360);
+  if (secondRotation === 0) {
+    secondEl.style.transform = `translate(-50%, -100%) rotate(360deg)`;
+    setTimeout(() => {
+      secondEl.style.transform = `translate(-50%, -100%) rotate(0deg)`;
+      secondEl.style.transition = "none";
+      hourEl.transition = "all 0.5s ease-in";
+    }, 500);
+  } else {
+    secondEl.style.transition = "all 0.5s ease-in";
+    secondEl.style.transform = `translate(-50%, -100%) rotate(${secondRotation}deg)`;
+  }
 
   hourEl.style.transform = `translate(-50%, -100%) rotate(${scale(
     hoursForClock,
@@ -63,14 +79,6 @@ function setTime() {
 
   minuteEl.style.transform = `translate(-50%, -100%) rotate(${scale(
     minutes,
-    0,
-    59,
-    0,
-    360
-  )}deg)`;
-
-  secondEl.style.transform = `translate(-50%, -100%) rotate(${scale(
-    seconds,
     0,
     59,
     0,
