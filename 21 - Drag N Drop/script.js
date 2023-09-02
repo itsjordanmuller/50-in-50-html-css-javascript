@@ -12,7 +12,8 @@ for (const empty of empties) {
 }
 
 function dragStart() {
-  console.log("Drag Start");
+  //   console.log("Drag Start");
+  this.className += " hold";
 }
 
 function dragEnd() {
