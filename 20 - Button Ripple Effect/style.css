@@ -5,6 +5,7 @@
 }
 
 body {
+  background-color: #000;
   font-family: "Roboto", sans-serif;
   display: flex;
   flex-direction: column;
@@ -13,4 +14,10 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+}
+
+button {
+  background-color: purple;
+  color: #fff;
+  border: 1px purple solid;
 }
