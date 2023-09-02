@@ -26,4 +26,12 @@ button {
   padding: 20px 30px;
   margin: 10px 0;
   overflow: hidden;
+  position: relative;
+}
+
+button .circle {
+  position: absolute;
+  background-color: #fff;
+  width: 100px;
+  height: 100px;
 }
