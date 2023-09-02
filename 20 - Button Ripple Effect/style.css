@@ -25,4 +25,5 @@ button {
   letter-spacing: 2px;
   padding: 20px 30px;
   margin: 10px 0;
+  overflow: hidden;
 }
