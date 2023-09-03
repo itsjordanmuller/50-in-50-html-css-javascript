@@ -22,12 +22,14 @@ function dragEnd() {
   this.className = "fill";
 }
 
-function dragOver() {
-  console.log("Drag Over");
+function dragOver(e) {
+  //   console.log("Drag Over");
+  e.preventDefault();
 }
 
-function dragEnter() {
-  console.log("Drag Enter");
+function dragEnter(e) {
+  //   console.log("Drag Enter");
+  e.preventDefault();
 }
 
 function dragLeave() {
