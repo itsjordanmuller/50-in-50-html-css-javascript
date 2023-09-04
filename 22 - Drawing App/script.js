@@ -75,6 +75,16 @@ increaseBtn.addEventListener("click", () => {
   updateSizeOnScreen();
 });
 
+decreaseBtn.addEventListener("click", () => {
+  size -= 5;
+
+  if (size < 5) {
+    size = 5;
+  }
+
+  updateSizeOnScreen();
+});
+
 colorEl.addEventListener("change", (e) => (color = e.target.value));
 
 // drawCircle(100, 200);
