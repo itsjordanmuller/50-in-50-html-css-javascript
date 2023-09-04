@@ -24,4 +24,5 @@ canvas {
   border: 1px solid #6a5acd;
   display: flex;
   width: 804px;
+  padding: 1rem;
 }
