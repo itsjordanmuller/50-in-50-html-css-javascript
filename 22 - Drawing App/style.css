@@ -22,4 +22,6 @@ canvas {
 .toolbox {
   background-color: #4682b4;
   border: 1px solid #6a5acd;
+  display: flex;
+  width: 804px;
 }
