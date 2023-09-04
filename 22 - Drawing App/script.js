@@ -61,6 +61,14 @@ function drawLine(x1, y1, x2, y2) {
   ctx.stroke();
 }
 
+increaseBtn.addEventListener("click", () => {
+  size += 5;
+
+  if (size > 50) {
+    size = 50;
+  }
+});
+
 colorEl.addEventListener("change", (e) => (color = e.target.value));
 
 // drawCircle(100, 200);
