@@ -29,3 +29,7 @@ body {
   border: 50px solid transparent;
   border-bottom-color: #fff;
 }
+
+.kinetic::before {
+  transform: rotate(90deg);
+}
