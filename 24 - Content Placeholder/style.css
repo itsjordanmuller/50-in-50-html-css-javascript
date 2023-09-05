@@ -40,3 +40,8 @@ img {
   background-color: #fff;
   padding: 30px;
 }
+
+.card-title {
+  height: 20px;
+  margin: 0px;
+}
