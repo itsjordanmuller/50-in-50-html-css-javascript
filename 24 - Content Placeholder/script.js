@@ -18,4 +18,7 @@ function getData() {
     '<img src="https://randomuser.me/api/portraits/men/45.jpg" alt="Author Portrait" />';
   author_name.innerHTML = "John Doe";
   date.innerHTML = "Sep 5, 2023";
+
+  animated_bgs.forEach((bg) => bg.classList.remove("animated-bg"));
+  animated_bg_texts.forEach((bg) => bg.classList.remove("animated-bg-text"));
 }
