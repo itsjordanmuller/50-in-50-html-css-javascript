@@ -57,6 +57,10 @@ body {
   color: #000;
 }
 
+.nav.active .container {
+  padding: 10px 0;
+}
+
 .hero {
   background-image: url("https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   background-repeat: no-repeat;
