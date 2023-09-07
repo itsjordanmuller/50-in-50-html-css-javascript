@@ -68,3 +68,7 @@ body {
 .slider-container .action-buttons .down-button {
   transform: translateX(-100%);
 }
+
+.slider-container .action-buttons .up-button {
+  transform: translateY(-100%);
+}
