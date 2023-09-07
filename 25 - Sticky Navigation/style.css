@@ -41,6 +41,12 @@ body {
   justify-content: center;
 }
 
+.nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 7px 15px;
+}
+
 .hero {
   background-image: url("https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   background-repeat: no-repeat;
