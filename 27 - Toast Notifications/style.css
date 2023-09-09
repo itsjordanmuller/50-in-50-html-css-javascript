@@ -24,4 +24,13 @@ body {
   padding: 1rem;
   border-radius: 5px;
   border: none;
+  cursor: pointer;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:active {
+  transform: scale(0.98);
 }
