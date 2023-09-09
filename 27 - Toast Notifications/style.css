@@ -43,3 +43,8 @@ body {
   flex-direction: column;
   align-items: flex-end;
 }
+
+.toast {
+  background-color: #fff;
+  color: #663399;
+}
