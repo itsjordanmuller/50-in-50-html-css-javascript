@@ -19,4 +19,6 @@ body {
 .btn {
   background-color: white;
   color: #663399;
+  font-family: inherit;
+  font-weight: bold;
 }
