@@ -24,22 +24,19 @@ function createUserCard(user) {
   <div class="card">
   <div>
     <img
-      src="https://randomuser.me/api/portraits/men/30.jpg"
-      alt="Profile Picture"
+      src="${user.avatar_url}"
+      alt="${user.name}"
       class="avatar"
     />
   </div>
   <div class="user-info">
-    <h2>johndoe</h2>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi,
-      nam!
-    </p>
+    <h2>${user.name} - ${user.login}</h2>
+    <p>${user.bio}</p>
 
     <ul>
-      <li>10 <strong>Followers</strong></li>
-      <li>20 <strong>Following</strong></li>
-      <li>30 <strong>Repos</strong></li>
+      <li>${user.followers} <strong>Followers</strong></li>
+      <li>${user.following} <strong>Following</strong></li>
+      <li>${user.public_repos} <strong>Repos</strong></li>
     </ul>
 
     <div id="repos">
