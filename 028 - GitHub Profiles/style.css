@@ -16,3 +16,8 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+.user-form {
+  width: 100%;
+  max-width: 700px;
+}
