@@ -2,8 +2,10 @@ const APIURL = "https://api.github.com/users/";
 
 getUser("itsjordanmuller");
 
-function getUser(username) {
-  axios(APIURL + username)
-    .then((res) => console.log(res.data))
-    .catch((err) => console.log(err));
+async function getUser(username) {
+  const res = await axios(APIURL + username);
+
+  console.log(res.data);
+  // .then((res) => console.log(res.data))
+  // .catch((err) => console.log(err));
 }
