@@ -23,3 +23,12 @@ body {
   padding: 10px 20px;
   font-size: 18px;
 }
+
+.speed-container input {
+  width: 50px;
+  padding: 5px;
+  font-size: 18px;
+  background: #e9967a;
+  border: none;
+  text-align: center;
+}
