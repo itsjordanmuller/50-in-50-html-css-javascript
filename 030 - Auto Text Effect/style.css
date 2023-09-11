@@ -32,3 +32,7 @@ body {
   border: none;
   text-align: center;
 }
+
+.speed-container input:focus {
+  outline: none;
+}
