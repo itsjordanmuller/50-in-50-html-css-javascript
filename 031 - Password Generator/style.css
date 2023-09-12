@@ -5,6 +5,8 @@
 }
 
 body {
+  background-color: #3b3b98;
+  color: #fff;
   font-family: "Muli", sans-serif;
   display: flex;
   flex-direction: column;
