@@ -36,4 +36,9 @@ h2 {
   display: flex;
   justify-content: flex-start;
   position: relative;
+  font-size: 18px;
+  letter-spacing: 1px;
+  padding: 12px 10px;
+  height: 50px;
+  width: 100%;
 }
