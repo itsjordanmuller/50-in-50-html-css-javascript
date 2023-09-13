@@ -35,3 +35,7 @@ body {
   width: 80px;
   height: 40px;
 }
+
+.toggle:checked + .label {
+  background-color: #8e44ad;
+}
