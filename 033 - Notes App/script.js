@@ -33,5 +33,11 @@ function addNewNote(text = "") {
     textArea.classList.toggle("hidden");
   });
 
+  textArea.addEventListener("input", (e) => {
+    const { value } = e.target;
+
+    main.innerHTML = marked.parse(value);
+  });
+
   document.body.appendChild(note);
 }
