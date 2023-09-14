@@ -31,3 +31,10 @@ body {
   height: 400px;
   width: 400px;
 }
+
+.note .tools {
+  background-color: #9ec862;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.5rem;
+}
