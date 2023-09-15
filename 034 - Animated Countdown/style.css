@@ -40,3 +40,22 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.final.show {
+  transform: translate(-50%, -50%) scale(1);
+  animation: show 0.2s ease-out;
+}
+
+@keyframes show {
+  0% {
+    transform: translate(-50%, -50%) scale(0);
+  }
+
+  30% {
+    transform: translate(-50%, -50%) scale(1.4);
+  }
+
+  100% {
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
