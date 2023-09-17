@@ -12,6 +12,13 @@ body {
   margin: 0;
 }
 
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .square {
   background-color: #1d1d1d;
   box-shadow: 0 0 2px #000;
