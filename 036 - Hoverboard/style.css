@@ -17,4 +17,6 @@ body {
   box-shadow: 0 0 2px #000;
   height: 16px;
   width: 16px;
+  margin: 2px;
+  transition: 2s ease;
 }
