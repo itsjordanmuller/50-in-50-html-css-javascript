@@ -11,3 +11,10 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+.square {
+  background-color: #1d1d1d;
+  box-shadow: 0 0 2px #000;
+  height: 16px;
+  width: 16px;
+}
