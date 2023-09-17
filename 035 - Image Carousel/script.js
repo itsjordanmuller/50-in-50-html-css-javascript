@@ -21,3 +21,13 @@ function changeImage() {
   }
   imgs.style.transform = `translateX(${-idx * 500}px)`;
 }
+
+leftBtn.addEventListener("click", () => {
+  idx--;
+  changeImage();
+});
+
+rightBtn.addEventListener("click", () => {
+  idx++;
+  changeImage();
+});
