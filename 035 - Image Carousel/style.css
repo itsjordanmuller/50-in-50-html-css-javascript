@@ -22,6 +22,7 @@ body {
 
 .image-container {
   display: flex;
+  transform: translateX(0);
 }
 
 img {
