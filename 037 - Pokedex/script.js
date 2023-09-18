@@ -34,8 +34,10 @@ const getPokemon = async (id) => {
 
 const createPokemonCard = (pokemon) => {
   const pokemonEl = document.createElement("div");
-  const formattedId = String(pokemon.id).padStart(3, "0");
   pokemonEl.classList.add("pokemon");
+
+  const formattedId = String(pokemon.id).padStart(3, "0");
+  const name = pokemon.name[0].toUpperCase() + pokemon.name.slice(1);
 
   const pokemonInnerHTML = `
     <div class="img-container">
@@ -43,7 +45,7 @@ const createPokemonCard = (pokemon) => {
     </div>
     <div class="info">
         <span class="number">#${formattedId}</span>
-        <h3 class="name">Bulbasaur</h3>
+        <h3 class="name">${name}</h3>
         <small class="type">Type: <span>grass</span> </small>
     </div>
     `;
