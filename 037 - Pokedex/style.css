@@ -31,6 +31,9 @@ h1 {
 .pokemon {
   background-color: #eee;
   border-radius: 10px;
+  box-shadow: 0 3px 15px rgba(100, 100, 100, 0.5);
+  margin: 10px;
+  padding: 20px;
 }
 
 .pokemon .img-container {
@@ -43,4 +46,5 @@ h1 {
 
 .pokemon .img-container img {
   max-width: 90%;
+  margin-top: 20px;
 }
