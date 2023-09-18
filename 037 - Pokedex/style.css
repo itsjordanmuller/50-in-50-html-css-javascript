@@ -49,3 +49,7 @@ h1 {
   max-width: 90%;
   margin-top: 20px;
 }
+
+.pokemon .info {
+  margin-top: 20px;
+}
