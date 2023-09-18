@@ -34,14 +34,15 @@ const getPokemon = async (id) => {
 
 const createPokemonCard = (pokemon) => {
   const pokemonEl = document.createElement("div");
+  const formattedId = String(pokemon.id).padStart(3, "0");
   pokemonEl.classList.add("pokemon");
 
   const pokemonInnerHTML = `
     <div class="img-container">
-        <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png" alt="Bulbasaur"/>
+        <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/${formattedId}.png" alt="Bulbasaur"/>
     </div>
     <div class="info">
-        <span class="number">#001</span>
+        <span class="number">#${formattedId}</span>
         <h3 class="name">Bulbasaur</h3>
         <small class="type">Type: <span>grass</span> </small>
     </div>
