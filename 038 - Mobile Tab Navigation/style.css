@@ -62,3 +62,8 @@ nav li {
   padding: 10px;
   text-align: center;
 }
+
+nav ul li p {
+  font-size: 12px;
+  margin: 2px 0;
+}
