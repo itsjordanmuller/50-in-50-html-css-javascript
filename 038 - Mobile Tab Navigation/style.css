@@ -37,3 +37,11 @@ body {
 .phone .show {
   opacity: 1;
 }
+
+nav {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin-top: -5px;
+  width: 100%;
+}
