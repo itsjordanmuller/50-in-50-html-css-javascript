@@ -54,3 +54,11 @@ nav ul {
   margin: 0;
   height: 60px;
 }
+
+nav li {
+  color: #777;
+  cursor: pointer;
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+}
