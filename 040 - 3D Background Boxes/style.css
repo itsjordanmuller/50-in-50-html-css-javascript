@@ -16,3 +16,9 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+.magic {
+  background-color: #f9ca24;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+}
