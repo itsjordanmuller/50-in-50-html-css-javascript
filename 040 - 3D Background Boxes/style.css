@@ -31,3 +31,7 @@ body {
   top: 20px;
   box-shadow: 0 3px rgba(249, 202, 36, 0.5);
 }
+
+.magic:focus {
+  outline: none;
+}
