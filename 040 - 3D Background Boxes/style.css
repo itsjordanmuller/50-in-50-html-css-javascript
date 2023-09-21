@@ -30,6 +30,7 @@ body {
   position: fixed;
   top: 20px;
   box-shadow: 0 3px rgba(249, 202, 36, 0.5);
+  z-index: 100;
 }
 
 .magic:focus {
