@@ -40,4 +40,11 @@ body {
   margin: 1%;
   text-align: center;
   font-weight: 300;
+  -moz-appearance: textfield;
+}
+
+.code::-webkit-outer-spin-button,
+.code::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
 }
