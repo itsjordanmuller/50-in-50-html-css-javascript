@@ -30,3 +30,10 @@ body {
   justify-content: center;
   margin: 40px 0;
 }
+
+.code {
+  border-radius: 5px;
+  font-size: 75px;
+  height: 120px;
+  width: 100px;
+}
