@@ -19,4 +19,6 @@ body {
   background-color: #fff;
   border: 3px #000 solid;
   border-radius: 10px;
+  padding: 30px;
+  max-width: 1000px;
 }
