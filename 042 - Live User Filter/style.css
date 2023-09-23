@@ -60,3 +60,8 @@ body {
   overflow-y: auto;
   padding: 0;
 }
+
+.user-list li {
+  display: flex;
+  padding: 20px;
+}
