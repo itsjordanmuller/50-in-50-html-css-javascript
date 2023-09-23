@@ -51,3 +51,8 @@ body {
 .header input:focus {
   outline: none;
 }
+
+.user-list {
+  background-color: #fff;
+  list-style-type: none;
+}
