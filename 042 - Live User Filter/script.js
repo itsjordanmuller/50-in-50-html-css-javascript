@@ -6,9 +6,25 @@ const listItems = [];
 getData();
 
 async function getData() {
-  const res = await fetch("https://randomuser.me/api/?results=50");
+  const res = await fetch("https://randomuser.me/api?results=50");
 
-  const data = await res.json();
+  const { results } = await res.json();
 
-  console.log(data);
+  results.innerHTML = "";
+
+  results.forEach((user) => {
+    const li = document.createElement("li");
+
+    listItems.push(li);
+
+    li.innerHTML = `
+        <img src="${user.picture.large}" alt="${user.name.first}">
+        <div class="user-info">
+            <h4>${user.name.first} ${user.name.first}</h4>
+            <p>${user.location.city}, ${user.location.country}</p>
+        </div>
+    `;
+
+    result.appendChild(li);
+  });
 }
