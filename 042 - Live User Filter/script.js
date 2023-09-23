@@ -12,7 +12,7 @@ async function getData() {
 
   const { results } = await res.json();
 
-  results.innerHTML = "";
+  result.innerHTML = "";
 
   results.forEach((user) => {
     const li = document.createElement("li");
