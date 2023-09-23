@@ -55,4 +55,6 @@ body {
 .user-list {
   background-color: #fff;
   list-style-type: none;
+  margin: 0;
+  max-height: 400px;
 }
