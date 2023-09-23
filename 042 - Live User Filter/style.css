@@ -25,3 +25,8 @@ body {
 .title {
   margin: 0;
 }
+
+.subtitle {
+  display: inline-block;
+  margin: 5px 0 20px;
+}
