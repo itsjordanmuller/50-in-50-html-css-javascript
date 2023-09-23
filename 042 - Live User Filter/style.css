@@ -29,4 +29,5 @@ body {
 .subtitle {
   display: inline-block;
   margin: 5px 0 20px;
+  opacity: 0.8;
 }
