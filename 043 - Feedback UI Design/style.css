@@ -37,3 +37,10 @@ body {
   display: flex;
   margin: 20px 0;
 }
+
+.rating {
+  flex: 1;
+  cursor: pointer;
+  padding: 20px;
+  margin: 10px 5px;
+}
