@@ -6,10 +6,17 @@ const panel = document.querySelector("#panel");
 let selectedRating = "Satisfied";
 
 ratingsContainer.addEventListener("click", (e) => {
-  if (e.target.parentNode.classList.contains("rating")) {
+  let target = e.target;
+  if (target.classList.contains("rating")) {
     removeActive();
-    e.target.parentNode.classList.add("active");
-    selectedRating = e.target.nextElementSibling.innerHTML;
+    target.classList.add("active");
+    selectedRating = target.querySelector("small").innerHTML;
+  } else if (target.parentNode.classList.contains("rating")) {
+    removeActive();
+    target.parentNode.classList.add("active");
+    selectedRating = target.nextElementSibling
+      ? target.nextElementSibling.innerHTML
+      : target.previousElementSibling.innerHTML;
   }
 });
 
