@@ -2,10 +2,13 @@ const ratings = document.querySelectorAll(".rating");
 const sendBtn = document.querySelector("#send");
 const panel = document.querySelector("#panel");
 
+let selectedRating = "Satisfied";
+
 panel.addEventListener("click", (e) => {
   if (e.target.parentNode.classList.contains("rating")) {
     removeActive();
     e.target.parentNode.classList.add("active");
+    selectedRating = e.target.nextElementSibling.innerHTML;
   }
 });
 
