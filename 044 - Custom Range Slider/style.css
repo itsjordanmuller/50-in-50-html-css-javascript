@@ -23,3 +23,8 @@ h2 {
 .range-container {
   position: relative;
 }
+
+input[type="range"] {
+  width: 300px;
+  margin: 18px 0;
+}
