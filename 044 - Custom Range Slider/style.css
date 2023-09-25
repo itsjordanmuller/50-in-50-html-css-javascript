@@ -27,4 +27,5 @@ h2 {
 input[type="range"] {
   width: 300px;
   margin: 18px 0;
+  -webkit-appearance: none;
 }
