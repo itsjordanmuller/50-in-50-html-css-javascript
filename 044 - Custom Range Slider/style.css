@@ -35,4 +35,7 @@ input[type="range"] + label {
   background-color: #fff;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
   border-radius: 4px;
+  position: absolute;
+  top: -25px;
+  left: 110px;
 }
