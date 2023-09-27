@@ -74,6 +74,11 @@ body {
   width: 95%;
   padding: 40px;
   position: relative;
+  transition-delay: 0s;
+}
+
+.nav-white.visible {
+  transition-delay: 0.2s;
 }
 
 .close-btn {
