@@ -33,3 +33,9 @@ body {
   top: 10px;
   left: 10px;
 }
+
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
