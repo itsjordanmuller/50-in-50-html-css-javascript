@@ -46,3 +46,10 @@ body {
 .nav.visible {
   transform: translateX(0);
 }
+
+.nav-black {
+  background-color: rgb(34, 31, 31);
+  width: 60%;
+  max-width: 480px;
+  min-width: 320px;
+}
