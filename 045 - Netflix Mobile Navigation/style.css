@@ -13,6 +13,10 @@ body {
   height: 100vh;
 }
 
+.text {
+  text-transform: uppercase;
+}
+
 .logo {
   width: 200px;
 }
