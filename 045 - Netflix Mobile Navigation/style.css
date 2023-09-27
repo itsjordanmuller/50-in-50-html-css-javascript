@@ -81,3 +81,7 @@ body {
 .list li {
   margin: 20px 0;
 }
+
+.list li a {
+  color: rgb(34, 31, 31);
+}
