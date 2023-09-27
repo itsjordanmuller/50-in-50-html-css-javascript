@@ -39,4 +39,9 @@ body {
   top: 0;
   left: 0;
   height: 100vh;
+  transform: translateX(-100%);
+}
+
+.nav.visible {
+  transform: translateX(0);
 }
