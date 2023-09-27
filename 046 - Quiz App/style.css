@@ -33,3 +33,8 @@ h2 {
   margin: 0;
   text-align: center;
 }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
