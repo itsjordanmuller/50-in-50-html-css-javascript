@@ -27,3 +27,8 @@ body {
 .quiz-header {
   padding: 4rem;
 }
+
+h2 {
+  padding: 1rem;
+  margin: 0;
+}
