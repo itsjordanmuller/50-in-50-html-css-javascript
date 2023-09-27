@@ -73,3 +73,8 @@ function getSelected() {
 
   return answer;
 }
+
+submitBtn.addEventListener("click", () => {
+  const answer = getSelected();
+  console.log(answer);
+});
