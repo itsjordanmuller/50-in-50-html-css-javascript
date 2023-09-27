@@ -58,3 +58,8 @@ body {
   background-color: rgb(299, 9, 20);
   width: 95%;
 }
+
+.nav-white {
+  background-color: #fff;
+  width: 95%;
+}
