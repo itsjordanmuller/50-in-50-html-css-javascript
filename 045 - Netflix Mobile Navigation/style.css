@@ -27,3 +27,9 @@ body {
   cursor: pointer;
   font-size: 20px;
 }
+
+.open-btn {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
