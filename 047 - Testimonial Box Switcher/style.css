@@ -73,6 +73,12 @@ body {
   margin: 10px 0;
 }
 
+.progress-bar {
+  background-color: #fff;
+  height: 4px;
+  width: 100%;
+}
+
 @media (max-width: 768px) {
   .fa-quote {
     display: none;
