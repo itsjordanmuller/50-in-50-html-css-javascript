@@ -13,3 +13,8 @@ body {
   min-height: 100vh;
   margin: 0;
 }
+
+.title {
+  margin: 10px 0 0;
+  text-align: center;
+}
