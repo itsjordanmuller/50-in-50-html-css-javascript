@@ -33,3 +33,11 @@ body {
   position: absolute;
   top: 70px;
 }
+
+.fa-quote-left {
+  left: 40px;
+}
+
+.fa-quote-right {
+  right: 40px;
+}
