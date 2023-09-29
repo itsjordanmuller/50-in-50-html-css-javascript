@@ -16,3 +16,8 @@ body {
   margin: 0;
   padding: 10px;
 }
+
+.testimonial-container {
+  background-color: #476ce4;
+  color: #fff;
+}
