@@ -26,3 +26,8 @@ body {
   justify-content: center;
   max-width: 1000px;
 }
+
+.container img {
+  object-fit: cover;
+  margin: 10px;
+}
