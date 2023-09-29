@@ -20,4 +20,6 @@ body {
 .testimonial-container {
   background-color: #476ce4;
   color: #fff;
+  border-radius: 15px;
+  padding: 50px 80px;
 }
