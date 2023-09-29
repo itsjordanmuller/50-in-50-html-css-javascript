@@ -64,6 +64,10 @@ body {
   margin-left: 10px;
 }
 
+.user .user-name {
+  margin: 0;
+}
+
 @media (max-width: 768px) {
   .fa-quote {
     display: none;
