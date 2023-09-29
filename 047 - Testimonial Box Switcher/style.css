@@ -68,6 +68,11 @@ body {
   margin: 0;
 }
 
+.user .role {
+  font-weight: normal;
+  margin: 10px 0;
+}
+
 @media (max-width: 768px) {
   .fa-quote {
     display: none;
