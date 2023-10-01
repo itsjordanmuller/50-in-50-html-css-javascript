@@ -15,5 +15,15 @@ function addTodo(todo) {
     todoText = todoText;
   }
 
-  console.log(todoText);
+  if (todoText) {
+    const todoEl = document.createElement("li");
+    if (todo && todo.completed) {
+      todoEl.classList.add("completed");
+    }
+    todoEl.innerText = todoText;
+
+    todosUL.appendChild(todoEl);
+
+    input.value = "";
+  }
 }
