@@ -35,3 +35,7 @@ h1 {
 .input::placeholder {
   color: #d5d5d5;
 }
+
+.todos {
+  background-color: #fff;
+}
