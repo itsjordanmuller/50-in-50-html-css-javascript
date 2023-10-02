@@ -14,6 +14,10 @@ body {
   text-align: center;
 }
 
+.btn {
+  border: 0;
+}
+
 .screen {
   display: flex;
   flex-direction: column;
