@@ -84,3 +84,9 @@ body {
 .game-container {
   position: relative;
 }
+
+.time,
+.score {
+  position: absolute;
+  top: 20px;
+}
