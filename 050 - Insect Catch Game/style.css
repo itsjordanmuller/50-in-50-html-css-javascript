@@ -20,3 +20,8 @@ body {
   height: 100vh;
   width: 100vw;
 }
+
+.choose-insect-btn img {
+  height: 100px;
+  width: 100px;
+}
