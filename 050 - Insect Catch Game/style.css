@@ -18,6 +18,8 @@ body {
   border: 0;
   background-color: #fff;
   color: #516dff;
+  padding: 15px 20px;
+  font-family: inherit;
 }
 
 .screen {
