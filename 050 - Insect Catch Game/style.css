@@ -66,6 +66,11 @@ body {
   height: 150px;
 }
 
+.choose-insect-btn:hover {
+  background-color: #fff;
+  color: #516dff;
+}
+
 .choose-insect-btn img {
   height: 100px;
   width: 100px;
