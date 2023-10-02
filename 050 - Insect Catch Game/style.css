@@ -52,6 +52,10 @@ body {
   padding: 0;
 }
 
+.insects-list li {
+  margin: 10px;
+}
+
 .choose-insect-btn img {
   height: 100px;
   width: 100px;
