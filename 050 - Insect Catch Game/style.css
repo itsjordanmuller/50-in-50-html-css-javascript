@@ -118,3 +118,20 @@ body {
   opacity: 1;
   transform: translateY(+150%);
 }
+
+.insect {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  transform: translate(-50%, -50%) scale(1);
+  top: 400px;
+  left: 300px;
+}
+
+.insect img {
+  height: 100px;
+  width: 100px;
+}
