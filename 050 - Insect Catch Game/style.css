@@ -20,6 +20,11 @@ body {
   color: #516dff;
   padding: 15px 20px;
   font-family: inherit;
+  cursor: pointer;
+}
+
+.btn:focus {
+  outline: none;
 }
 
 .screen {
