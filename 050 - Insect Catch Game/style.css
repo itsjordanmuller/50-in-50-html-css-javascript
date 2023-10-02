@@ -46,6 +46,8 @@ body {
 
 .insects-list {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .choose-insect-btn img {
