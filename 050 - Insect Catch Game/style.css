@@ -60,6 +60,8 @@ body {
   background-color: transparent;
   border: 2px solid #fff;
   color: #fff;
+  cursor: pointer;
+  font-family: inherit;
 }
 
 .choose-insect-btn img {
