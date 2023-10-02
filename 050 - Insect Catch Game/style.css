@@ -41,7 +41,7 @@ body {
 }
 
 .screen.up {
-  margin-top: -200vh;
+  margin-top: -100vh;
 }
 
 .insects-list {
@@ -129,8 +129,6 @@ body {
   position: absolute;
   transform: translate(-50%, -50%) scale(1);
   transition: transform 0.4s ease-in-out;
-  top: 400px;
-  left: 300px;
 }
 
 .insect.caught {
