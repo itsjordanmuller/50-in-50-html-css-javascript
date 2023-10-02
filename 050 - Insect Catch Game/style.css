@@ -98,3 +98,8 @@ body {
 .score {
   right: 20px;
 }
+
+.message {
+  line-height: 1.7;
+  background-color: rgba(0, 0, 0, 0.5);
+}
