@@ -23,8 +23,12 @@ body {
   cursor: pointer;
 }
 
+.btn:hover {
+  opacity: 0.9;
+}
+
 .btn:focus {
-  outline: none;
+  outline: 0;
 }
 
 .screen {
