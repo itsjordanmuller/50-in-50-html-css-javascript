@@ -41,7 +41,7 @@ body {
 }
 
 .screen.up {
-  margin-top: -100vh;
+  margin-top: -200vh;
 }
 
 .insects-list {
@@ -79,4 +79,8 @@ body {
   height: 100px;
   width: 100px;
   object-fit: contain;
+}
+
+.game-container {
+  position: relative;
 }
