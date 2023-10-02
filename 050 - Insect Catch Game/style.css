@@ -120,6 +120,7 @@ body {
 }
 
 .insect {
+  cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -127,8 +128,13 @@ body {
   width: 100px;
   position: absolute;
   transform: translate(-50%, -50%) scale(1);
+  transition: transform 0.4s ease-in-out;
   top: 400px;
   left: 300px;
+}
+
+.insect.caught {
+  transform: translate(-50%, -50%) scale(0);
 }
 
 .insect img {
