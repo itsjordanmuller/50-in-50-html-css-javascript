@@ -44,6 +44,10 @@ body {
   margin-top: -100vh;
 }
 
+.insects-list {
+  display: flex;
+}
+
 .choose-insect-btn img {
   height: 100px;
   width: 100px;
