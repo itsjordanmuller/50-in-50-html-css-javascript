@@ -42,6 +42,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [8. Form Wave Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008%20-%20Form%20Wave%20Animation)
 
+## Day 9
+
+### [9. Sound Board](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009%20-%20Sound%20Board)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
