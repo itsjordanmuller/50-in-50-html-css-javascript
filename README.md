@@ -16,6 +16,9 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ![HTML5 Boilerplate](https://img.shields.io/badge/HTML5_-_Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26)
 
+|[index.html](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/index.html)|
+|---|
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -45,6 +48,9 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ![CSS3 Boilerplate](https://img.shields.io/badge/CSS3-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6)
 
+|[style.css](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/style.css)|
+|---|
+
 ```css
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
@@ -62,6 +68,18 @@ body {
   overflow: hidden;
   margin: 0;
 }
+```
+
+---
+
+#### [JavaScript Boilerplate - JS ES6+ (ECMAScript 2015 Onwards)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/script.js)
+
+![JavaScript Boilerplate](https://img.shields.io/badge/JavaScript-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF1E)
+
+|[script.js](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/script.js)|
+|---|
+```js
+// Empty
 ```
 
 ---
