@@ -22,6 +22,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [3. Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003%20-%20Rotating%20Navigation)
 
+## Day 4
+
+### [4. Hidden Search Widget](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004%20-%20Hidden%20Search%20Widget)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
