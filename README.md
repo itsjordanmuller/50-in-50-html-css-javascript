@@ -78,6 +78,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [17. Movie App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017%20-%20Movie%20App)
 
+## Day 18
+
+### [18. Background Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018%20-%20Background%20Slider)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
