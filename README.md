@@ -186,6 +186,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [44. Custom Range Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044%20-%20Custom%20Range%20Slider)
 
+## Day 45
+
+### [45. Netflix Mobile Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045%20-%20Netflix%20Mobile%20Navigation)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
