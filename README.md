@@ -94,6 +94,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [21. Drag N Drop](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021%20-%20Drag%20N%20Drop)
 
+## Day 22
+
+### [22. Drawing App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022%20-%20Drawing%20App)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
