@@ -10,7 +10,11 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [Project Starter Template/Boilerplate](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/000%20-%20Project%20Starter%20Template)
 
-#### [HTML Starter Template/Boilerplate](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/index.html)
+---
+
+#### [HTML5 Boilerplate - HTML5 (HyperText Markup Language 5)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/index.html)
+
+![HTML5 Boilerplate](https://img.shields.io/badge/HTML5_-_Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26)
 
 ```html
 <!DOCTYPE html>
@@ -34,6 +38,33 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
   </body>
 </html>
 ```
+
+---
+
+#### [CSS Boilerplate - CSS3 (Cascading Style Sheets Level 3)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/style.css)
+
+![CSS3 Boilerplate](https://img.shields.io/badge/CSS3-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6)
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+```
+
+---
 
 ## Day 1
 
