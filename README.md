@@ -158,6 +158,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [37. Pokedex](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037%20-%20Pokedex)
 
+## Day 38
+
+### [38. Mobile Tab Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038%20-%20Mobile%20Tab%20Navigation)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
