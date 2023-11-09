@@ -70,6 +70,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [15. Incrementing Counter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015%20-%20Incrementing%20Counter)
 
+## Day 16
+
+### [16. Drink Water](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016%20-%20Drink%20Water)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
