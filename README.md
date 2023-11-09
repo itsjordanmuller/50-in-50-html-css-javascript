@@ -106,6 +106,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [24. Content Placeholder](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024%20-%20Content%20Placeholder)
 
+## Day 25
+
+### [25. Sticky Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025%20-%20Sticky%20Navigation)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
