@@ -98,6 +98,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [22. Drawing App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022%20-%20Drawing%20App)
 
+## Day 23
+
+### [23. Kinetic CSS Loader](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023%20-%20Kinetic%20CSS%20Loader)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
