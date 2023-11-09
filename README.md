@@ -46,6 +46,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [9. Sound Board](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009%20-%20Sound%20Board)
 
+## Day 10
+
+### [10. Dad Jokes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010%20-%20Dad%20Jokes)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
