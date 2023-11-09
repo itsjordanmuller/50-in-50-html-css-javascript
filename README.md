@@ -10,6 +10,31 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [Project Starter Template/Boilerplate](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/000%20-%20Project%20Starter%20Template)
 
+#### [HTML Starter Template/Boilerplate](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/index.html)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    /> -->
+    <link rel="stylesheet" href="style.css" />
+    <title>Project Template</title>
+  </head>
+  <body>
+    <h1>Project Template</h1>
+    <script src="script.js"></script>
+  </body>
+</html>
+```
+
 ## Day 1
 
 ### [1. Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001%20-%20Expanding%20Cards)
