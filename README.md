@@ -54,6 +54,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [11. Event KeyCodes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011%20-%20Event%20KeyCodes)
 
+## Day 12
+
+### [12. FAQ Collapse](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012%20-%20FAQ%20Collapse)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
