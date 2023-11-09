@@ -114,6 +114,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [26. Double Vertical Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026%20-%20Double%20Vertical%20Slider)
 
+## Day 27
+
+### [27. Toast Notifications](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027%20-%20Toast%20Notifications)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
