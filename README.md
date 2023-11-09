@@ -14,6 +14,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [1. Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001%20-%20Expanding%20Cards)
 
+## Day 2
+
+### [2. Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002%20-%20Progress%20Steps)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
