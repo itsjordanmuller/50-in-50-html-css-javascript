@@ -130,6 +130,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [30 - Auto Text Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030%20-%20Auto%20Text%20Effect)
 
+## Day 31
+
+### [31. Password Generator](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031%20-%20Password%20Generator)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
