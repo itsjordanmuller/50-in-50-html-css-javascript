@@ -142,6 +142,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [33. Notes App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033%20-%20Notes%20App)
 
+## Day 34
+
+### [34. Animated Countdown](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034%20-%20Animated%20Countdown)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
