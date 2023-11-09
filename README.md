@@ -190,6 +190,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [45. Netflix Mobile Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045%20-%20Netflix%20Mobile%20Navigation)
 
+## Day 46
+
+### [46. Quiz App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046%20-%20Quiz%20App)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
