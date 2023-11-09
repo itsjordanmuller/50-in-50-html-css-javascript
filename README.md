@@ -50,6 +50,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [10. Dad Jokes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010%20-%20Dad%20Jokes)
 
+## Day 11
+
+### [11. Event KeyCodes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011%20-%20Event%20KeyCodes)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
