@@ -34,6 +34,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [6. Scroll Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006%20-%20Scroll%20Animation)
 
+## Day 7
+
+### [7. Split Landing Page](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/007%20-%20Split%20Landing%20Page)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
