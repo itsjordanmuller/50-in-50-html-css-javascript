@@ -62,6 +62,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [13. Random Choice Picker](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013%20-%20Random%20Choice%20Picker)
 
+## Day 14
+
+### [14. Animated Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014%20-%20Animated%20Navigation)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
