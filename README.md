@@ -122,6 +122,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [28. GitHub Profiles](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028%20-%20GitHub%20Profiles)
 
+## Day 29
+
+### [29. Double Click Heart](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029%20-%20Double%20Click%20Heart)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
