@@ -82,6 +82,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [18. Background Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018%20-%20Background%20Slider)
 
+## Day 19
+
+### [19. Theme Clock](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019%20-%20Theme%20Clock)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
