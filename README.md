@@ -18,6 +18,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [2. Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002%20-%20Progress%20Steps)
 
+## Day 3
+
+### [3. Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003%20-%20Rotating%20Navigation)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
