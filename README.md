@@ -166,6 +166,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [39. Password Strength Background](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039%20-%20Password%20Strength%20Background)
 
+## Day 40
+
+### [40. 3D Background Boxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040%20-%203D%20Background%20Boxes)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
