@@ -10,6 +10,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [Project Starter Template/Boilerplate](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/000%20-%20Project%20Starter%20Template)
 
+## Day 1
+
+### [1. Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001%20-%20Expanding%20Cards)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
