@@ -198,6 +198,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [47. Testimonial Box Switcher](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047%20-%20Testimonial%20Box%20Switcher)
 
+## Day 48
+
+### [48. Random Image Feed](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048%20-%20Random%20Image%20Feed)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
