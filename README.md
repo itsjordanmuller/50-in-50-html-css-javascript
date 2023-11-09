@@ -86,6 +86,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [19. Theme Clock](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019%20-%20Theme%20Clock)
 
+## Day 20
+
+### [20. Button Ripple Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020%20-%20Button%20Ripple%20Effect)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
