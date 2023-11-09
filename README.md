@@ -206,6 +206,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [49. Todo List](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049%20-%20Todo%20List)
 
+## Day 50
+
+### [50. Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050%20-%20Insect%20Catch%20Game)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
