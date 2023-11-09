@@ -110,6 +110,10 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ### [25. Sticky Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025%20-%20Sticky%20Navigation)
 
+## Day 26
+
+### [26. Double Vertical Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026%20-%20Double%20Vertical%20Slider)
+
 ## Sources & Credits
 
 Guided Exercises by [Brad Traversy](https://github.com/bradtraversy)
