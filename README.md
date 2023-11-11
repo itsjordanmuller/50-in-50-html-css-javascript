@@ -266,6 +266,222 @@ function removeActiveClasses() {
 
 ### [2. Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002%20-%20Progress%20Steps)
 
+![2. Progress Steps Image](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002%20-%20Progress%20Steps/002-progress-steps.png)
+
+<details>
+<summary>View HTML Code - index.html - 2 - Progress Steps</summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    /> -->
+    <link rel="stylesheet" href="style.css" />
+    <title>Progress Steps</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="progress-container">
+        <div class="progress" id="progress"></div>
+        <div class="circle active">1</div>
+        <div class="circle">2</div>
+        <div class="circle">3</div>
+        <div class="circle">4</div>
+      </div>
+      <button class="btn" id="prev" disabled>Prev</button>
+      <button class="btn" id="next">Next</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+```
+</details>
+
+
+
+<details>
+<summary>View CSS Code - style.css - 2 - Progress Steps</summary>
+<br>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Muli&display=swap");
+
+:root {
+  --line-border-fill: #3498db;
+  --line-border-empty: #e0e0e0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f6f7fb;
+  font-family: "Muli", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.progress-container {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  margin-bottom: 30px;
+  max-width: 100%;
+  width: 350px;
+}
+
+.progress-container::before {
+  content: "";
+  background-color: var(--line-border-empty);
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  height: 4px;
+  width: 100%;
+  z-index: -1;
+}
+
+.progress {
+  background-color: var(--line-border-fill);
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  height: 4px;
+  width: 0%;
+  z-index: -1;
+  transition: 0.4s ease;
+}
+
+.circle {
+  background-color: #fff;
+  color: #999;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid var(--line-border-empty);
+  transition: 0.4s ease;
+}
+
+.circle.active {
+  border-color: var(--line-border-fill);
+}
+
+.btn {
+  background-color: var(--line-border-fill);
+  color: #fff;
+  border: 0;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: inherit;
+  padding: 8px 30px;
+  margin: 5px;
+  font-size: 14px;
+}
+
+.btn:active {
+  transform: scale(0.95);
+}
+
+.btn:focus {
+  outline: 0;
+}
+
+.btn:disabled {
+  background-color: var(--line-border-empty);
+  cursor: not-allowed;
+}
+```
+</details>
+
+
+
+<details>
+<summary>View JS Code - script.js - 2 - Progress Steps</summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+```javascript
+const progress = document.getElementById("progress");
+const prev = document.getElementById("prev");
+const next = document.getElementById("next");
+const circles = document.querySelectorAll(".circle");
+
+let currentActive = 1;
+
+next.addEventListener("click", () => {
+  currentActive++;
+
+  if (currentActive > circles.length) {
+    currentActive = circles.length;
+  }
+
+  update();
+});
+
+prev.addEventListener("click", () => {
+  currentActive--;
+
+  if (currentActive < 1) {
+    currentActive = 1;
+  }
+
+  update();
+});
+
+function update() {
+  circles.forEach((circle, idx) => {
+    if (idx < currentActive) {
+      circle.classList.add("active");
+    } else {
+      circle.classList.remove("active");
+    }
+  });
+
+  const actives = document.querySelectorAll(".active");
+
+  progress.style.width =
+    ((actives.length - 1) / (circles.length - 1)) * 100 + "%";
+
+  if (currentActive === 1) {
+    prev.disabled = true;
+  } else if (currentActive === circles.length) {
+    next.disabled = true;
+  } else {
+    prev.disabled = false;
+    next.disabled = false;
+  }
+}
+```
+</details>
+
 ## Day 3
 
 ### [3. Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003%20-%20Rotating%20Navigation)
