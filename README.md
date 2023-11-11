@@ -88,6 +88,8 @@ body {
 
 ### [1. Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001%20-%20Expanding%20Cards)
 
+![1. Expanding Cards Image](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001%20-%20Expanding%20Cards/001-expanding-cards.png)
+
 <details>
 <summary>View HTML Code - index.html - 1 - Expanding Cards</summary>
 <br>
