@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #f6f7fb;
+  background-color: #282a36;
   font-family: "Muli", sans-serif;
   display: flex;
   align-items: center;
@@ -20,11 +20,18 @@ body {
   margin: 0;
 }
 
+.card {
+  background-color: #f6f7fb;
+  padding: 30px;
+  border-radius: 15px;
+}
+
 .container {
   text-align: center;
 }
 
 .progress-container {
+  z-index: 1;
   display: flex;
   justify-content: space-between;
   position: relative;
