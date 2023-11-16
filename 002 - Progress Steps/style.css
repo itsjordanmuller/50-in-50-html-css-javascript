@@ -72,6 +72,7 @@ body {
 
 .circle.active {
   border-color: var(--line-border-fill);
+  font-weight: bold;
 }
 
 .btn {
@@ -84,6 +85,7 @@ body {
   padding: 8px 30px;
   margin: 5px;
   font-size: 14px;
+  font-weight: bold;
 }
 
 .btn:active {
