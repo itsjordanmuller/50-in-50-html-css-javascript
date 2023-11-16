@@ -55,7 +55,7 @@ body {
 @media (max-width: 768px) {
   .container {
     flex-direction: column;
-    height: 100svh;
+    height: 90svh;
   }
 
   .panel {
