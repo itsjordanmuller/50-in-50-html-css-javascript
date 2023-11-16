@@ -96,6 +96,10 @@ body {
   font-weight: bold;
 }
 
+.btn:hover {
+  background-color: #6d214f;
+}
+
 .btn:active {
   transform: scale(0.95);
 }
