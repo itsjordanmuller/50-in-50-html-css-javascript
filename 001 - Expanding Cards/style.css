@@ -12,6 +12,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  background-color: #282a36;
 }
 
 .container {
@@ -25,7 +26,7 @@ body {
   background-repeat: no-repeat;
   height: 80vh;
   border-radius: 50px;
-  color: #fff;
+  color: #f8f8f2;
   cursor: pointer;
   flex: 1;
   margin: 10px;
@@ -39,7 +40,7 @@ body {
   font-size: 24px;
   position: absolute;
   bottom: 20px;
-  left: 20px;
+  right: 20px;
   margin: 0;
   opacity: 0;
 }
