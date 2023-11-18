@@ -787,7 +787,140 @@ close.addEventListener("click", () => container.classList.remove("show-nav"));
 
 ## Day 4
 
-### [4. Hidden Search Widget](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004%20-%20Hidden%20Search%20Widget)
+### [4. Hidden Search Widget](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004-Hidden-Search-Widget)
+
+![Hidden Search-Widget - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-1.png)
+
+![Hidden Search-Widget - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-2.png)
+
+![Hidden Search-Widget - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-3.png)
+
+![Hidden Search-Widget - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-4.png)
+
+<details>
+<summary>View HTML Code - index.html - 4 - Hidden Search Widget</summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Hidden Search Widget</title>
+  </head>
+  <body>
+    <div class="search">
+      <input type="text" class="input" placeholder="Search..." />
+      <button class="btn">
+        <i class="fas fa-search"></i>
+      </button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+```
+</details>
+
+<details>
+<summary>View CSS Code - style.css - 4 - Hidden Search Widget</summary>
+<br>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(45deg, #d53369 0%, #daae51 100%);
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.search {
+  position: relative;
+  height: 50px;
+  transition: all 0.4s ease-in-out;
+}
+
+.search.search.active {
+  width: 250px;
+}
+
+.search .input {
+  background-color: #fff;
+  border: 0;
+  font-size: 18px;
+  padding: 15px;
+  height: 50px;
+  width: 50px;
+  transition: width 0.3s ease;
+}
+
+.btn {
+  background-color: #fff;
+  border: 0;
+  cursor: pointer;
+  font-size: 24px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 50px;
+  width: 50px;
+  transition: transform 0.3s ease;
+}
+
+.btn:focus,
+.input:focus {
+  outline: none;
+}
+
+.search.active .input {
+  width: 200px;
+}
+
+.search.active .btn {
+  transform: translateX(198px);
+}
+```
+</details>
+
+<details>
+<summary>View JS Code - script.js - 4 - Hidden Search Widget</summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+```javascript
+const search = document.querySelector(".search");
+const btn = document.querySelector(".btn");
+const input = document.querySelector(".input");
+
+btn.addEventListener("click", () => {
+  search.classList.toggle("active");
+  input.focus();
+});
+```
+</details>
 
 ## Day 5
 
