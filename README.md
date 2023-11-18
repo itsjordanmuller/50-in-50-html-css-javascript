@@ -296,27 +296,22 @@ function removeActiveClasses() {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
-      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    /> -->
     <link rel="stylesheet" href="style.css" />
     <title>Progress Steps</title>
   </head>
   <body>
-    <div class="container">
-      <div class="progress-container">
-        <div class="progress" id="progress"></div>
-        <div class="circle active">1</div>
-        <div class="circle">2</div>
-        <div class="circle">3</div>
-        <div class="circle">4</div>
+    <div class="card">
+      <div class="container">
+        <div class="progress-container">
+          <div class="progress" id="progress"></div>
+          <div class="circle active">1</div>
+          <div class="circle">2</div>
+          <div class="circle">3</div>
+          <div class="circle">4</div>
+        </div>
+        <button class="btn" id="prev" disabled>Prev</button>
+        <button class="btn" id="next">Next</button>
       </div>
-      <button class="btn" id="prev" disabled>Prev</button>
-      <button class="btn" id="next">Next</button>
     </div>
     <script src="script.js"></script>
   </body>
@@ -334,7 +329,7 @@ function removeActiveClasses() {
 @import url("https://fonts.googleapis.com/css2?family=Muli&display=swap");
 
 :root {
-  --line-border-fill: #3498db;
+  --line-border-fill: #b33771;
   --line-border-empty: #e0e0e0;
 }
 
@@ -343,7 +338,7 @@ function removeActiveClasses() {
 }
 
 body {
-  background-color: #f6f7fb;
+  background-color: #282a36;
   font-family: "Muli", sans-serif;
   display: flex;
   align-items: center;
@@ -353,11 +348,18 @@ body {
   margin: 0;
 }
 
+.card {
+  background-color: #f6f7fb;
+  padding: 30px;
+  border-radius: 15px;
+}
+
 .container {
   text-align: center;
 }
 
 .progress-container {
+  z-index: 1;
   display: flex;
   justify-content: space-between;
   position: relative;
@@ -394,17 +396,19 @@ body {
   background-color: #fff;
   color: #999;
   border-radius: 50%;
-  height: 30px;
-  width: 30px;
+  height: 35px;
+  width: 35px;
   display: flex;
   align-items: center;
   justify-content: center;
   border: 3px solid var(--line-border-empty);
   transition: 0.4s ease;
+  font-size: 18px;
 }
 
 .circle.active {
   border-color: var(--line-border-fill);
+  font-weight: bold;
 }
 
 .btn {
@@ -414,9 +418,14 @@ body {
   border-radius: 6px;
   cursor: pointer;
   font-family: inherit;
-  padding: 8px 30px;
+  padding: 10px 30px;
   margin: 5px;
-  font-size: 14px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #6d214f;
 }
 
 .btn:active {
