@@ -789,13 +789,13 @@ close.addEventListener("click", () => container.classList.remove("show-nav"));
 
 ### [4. Hidden Search Widget](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004-Hidden-Search-Widget)
 
-![Hidden Search-Widget - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-1.png)
+![Hidden Search Widget - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-1.png)
 
-![Hidden Search-Widget - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-2.png)
+![Hidden Search Widget - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-2.png)
 
-![Hidden Search-Widget - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-3.png)
+![Hidden Search Widget - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-3.png)
 
-![Hidden Search-Widget - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-4.png)
+![Hidden Search Widget - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-4.png)
 
 <details>
 <summary>View HTML Code - index.html - 4 - Hidden Search Widget</summary>
