@@ -88,7 +88,13 @@ body {
 
 ### [1. Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001%20-%20Expanding%20Cards)
 
-![1. Expanding Cards Image](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001%20-%20Expanding%20Cards/001-expanding-cards.png)
+![Expanding Cards - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001%20-%20Expanding%20Cards/001-expanding-cards-1.png)
+
+![Expanding Cards - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001%20-%20Expanding%20Cards/001-expanding-cards-2.png)
+
+![Expanding Cards - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001%20-%20Expanding%20Cards/001-expanding-cards-3.png)
+
+![Expanding Cards - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001%20-%20Expanding%20Cards/001-expanding-cards-4.png)
 
 <details>
 <summary>View HTML Code - index.html - 1 - Expanding Cards</summary>
