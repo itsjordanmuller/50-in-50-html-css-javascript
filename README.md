@@ -276,7 +276,7 @@ function removeActiveClasses() {
 
 ### [2. Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002%20-%20Progress%20Steps)
 
-![Progress Steps - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002%20-%20Progress%20Steps/002-progress-steps1.png)
+![Progress Steps - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002%20-%20Progress%20Steps/002-progress-steps-1.png)
 
 ![Progress Steps - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002%20-%20Progress%20Steps/002-progress-steps-2.png)
 
