@@ -505,7 +505,285 @@ function update() {
 
 ## Day 3
 
-### [3. Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003%20-%20Rotating%20Navigation)
+### [3. Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation)
+
+![Rotating Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-1.png)
+
+![Rotating Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-2.png)
+
+![Rotating Navigation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-3.png)
+
+![Rotating Navigation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-4.png)
+
+<details>
+<summary>View HTML Code - index.html - 3 - Rotating Navigation</summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Rotating Navigation</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="circle-container">
+        <div class="circle">
+          <button id="close">
+            <i class="fas fa-times"></i>
+          </button>
+          <button id="open">
+            <i class="fas fa-bars"></i>
+          </button>
+        </div>
+      </div>
+      <div class="content">
+        <h1>Spices: A Symphony of Flavors for the Culinary Orchestra</h1>
+        <small>Jordan Muller</small>
+        <p>
+          Spices are the essence of culinary art, the alchemy that transforms
+          the ordinary into the extraordinary. They are the silent symphony
+          orchestrating a myriad of flavors in our favorite dishes. Each spice
+          carries with it a history, a tradition, and a unique flavor profile
+          that can elevate the taste of food from mundane to sublime.
+        </p>
+        <p>
+          The fiery heat of red chili powder, for instance, can ignite a dish
+          with warmth and depth. Used judiciously, it imbues curries, stews, and
+          sauces with a kick that excites the palate. On the other hand, the
+          bright, citrusy notes of coriander powder add a refreshing zing to
+          marinades and spice rubs, making it a favorite in Mexican and Indian
+          cuisines.
+        </p>
+        <h3>Spices</h3>
+        <img
+          src="https://images.unsplash.com/photo-1506368249639-73a05d6f6488?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          alt="A variety of spices held in a row of neatly arranged small metal spoons"
+        />
+        <p>
+          The black sesame seeds, tiny but mighty, contribute a nutty flavor and
+          a crunch that is as delightful on the palate as it is visually on a
+          plate. Their simplicity contrasts with the bay leaf, whose presence is
+          not to be underestimated. This herb infuses dishes with a floral and
+          slightly minty essence, a nod to its Mediterranean roots.
+        </p>
+        <p>
+          Sprinkled across the marble canvas are flakes of sea salt—nature's
+          seasoning—ready to heighten the flavors of their fellow spices. Next
+          to it, the cumin seeds wait patiently, ready to impart an earthy
+          warmth and a hint of citrus to any dish that calls for it.
+        </p>
+        <p>
+          The coriander, with its lemony zest, sits proudly next to the cumin.
+          Together, they are often the dynamic duo in many spice mixes, bringing
+          freshness and warmth in equal measure.
+        </p>
+        <p>
+          Last but not least, there's the red pepper flakes, offering a sharp
+          spike of heat that can awaken any dish, accompanied by the fresh green
+          of cilantro leaves that are as aromatic as they are decorative.
+        </p>
+        <p>
+          These spices, in their own right, can transform the mundane to the
+          extraordinary. They are the unsung heroes behind countless recipes,
+          each bringing its own unique melody to the feast of flavors that we
+          celebrate in our dishes every day.
+        </p>
+        <p>
+          As we explore the world through our taste buds, let's remember the
+          power of a pinch of spice. It's not just about the heat or the flavor;
+          it's about the journey that every spice has taken to reach our
+          kitchens—a testament to the global tapestry that is our shared
+          culinary heritage.
+        </p>
+      </div>
+    </div>
+    <nav>
+      <ul>
+        <li><i class="fas fa-home"></i> Home</li>
+        <li><i class="fas fa-user-alt"></i> About</li>
+        <li><i class="fas fa-envelope"></i> Contact</li>
+      </ul>
+    </nav>
+    <script src="script.js"></script>
+  </body>
+</html>
+```
+</details>
+
+<details>
+<summary>View CSS Code - style.css - 3 - Rotating Navigation</summary>
+<br>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #333;
+  color: #222;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+.container {
+  background-color: #fafafa;
+  transform-origin: top left;
+  transition: transform 0.5s linear;
+  width: 100vw;
+  min-height: 100vh;
+  padding: 50px;
+}
+
+.container.show-nav {
+  transform: rotate(-20deg);
+}
+
+.circle-container {
+  position: fixed;
+  top: -100px;
+  left: -100px;
+}
+
+.circle {
+  background-color: #5c7c53;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: relative;
+  transition: transform 0.5s linear;
+  transition: background-color 0.5s linear;
+}
+
+.container.show-nav .circle {
+  transform: rotate(-70deg);
+  background-color: #efc669;
+}
+
+.circle button {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 100px;
+  background: transparent;
+  border: 0;
+  font-size: 26px;
+  color: #fff;
+}
+
+.circle button:focus {
+  outline: none;
+}
+
+.circle button#open {
+  left: 60%;
+}
+
+.circle button#close {
+  top: 60%;
+  transform: rotate(90deg);
+  transform-origin: top left;
+}
+
+.container.show-nav + nav li {
+  transform: translateX(0);
+  transition-delay: 0.3s;
+}
+
+nav {
+  position: fixed;
+  bottom: 40px;
+  left: 0;
+  z-index: 100;
+}
+
+nav ul {
+  list-style-type: none;
+  padding-left: 30px;
+}
+
+nav ul li {
+  text-transform: uppercase;
+  color: #fff;
+  margin: 40px 0px;
+  transform: translateX(-100%);
+  transition: transform 0.4s ease-in;
+}
+
+nav ul li i {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+nav ul li + li {
+  margin-left: 15px;
+  transform: translateX(-150%);
+}
+
+nav ul li + li + li {
+  margin-left: 30px;
+  transform: translateX(-200%);
+}
+
+.content img {
+  max-width: 100%;
+}
+
+.content {
+  max-width: 1000px;
+  margin: 50px auto;
+}
+
+.content h1 {
+  margin: 0;
+}
+
+.content small {
+  color: #555;
+  font-style: italic;
+}
+
+.content p {
+  color: #333;
+  line-height: 1.5;
+}
+```
+</details>
+
+<details>
+<summary>View JS Code - script.js - 3 - Rotating Navigation</summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+```javascript
+const open = document.getElementById("open");
+const close = document.getElementById("close");
+const container = document.querySelector(".container");
+
+open.addEventListener("click", () => container.classList.add("show-nav"));
+close.addEventListener("click", () => container.classList.remove("show-nav"));
+```
+</details>
 
 ## Day 4
 
