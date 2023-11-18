@@ -108,13 +108,6 @@ body {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
-      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    /> -->
     <link rel="stylesheet" href="style.css" />
     <title>Expanding Cards</title>
   </head>
@@ -123,42 +116,52 @@ body {
       <div
         class="panel active"
         style="
-          background-image: url('https://images.unsplash.com/photo-1558979158-65a1eaa08691?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+          background-image: url('https://images.unsplash.com/photo-1468876132872-ad7696f484e0?q=80&w=1350&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
         "
       >
-        <h3>Explore the World</h3>
+        <h3>Forest Peaks</h3>
+        <!-- Photo Credit: Luca Bravo - @lucabravo -->
+        <!-- https://unsplash.com/photos/aerial-view-photography-of-rock-mountain-under-blue-skyt-Z87YuMKEiWk -->
       </div>
       <div
         class="panel"
         style="
-          background-image: url('https://images.unsplash.com/photo-1572276596237-5db2c3e16c5d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+          background-image: url('https://images.unsplash.com/photo-1484352491158-830ef5692bb3?q=80&w=1350&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
         "
       >
-        <h3>Wild Forest</h3>
+        <h3>Desert Canyon</h3>
+        <!-- Photo Credit: Christopher Burns - @christopher__burns -->
+        <!-- https://unsplash.com/photos/antelope-canyon-C1J_eSGNPt0 -->
       </div>
       <div
         class="panel"
         style="
-          background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80');
+          background-image: url('https://images.unsplash.com/photo-1535620388081-ec83d54079d5?q=80&w=1350&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
         "
       >
-        <h3>Sunny Beach</h3>
+        <h3>Coastal Walkway</h3>
+        <!-- Photo Credit: Lorenzo Rezende - @lorenzorzd -->
+        <!-- https://unsplash.com/photos/pathway-between-grasses-40oTC_Xbf3U -->
       </div>
       <div
         class="panel"
         style="
-          background-image: url('https://images.unsplash.com/photo-1551009175-8a68da93d5f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80');
+          background-image: url('https://images.unsplash.com/photo-1620026040575-cc85f1299c29?q=80&w=1350&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
         "
       >
-        <h3>City on Winter</h3>
+        <h3>Snowy Tundra</h3>
+        <!-- Photo Credit: Bibhash (Polygon.Cafe) Banerjee - @perventuator -->
+        <!-- https://unsplash.com/photos/snow-covered-mountain-near-river-during-daytime-IOdD3s032QY -->
       </div>
       <div
         class="panel"
         style="
-          background-image: url('https://images.unsplash.com/photo-1549880338-65ddcdfd017b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+          background-image: url('https://images.unsplash.com/photo-1544453850-ea0e8a9f2b68?q=80&w=1350&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
         "
       >
-        <h3>Mountains - Clouds</h3>
+        <h3>Flower Meadows</h3>
+        <!-- Photo Credit: Courtney Kenady - @ckenady -->
+        <!-- https://unsplash.com/photos/orange-and-blue-flower-field-during-daytime-h5ZPU1hU5CM -->
       </div>
     </div>
     <script src="script.js"></script>
@@ -190,6 +193,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  background-color: #f8f8f2;
 }
 
 .container {
@@ -203,25 +207,28 @@ body {
   background-repeat: no-repeat;
   height: 80vh;
   border-radius: 50px;
-  color: #fff;
+  color: #f8f8f2;
   cursor: pointer;
-  flex: 0.5;
+  flex: 1;
   margin: 10px;
   position: relative;
   -webkit-transition: all 700ms ease-in;
+  transition: all 700ms ease-in;
+  filter: blur(1px);
 }
 
 .panel h3 {
   font-size: 24px;
   position: absolute;
   bottom: 20px;
-  left: 20px;
+  right: 20px;
   margin: 0;
   opacity: 0;
 }
 
 .panel.active {
-  flex: 5;
+  flex: 6;
+  filter: blur(0px);
 }
 
 .panel.active h3 {
@@ -229,14 +236,15 @@ body {
   transition: opacity 0.3s ease-in 0.4s;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
   .container {
-    width: 100vw;
+    flex-direction: column;
+    height: 90svh;
   }
 
-  .panel:nth-of-type(4),
-  .panel:nth-of-type(5) {
-    display: none;
+  .panel {
+    background-size: 100% 100%;
+    flex: 1.25;
   }
 }
 ```
