@@ -170,8 +170,6 @@ body {
 ```
 </details>
 
-
-
 <details>
 <summary>View CSS Code - style.css - 1 - Expanding Cards</summary>
 <br>
@@ -250,8 +248,6 @@ body {
 ```
 </details>
 
-
-
 <details>
 <summary>View JS Code - script.js - 1 - Expanding Cards</summary>
 <br>
@@ -280,7 +276,13 @@ function removeActiveClasses() {
 
 ### [2. Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002%20-%20Progress%20Steps)
 
-![2. Progress Steps Image](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002%20-%20Progress%20Steps/002-progress-steps.png)
+![Progress Steps - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002%20-%20Progress%20Steps/002-progress-steps1.png)
+
+![Progress Steps - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002%20-%20Progress%20Steps/002-progress-steps-2.png)
+
+![Progress Steps - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002%20-%20Progress%20Steps/002-progress-steps-3.png)
+
+![Progress Steps - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002%20-%20Progress%20Steps/002-progress-steps-4.png)
 
 <details>
 <summary>View HTML Code - index.html - 2 - Progress Steps</summary>
@@ -321,8 +323,6 @@ function removeActiveClasses() {
 </html>
 ```
 </details>
-
-
 
 <details>
 <summary>View CSS Code - style.css - 2 - Progress Steps</summary>
@@ -433,8 +433,6 @@ body {
 }
 ```
 </details>
-
-
 
 <details>
 <summary>View JS Code - script.js - 2 - Progress Steps</summary>
