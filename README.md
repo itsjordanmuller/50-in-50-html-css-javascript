@@ -8,15 +8,15 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ## Project Setup
 
-### [Project Starter Template/Boilerplate](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/000%20-%20Project%20Starter%20Template)
+### [Project Starter Template/Boilerplate](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/000-Project-Starter-Template)
 
 ---
 
-#### [HTML5 Boilerplate - HTML5 (HyperText Markup Language 5)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/index.html)
+#### [HTML5 Boilerplate - HTML5 (HyperText Markup Language 5)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html)
 
 ![HTML5 Boilerplate](https://img.shields.io/badge/HTML5_-_Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26)
 
-|[index.html](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/index.html)|
+|[index.html](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html)|
 |---|
 
 ```html
@@ -44,11 +44,11 @@ Self-Paced Learning Sandbox for HTML, CSS & JavaScript
 
 ---
 
-#### [CSS Boilerplate - CSS3 (Cascading Style Sheets Level 3)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/style.css)
+#### [CSS Boilerplate - CSS3 (Cascading Style Sheets Level 3)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/style.css)
 
 ![CSS3 Boilerplate](https://img.shields.io/badge/CSS3-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6)
 
-|[style.css](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/style.css)|
+|[style.css](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/style.css)|
 |---|
 
 ```css
@@ -72,11 +72,11 @@ body {
 
 ---
 
-#### [JavaScript Boilerplate - JS ES6+ (ECMAScript 2015 Onwards)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/script.js)
+#### [JavaScript Boilerplate - JS ES6+ (ECMAScript 2015 Onwards)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/script.js)
 
 ![JavaScript Boilerplate](https://img.shields.io/badge/JavaScript-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF1E)
 
-|[script.js](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000%20-%20Project%20Starter%20Template/script.js)|
+|[script.js](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/script.js)|
 |---|
 ```js
 // Empty
@@ -86,15 +86,15 @@ body {
 
 ## Day 1
 
-### [1. Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001%20-%20Expanding%20Cards)
+### [1. Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
 
-![Expanding Cards - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001%20-%20Expanding%20Cards/001-expanding-cards-1.png)
+![Expanding Cards - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-1.png)
 
-![Expanding Cards - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001%20-%20Expanding%20Cards/001-expanding-cards-2.png)
+![Expanding Cards - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-2.png)
 
-![Expanding Cards - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001%20-%20Expanding%20Cards/001-expanding-cards-3.png)
+![Expanding Cards - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-3.png)
 
-![Expanding Cards - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001%20-%20Expanding%20Cards/001-expanding-cards-4.png)
+![Expanding Cards - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-4.png)
 
 <details>
 <summary>View HTML Code - index.html - 1 - Expanding Cards</summary>
