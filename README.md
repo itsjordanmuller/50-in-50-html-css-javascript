@@ -1039,7 +1039,148 @@ function scale(number, inMin, inMax, outMin, outMax) {
 
 ## Day 6
 
-### [6. Scroll Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006%20-%20Scroll%20Animation)
+### [6. Scroll Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006-Scroll-Animation)
+
+![Scroll Animation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-1.png)
+
+![Scroll Animation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-2.png)
+
+![Scroll Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-3.png)
+
+![Scroll Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-4.png)
+
+<details>
+<summary>View HTML Code - index.html - 6 - Scroll Animation</summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Scroll Animation</title>
+  </head>
+  <body>
+    <h1>Scroll to See Animation</h1>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <div class="box"><h2>Content</h2></div>
+    <script src="script.js"></script>
+  </body>
+</html>
+```
+</details>
+
+<details>
+<summary>View CSS Code - style.css - 6 - Scroll Animation</summary>
+<br>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f8f8f2;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+h1 {
+  margin: 10px;
+}
+
+.box {
+  background-color: #6272a4;
+  color: #44475a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 200px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
+  transform: translateX(400%);
+  transition: transform 1.4s ease;
+}
+
+.box:nth-of-type(even) {
+  transform: translateX(-400%);
+}
+
+.box.show {
+  transform: translateX(0);
+}
+
+.box h2 {
+  font-size: 45px;
+}
+```
+</details>
+
+<details>
+<summary>View JS Code - script.js - 6 - Scroll Animation</summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+```javascript
+const boxes = document.querySelectorAll(".box");
+const colors = [
+  "#ffadad",
+  "#ffd6a5",
+  "#fdffb6",
+  "#caffbf",
+  "#9bf6ff",
+  "#a0c4ff",
+  "#bdb2ff",
+  "#ffc6ff",
+];
+
+window.addEventListener("scroll", checkBoxes);
+checkBoxes();
+
+function checkBoxes() {
+  const triggerBottom = (window.innerHeight / 5) * 4;
+
+  boxes.forEach((box, index) => {
+    const boxTop = box.getBoundingClientRect().top;
+
+    box.style.backgroundColor = colors[index % colors.length];
+
+    if (boxTop < triggerBottom) {
+      box.classList.add("show");
+    } else {
+      box.classList.remove("show");
+    }
+  });
+}
+```
+</details>
 
 ## Day 7
 
