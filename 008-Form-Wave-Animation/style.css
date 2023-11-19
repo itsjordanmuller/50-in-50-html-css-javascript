@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #4682b4;
+  background-color: #006266;
   color: #fff;
   font-family: "Muli", sans-serif;
   display: flex;
@@ -30,14 +30,14 @@ body {
 
 .container a {
   text-decoration: none;
-  color: #add8e6;
+  color: #a3cb38;
 }
 
 .btn {
   cursor: pointer;
   display: inline-block;
   width: 100%;
-  background-color: #add8e6;
+  background-color: #a3cb38;
   padding: 15px;
   font-family: inherit;
   font-size: 16px;
@@ -45,8 +45,8 @@ body {
   border-radius: 5px;
 }
 
-.btn:focus {
-  outline: 0;
+.btn:hover {
+  background-color: #8aac2d;
 }
 
 .btn:active {
@@ -77,7 +77,7 @@ body {
 .form-control input:focus,
 .form-control input:valid {
   outline: 0;
-  border-bottom-color: #add8e6;
+  border-bottom-color: #a3cb38;
 }
 
 .form-control label {
@@ -95,6 +95,6 @@ body {
 
 .form-control input:focus + label span,
 .form-control input:valid + label span {
-  color: #add8e6;
+  color: #a3cb38;
   transform: translateY(-30px);
 }
