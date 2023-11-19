@@ -1419,7 +1419,191 @@ right.addEventListener("mouseenter", () => {
 
 ## Day 8
 
-### [8. Form Wave Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008%20-%20Form%20Wave%20Animation)
+### [8. Form Wave Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008-Form-Wave-Animation)
+
+![Form Wave Page - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-1.png)
+
+![Form Wave Animation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-2.png)
+
+![Form Wave Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-3.png)
+
+![Form Wave Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-4.png)
+
+<details>
+<summary>View HTML Code - index.html - 8 - Form Wave Animation</summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Form Wave Animation</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Please Login</h1>
+      <form>
+        <div class="form-control">
+          <input type="text" required />
+          <label>Email</label>
+          <!-- <label>
+          <span style="transition-delay: 0ms">E</span>
+          <span style="transition-delay: 50ms">m</span>
+          <span style="transition-delay: 100ms">a</span>
+          <span style="transition-delay: 150ms">i</span>
+          <span style="transition-delay: 200ms">l</span>
+        </label> -->
+        </div>
+        <div class="form-control">
+          <input type="password" required />
+          <label>Password</label>
+        </div>
+
+        <button class="btn">Login</button>
+        <p class="text">Don't have an account? <a href="#">Register</a></p>
+      </form>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+```
+</details>
+
+<details>
+<summary>View CSS Code - style.css - 8 - Form Wave Animation</summary>
+<br>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Muli&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #006266;
+  color: #fff;
+  font-family: "Muli", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 20px 40px;
+  border-radius: 5px;
+}
+
+.container h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.container a {
+  text-decoration: none;
+  color: #a3cb38;
+}
+
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  width: 100%;
+  background-color: #a3cb38;
+  padding: 15px;
+  font-family: inherit;
+  font-size: 16px;
+  border: 0;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #8aac2d;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+.text {
+  margin-top: 30px;
+}
+
+.form-control {
+  position: relative;
+  margin: 20px 0 40px;
+  width: 300px;
+}
+
+.form-control input {
+  background-color: transparent;
+  border: 0;
+  border-bottom: 2px #fff solid;
+  display: block;
+  width: 100%;
+  padding: 15px 0;
+  font-size: 18px;
+  color: #fff;
+}
+
+.form-control input:focus,
+.form-control input:valid {
+  outline: 0;
+  border-bottom-color: #a3cb38;
+}
+
+.form-control label {
+  position: absolute;
+  top: 15px;
+  left: 0;
+}
+
+.form-control label span {
+  display: inline-block;
+  font-size: 18px;
+  min-width: 5px;
+  transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.form-control input:focus + label span,
+.form-control input:valid + label span {
+  color: #a3cb38;
+  transform: translateY(-30px);
+}
+```
+</details>
+
+<details>
+<summary>View JS Code - script.js - 8 - Form Wave Animation</summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+```javascript
+const labels = document.querySelectorAll(".form-control label");
+
+labels.forEach((label) => {
+  label.innerHTML = label.innerText
+    .split("")
+    .map(
+      (letter, idx) =>
+        `<span style="transition-delay:${idx * 50}ms">${letter}</span>`
+    )
+    .join("");
+});
+```
+</details>
 
 ## Day 9
 
