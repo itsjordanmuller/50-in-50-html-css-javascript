@@ -1184,7 +1184,238 @@ function checkBoxes() {
 
 ## Day 7
 
-### [7. Split Landing Page](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/007%20-%20Split%20Landing%20Page)
+### [7. Split Landing Page](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/007-Split-Landing-Page)
+
+![Split Landing Page - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-1.png)
+
+![Split Landing Page - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-2.png)
+
+![Split Landing Page - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-3.png)
+
+![Split Landing Page - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-4.png)
+
+![Split Landing Page - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-5.png)
+
+![Split Landing Page - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-6.png)
+
+<details>
+<summary>View HTML Code - index.html - 7 - Split Landing Page</summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Split Landing Page</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="split left">
+        <h1>Playstation 5</h1>
+        <a href="#" class="btn">Buy Now</a>
+      </div>
+      <div class="split right">
+        <h1>Xbox Series X</h1>
+        <a href="#" class="btn">Buy Now</a>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+```
+</details>
+
+<details>
+<summary>View CSS Code - style.css - 7 - Split Landing Page</summary>
+<br>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+:root {
+  --left-bg-color: rgba(87, 84, 236, 0.7);
+  --left-btn-hover-color: rgba(87, 84, 236, 1);
+  --right-bg-color: rgba(43, 43, 43, 0.8);
+  --right-btn-hover-color: rgba(28, 122, 28, 1);
+  --hover-width: 75%;
+  --other-width: 25%;
+  --speed: 1000ms;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+
+.btn {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 50%;
+  top: 40%;
+  transform: translateX(-50%);
+  text-decoration: none;
+  color: #fff;
+  border: #fff solid 0.2rem;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: 15rem;
+  padding: 1.5rem;
+}
+
+.split.left .btn:hover {
+  background-color: var(--left-btn-hover-color);
+  border-color: var(--left-btn-hover-color);
+}
+
+.split.right .btn:hover {
+  background-color: var(--right-btn-hover-color);
+  border-color: var(--right-btn-hover-color);
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.split {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: flex var(--speed) ease-in-out;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+.split.left {
+  background: url("ps.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.split.left::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: var(--left-bg-color);
+}
+
+.split.right,
+.split.left,
+.split.right::before,
+.split.left::before {
+  transition: all var(--speed) ease-in-out;
+}
+
+.split.right {
+  background: url("xbox.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.split.right::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: var(--right-bg-color);
+}
+
+.hover-left .left,
+.hover-right .right {
+  flex: var(--hover-width);
+  z-index: 2;
+}
+
+.hover-left .right,
+.hover-right .left {
+  flex: var(--other-width);
+}
+
+@media (max-width: 800px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .split {
+    width: 100%;
+    height: 50%;
+  }
+
+  .hover-left .left,
+  .hover-right .left {
+    height: var(--hover-width);
+  }
+
+  .hover-left .right,
+  .hover-right .right {
+    height: var(--other-width);
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .btn {
+    width: 12rem;
+    padding: 1.2rem;
+  }
+}
+```
+</details>
+
+<details>
+<summary>View JS Code - script.js - 7 - Split Landing Page</summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+```javascript
+const left = document.querySelector(".left");
+const right = document.querySelector(".right");
+const container = document.querySelector(".container");
+
+left.addEventListener("mouseenter", () => {
+  container.classList.remove("hover-right");
+  container.classList.add("hover-left");
+});
+
+right.addEventListener("mouseenter", () => {
+  container.classList.remove("hover-left");
+  container.classList.add("hover-right");
+});
+```
+</details>
 
 ## Day 8
 
