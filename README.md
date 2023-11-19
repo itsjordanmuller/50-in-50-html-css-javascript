@@ -1607,11 +1607,11 @@ labels.forEach((label) => {
 
 ## Day 9
 
-### [9. Sound Board](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009%20-%20Sound%20Board)
+### [9. Sound Board](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009-Sound-Board)
 
-![Sound Board - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Sound-Board/008-sound-board-1.png)
+![Sound Board - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/009-Sound-Board/009-sound-board-1.png)
 
-![Sound Board - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Sound-Board/008-sound-board-2.png)
+![Sound Board - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/009-Sound-Board/009-sound-board-2.png)
 
 <details>
 <summary>View HTML Code - index.html - 9 - Sound Board</summary>
