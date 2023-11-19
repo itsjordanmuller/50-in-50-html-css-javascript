@@ -926,6 +926,117 @@ btn.addEventListener("click", () => {
 
 ### [5. Blurry Loading](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/005%20-%20Blurry%20Loading)
 
+![Blurry Loading - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-1.png)
+
+![Blurry Loading - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-2.png)
+
+![Blurry Loading - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-3.png)
+
+![Blurry Loading - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-4.png)
+
+<details>
+<summary>View HTML Code - index.html - 5 - Blurry Loading</summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Blurry Loading</title>
+  </head>
+  <body>
+    <section class="bg"></section>
+    <div class="loading-text">0%</div>
+    <script src="script.js"></script>
+  </body>
+</html>
+```
+</details>
+
+<details>
+<summary>View CSS Code - style.css - 5 - Blurry Loading</summary>
+<br>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Ubuntu", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.bg {
+  /* Photo Credit: Robert Lukeman- @robertlukeman */
+  /* https://unsplash.com/photos/green-grass-field-during-sunset-_RBcxo9AU-U */
+  background: url("https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80")
+    no-repeat center center/cover;
+  position: absolute;
+  top: -30px;
+  left: -30px;
+  width: calc(100vw + 60px);
+  height: calc(100vh + 60px);
+  z-index: -1;
+  filter: blur(70px);
+}
+
+.loading-text {
+  font-size: 50px;
+  color: #fff;
+}
+```
+</details>
+
+<details>
+<summary>View JS Code - script.js - 5 - Blurry Loading</summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+```javascript
+const loadText = document.querySelector(".loading-text");
+const bg = document.querySelector(".bg");
+
+let load = 0;
+
+let int = setInterval(blurring, 30);
+
+function blurring() {
+  load++;
+
+  if (load > 99) {
+    clearInterval(int);
+  }
+
+  loadText.innerText = `${load}%`;
+  loadText.style.opacity = scale(load, 0, 100, 1, 0);
+
+  bg.style.filter = `blur(${scale(load, 0, 100, 30, 0)}px`;
+}
+
+// https://stackoverflow.com/questions/10756313/javascript-jquery-map-a-range-of-numbers-to-another-range-of-numbers
+function scale(number, inMin, inMax, outMin, outMax) {
+  return ((number - inMin) * (outMax - outMin)) / (inMax - inMin) + outMin;
+}
+```
+</details>
+
 ## Day 6
 
 ### [6. Scroll Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006%20-%20Scroll%20Animation)
