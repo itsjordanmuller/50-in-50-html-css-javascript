@@ -60,23 +60,27 @@ h1 {
 }
 
 .container {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  background: #333;
-}
-
-.split {
-  position: absolute;
-  width: 50%;
-  height: 100%;
+  display: flex;
+  height: 100vh;
   overflow: hidden;
 }
 
+.split {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: flex var(--speed) ease-in-out;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  position: relative;
+  z-index: 1;
+}
+
 .split.left {
-  left: 0;
-  background: url("ps.jpg");
-  background-repeat: no-repeat;
+  background: url("ps.jpg") no-repeat center center;
   background-size: cover;
 }
 
@@ -96,9 +100,7 @@ h1 {
 }
 
 .split.right {
-  right: 0;
-  background: url("xbox.jpg");
-  background-repeat: no-repeat;
+  background: url("xbox.jpg") no-repeat center center;
   background-size: cover;
 }
 
@@ -110,23 +112,37 @@ h1 {
   background-color: var(--right-bg-color);
 }
 
-.hover-left .left {
-  width: var(--hover-width);
-}
-
-.hover-left .right {
-  width: var(--other-width);
-}
-
+.hover-left .left,
 .hover-right .right {
-  width: var(--hover-width);
+  flex: var(--hover-width);
+  z-index: 2;
 }
 
+.hover-left .right,
 .hover-right .left {
-  width: var(--other-width);
+  flex: var(--other-width);
 }
 
 @media (max-width: 800px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .split {
+    width: 100%;
+    height: 50%;
+  }
+
+  .hover-left .left,
+  .hover-right .left {
+    height: var(--hover-width);
+  }
+
+  .hover-left .right,
+  .hover-right .right {
+    height: var(--other-width);
+  }
+
   h1 {
     font-size: 2rem;
   }
