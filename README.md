@@ -1421,7 +1421,7 @@ right.addEventListener("mouseenter", () => {
 
 ### [8. Form Wave Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008-Form-Wave-Animation)
 
-![Form Wave Page - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-1.png)
+![Form Wave Animation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-1.png)
 
 ![Form Wave Animation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-2.png)
 
@@ -1608,6 +1608,119 @@ labels.forEach((label) => {
 ## Day 9
 
 ### [9. Sound Board](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009%20-%20Sound%20Board)
+
+![Sound Board - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Sound-Board/008-sound-board-1.png)
+
+![Sound Board - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Sound-Board/008-sound-board-2.png)
+
+<details>
+<summary>View HTML Code - index.html - 9 - Sound Board</summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Sound Board</title>
+  </head>
+  <body>
+    <audio id="applause" src="sounds/applause.mp3"></audio>
+    <audio id="boo" src="sounds/boo.mp3"></audio>
+    <audio id="gasp" src="sounds/gasp.mp3"></audio>
+    <audio id="tada" src="sounds/tada.mp3"></audio>
+    <audio id="victory" src="sounds/victory.mp3"></audio>
+    <audio id="wrong" src="sounds/wrong.mp3"></audio>
+
+    <div id="buttons"></div>
+    <script src="script.js"></script>
+  </body>
+</html>
+```
+</details>
+
+<details>
+<summary>View CSS Code - style.css - 9 - Sound Board</summary>
+<br>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffda79;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.btn {
+  background-color: #cc8e35;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  margin: 1rem;
+  padding: 1.5rem 3rem;
+  font-size: 1.2rem;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+```
+</details>
+
+<details>
+<summary>View JS Code - script.js - 9 - Sound Board</summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+```javascript
+const sounds = ["applause", "boo", "gasp", "tada", "victory", "wrong"];
+
+sounds.forEach((sound) => {
+  const btn = document.createElement("button");
+  btn.classList.add("btn");
+
+  btn.innerText = sound;
+
+  btn.addEventListener("click", () => {
+    stopSounds();
+
+    document.getElementById(sound).play();
+  });
+
+  document.getElementById("buttons").appendChild(btn);
+});
+
+function stopSounds() {
+  sounds.forEach((sound) => {
+    const currentSound = document.getElementById(sound);
+
+    currentSound.pause();
+    currentSound.currentTime = 0;
+  });
+}
+```
+</details>
 
 ## Day 10
 
