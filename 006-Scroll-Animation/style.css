@@ -5,13 +5,14 @@
 }
 
 body {
-  background-color: #efedd6;
+  background-color: #f8f8f2;
   font-family: "Roboto", sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   margin: 0;
+  overflow-x: hidden;
 }
 
 h1 {
@@ -19,8 +20,8 @@ h1 {
 }
 
 .box {
-  background-color: #4682b4;
-  color: #fff;
+  background-color: #6272a4;
+  color: #44475a;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -30,7 +31,7 @@ h1 {
   border-radius: 10px;
   box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
   transform: translateX(400%);
-  transition: transform 0.4s ease;
+  transition: transform 1.4s ease;
 }
 
 .box:nth-of-type(even) {
