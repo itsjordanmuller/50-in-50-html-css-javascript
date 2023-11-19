@@ -1724,7 +1724,158 @@ function stopSounds() {
 
 ## Day 10
 
-### [10. Dad Jokes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010%20-%20Dad%20Jokes)
+### [10. Dad Jokes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010-Dad-Jokes)
+
+![Dad Jokes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-1.png)
+
+![Dad Jokes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-2.png)
+
+![Dad Jokes - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-3.png)
+
+![Dad Jokes - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-4.png)
+
+<details>
+<summary>View HTML Code - index.html - 10 - Dad Jokes</summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Dad Jokes</title>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Dad Joke Generator</h2>
+      <h3>Don't Laugh Challenge</h3>
+      <div id="joke" class="joke">Insert Jokes Here</div>
+      <button id="jokeBtn" class="btn">Get Another Joke</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+```
+</details>
+
+<details>
+<summary>View CSS Code - style.css - 10 - Dad Jokes</summary>
+<br>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #40407a;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+  padding: 50px 20px;
+  text-align: center;
+  max-width: 100%;
+  width: 800px;
+}
+
+h3 {
+  margin: 0;
+  opacity: 0.5;
+  letter-spacing: 2px;
+}
+
+.joke {
+  font-size: 30px;
+  letter-spacing: 1px;
+  line-height: 40px;
+  margin: 50px auto;
+  max-width: 600px;
+}
+
+.btn {
+  background-color: #706fd3;
+  border: 0;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 16px;
+  padding: 14px 40px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+```
+</details>
+
+<details>
+<summary>View JS Code - script.js - 10 - Dad Jokes</summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+```javascript
+const jokeElement = document.getElementById("joke");
+const jokeButton = document.getElementById("jokeBtn");
+
+jokeBtn.addEventListener("click", generateJoke);
+
+generateJoke();
+
+// Using async await
+
+async function generateJoke() {
+  const config = {
+    headers: {
+      Accept: "application/json",
+    },
+  };
+
+  const res = await fetch("https://icanhazdadjoke.com/", config);
+
+  const data = await res.json();
+
+  jokeElement.innerHTML = data.joke;
+}
+
+// Using .then
+
+// function generateJoke() {
+//   const config = {
+//     headers: {
+//       Accept: "application/json",
+//     },
+//   };
+
+//   fetch("https://icanhazdadjoke.com/", config)
+//     .then((res) => res.json())
+//     .then((data) => {
+//       jokeElement.innerHTML = data.joke;
+//     });
+// }
+```
+</details>
 
 ## Day 11
 
