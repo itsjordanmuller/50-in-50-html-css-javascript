@@ -11,6 +11,11 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
+## Main Sections & Projects
+
+<img src="https://custom-icon-badges.demolab.com/badge/Sections-f8f8f2.svg?logo=bookmark&logoColor=000000" alt="Sections" width="112px" />
+<img src="https://custom-icon-badges.demolab.com/badge/Projects-f8f8f2.svg?logo=star-fill&logoColor=000000" alt="Projects" width="112px" /><br/><br/>
+
 <img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?logo=star-fill&logoColor=000000" alt="Expanding Cards" />
 <img src="https://custom-icon-badges.demolab.com/badge/Progress%20Steps-ffbbb2.svg?logo=star-fill&logoColor=000000" alt="Progress Steps" />
 <img src="https://custom-icon-badges.demolab.com/badge/Rotating%20Navigation-ffc4b2.svg?logo=star-fill&logoColor=000000" alt="Rotating Navigation" />
