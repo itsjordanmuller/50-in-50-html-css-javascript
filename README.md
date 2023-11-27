@@ -10,6 +10,57 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?logo=star-fill&logoColor=000000" alt="Expanding Cards" />
+<img src="https://custom-icon-badges.demolab.com/badge/Progress%20Steps-ffbbb2.svg?logo=star-fill&logoColor=000000" alt="Progress Steps" />
+<img src="https://custom-icon-badges.demolab.com/badge/Rotating%20Navigation-ffc4b2.svg?logo=star-fill&logoColor=000000" alt="Rotating Navigation" />
+<img src="https://custom-icon-badges.demolab.com/badge/Hidden%20Search%20Widget-ffceb2.svg?logo=star-fill&logoColor=000000" alt="Hidden Search Widget" />
+<img src="https://custom-icon-badges.demolab.com/badge/Blurry%20Loading-ffd7b2.svg?logo=star-fill&logoColor=000000" alt="Blurry Loading" />
+<img src="https://custom-icon-badges.demolab.com/badge/Scroll%20Animation-ffe0b2.svg?logo=star-fill&logoColor=000000" alt="Scroll Animation" />
+<img src="https://custom-icon-badges.demolab.com/badge/Split%20Landing%20Page-ffe9b2.svg?logo=star-fill&logoColor=000000" alt="Split Landing Page" />
+<img src="https://custom-icon-badges.demolab.com/badge/Form%20Wave%20Animation-fff2b2.svg?logo=star-fill&logoColor=000000" alt="Form Wave Animation" />
+<img src="https://custom-icon-badges.demolab.com/badge/Sound%20Board-fffbb2.svg?logo=star-fill&logoColor=000000" alt="Sound Board" />
+<img src="https://custom-icon-badges.demolab.com/badge/Dad%20Jokes-f8ffb2.svg?logo=star-fill&logoColor=000000" alt="Dad Jokes" />
+<img src="https://custom-icon-badges.demolab.com/badge/Event%20KeyCodes-efffb2.svg?logo=star-fill&logoColor=000000" alt="Event KeyCodes" />
+<img src="https://custom-icon-badges.demolab.com/badge/FAQ%20Collapse-e6ffb2.svg?logo=star-fill&logoColor=000000" alt="FAQ Collapse" />
+<img src="https://custom-icon-badges.demolab.com/badge/Random%20Choice%20Picker-ddffb2.svg?logo=star-fill&logoColor=000000" alt="Random Choice Picker" />
+<img src="https://custom-icon-badges.demolab.com/badge/Animated%20Navigation-d4ffb2.svg?logo=star-fill&logoColor=000000" alt="Animated Navigation" />
+<img src="https://custom-icon-badges.demolab.com/badge/Incrementing%20Counter-caffb2.svg?logo=star-fill&logoColor=000000" alt="Incrementing Counter" />
+<img src="https://custom-icon-badges.demolab.com/badge/Drink%20Water-c1ffb2.svg?logo=star-fill&logoColor=000000" alt="Drink Water" />
+<img src="https://custom-icon-badges.demolab.com/badge/Movie%20App-b8ffb2.svg?logo=star-fill&logoColor=000000" alt="Movie App" />
+<img src="https://custom-icon-badges.demolab.com/badge/Background%20Slider-b2ffb5.svg?logo=star-fill&logoColor=000000" alt="Background Slider" />
+<img src="https://custom-icon-badges.demolab.com/badge/Theme%20Clock-b2ffbe.svg?logo=star-fill&logoColor=000000" alt="Theme Clock" />
+<img src="https://custom-icon-badges.demolab.com/badge/Button%20Ripple%20Effect-b2ffc7.svg?logo=star-fill&logoColor=000000" alt="Button Ripple Effect" />
+<img src="https://custom-icon-badges.demolab.com/badge/Drag%20N%20Drop-b2ffd1.svg?logo=star-fill&logoColor=000000" alt="Drag N Drop" />
+<img src="https://custom-icon-badges.demolab.com/badge/Drawing%20App-b2ffda.svg?logo=star-fill&logoColor=000000" alt="Drawing App" />
+<img src="https://custom-icon-badges.demolab.com/badge/Kinetic%20CSS%20Loader-b2ffe3.svg?logo=star-fill&logoColor=000000" alt="Kinetic CSS Loader" />
+<img src="https://custom-icon-badges.demolab.com/badge/Content%20Placeholder-b2ffec.svg?logo=star-fill&logoColor=000000" alt="Content Placeholder" />
+<img src="https://custom-icon-badges.demolab.com/badge/Sticky%20Navigation-b2fff5.svg?logo=star-fill&logoColor=000000" alt="Sticky Navigation" />
+<img src="https://custom-icon-badges.demolab.com/badge/Double%20Vertical%20Slider-b2ffff.svg?logo=star-fill&logoColor=000000" alt="Double Vertical Slider" />
+<img src="https://custom-icon-badges.demolab.com/badge/Toast%20Notifications-b2f5ff.svg?logo=star-fill&logoColor=000000" alt="Toast Notifications" />
+<img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Profiles-b2ecff.svg?logo=star-fill&logoColor=000000" alt="GitHub Profiles" />
+<img src="https://custom-icon-badges.demolab.com/badge/Double%20Click%20Heart-b2e3ff.svg?logo=star-fill&logoColor=000000" alt="Double Click Heart" />
+<img src="https://custom-icon-badges.demolab.com/badge/Auto%20Text%20Effect-b2daff.svg?logo=star-fill&logoColor=000000" alt="Auto Text Effect" />
+<img src="https://custom-icon-badges.demolab.com/badge/Password%20Generator-b2d1ff.svg?logo=star-fill&logoColor=000000" alt="Password Generator" />
+<img src="https://custom-icon-badges.demolab.com/badge/Good/Cheap/Fast%20Checkboxes-b2c7ff.svg?logo=star-fill&logoColor=000000" alt="Good/Cheap/Fast Checkboxes" />
+<img src="https://custom-icon-badges.demolab.com/badge/Notes%20App-b2beff.svg?logo=star-fill&logoColor=000000" alt="Notes App" />
+<img src="https://custom-icon-badges.demolab.com/badge/Animated%20Countdown-b2b5ff.svg?logo=star-fill&logoColor=000000" alt="Animated Countdown" />
+<img src="https://custom-icon-badges.demolab.com/badge/Image%20Carousel-b8b2ff.svg?logo=star-fill&logoColor=000000" alt="Image Carousel" />
+<img src="https://custom-icon-badges.demolab.com/badge/Hoverboard-c1b2ff.svg?logo=star-fill&logoColor=000000" alt="Hoverboard" />
+<img src="https://custom-icon-badges.demolab.com/badge/Pokedex-cab2ff.svg?logo=star-fill&logoColor=000000" alt="Pokedex" />
+<img src="https://custom-icon-badges.demolab.com/badge/Mobile%20Tab%20Navigation-d4b2ff.svg?logo=star-fill&logoColor=000000" alt="Mobile Tab Navigation" />
+<img src="https://custom-icon-badges.demolab.com/badge/Password%20Strength%20Background-ddb2ff.svg?logo=star-fill&logoColor=000000" alt="Password Strength Background" />
+<img src="https://custom-icon-badges.demolab.com/badge/3D%20Background%20Boxes-e6b2ff.svg?logo=star-fill&logoColor=000000" alt="3D Background Boxes" />
+<img src="https://custom-icon-badges.demolab.com/badge/Verify%20Account%20UI-efb2ff.svg?logo=star-fill&logoColor=000000" alt="Verify Account UI" />
+<img src="https://custom-icon-badges.demolab.com/badge/Live%20User%20Filter-f8b2ff.svg?logo=star-fill&logoColor=000000" alt="Live User Filter" />
+<img src="https://custom-icon-badges.demolab.com/badge/Feedback%20UI%20Design-ffb2fb.svg?logo=star-fill&logoColor=000000" alt="Feedback UI Design" />
+<img src="https://custom-icon-badges.demolab.com/badge/Custom%20Range%20Slider-ffb2f2.svg?logo=star-fill&logoColor=000000" alt="Custom Range Slider" />
+<img src="https://custom-icon-badges.demolab.com/badge/Netflix%20Mobile%20Navigation-ffb2e9.svg?logo=star-fill&logoColor=000000" alt="Netflix Mobile Navigation" />
+<img src="https://custom-icon-badges.demolab.com/badge/Quiz%20App-ffb2e0.svg?logo=star-fill&logoColor=000000" alt="Quiz App" />
+<img src="https://custom-icon-badges.demolab.com/badge/Testimonial%20Box%20Switcher-ffb2d7.svg?logo=star-fill&logoColor=000000" alt="Testimonial Box Switcher" />
+<img src="https://custom-icon-badges.demolab.com/badge/Random%20Image%20Feed-ffb2ce.svg?logo=star-fill&logoColor=000000" alt="Random Image Feed" />
+<img src="https://custom-icon-badges.demolab.com/badge/Todo%20List-ffb2c4.svg?logo=star-fill&logoColor=000000" alt="Todo List" />
+<img src="https://custom-icon-badges.demolab.com/badge/Insect%20Catch%20Game-ffb2bb.svg?logo=star-fill&logoColor=000000" alt="Insect Catch Game" />
 </div>
 
 ## Project Setup
