@@ -14,6 +14,9 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 
 ## Project Setup
 
+<details>
+<summary>(Show/Hide) - Project Setup 📑</summary>
+
 ### [Project Starter Template/Boilerplate](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/000-Project-Starter-Template)
 
 ---
@@ -89,6 +92,13 @@ body {
 ```
 
 ---
+
+</details>
+
+## Section Overviews
+
+<details open>
+<summary>(Hide/Show) - Section Overviews 📑</summary>
 
 ## Day 1
 
@@ -2042,6 +2052,8 @@ async function generateJoke() {
 ## Day 50
 
 ### [50. Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050%20-%20Insect%20Catch%20Game)
+
+</details>
 
 ## Sources & Credits
 
