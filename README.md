@@ -11,6 +11,23 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
+<details>
+<summary>(Show/Hide) - Overview of Tools & Tech 💻</summary>
+
+<div align="left">
+
+## Overview of Technologies
+
+| Technology | Overview | Release Year |
+| :--------: | -------- | :----------: |
+| [HTML5](https://www.w3.org/html/) | The standard language for creating web pages and applications. It provides the structure for web content, defining elements like headings, paragraphs, links, and images. | [1991](https://en.wikipedia.org/wiki/HTML) |
+| [JavaScript](https://tc39.es/ecma262/2023/) | A high-level, versatile programming language that enables interactive and dynamic content on web pages. It's a core technology of the World Wide Web, alongside HTML and CSS. | [1995](https://en.wikipedia.org/wiki/JavaScript) |
+| [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) | A stylesheet language used to describe the presentation of documents written in HTML. CSS enables the separation of content from design, allowing for flexibility in layout, colors, and fonts. | [1996](https://en.wikipedia.org/wiki/CSS) |
+
+</div>
+
+</details>
+
 ## Projects
 
 <img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?logo=star-fill&logoColor=000000" alt="Expanding Cards" />
