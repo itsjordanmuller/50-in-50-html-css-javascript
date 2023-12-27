@@ -2,14 +2,13 @@
 
 # 50 Projects in 50 Days<br/>HTML/CSS/JavaScript
 
-<img src="https://custom-icon-badges.demolab.com/badge/50%20Projects%20in%2050%20Days-282A36.svg?style=for-the-badge&logo=package&logoColor=E34F26" width="100%"/>
-<img src="https://custom-icon-badges.demolab.com/badge/HTML/CSS/JavaScript-282A36.svg?style=for-the-badge" width="75%"/>
+<a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/50%20Projects%20in%2050%20Days-282A36.svg?style=for-the-badge&logo=package&logoColor=E34F26" width="100%"/></a>
 
 Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & JavaScript
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://jordanmuller.com/portfolio/tags/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://jordanmuller.com/portfolio/tags/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://jordanmuller.com/portfolio/tags/javascript/)
 
 <details>
 <summary>(Show/Hide) - Overview of Tools & Tech 💻</summary>
