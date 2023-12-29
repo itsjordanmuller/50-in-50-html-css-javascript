@@ -13,7 +13,7 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7.svg?style=for-the-badge&logo=Font-Awesome&logoColor=white)](https://jordanmuller.com/portfolio/tags/font-awesome/)
 
 <details>
-<summary>More Technologies</summary>
+<summary>More Technologies 📀</summary>
 
 [![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)](https://jordanmuller.com/portfolio/tags/axios/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)](https://jordanmuller.com/portfolio/tags/bash/)
