@@ -33,7 +33,7 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 </details>
 
 <details>
-<summary>(Show/Hide) - Overview of Tools & Tech 💻</summary>
+<summary>Glossary - Overview of Tools & Tech 💻</summary>
 
 <div align="left">
 
