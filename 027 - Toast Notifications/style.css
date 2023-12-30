@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #663399;
+  background-color: #eb4d4b;
   font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: column;
@@ -18,7 +18,7 @@ body {
 
 .btn {
   background-color: white;
-  color: #663399;
+  color: #eb4d4b;
   font-family: inherit;
   font-weight: bold;
   padding: 1rem;
@@ -46,14 +46,14 @@ body {
 
 .toast {
   background-color: #fff;
-  color: #663399;
+  color: #eb4d4b;
   border-radius: 5px;
   padding: 1rem 2rem;
   margin: 0.5rem;
 }
 
 .toast.info {
-  color: #663399;
+  color: #eb4d4b;
 }
 
 .toast.success {
