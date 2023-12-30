@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-  color: rgb(179, 131, 226);
+  color: #e15f41;
   font-size: 10rem;
   text-align: center;
   opacity: 0.4;
@@ -33,7 +33,7 @@ h1 {
 }
 
 .input:focus {
-  outline-color: rgb(179, 131, 226);
+  outline-color: #e15f41;
 }
 
 .input::placeholder {
