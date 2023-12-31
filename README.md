@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" height="225px"><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" height="225px"><br>
+<img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" height="200px"><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" height="200px"><br>
 
 # 50 Projects in 50 Days<br/>HTML/CSS/JavaScript
 
