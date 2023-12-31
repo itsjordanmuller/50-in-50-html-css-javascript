@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" height="225px"><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" height="225px"><br>
+
 # 50 Projects in 50 Days<br/>HTML/CSS/JavaScript
 
 <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/50%20Projects%20in%2050%20Days-282A36.svg?style=for-the-badge&logo=package&logoColor=E34F26" width="100%"/></a>
@@ -2131,6 +2133,8 @@ async function generateJoke() {
 ![Theme Clock - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019%20-%20Theme%20Clock/019-theme-clock-2.png)
 
 ![Theme Clock - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019%20-%20Theme%20Clock/019-theme-clock-3.png)
+
+![Theme Clock - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019%20-%20Theme%20Clock/019-theme-clock-4.png)
 
 ## Day 20
 
