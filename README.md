@@ -122,6 +122,63 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 
 </div>
 
+## Table of Contents
+<details open>
+<summary>Table of Contents 🗃️</summary>
+
+1. [Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
+2. [Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps)
+3. [Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation)
+4. [Hidden Search Widget](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004-Hidden-Search-Widget)
+5. [Blurry Loading](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/005-Blurry-Loading)
+6. [Scroll Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006-Scroll-Animation)
+7. [Split Landing Page](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/007-Split-Landing-Page)
+8. [Form Wave Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008-Form-Wave-Animation)
+9. [Sound Board](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009-Sound-Board)
+10. [Dad Jokes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010-Dad-Jokes)
+11. [Event KeyCodes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011-Event-KeyCodes)
+12. [FAQ Collapse](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012-FAQ-Collapse)
+13. [Random Choice Picker](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013-Random-Choice-Picker)
+14. [Animated Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014-Animated-Navigation)
+15. [Incrementing Counter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015-Incrementing-Counter)
+16. [Drink Water](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016-Drink-Water)
+17. [Movie App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017-Movie-App)
+18. [Background Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018-Background-Slider)
+19. [Theme Clock](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019-Theme-Clock)
+20. [Button Ripple Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020-Button-Ripple-Effect)
+21. [Drag N Drop](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021-Drag-N-Drop)
+22. [Drawing App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022-Drawing-App)
+23. [Kinetic CSS Loader](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023-Kinetic-CSS-Loader)
+24. [Content Placeholder](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024-Content-Placeholder)
+25. [Sticky Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025-Sticky-Navigation)
+26. [Double Vertical Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026-Double-Vertical-Slider)
+27. [Toast Notifications](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027-Toast-Notifications)
+28. [GitHub Profiles](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028-GitHub-Profiles)
+29. [Double Click Heart](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029-Double-Click-Heart)
+30. [Auto Text Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030-Auto-Text-Effect)
+31. [Password Generator](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031-Password-Generator)
+32. [Good/Cheap/Fast Checkboxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/032-Good-Cheap-Fast-Checkboxes)
+33. [Notes App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033-Notes-App)
+34. [Animated Countdown](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034-Animated-Countdown)
+35. [Image Carousel](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/035-Image-Carousel)
+36. [Hoverboard](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/036-Hoverboard)
+37. [Pokedex](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037-Pokedex)
+38. [Mobile Tab Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038-Mobile-Tab-Navigation)
+39. [Password Strength Background](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039-Password-Strength-Background)
+40. [3D Background Boxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040-3D-Background-Boxes)
+41. [Verify Account UI](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/041-Verify-Account-UI)
+42. [Live User Filter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/042-Live-User-Filter)
+43. [Feedback UI Design](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/043-Feedback-UI-Design)
+44. [Custom Range Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044-Custom-Range-Slider)
+45. [Netflix Mobile Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045-Netflix-Mobile-Navigation)
+46. [Quiz App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046-Quiz-App)
+47. [Testimonial Box Switcher](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047-Testimonial-Box-Switcher)
+48. [Random Image Feed](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048-Random-Image-Feed)
+49. [Todo List](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049-Todo-List)
+50. [Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050-Insect-Catch-Game)
+
+</details>
+
 ## Project Setup
 
 <details>
@@ -364,7 +421,7 @@ Overall, the "Hidden Search Widget" project was an enriching experience in creat
 
 ## Day 5
 
-### [5. Blurry Loading](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/005%20-%20Blurry%20Loading)
+### [5. Blurry Loading](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/005-Blurry-Loading)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Blurry%20Loading-ffd7b2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Blurry Loading" width="100%"/>
 
@@ -642,13 +699,13 @@ Overall, the "Dad Jokes" project was not only a fun exercise but also an insight
 
 ## Day 11
 
-### [11. Event KeyCodes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011%20-%20Event%20KeyCodes)
+### [11. Event KeyCodes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011-Event-KeyCodes)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Event%20KeyCodes-efffb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Event KeyCodes" width="100%"/>
 
-![Event KeyCodes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/011%20-%20Event%20KeyCodes/011-event-key-codes-1.png)
+![Event KeyCodes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/011-Event-KeyCodes/011-event-key-codes-1.png)
 
-![Event KeyCodes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/011%20-%20Event%20KeyCodes/011-event-key-codes-2.png)
+![Event KeyCodes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/011-Event-KeyCodes/011-event-key-codes-2.png)
 
 ## Project Description
 
@@ -676,15 +733,15 @@ Overall, the "Event KeyCodes" project was an informative and practical exercise 
 
 ## Day 12
 
-### [12. FAQ Collapse](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012%20-%20FAQ%20Collapse)
+### [12. FAQ Collapse](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012-FAQ-Collapse)
 
 <img src="https://custom-icon-badges.demolab.com/badge/FAQ%20Collapse-e6ffb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="FAQ Collapse" width="100%"/>
 
-![FAQ Collapse - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012%20-%20FAQ%20Collapse/012-faq-collapse-1.png)
+![FAQ Collapse - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012-FAQ-Collapse/012-faq-collapse-1.png)
 
-![FAQ Collapse - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012%20-%20FAQ%20Collapse/012-faq-collapse-2.png)
+![FAQ Collapse - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012-FAQ-Collapse/012-faq-collapse-2.png)
 
-![FAQ Collapse - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012%20-%20FAQ%20Collapse/012-faq-collapse-3.png)
+![FAQ Collapse - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012-FAQ-Collapse/012-faq-collapse-3.png)
 
 ## Project Description
 
@@ -712,15 +769,15 @@ Overall, the "FAQ Collapse" project was an excellent practice in building user-f
 
 ## Day 13
 
-### [13. Random Choice Picker](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013%20-%20Random%20Choice%20Picker)
+### [13. Random Choice Picker](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013-Random-Choice-Picker)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Random%20Choice%20Picker-ddffb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Random Choice Picker" width="100%"/>
 
-![Random Choice Picker - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013%20-%20Random%20Choice%20Picker/013-random-choice-picker-1.png)
+![Random Choice Picker - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013-Random-Choice-Picker/013-random-choice-picker-1.png)
 
-![Random Choice Picker - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013%20-%20Random%20Choice%20Picker/013-random-choice-picker-2.png)
+![Random Choice Picker - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013-Random-Choice-Picker/013-random-choice-picker-2.png)
 
-![Random Choice Picker - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013%20-%20Random%20Choice%20Picker/013-random-choice-picker-3.png)
+![Random Choice Picker - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013-Random-Choice-Picker/013-random-choice-picker-3.png)
 
 ## Project Description
 
@@ -748,13 +805,13 @@ Overall, the "Random Choice Picker" project was a valuable exercise in combining
 
 ## Day 14
 
-### [14. Animated Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014%20-%20Animated%20Navigation)
+### [14. Animated Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014-Animated-Navigation)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Animated%20Navigation-d4ffb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Animated Navigation" width="100%"/>
 
-![Animated Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/014%20-%20Animated%20Navigation/014-animated-navigation-1.png)
+![Animated Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/014-Animated-Navigation/014-animated-navigation-1.png)
 
-![Animated Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/014%20-%20Animated%20Navigation/014-animated-navigation-2.png)
+![Animated Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/014-Animated-Navigation/014-animated-navigation-2.png)
 
 ## Project Description
 
@@ -782,13 +839,13 @@ Overall, the "Animated Navigation" project was an insightful practice in front-e
 
 ## Day 15
 
-### [15. Incrementing Counter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015%20-%20Incrementing%20Counter)
+### [15. Incrementing Counter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015-Incrementing-Counter)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Incrementing%20Counter-caffb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Incrementing Counter" width="100%"/>
 
-![Incrementing Counter - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/015%20-%20Incrementing%20Counter/015-incrementing-counter-1.png)
+![Incrementing Counter - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/015-Incrementing-Counter/015-incrementing-counter-1.png)
 
-![Incrementing Counter - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/015%20-%20Incrementing%20Counter/015-incrementing-counter-2.png)
+![Incrementing Counter - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/015-Incrementing-Counter/015-incrementing-counter-2.png)
 
 ## Project Description
 
@@ -816,19 +873,19 @@ Overall, the "Incrementing Counter" project was an insightful practice in creati
 
 ## Day 16
 
-### [16. Drink Water](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016%20-%20Drink%20Water)
+### [16. Drink Water](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016-Drink-Water)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Drink%20Water-c1ffb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Drink Water" width="100%"/>
 
-![Drink Water - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016%20-%20Drink%20Water/016-drink-water-1.png)
+![Drink Water - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016-Drink-Water/016-drink-water-1.png)
 
-![Drink Water - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016%20-%20Drink%20Water/016-drink-water-2.png)
+![Drink Water - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016-Drink-Water/016-drink-water-2.png)
 
-![Drink Water - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016%20-%20Drink%20Water/016-drink-water-3.png)
+![Drink Water - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016-Drink-Water/016-drink-water-3.png)
 
-![Drink Water - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016%20-%20Drink%20Water/016-drink-water-4.png)
+![Drink Water - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016-Drink-Water/016-drink-water-4.png)
 
-![Drink Water - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016%20-%20Drink%20Water/016-drink-water-5.png)
+![Drink Water - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016-Drink-Water/016-drink-water-5.png)
 
 ## Project Description
 
@@ -856,19 +913,19 @@ Overall, the "Drink Water" project was a fun and educational experience, combini
 
 ## Day 17
 
-### [17. Movie App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017%20-%20Movie%20App)
+### [17. Movie App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017-Movie-App)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Movie%20App-b8ffb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Movie App" width="100%"/>
 
-![Movie App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017%20-%20Movie%20App/017-movie-app-1.png)
+![Movie App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017-Movie-App/017-movie-app-1.png)
 
-![Movie App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017%20-%20Movie%20App/017-movie-app-2.png)
+![Movie App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017-Movie-App/017-movie-app-2.png)
 
-![Movie App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017%20-%20Movie%20App/017-movie-app-3.png)
+![Movie App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017-Movie-App/017-movie-app-3.png)
 
-![Movie App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017%20-%20Movie%20App/017-movie-app-4.png)
+![Movie App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017-Movie-App/017-movie-app-4.png)
 
-![Movie App - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017%20-%20Movie%20App/017-movie-app-5.png)
+![Movie App - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017-Movie-App/017-movie-app-5.png)
 
 ## Project Description
 
@@ -926,29 +983,29 @@ Overall, the "Movie App" project is an excellent exercise in integrating externa
 
 ## Day 18
 
-### [18. Background Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018%20-%20Background%20Slider)
+### [18. Background Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018-Background-Slider)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Background%20Slider-b2ffb5.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Background Slider" width="100%"/>
 
-![Background Slider - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-1.png)
+![Background Slider - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018-Background-Slider/018-background-slider-1.png)
 
-![Background Slider - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-2.png)
+![Background Slider - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018-Background-Slider/018-background-slider-2.png)
 
-![Background Slider - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-3.png)
+![Background Slider - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018-Background-Slider/018-background-slider-3.png)
 
-![Background Slider - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-4.png)
+![Background Slider - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018-Background-Slider/018-background-slider-4.png)
 
-![Background Slider - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-5.png)
+![Background Slider - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018-Background-Slider/018-background-slider-5.png)
 
-![Background Slider - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-6.png)
+![Background Slider - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018-Background-Slider/018-background-slider-6.png)
 
-![Background Slider - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-7.png)
+![Background Slider - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018-Background-Slider/018-background-slider-7.png)
 
-![Background Slider - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-8.png)
+![Background Slider - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018-Background-Slider/018-background-slider-8.png)
 
-![Background Slider - Image 9](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-9.png)
+![Background Slider - Image 9](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018-Background-Slider/018-background-slider-9.png)
 
-![Background Slider - Image 10](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-10.png)
+![Background Slider - Image 10](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018-Background-Slider/018-background-slider-10.png)
 
 ## Project Description
 
@@ -976,17 +1033,17 @@ Overall, the "Background Slider" project was an excellent exploration into creat
 
 ## Day 19
 
-### [19. Theme Clock](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019%20-%20Theme%20Clock)
+### [19. Theme Clock](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019-Theme-Clock)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Theme%20Clock-b2ffbe.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Theme Clock" width="100%"/>
 
-![Theme Clock - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019%20-%20Theme%20Clock/019-theme-clock-1.png)
+![Theme Clock - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019-Theme-Clock/019-theme-clock-1.png)
 
-![Theme Clock - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019%20-%20Theme%20Clock/019-theme-clock-2.png)
+![Theme Clock - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019-Theme-Clock/019-theme-clock-2.png)
 
-![Theme Clock - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019%20-%20Theme%20Clock/019-theme-clock-3.png)
+![Theme Clock - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019-Theme-Clock/019-theme-clock-3.png)
 
-![Theme Clock - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019%20-%20Theme%20Clock/019-theme-clock-4.png)
+![Theme Clock - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019-Theme-Clock/019-theme-clock-4.png)
 
 ## Project Description
 
@@ -1014,15 +1071,15 @@ Overall, the "Theme Clock" project was an enriching experience in combining Java
 
 ## Day 20
 
-### [20. Button Ripple Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020%20-%20Button%20Ripple%20Effect)
+### [20. Button Ripple Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020-Button-Ripple-Effect)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Button%20Ripple%20Effect-b2ffc7.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Button Ripple Effect" width="100%"/>
 
-![Button Ripple Effect - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/020%20-%20Button%20Ripple%20Effect/020-button-ripple-effect-1.png)
+![Button Ripple Effect - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/020-Button-Ripple-Effect/020-button-ripple-effect-1.png)
 
-![Button Ripple Effect - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/020%20-%20Button%20Ripple%20Effect/020-button-ripple-effect-2.png)
+![Button Ripple Effect - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/020-Button-Ripple-Effect/020-button-ripple-effect-2.png)
 
-![Button Ripple Effect - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/020%20-%20Button%20Ripple%20Effect/020-button-ripple-effect-3.png)
+![Button Ripple Effect - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/020-Button-Ripple-Effect/020-button-ripple-effect-3.png)
 
 ## Project Description
 
@@ -1050,25 +1107,25 @@ Overall, the "Button Ripple Effect" project was an insightful exercise in combin
 
 ## Day 21
 
-### [21. Drag N Drop](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021%20-%20Drag%20N%20Drop)
+### [21. Drag N Drop](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021-Drag-N-Drop)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Drag%20N%20Drop-b2ffd1.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Drag N Drop" width="100%"/>
 
-![Drag N Drop - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-1.png)
+![Drag N Drop - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021-Drag-N-Drop/021-drag-n-drop-1.png)
 
-![Drag N Drop - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-2.png)
+![Drag N Drop - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021-Drag-N-Drop/021-drag-n-drop-2.png)
 
-![Drag N Drop - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-3.png)
+![Drag N Drop - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021-Drag-N-Drop/021-drag-n-drop-3.png)
 
-![Drag N Drop - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-4.png)
+![Drag N Drop - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021-Drag-N-Drop/021-drag-n-drop-4.png)
 
-![Drag N Drop - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-5.png)
+![Drag N Drop - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021-Drag-N-Drop/021-drag-n-drop-5.png)
 
-![Drag N Drop - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-6.png)
+![Drag N Drop - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021-Drag-N-Drop/021-drag-n-drop-6.png)
 
-![Drag N Drop - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-7.png)
+![Drag N Drop - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021-Drag-N-Drop/021-drag-n-drop-7.png)
 
-![Drag N Drop - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-8.png)
+![Drag N Drop - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021-Drag-N-Drop/021-drag-n-drop-8.png)
 
 ## Project Description
 
@@ -1096,17 +1153,17 @@ Overall, the "Drag N Drop" project was a valuable experience in enhancing web pa
 
 ## Day 22
 
-### [22. Drawing App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022%20-%20Drawing%20App)
+### [22. Drawing App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022-Drawing-App)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Drawing%20App-b2ffda.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Drawing App" width="100%"/>
 
-![Drawing App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022%20-%20Drawing%20App/022-drawing-app-1.png)
+![Drawing App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022-Drawing-App/022-drawing-app-1.png)
 
-![Drawing App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022%20-%20Drawing%20App/022-drawing-app-2.png)
+![Drawing App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022-Drawing-App/022-drawing-app-2.png)
 
-![Drawing App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022%20-%20Drawing%20App/022-drawing-app-3.png)
+![Drawing App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022-Drawing-App/022-drawing-app-3.png)
 
-![Drawing App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022%20-%20Drawing%20App/022-drawing-app-4.png)
+![Drawing App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022-Drawing-App/022-drawing-app-4.png)
 
 ## Project Description
 
@@ -1134,17 +1191,17 @@ Overall, the "Drawing App" project was an excellent practice in combining HTML, 
 
 ## Day 23
 
-### [23. Kinetic CSS Loader](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023%20-%20Kinetic%20CSS%20Loader)
+### [23. Kinetic CSS Loader](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023-Kinetic-CSS-Loader)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Kinetic%20CSS%20Loader-b2ffe3.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Kinetic CSS Loader" width="100%"/>
 
-![Kinetic CSS Loader - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023%20-%20Kinetic%20CSS%20Loader/023-kinetic-css-loader-1.png)
+![Kinetic CSS Loader - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023-Kinetic-CSS-Loader/023-kinetic-css-loader-1.png)
 
-![Kinetic CSS Loader - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023%20-%20Kinetic%20CSS%20Loader/023-kinetic-css-loader-2.png)
+![Kinetic CSS Loader - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023-Kinetic-CSS-Loader/023-kinetic-css-loader-2.png)
 
-![Kinetic CSS Loader - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023%20-%20Kinetic%20CSS%20Loader/023-kinetic-css-loader-3.png)
+![Kinetic CSS Loader - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023-Kinetic-CSS-Loader/023-kinetic-css-loader-3.png)
 
-![Kinetic CSS Loader - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023%20-%20Kinetic%20CSS%20Loader/023-kinetic-css-loader-4.png)
+![Kinetic CSS Loader - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023-Kinetic-CSS-Loader/023-kinetic-css-loader-4.png)
 
 ## Project Description
 
@@ -1172,17 +1229,17 @@ Overall, the "Kinetic CSS Loader" project was an insightful exploration into the
 
 ## Day 24
 
-### [24. Content Placeholder](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024%20-%20Content%20Placeholder)
+### [24. Content Placeholder](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024-Content-Placeholder)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Content%20Placeholder-b2ffec.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Content Placeholder" width="100%"/>
 
-![Content Placeholder - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024%20-%20Content%20Placeholder/024-content-placeholder-1.png)
+![Content Placeholder - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024-Content-Placeholder/024-content-placeholder-1.png)
 
-![Content Placeholder - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024%20-%20Content%20Placeholder/024-content-placeholder-2.png)
+![Content Placeholder - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024-Content-Placeholder/024-content-placeholder-2.png)
 
-![Content Placeholder - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024%20-%20Content%20Placeholder/024-content-placeholder-3.png)
+![Content Placeholder - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024-Content-Placeholder/024-content-placeholder-3.png)
 
-![Content Placeholder - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024%20-%20Content%20Placeholder/024-content-placeholder-4.png)
+![Content Placeholder - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024-Content-Placeholder/024-content-placeholder-4.png)
 
 ## Project Description
 
@@ -1210,13 +1267,13 @@ Overall, the "Content Placeholder" project was a valuable exercise in combining 
 
 ## Day 25
 
-### [25. Sticky Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025%20-%20Sticky%20Navigation)
+### [25. Sticky Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025-Sticky-Navigation)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Sticky%20Navigation-b2fff5.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Sticky Navigation" width="100%"/>
 
-![Sticky Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/025%20-%20Sticky%20Navigation/025-sticky-navigation-1.png)
+![Sticky Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/025-Sticky-Navigation/025-sticky-navigation-1.png)
 
-![Sticky Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/025%20-%20Sticky%20Navigation/025-sticky-navigation-2.png)
+![Sticky Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/025-Sticky-Navigation/025-sticky-navigation-2.png)
 
 ## Project Description
 
@@ -1244,17 +1301,17 @@ Overall, the "Sticky Navigation" project was a valuable exercise in enhancing we
 
 ## Day 26
 
-### [26. Double Vertical Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026%20-%20Double%20Vertical%20Slider)
+### [26. Double Vertical Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026-Double-Vertical-Slider)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Double%20Vertical%20Slider-b2ffff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Double Vertical Slider" width="100%"/>
 
-![Double Vertical Slider - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026%20-%20Double%20Vertical%20Slider/026-double-vertical-slider-1.png)
+![Double Vertical Slider - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026-Double-Vertical-Slider/026-double-vertical-slider-1.png)
 
-![Double Vertical Slider - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026%20-%20Double%20Vertical%20Slider/026-double-vertical-slider-2.png)
+![Double Vertical Slider - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026-Double-Vertical-Slider/026-double-vertical-slider-2.png)
 
-![Double Vertical Slider - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026%20-%20Double%20Vertical%20Slider/026-double-vertical-slider-3.png)
+![Double Vertical Slider - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026-Double-Vertical-Slider/026-double-vertical-slider-3.png)
 
-![Double Vertical Slider - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026%20-%20Double%20Vertical%20Slider/026-double-vertical-slider-4.png)
+![Double Vertical Slider - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026-Double-Vertical-Slider/026-double-vertical-slider-4.png)
 
 ## Project Description
 
@@ -1282,15 +1339,15 @@ Overall, the "Double Vertical Slider" project was an excellent practice in combi
 
 ## Day 27
 
-### [27. Toast Notifications](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027%20-%20Toast%20Notifications)
+### [27. Toast Notifications](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027-Toast-Notifications)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Toast%20Notifications-b2f5ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Toast Notifications" width="100%"/>
 
-![Toast Notifications - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027%20-%20Toast%20Notifications/027-toast-notifications-1.png)
+![Toast Notifications - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027-Toast-Notifications/027-toast-notifications-1.png)
 
-![Toast Notifications - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027%20-%20Toast%20Notifications/027-toast-notifications-2.png)
+![Toast Notifications - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027-Toast-Notifications/027-toast-notifications-2.png)
 
-![Toast Notifications - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027%20-%20Toast%20Notifications/027-toast-notifications-3.png)
+![Toast Notifications - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027-Toast-Notifications/027-toast-notifications-3.png)
 
 ## Project Description
 
@@ -1318,17 +1375,17 @@ Overall, the "Toast Notifications" project was a valuable exercise in enhancing 
 
 ## Day 28
 
-### [28. GitHub Profiles](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028%20-%20GitHub%20Profiles)
+### [28. GitHub Profiles](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028-GitHub-Profiles)
 
 <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Profiles-b2ecff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="GitHub Profiles" width="100%"/>
 
-![GitHub Profiles - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028%20-%20GitHub%20Profiles/028-github-profiles-1.png)
+![GitHub Profiles - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028-GitHub-Profiles/028-github-profiles-1.png)
 
-![GitHub Profiles - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028%20-%20GitHub%20Profiles/028-github-profiles-2.png)
+![GitHub Profiles - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028-GitHub-Profiles/028-github-profiles-2.png)
 
-![GitHub Profiles - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028%20-%20GitHub%20Profiles/028-github-profiles-3.png)
+![GitHub Profiles - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028-GitHub-Profiles/028-github-profiles-3.png)
 
-![GitHub Profiles - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028%20-%20GitHub%20Profiles/028-github-profiles-4.png)
+![GitHub Profiles - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028-GitHub-Profiles/028-github-profiles-4.png)
 
 ## Project Description
 
@@ -1356,21 +1413,21 @@ Overall, the "GitHub Profiles" project was a valuable experience in combining va
 
 ## Day 29
 
-### [29. Double Click Heart](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029%20-%20Double%20Click%20Heart)
+### [29. Double Click Heart](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029-Double-Click-Heart)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Double%20Click%20Heart-b2e3ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Double Click Heart" width="100%"/>
 
-![Double Click Heart - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-1.png)
+![Double Click Heart - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-1.png)
 
-![Double Click Heart - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-2.png)
+![Double Click Heart - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-2.png)
 
-![Double Click Heart - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-3.png)
+![Double Click Heart - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-3.png)
 
-![Double Click Heart - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-4.png)
+![Double Click Heart - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-4.png)
 
-![Double Click Heart - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-5.png)
+![Double Click Heart - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-5.png)
 
-![Double Click Heart - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-6.png)
+![Double Click Heart - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-6.png)
 
 ## Project Description
 
@@ -1398,19 +1455,19 @@ Overall, the "Double Click Heart" project was an excellent exercise in combining
 
 ## Day 30
 
-### [30 - Auto Text Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030%20-%20Auto%20Text%20Effect)
+### [30 - Auto Text Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030-Auto-Text-Effect)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Auto%20Text%20Effect-b2daff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Auto Text Effect" width="100%"/>
 
-![Auto Text Effect - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030%20-%20Auto%20Text%20Effect/030-auto-text-effect-1.png)
+![Auto Text Effect - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030-Auto-Text-Effect/030-auto-text-effect-1.png)
 
-![Auto Text Effect - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030%20-%20Auto%20Text%20Effect/030-auto-text-effect-2.png)
+![Auto Text Effect - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030-Auto-Text-Effect/030-auto-text-effect-2.png)
 
-![Auto Text Effect - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030%20-%20Auto%20Text%20Effect/030-auto-text-effect-3.png)
+![Auto Text Effect - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030-Auto-Text-Effect/030-auto-text-effect-3.png)
 
-![Auto Text Effect - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030%20-%20Auto%20Text%20Effect/030-auto-text-effect-4.png)
+![Auto Text Effect - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030-Auto-Text-Effect/030-auto-text-effect-4.png)
 
-![Auto Text Effect - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030%20-%20Auto%20Text%20Effect/030-auto-text-effect-5.png)
+![Auto Text Effect - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030-Auto-Text-Effect/030-auto-text-effect-5.png)
 
 ## Project Description
 
@@ -1438,21 +1495,21 @@ Overall, the "Auto Text Effect" project was a practical application of JavaScrip
 
 ## Day 31
 
-### [31. Password Generator](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031%20-%20Password%20Generator)
+### [31. Password Generator](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031-Password-Generator)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Password%20Generator-b2d1ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Password Generator" width="100%"/>
 
-![Password Generator - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-1.png)
+![Password Generator - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031-Password-Generator/031-password-generator-1.png)
 
-![Password Generator - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-2.png)
+![Password Generator - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031-Password-Generator/031-password-generator-2.png)
 
-![Password Generator - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-3.png)
+![Password Generator - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031-Password-Generator/031-password-generator-3.png)
 
-![Password Generator - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-4.png)
+![Password Generator - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031-Password-Generator/031-password-generator-4.png)
 
-![Password Generator - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-5.png)
+![Password Generator - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031-Password-Generator/031-password-generator-5.png)
 
-![Password Generator - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-6.png)
+![Password Generator - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031-Password-Generator/031-password-generator-6.png)
 
 ## Project Description
 
@@ -1480,19 +1537,19 @@ Overall, the "Password Generator" project was a great exercise in applying JavaS
 
 ## Day 32
 
-### [32. Good, Cheap, Fast Checkboxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes)
+### [32. Good, Cheap, Fast Checkboxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/032-Good-Cheap-Fast-Checkboxes)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Good/Cheap/Fast%20Checkboxes-b2c7ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Good/Cheap/Fast Checkboxes" width="100%"/>
 
-![Good, Cheap, Fast Checkboxes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/032-good-cheap-fast-checkboxes-1.png)
+![Good, Cheap, Fast Checkboxes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032-Good-Cheap-Fast-Checkboxes/032-good-cheap-fast-checkboxes-1.png)
 
-![Good, Cheap, Fast Checkboxes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/032-good-cheap-fast-checkboxes-2.png)
+![Good, Cheap, Fast Checkboxes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032-Good-Cheap-Fast-Checkboxes/032-good-cheap-fast-checkboxes-2.png)
 
-![Good, Cheap, Fast Checkboxes - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/032-good-cheap-fast-checkboxes-3.png)
+![Good, Cheap, Fast Checkboxes - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032-Good-Cheap-Fast-Checkboxes/032-good-cheap-fast-checkboxes-3.png)
 
-![Good, Cheap, Fast Checkboxes - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/032-good-cheap-fast-checkboxes-4.png)
+![Good, Cheap, Fast Checkboxes - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032-Good-Cheap-Fast-Checkboxes/032-good-cheap-fast-checkboxes-4.png)
 
-![Good, Cheap, Fast Checkboxes - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/032-good-cheap-fast-checkboxes-5.png)
+![Good, Cheap, Fast Checkboxes - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032-Good-Cheap-Fast-Checkboxes/032-good-cheap-fast-checkboxes-5.png)
 
 ## Project Description
 
@@ -1520,17 +1577,17 @@ Overall, the "Good, Cheap, Fast Checkboxes" project was an engaging way to combi
 
 ## Day 33
 
-### [33. Notes App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033%20-%20Notes%20App)
+### [33. Notes App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033-Notes-App)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Notes%20App-b2beff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Notes App" width="100%"/>
 
-![Notes App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033%20-%20Notes%20App/033-notes-app-1.png)
+![Notes App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033-Notes-App/033-notes-app-1.png)
 
-![Notes App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033%20-%20Notes%20App/033-notes-app-2.png)
+![Notes App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033-Notes-App/033-notes-app-2.png)
 
-![Notes App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033%20-%20Notes%20App/033-notes-app-3.png)
+![Notes App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033-Notes-App/033-notes-app-3.png)
 
-![Notes App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033%20-%20Notes%20App/033-notes-app-4.png)
+![Notes App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033-Notes-App/033-notes-app-4.png)
 
 ## Project Description
 
@@ -1558,19 +1615,19 @@ Overall, the "Notes App" project was an invaluable experience in developing a fu
 
 ## Day 34
 
-### [34. Animated Countdown](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034%20-%20Animated%20Countdown)
+### [34. Animated Countdown](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034-Animated-Countdown)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Animated%20Countdown-b2b5ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Animated Countdown" width="100%"/>
 
-![Animated Countdown - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034%20-%20Animated%20Countdown/034-animated-countdown-1.png)
+![Animated Countdown - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034-Animated-Countdown/034-animated-countdown-1.png)
 
-![Animated Countdown - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034%20-%20Animated%20Countdown/034-animated-countdown-2.png)
+![Animated Countdown - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034-Animated-Countdown/034-animated-countdown-2.png)
 
-![Animated Countdown - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034%20-%20Animated%20Countdown/034-animated-countdown-3.png)
+![Animated Countdown - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034-Animated-Countdown/034-animated-countdown-3.png)
 
-![Animated Countdown - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034%20-%20Animated%20Countdown/034-animated-countdown-4.png)
+![Animated Countdown - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034-Animated-Countdown/034-animated-countdown-4.png)
 
-![Animated Countdown - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034%20-%20Animated%20Countdown/034-animated-countdown-5.png)
+![Animated Countdown - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034-Animated-Countdown/034-animated-countdown-5.png)
 
 ## Project Description
 
@@ -1598,15 +1655,15 @@ Overall, the "Animated Countdown" project was a fun and creative way to explore 
 
 ## Day 35
 
-### [35. Image Carousel](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/035%20-%20Image%20Carousel)
+### [35. Image Carousel](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/035-Image-Carousel)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Image%20Carousel-b8b2ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Image Carousel" width="100%"/>
 
-![Image Carousel - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035%20-%20Image%20Carousel/035-image-carousel-1.png)
+![Image Carousel - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035-Image-Carousel/035-image-carousel-1.png)
 
-![Image Carousel - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035%20-%20Image%20Carousel/035-image-carousel-2.png)
+![Image Carousel - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035-Image-Carousel/035-image-carousel-2.png)
 
-![Image Carousel - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035%20-%20Image%20Carousel/035-image-carousel-3.png)
+![Image Carousel - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035-Image-Carousel/035-image-carousel-3.png)
 
 ## Project Description
 
@@ -1634,19 +1691,19 @@ Overall, the "Image Carousel" project was a practical application of combining H
 
 ## Day 36
 
-### [36. Hoverboard](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/036%20-%20Hoverboard)
+### [36. Hoverboard](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/036-Hoverboard)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Hoverboard-c1b2ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Hoverboard" width="100%"/>
 
-![Hoverboard - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036%20-%20Hoverboard/036-hoverboard-1.png)
+![Hoverboard - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036-Hoverboard/036-hoverboard-1.png)
 
-![Hoverboard - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036%20-%20Hoverboard/036-hoverboard-2.png)
+![Hoverboard - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036-Hoverboard/036-hoverboard-2.png)
 
-![Hoverboard - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036%20-%20Hoverboard/036-hoverboard-3.png)
+![Hoverboard - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036-Hoverboard/036-hoverboard-3.png)
 
-![Hoverboard - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036%20-%20Hoverboard/036-hoverboard-4.png)
+![Hoverboard - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036-Hoverboard/036-hoverboard-4.png)
 
-![Hoverboard - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036%20-%20Hoverboard/036-hoverboard-5.png)
+![Hoverboard - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036-Hoverboard/036-hoverboard-5.png)
 
 ## Project Description
 
@@ -1674,15 +1731,15 @@ Overall, the "Hoverboard" project is a creative way to apply HTML, CSS, and Java
 
 ## Day 37
 
-### [37. Pokedex](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037%20-%20Pokedex)
+### [37. Pokedex](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037-Pokedex)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Pokedex-cab2ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Pokedex" width="100%"/>
 
-![Pokedex - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/037%20-%20Pokedex/037-pokedex-1.png)
+![Pokedex - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/037-Pokedex/037-pokedex-1.png)
 
-![Pokedex - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/037%20-%20Pokedex/037-pokedex-2.png)
+![Pokedex - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/037-Pokedex/037-pokedex-2.png)
 
-![Pokedex - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/037%20-%20Pokedex/037-pokedex-3.png)
+![Pokedex - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/037-Pokedex/037-pokedex-3.png)
 
 ## Project Description
 
@@ -1721,17 +1778,17 @@ Overall, the "Pokedex" project is an excellent example of how HTML, CSS, and Jav
 
 ## Day 38
 
-### [38. Mobile Tab Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038%20-%20Mobile%20Tab%20Navigation)
+### [38. Mobile Tab Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038-Mobile-Tab-Navigation)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Mobile%20Tab%20Navigation-d4b2ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Mobile Tab Navigation" width="100%"/>
 
-![Mobile Tab Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038%20-%20Mobile%20Tab%20Navigation/038-mobile-tab-navigation-1.png)
+![Mobile Tab Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038-Mobile-Tab-Navigation/038-mobile-tab-navigation-1.png)
 
-![Mobile Tab Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038%20-%20Mobile%20Tab%20Navigation/038-mobile-tab-navigation-2.png)
+![Mobile Tab Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038-Mobile-Tab-Navigation/038-mobile-tab-navigation-2.png)
 
-![Mobile Tab Navigation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038%20-%20Mobile%20Tab%20Navigation/038-mobile-tab-navigation-3.png)
+![Mobile Tab Navigation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038-Mobile-Tab-Navigation/038-mobile-tab-navigation-3.png)
 
-![Mobile Tab Navigation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038%20-%20Mobile%20Tab%20Navigation/038-mobile-tab-navigation-4.png)
+![Mobile Tab Navigation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038-Mobile-Tab-Navigation/038-mobile-tab-navigation-4.png)
 
 ## Project Description
 
@@ -1785,23 +1842,23 @@ Overall, "Mobile Tab Navigation" is a practical example of building a mobile-fri
 
 ## Day 39
 
-### [39. Password Strength Background](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039%20-%20Password%20Strength%20Background)
+### [39. Password Strength Background](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039-Password-Strength-Background)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Password%20Strength%20Background-ddb2ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Password Strength Background" width="100%"/>
 
-![Password Strength Background - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-1.png)
+![Password Strength Background - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039-Password-Strength-Background/039-password-strength-background-1.png)
 
-![Password Strength Background - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-2.png)
+![Password Strength Background - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039-Password-Strength-Background/039-password-strength-background-2.png)
 
-![Password Strength Background - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-3.png)
+![Password Strength Background - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039-Password-Strength-Background/039-password-strength-background-3.png)
 
-![Password Strength Background - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-4.png)
+![Password Strength Background - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039-Password-Strength-Background/039-password-strength-background-4.png)
 
-![Password Strength Background - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-5.png)
+![Password Strength Background - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039-Password-Strength-Background/039-password-strength-background-5.png)
 
-![Password Strength Background - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-6.png)
+![Password Strength Background - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039-Password-Strength-Background/039-password-strength-background-6.png)
 
-![Password Strength Background - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-7.png)
+![Password Strength Background - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039-Password-Strength-Background/039-password-strength-background-7.png)
 
 ## Project Description
 
@@ -1854,17 +1911,17 @@ Overall, "Password Strength Background" is a simple yet effective demonstration 
 
 ## Day 40
 
-### [40. 3D Background Boxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040%20-%203D%20Background%20Boxes)
+### [40. 3D Background Boxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040-3D-Background-Boxes)
 
 <img src="https://custom-icon-badges.demolab.com/badge/3D%20Background%20Boxes-e6b2ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="3D Background Boxes" width="100%"/>
 
-![3D Background Boxes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040%20-%203D%20Background%20Boxes/040-3d-background-boxes-1.png)
+![3D Background Boxes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040-3D-Background-Boxes/040-3d-background-boxes-1.png)
 
-![3D Background Boxes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040%20-%203D%20Background%20Boxes/040-3d-background-boxes-2.png)
+![3D Background Boxes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040-3D-Background-Boxes/040-3d-background-boxes-2.png)
 
-![3D Background Boxes - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040%20-%203D%20Background%20Boxes/040-3d-background-boxes-3.png)
+![3D Background Boxes - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040-3D-Background-Boxes/040-3d-background-boxes-3.png)
 
-![3D Background Boxes - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040%20-%203D%20Background%20Boxes/040-3d-background-boxes-4.png)
+![3D Background Boxes - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040-3D-Background-Boxes/040-3d-background-boxes-4.png)
 
 ## Project Description
 
@@ -1917,19 +1974,19 @@ Overall, the "3D Background Boxes" project combines CSS styling and JavaScript i
 
 ## Day 41
 
-### [41. Verify Account UI](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/041%20-%20Verify%20Account%20UI)
+### [41. Verify Account UI](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/041-Verify-Account-UI)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Verify%20Account%20UI-efb2ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Verify Account UI" width="100%"/>
 
-![Verify Account UI - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041%20-%20Verify%20Account%20UI/041-verify-account-ui-1.png)
+![Verify Account UI - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041-Verify-Account-UI/041-verify-account-ui-1.png)
 
-![Verify Account UI - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041%20-%20Verify%20Account%20UI/041-verify-account-ui-2.png)
+![Verify Account UI - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041-Verify-Account-UI/041-verify-account-ui-2.png)
 
-![Verify Account UI - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041%20-%20Verify%20Account%20UI/041-verify-account-ui-3.png)
+![Verify Account UI - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041-Verify-Account-UI/041-verify-account-ui-3.png)
 
-![Verify Account UI - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041%20-%20Verify%20Account%20UI/041-verify-account-ui-4.png)
+![Verify Account UI - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041-Verify-Account-UI/041-verify-account-ui-4.png)
 
-![Verify Account UI - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041%20-%20Verify%20Account%20UI/041-verify-account-ui-5.png)
+![Verify Account UI - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041-Verify-Account-UI/041-verify-account-ui-5.png)
 
 ## Project Description
 
@@ -1988,19 +2045,19 @@ Overall, the "Verify Account UI" project showcases the integration of HTML, CSS,
 
 ## Day 42
 
-### [42. Live User Filter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/042%20-%20Live%20User%20Filter)
+### [42. Live User Filter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/042-Live-User-Filter)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Live%20User%20Filter-f8b2ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Live User Filter" width="100%"/>
 
-![Live User Filter - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042%20-%20Live%20User%20Filter/042-live-user-filter-1.png)
+![Live User Filter - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042-Live-User-Filter/042-live-user-filter-1.png)
 
-![Live User Filter - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042%20-%20Live%20User%20Filter/042-live-user-filter-2.png)
+![Live User Filter - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042-Live-User-Filter/042-live-user-filter-2.png)
 
-![Live User Filter - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042%20-%20Live%20User%20Filter/042-live-user-filter-3.png)
+![Live User Filter - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042-Live-User-Filter/042-live-user-filter-3.png)
 
-![Live User Filter - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042%20-%20Live%20User%20Filter/042-live-user-filter-4.png)
+![Live User Filter - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042-Live-User-Filter/042-live-user-filter-4.png)
 
-![Live User Filter - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042%20-%20Live%20User%20Filter/042-live-user-filter-5.png)
+![Live User Filter - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042-Live-User-Filter/042-live-user-filter-5.png)
 
 ## Project Description
 
@@ -2059,17 +2116,17 @@ Overall, the "Live User Filter" project demonstrates how to create an interactiv
 
 ## Day 43
 
-### [43. Feedback UI Design](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/043%20-%20Feedback%20UI%20Design)
+### [43. Feedback UI Design](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/043-Feedback-UI-Design)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Feedback%20UI%20Design-ffb2fb.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Feedback UI Design" width="100%"/>
 
-![Feedback UI Design - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043%20-%20Feedback%20UI%20Design/043-feedback-ui-design-1.png)
+![Feedback UI Design - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043-Feedback-UI-Design/043-feedback-ui-design-1.png)
 
-![Feedback UI Design - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043%20-%20Feedback%20UI%20Design/043-feedback-ui-design-2.png)
+![Feedback UI Design - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043-Feedback-UI-Design/043-feedback-ui-design-2.png)
 
-![Feedback UI Design - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043%20-%20Feedback%20UI%20Design/043-feedback-ui-design-3.png)
+![Feedback UI Design - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043-Feedback-UI-Design/043-feedback-ui-design-3.png)
 
-![Feedback UI Design - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043%20-%20Feedback%20UI%20Design/043-feedback-ui-design-4.png)
+![Feedback UI Design - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043-Feedback-UI-Design/043-feedback-ui-design-4.png)
 
 ## Project Description
 
@@ -2130,15 +2187,15 @@ Overall, the "Feedback UI Design" project demonstrates how to create an interact
 
 ## Day 44
 
-### [44. Custom Range Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044%20-%20Custom%20Range%20Slider)
+### [44. Custom Range Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044-Custom-Range-Slider)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Custom%20Range%20Slider-ffb2f2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Custom Range Slider" width="100%"/>
 
-![Custom Range Slider - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044%20-%20Custom%20Range%20Slider/044-custom-range-slider-1.png)
+![Custom Range Slider - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044-Custom-Range-Slider/044-custom-range-slider-1.png)
 
-![Custom Range Slider - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044%20-%20Custom%20Range%20Slider/044-custom-range-slider-2.png)
+![Custom Range Slider - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044-Custom-Range-Slider/044-custom-range-slider-2.png)
 
-![Custom Range Slider - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044%20-%20Custom%20Range%20Slider/044-custom-range-slider-3.png)
+![Custom Range Slider - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044-Custom-Range-Slider/044-custom-range-slider-3.png)
 
 ## Project Description
 
@@ -2199,17 +2256,17 @@ Overall, the "Custom Range Slider" project demonstrates how to create an interac
 
 ## Day 45
 
-### [45. Netflix Mobile Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045%20-%20Netflix%20Mobile%20Navigation)
+### [45. Netflix Mobile Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045-Netflix-Mobile-Navigation)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Netflix%20Mobile%20Navigation-ffb2e9.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Netflix Mobile Navigation" width="100%"/>
 
-![Netflix Mobile Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045%20-%20Netflix%20Mobile%20Navigation/045-netflix-mobile-navigation-1.png)
+![Netflix Mobile Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045-Netflix-Mobile-Navigation/045-netflix-mobile-navigation-1.png)
 
-![Netflix Mobile Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045%20-%20Netflix%20Mobile%20Navigation/045-netflix-mobile-navigation-2.png)
+![Netflix Mobile Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045-Netflix-Mobile-Navigation/045-netflix-mobile-navigation-2.png)
 
-![Netflix Mobile Navigation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045%20-%20Netflix%20Mobile%20Navigation/045-netflix-mobile-navigation-3.png)
+![Netflix Mobile Navigation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045-Netflix-Mobile-Navigation/045-netflix-mobile-navigation-3.png)
 
-![Netflix Mobile Navigation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045%20-%20Netflix%20Mobile%20Navigation/045-netflix-mobile-navigation-4.png)
+![Netflix Mobile Navigation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045-Netflix-Mobile-Navigation/045-netflix-mobile-navigation-4.png)
 
 ## Project Description
 
@@ -2277,17 +2334,17 @@ This project demonstrates how to create a mobile navigation menu inspired by a w
 
 ## Day 46
 
-### [46. Quiz App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046%20-%20Quiz%20App)
+### [46. Quiz App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046-Quiz-App)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Quiz%20App-ffb2e0.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Quiz App" width="100%"/>
 
-![Quiz App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046%20-%20Quiz%20App/046-quiz-app-1.png)
+![Quiz App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046-Quiz-App/046-quiz-app-1.png)
 
-![Quiz App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046%20-%20Quiz%20App/046-quiz-app-2.png)
+![Quiz App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046-Quiz-App/046-quiz-app-2.png)
 
-![Quiz App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046%20-%20Quiz%20App/046-quiz-app-3.png)
+![Quiz App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046-Quiz-App/046-quiz-app-3.png)
 
-![Quiz App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046%20-%20Quiz%20App/046-quiz-app-4.png)
+![Quiz App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046-Quiz-App/046-quiz-app-4.png)
 
 ## Project Description
 
@@ -2350,19 +2407,19 @@ This quiz app serves as an example of how to create an interactive and engaging 
 
 ## Day 47
 
-### [47. Testimonial Box Switcher](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047%20-%20Testimonial%20Box%20Switcher)
+### [47. Testimonial Box Switcher](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047-Testimonial-Box-Switcher)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Testimonial%20Box%20Switcher-ffb2d7.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Testimonial Box Switcher" width="100%"/>
 
-![Testimonial Box Switcher - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047%20-%20Testimonial%20Box%20Switcher/047-testimonial-box-switcher-1.png)
+![Testimonial Box Switcher - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047-Testimonial-Box-Switcher/047-testimonial-box-switcher-1.png)
 
-![Testimonial Box Switcher - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047%20-%20Testimonial%20Box%20Switcher/047-testimonial-box-switcher-2.png)
+![Testimonial Box Switcher - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047-Testimonial-Box-Switcher/047-testimonial-box-switcher-2.png)
 
-![Testimonial Box Switcher - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047%20-%20Testimonial%20Box%20Switcher/047-testimonial-box-switcher-3.png)
+![Testimonial Box Switcher - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047-Testimonial-Box-Switcher/047-testimonial-box-switcher-3.png)
 
-![Testimonial Box Switcher - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047%20-%20Testimonial%20Box%20Switcher/047-testimonial-box-switcher-4.png)
+![Testimonial Box Switcher - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047-Testimonial-Box-Switcher/047-testimonial-box-switcher-4.png)
 
-![Testimonial Box Switcher - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047%20-%20Testimonial%20Box%20Switcher/047-testimonial-box-switcher-5.png)
+![Testimonial Box Switcher - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047-Testimonial-Box-Switcher/047-testimonial-box-switcher-5.png)
 
 # Testimonial Box Switcher
 
@@ -2415,17 +2472,17 @@ This "Testimonial Box Switcher" serves as an example of how to create a dynamic 
 
 ## Day 48
 
-### [48. Random Image Feed](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048%20-%20Random%20Image%20Feed)
+### [48. Random Image Feed](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048-Random-Image-Feed)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Random%20Image%20Feed-ffb2ce.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Random Image Feed" width="100%"/>
 
-![Random Image Feed - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048%20-%20Random%20Image%20Feed/048-random-image-feed-1.png)
+![Random Image Feed - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048-Random-Image-Feed/048-random-image-feed-1.png)
 
-![Random Image Feed - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048%20-%20Random%20Image%20Feed/048-random-image-feed-2.png)
+![Random Image Feed - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048-Random-Image-Feed/048-random-image-feed-2.png)
 
-![Random Image Feed - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048%20-%20Random%20Image%20Feed/048-random-image-feed-3.png)
+![Random Image Feed - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048-Random-Image-Feed/048-random-image-feed-3.png)
 
-![Random Image Feed - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048%20-%20Random%20Image%20Feed/048-random-image-feed-4.png)
+![Random Image Feed - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048-Random-Image-Feed/048-random-image-feed-4.png)
 
 # Random Image Feed
 
@@ -2474,25 +2531,25 @@ This "Random Image Feed" serves as a simple example of how to create a dynamic i
 
 ## Day 49
 
-### [49. Todo List](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049%20-%20Todo%20List)
+### [49. Todo List](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049-Todo-List)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Todo%20List-ffb2c4.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Todo List" width="100%"/>
 
-![Todo List - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-1.png)
+![Todo List - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-1.png)
 
-![Todo List - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-2.png)
+![Todo List - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-2.png)
 
-![Todo List - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-3.png)
+![Todo List - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-3.png)
 
-![Todo List - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-4.png)
+![Todo List - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-4.png)
 
-![Todo List - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-5.png)
+![Todo List - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-5.png)
 
-![Todo List - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-6.png)
+![Todo List - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-6.png)
 
-![Todo List - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-7.png)
+![Todo List - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-7.png)
 
-![Todo List - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-8.png)
+![Todo List - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-8.png)
 
 # Todo List
 
@@ -2544,23 +2601,23 @@ The "Todo List" application provides a basic but functional example of how to cr
 
 ## Day 50
 
-### [50. Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050%20-%20Insect%20Catch%20Game)
+### [50. Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050-Insect-Catch-Game)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Insect%20Catch%20Game-ffb2bb.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Insect Catch Game" width="100%" />
 
-![Insect Catch Game - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-1.png)
+![Insect Catch Game - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-1.png)
 
-![Insect Catch Game - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-2.png)
+![Insect Catch Game - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-2.png)
 
-![Insect Catch Game - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-3.png)
+![Insect Catch Game - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-3.png)
 
-![Insect Catch Game - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-4.png)
+![Insect Catch Game - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-4.png)
 
-![Insect Catch Game - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-5.png)
+![Insect Catch Game - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-5.png)
 
-![Insect Catch Game - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-6.png)
+![Insect Catch Game - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-6.png)
 
-![Insect Catch Game - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-7.png)
+![Insect Catch Game - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-7.png)
 
 # Insect Catch Game
 
