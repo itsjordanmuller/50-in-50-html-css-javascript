@@ -1057,6 +1057,14 @@ btn.addEventListener("click", () => {
 
 ![Blurry Loading - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-4.png)
 
+![Blurry Loading - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-5.png)
+
+![Blurry Loading - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-6.png)
+
+![Blurry Loading - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-7.png)
+
+![Blurry Loading - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-8.png)
+
 <details>
 <summary>View HTML Code - index.html - 5 - Blurry Loading</summary>
 <br>
@@ -1171,6 +1179,14 @@ function scale(number, inMin, inMax, outMin, outMax) {
 ![Scroll Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-3.png)
 
 ![Scroll Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-4.png)
+
+![Scroll Animation - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-5.png)
+
+![Scroll Animation - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-6.png)
+
+![Scroll Animation - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-7.png)
+
+![Scroll Animation - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-8.png)
 
 <details>
 <summary>View HTML Code - index.html - 6 - Scroll Animation</summary>
@@ -1320,6 +1336,8 @@ function checkBoxes() {
 ![Split Landing Page - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-5.png)
 
 ![Split Landing Page - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-6.png)
+
+![Split Landing Page - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-7.png)
 
 <details>
 <summary>View HTML Code - index.html - 7 - Split Landing Page</summary>
@@ -1551,6 +1569,14 @@ right.addEventListener("mouseenter", () => {
 ![Form Wave Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-3.png)
 
 ![Form Wave Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-4.png)
+
+![Form Wave Animation - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-5.png)
+
+![Form Wave Animation - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-6.png)
+
+![Form Wave Animation - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-7.png)
+
+![Form Wave Animation - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-8.png)
 
 <details>
 <summary>View HTML Code - index.html - 8 - Form Wave Animation</summary>
@@ -2004,161 +2030,515 @@ async function generateJoke() {
 
 ### [11. Event KeyCodes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011%20-%20Event%20KeyCodes)
 
+![Event KeyCodes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/011%20-%20Event%20KeyCodes/011-event-key-codes-1.png)
+
+![Event KeyCodes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/011%20-%20Event%20KeyCodes/011-event-key-codes-2.png)
+
 ## Day 12
 
 ### [12. FAQ Collapse](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012%20-%20FAQ%20Collapse)
+
+![FAQ Collapse - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012%20-%20FAQ%20Collapse/012-faq-collapse-1.png)
+
+![FAQ Collapse - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012%20-%20FAQ%20Collapse/012-faq-collapse-2.png)
+
+![FAQ Collapse - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012%20-%20FAQ%20Collapse/012-faq-collapse-3.png)
 
 ## Day 13
 
 ### [13. Random Choice Picker](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013%20-%20Random%20Choice%20Picker)
 
+![Random Choice Picker - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013%20-%20Random%20Choice%20Picker/013-random-choice-picker-1.png)
+
+![Random Choice Picker - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013%20-%20Random%20Choice%20Picker/013-random-choice-picker-2.png)
+
+![Random Choice Picker - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013%20-%20Random%20Choice%20Picker/013-random-choice-picker-3.png)
+
 ## Day 14
 
 ### [14. Animated Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014%20-%20Animated%20Navigation)
+
+![Animated Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/014%20-%20Animated%20Navigation/014-animated-navigation-1.png)
+
+![Animated Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/014%20-%20Animated%20Navigation/014-animated-navigation-2.png)
 
 ## Day 15
 
 ### [15. Incrementing Counter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015%20-%20Incrementing%20Counter)
 
+![Incrementing Counter - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/015%20-%20Incrementing%20Counter/015-incrementing-counter-1.png)
+
+![Incrementing Counter - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/015%20-%20Incrementing%20Counter/015-incrementing-counter-2.png)
+
 ## Day 16
 
 ### [16. Drink Water](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016%20-%20Drink%20Water)
+
+![Drink Water - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016%20-%20Drink%20Water/016-drink-water-1.png)
+
+![Drink Water - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016%20-%20Drink%20Water/016-drink-water-2.png)
+
+![Drink Water - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016%20-%20Drink%20Water/016-drink-water-3.png)
+
+![Drink Water - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016%20-%20Drink%20Water/016-drink-water-4.png)
+
+![Drink Water - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/016%20-%20Drink%20Water/016-drink-water-5.png)
 
 ## Day 17
 
 ### [17. Movie App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017%20-%20Movie%20App)
 
+![Movie App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017%20-%20Movie%20App/017-movie-app-1.png)
+
+![Movie App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017%20-%20Movie%20App/017-movie-app-2.png)
+
+![Movie App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017%20-%20Movie%20App/017-movie-app-3.png)
+
+![Movie App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017%20-%20Movie%20App/017-movie-app-4.png)
+
+![Movie App - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/017%20-%20Movie%20App/017-movie-app-5.png)
+
 ## Day 18
 
 ### [18. Background Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018%20-%20Background%20Slider)
+
+![Background Slider - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-1.png)
+
+![Background Slider - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-2.png)
+
+![Background Slider - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-3.png)
+
+![Background Slider - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-4.png)
+
+![Background Slider - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-5.png)
+
+![Background Slider - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-6.png)
+
+![Background Slider - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-7.png)
+
+![Background Slider - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-8.png)
+
+![Background Slider - Image 9](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-9.png)
+
+![Background Slider - Image 10](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/018%20-%20Background%20Slider/018-background-slider-10.png)
 
 ## Day 19
 
 ### [19. Theme Clock](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019%20-%20Theme%20Clock)
 
+![Theme Clock - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019%20-%20Theme%20Clock/019-theme-clock-1.png)
+
+![Theme Clock - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019%20-%20Theme%20Clock/019-theme-clock-2.png)
+
+![Theme Clock - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/019%20-%20Theme%20Clock/019-theme-clock-3.png)
+
 ## Day 20
 
 ### [20. Button Ripple Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020%20-%20Button%20Ripple%20Effect)
+
+![Button Ripple Effect - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/020%20-%20Button%20Ripple%20Effect/020-button-ripple-effect-1.png)
+
+![Button Ripple Effect - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/020%20-%20Button%20Ripple%20Effect/020-button-ripple-effect-2.png)
+
+![Button Ripple Effect - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/020%20-%20Button%20Ripple%20Effect/020-button-ripple-effect-3.png)
 
 ## Day 21
 
 ### [21. Drag N Drop](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021%20-%20Drag%20N%20Drop)
 
+![Drag N Drop - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-1.png)
+
+![Drag N Drop - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-2.png)
+
+![Drag N Drop - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-3.png)
+
+![Drag N Drop - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-4.png)
+
+![Drag N Drop - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-5.png)
+
+![Drag N Drop - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-6.png)
+
+![Drag N Drop - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-7.png)
+
+![Drag N Drop - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/021%20-%20Drag%20N%20Drop/021-drag-n-drop-8.png)
+
 ## Day 22
 
 ### [22. Drawing App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022%20-%20Drawing%20App)
+
+![Drawing App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022%20-%20Drawing%20App/022-drawing-app-1.png)
+
+![Drawing App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022%20-%20Drawing%20App/022-drawing-app-2.png)
+
+![Drawing App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022%20-%20Drawing%20App/022-drawing-app-3.png)
+
+![Drawing App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/022%20-%20Drawing%20App/022-drawing-app-4.png)
 
 ## Day 23
 
 ### [23. Kinetic CSS Loader](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023%20-%20Kinetic%20CSS%20Loader)
 
+![Kinetic CSS Loader - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023%20-%20Kinetic%20CSS%20Loader/023-kinetic-css-loader-1.png)
+
+![Kinetic CSS Loader - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023%20-%20Kinetic%20CSS%20Loader/023-kinetic-css-loader-2.png)
+
+![Kinetic CSS Loader - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023%20-%20Kinetic%20CSS%20Loader/023-kinetic-css-loader-3.png)
+
+![Kinetic CSS Loader - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/023%20-%20Kinetic%20CSS%20Loader/023-kinetic-css-loader-4.png)
+
 ## Day 24
 
 ### [24. Content Placeholder](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024%20-%20Content%20Placeholder)
+
+![Content Placeholder - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024%20-%20Content%20Placeholder/024-content-placeholder-1.png)
+
+![Content Placeholder - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024%20-%20Content%20Placeholder/024-content-placeholder-2.png)
+
+![Content Placeholder - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024%20-%20Content%20Placeholder/024-content-placeholder-3.png)
+
+![Content Placeholder - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/024%20-%20Content%20Placeholder/024-content-placeholder-4.png)
 
 ## Day 25
 
 ### [25. Sticky Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025%20-%20Sticky%20Navigation)
 
+![Sticky Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/025%20-%20Sticky%20Navigation/025-sticky-navigation-1.png)
+
+![Sticky Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/025%20-%20Sticky%20Navigation/025-sticky-navigation-2.png)
+
 ## Day 26
 
 ### [26. Double Vertical Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026%20-%20Double%20Vertical%20Slider)
+
+![Double Vertical Slider - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026%20-%20Double%20Vertical%20Slider/026-double-vertical-slider-1.png)
+
+![Double Vertical Slider - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026%20-%20Double%20Vertical%20Slider/026-double-vertical-slider-2.png)
+
+![Double Vertical Slider - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026%20-%20Double%20Vertical%20Slider/026-double-vertical-slider-3.png)
+
+![Double Vertical Slider - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/026%20-%20Double%20Vertical%20Slider/026-double-vertical-slider-4.png)
 
 ## Day 27
 
 ### [27. Toast Notifications](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027%20-%20Toast%20Notifications)
 
+![Toast Notifications - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027%20-%20Toast%20Notifications/027-toast-notifications-1.png)
+
+![Toast Notifications - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027%20-%20Toast%20Notifications/027-toast-notifications-2.png)
+
+![Toast Notifications - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027%20-%20Toast%20Notifications/027-toast-notifications-3.png)
+
 ## Day 28
 
 ### [28. GitHub Profiles](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028%20-%20GitHub%20Profiles)
+
+![GitHub Profiles - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028%20-%20GitHub%20Profiles/028-github-profiles-1.png)
+
+![GitHub Profiles - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028%20-%20GitHub%20Profiles/028-github-profiles-2.png)
+
+![GitHub Profiles - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028%20-%20GitHub%20Profiles/028-github-profiles-3.png)
+
+![GitHub Profiles - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/028%20-%20GitHub%20Profiles/028-github-profiles-4.png)
 
 ## Day 29
 
 ### [29. Double Click Heart](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029%20-%20Double%20Click%20Heart)
 
+![Double Click Heart - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-1.png)
+
+![Double Click Heart - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-2.png)
+
+![Double Click Heart - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-3.png)
+
+![Double Click Heart - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-4.png)
+
+![Double Click Heart - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-5.png)
+
+![Double Click Heart - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029%20-%20Double%20Click%20Heart/029-double-click-heart-6.png)
+
 ## Day 30
 
 ### [30 - Auto Text Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030%20-%20Auto%20Text%20Effect)
+
+![Auto Text Effect - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030%20-%20Auto%20Text%20Effect/030-auto-text-effect-1.png)
+
+![Auto Text Effect - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030%20-%20Auto%20Text%20Effect/030-auto-text-effect-2.png)
+
+![Auto Text Effect - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030%20-%20Auto%20Text%20Effect/030-auto-text-effect-3.png)
+
+![Auto Text Effect - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030%20-%20Auto%20Text%20Effect/030-auto-text-effect-4.png)
+
+![Auto Text Effect - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/030%20-%20Auto%20Text%20Effect/030-auto-text-effect-5.png)
 
 ## Day 31
 
 ### [31. Password Generator](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031%20-%20Password%20Generator)
 
+![Password Generator - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-1.png)
+
+![Password Generator - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-2.png)
+
+![Password Generator - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-3.png)
+
+![Password Generator - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-4.png)
+
+![Password Generator - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-5.png)
+
+![Password Generator - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/031%20-%20Password%20Generator/031-password-generator-6.png)
+
 ## Day 32
 
 ### [32. Good, Cheap, Fast Checkboxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes)
+
+![Good, Cheap, Fast Checkboxes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/032-good-cheap-fast-checkboxes-1.png)
+
+![Good, Cheap, Fast Checkboxes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/032-good-cheap-fast-checkboxes-2.png)
+
+![Good, Cheap, Fast Checkboxes - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/032-good-cheap-fast-checkboxes-3.png)
+
+![Good, Cheap, Fast Checkboxes - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/032-good-cheap-fast-checkboxes-4.png)
+
+![Good, Cheap, Fast Checkboxes - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/032%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/032-good-cheap-fast-checkboxes-5.png)
 
 ## Day 33
 
 ### [33. Notes App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033%20-%20Notes%20App)
 
+![Notes App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033%20-%20Notes%20App/033-notes-app-1.png)
+
+![Notes App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033%20-%20Notes%20App/033-notes-app-2.png)
+
+![Notes App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033%20-%20Notes%20App/033-notes-app-3.png)
+
+![Notes App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/033%20-%20Notes%20App/033-notes-app-4.png)
+
 ## Day 34
 
 ### [34. Animated Countdown](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034%20-%20Animated%20Countdown)
+
+![Animated Countdown - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034%20-%20Animated%20Countdown/034-animated-countdown-1.png)
+
+![Animated Countdown - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034%20-%20Animated%20Countdown/034-animated-countdown-2.png)
+
+![Animated Countdown - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034%20-%20Animated%20Countdown/034-animated-countdown-3.png)
+
+![Animated Countdown - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034%20-%20Animated%20Countdown/034-animated-countdown-4.png)
+
+![Animated Countdown - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/034%20-%20Animated%20Countdown/034-animated-countdown-5.png)
 
 ## Day 35
 
 ### [35. Image Carousel](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/035%20-%20Image%20Carousel)
 
+![Image Carousel - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035%20-%20Image%20Carousel/035-image-carousel-1.png)
+
+![Image Carousel - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035%20-%20Image%20Carousel/035-image-carousel-2.png)
+
+![Image Carousel - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035%20-%20Image%20Carousel/035-image-carousel-3.png)
+
 ## Day 36
 
 ### [36. Hoverboard](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/036%20-%20Hoverboard)
+
+![Hoverboard - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036%20-%20Hoverboard/036-hoverboard-1.png)
+
+![Hoverboard - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036%20-%20Hoverboard/036-hoverboard-2.png)
+
+![Hoverboard - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036%20-%20Hoverboard/036-hoverboard-3.png)
+
+![Hoverboard - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036%20-%20Hoverboard/036-hoverboard-4.png)
+
+![Hoverboard - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/036%20-%20Hoverboard/036-hoverboard-5.png)
 
 ## Day 37
 
 ### [37. Pokedex](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037%20-%20Pokedex)
 
+![Pokedex - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/037%20-%20Pokedex/037-pokedex-1.png)
+
+![Pokedex - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/037%20-%20Pokedex/037-pokedex-2.png)
+
+![Pokedex - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/037%20-%20Pokedex/037-pokedex-3.png)
+
 ## Day 38
 
 ### [38. Mobile Tab Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038%20-%20Mobile%20Tab%20Navigation)
+
+![Mobile Tab Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038%20-%20Mobile%20Tab%20Navigation/038-mobile-tab-navigation-1.png)
+
+![Mobile Tab Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038%20-%20Mobile%20Tab%20Navigation/038-mobile-tab-navigation-2.png)
+
+![Mobile Tab Navigation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038%20-%20Mobile%20Tab%20Navigation/038-mobile-tab-navigation-3.png)
+
+![Mobile Tab Navigation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/038%20-%20Mobile%20Tab%20Navigation/038-mobile-tab-navigation-4.png)
 
 ## Day 39
 
 ### [39. Password Strength Background](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039%20-%20Password%20Strength%20Background)
 
+![Password Strength Background - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-1.png)
+
+![Password Strength Background - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-2.png)
+
+![Password Strength Background - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-3.png)
+
+![Password Strength Background - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-4.png)
+
+![Password Strength Background - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-5.png)
+
+![Password Strength Background - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-6.png)
+
+![Password Strength Background - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/039%20-%20Password%20Strength%20Background/039-password-strength-background-7.png)
+
 ## Day 40
 
 ### [40. 3D Background Boxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040%20-%203D%20Background%20Boxes)
+
+![3D Background Boxes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040%20-%203D%20Background%20Boxes/040-3d-background-boxes-1.png)
+
+![3D Background Boxes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040%20-%203D%20Background%20Boxes/040-3d-background-boxes-2.png)
+
+![3D Background Boxes - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040%20-%203D%20Background%20Boxes/040-3d-background-boxes-3.png)
+
+![3D Background Boxes - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/040%20-%203D%20Background%20Boxes/040-3d-background-boxes-4.png)
 
 ## Day 41
 
 ### [41. Verify Account UI](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/041%20-%20Verify%20Account%20UI)
 
+![Verify Account UI - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041%20-%20Verify%20Account%20UI/041-verify-account-ui-1.png)
+
+![Verify Account UI - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041%20-%20Verify%20Account%20UI/041-verify-account-ui-2.png)
+
+![Verify Account UI - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041%20-%20Verify%20Account%20UI/041-verify-account-ui-3.png)
+
+![Verify Account UI - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041%20-%20Verify%20Account%20UI/041-verify-account-ui-4.png)
+
+![Verify Account UI - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/041%20-%20Verify%20Account%20UI/041-verify-account-ui-5.png)
+
 ## Day 42
 
 ### [42. Live User Filter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/042%20-%20Live%20User%20Filter)
+
+![Live User Filter - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042%20-%20Live%20User%20Filter/042-live-user-filter-1.png)
+
+![Live User Filter - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042%20-%20Live%20User%20Filter/042-live-user-filter-2.png)
+
+![Live User Filter - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042%20-%20Live%20User%20Filter/042-live-user-filter-3.png)
+
+![Live User Filter - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042%20-%20Live%20User%20Filter/042-live-user-filter-4.png)
+
+![Live User Filter - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/042%20-%20Live%20User%20Filter/042-live-user-filter-5.png)
 
 ## Day 43
 
 ### [43. Feedback UI Design](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/043%20-%20Feedback%20UI%20Design)
 
+![Feedback UI Design - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043%20-%20Feedback%20UI%20Design/043-feedback-ui-design-1.png)
+
+![Feedback UI Design - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043%20-%20Feedback%20UI%20Design/043-feedback-ui-design-2.png)
+
+![Feedback UI Design - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043%20-%20Feedback%20UI%20Design/043-feedback-ui-design-3.png)
+
+![Feedback UI Design - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/043%20-%20Feedback%20UI%20Design/043-feedback-ui-design-4.png)
+
 ## Day 44
 
 ### [44. Custom Range Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044%20-%20Custom%20Range%20Slider)
+
+![Custom Range Slider - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044%20-%20Custom%20Range%20Slider/044-custom-range-slider-1.png)
+
+![Custom Range Slider - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044%20-%20Custom%20Range%20Slider/044-custom-range-slider-2.png)
+
+![Custom Range Slider - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044%20-%20Custom%20Range%20Slider/044-custom-range-slider-3.png)
 
 ## Day 45
 
 ### [45. Netflix Mobile Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045%20-%20Netflix%20Mobile%20Navigation)
 
+![Netflix Mobile Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045%20-%20Netflix%20Mobile%20Navigation/045-netflix-mobile-navigation-1.png)
+
+![Netflix Mobile Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045%20-%20Netflix%20Mobile%20Navigation/045-netflix-mobile-navigation-2.png)
+
+![Netflix Mobile Navigation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045%20-%20Netflix%20Mobile%20Navigation/045-netflix-mobile-navigation-3.png)
+
+![Netflix Mobile Navigation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/045%20-%20Netflix%20Mobile%20Navigation/045-netflix-mobile-navigation-4.png)
+
 ## Day 46
 
 ### [46. Quiz App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046%20-%20Quiz%20App)
+
+![Quiz App - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046%20-%20Quiz%20App/046-quiz-app-1.png)
+
+![Quiz App - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046%20-%20Quiz%20App/046-quiz-app-2.png)
+
+![Quiz App - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046%20-%20Quiz%20App/046-quiz-app-3.png)
+
+![Quiz App - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/046%20-%20Quiz%20App/046-quiz-app-4.png)
 
 ## Day 47
 
 ### [47. Testimonial Box Switcher](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047%20-%20Testimonial%20Box%20Switcher)
 
+![Testimonial Box Switcher - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047%20-%20Testimonial%20Box%20Switcher/047-testimonial-box-switcher-1.png)
+
+![Testimonial Box Switcher - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047%20-%20Testimonial%20Box%20Switcher/047-testimonial-box-switcher-2.png)
+
+![Testimonial Box Switcher - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047%20-%20Testimonial%20Box%20Switcher/047-testimonial-box-switcher-3.png)
+
+![Testimonial Box Switcher - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047%20-%20Testimonial%20Box%20Switcher/047-testimonial-box-switcher-4.png)
+
+![Testimonial Box Switcher - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/047%20-%20Testimonial%20Box%20Switcher/047-testimonial-box-switcher-5.png)
+
 ## Day 48
 
 ### [48. Random Image Feed](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048%20-%20Random%20Image%20Feed)
+
+![Random Image Feed - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048%20-%20Random%20Image%20Feed/048-random-image-feed-1.png)
+
+![Random Image Feed - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048%20-%20Random%20Image%20Feed/048-random-image-feed-2.png)
+
+![Random Image Feed - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048%20-%20Random%20Image%20Feed/048-random-image-feed-3.png)
+
+![Random Image Feed - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/048%20-%20Random%20Image%20Feed/048-random-image-feed-4.png)
 
 ## Day 49
 
 ### [49. Todo List](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049%20-%20Todo%20List)
 
+![Todo List - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-1.png)
+
+![Todo List - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-2.png)
+
+![Todo List - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-3.png)
+
+![Todo List - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-4.png)
+
+![Todo List - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-5.png)
+
+![Todo List - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-6.png)
+
+![Todo List - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-7.png)
+
+![Todo List - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049%20-%20Todo%20List/049-todo-list-8.png)
+
 ## Day 50
 
 ### [50. Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050%20-%20Insect%20Catch%20Game)
+
+![Insect Catch Game - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-1.png)
+
+![Insect Catch Game - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-2.png)
+
+![Insect Catch Game - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-3.png)
+
+![Insect Catch Game - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-4.png)
+
+![Insect Catch Game - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-5.png)
+
+![Insect Catch Game - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-6.png)
+
+![Insect Catch Game - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050%20-%20Insect%20Catch%20Game/050-insect-catch-game-7.png)
 
 </details>
 
