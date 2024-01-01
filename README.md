@@ -254,13 +254,13 @@ ate
 
 </blockquote></details>
 
-<div align="right"><a href="#top">(back to top)</a></div>
+<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
 <hr><a id="about-section"></a>
 <details open>
 <summary><h2>📖 About The Project</h2></summary>
 </details>
 
-<div align="right"><a href="#top">(back to top)</a></div>
+<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
 <hr><a id="gallery-section"></a>
 <details open>
 
@@ -286,6 +286,7 @@ ate
 View More Images 🌌
 </summary>
 
+<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
 <hr>
 <div align="center">
 <table>
@@ -338,6 +339,7 @@ View More Images 🌌
 </div>
 </details>
 
+<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
 <hr>
 
 
@@ -422,12 +424,14 @@ body {
 
 </details>
 
+<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
 <hr>
 
 <details>
 <summary><h2>💡 Usage, Tips & Notes</h2></summary>
 </details>
 
+<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
 <hr>
 
 <details open>
@@ -2833,6 +2837,7 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 
 </details>
 
+<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
 <hr>
 
 <details open>
@@ -2864,6 +2869,7 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 
 </details>
 
+<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
 <hr>
 
 <details open>
@@ -2877,6 +2883,7 @@ Be sure to view the setup guide in the README, as well as any specific README fi
 [![My Website](https://custom-icon-badges.demolab.com/badge/My%20Website-www.jordanmuller.com-a61168?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com/)
 </details>
 
+<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
 <hr>
 
 <details open>
@@ -2890,6 +2897,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 
 </details>
 
+<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
 <hr>
 
 <details open>
@@ -2900,3 +2908,5 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/)
 
 </details>
+<br>
+<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
