@@ -155,29 +155,8 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 
 <details open><summary><h2>Table of Contents 🗃️</h2></summary><blockquote>
 
-<details><summary>📖 About The Project</summary><blockquote>
+📖 <a href="#about-section">About The Project</a>
 
-<details><summary>Built With</summary><blockquote>
-
-~~~
-a
-b
-c
-~~~
-</blockquote></details>
-<details><summary> nest2 </summary><blockquote>
-
-a
-b
-c
-</blockquote></details>
-
-~~~
-file1
-file2
-file3
-~~~
-</blockquote></details>
 
 <details><summary>🖼️ Image Gallery</summary><blockquote>
 <br>
@@ -256,56 +235,59 @@ r
 </blockquote></details>
 
 <details><summary>🔍 Section Overviews</summary><blockquote>
-- [Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
-  - [Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps)
-  - [Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation)
-  - [Hidden Search Widget](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004-Hidden-Search-Widget)
-  - [Blurry Loading](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/005-Blurry-Loading)
-  - [Scroll Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006-Scroll-Animation)
-  - [Split Landing Page](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/007-Split-Landing-Page)
-  - [Form Wave Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008-Form-Wave-Animation)
-  - [Sound Board](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009-Sound-Board)
-  -  [Dad Jokes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010-Dad-Jokes)
-  - [Event KeyCodes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011-Event-KeyCodes)
-  - [FAQ Collapse](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012-FAQ-Collapse)
-  - [Random Choice Picker](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013-Random-Choice-Picker)
-  - [Animated Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014-Animated-Navigation)
-  - [Incrementing Counter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015-Incrementing-Counter)
-  - [Drink Water](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016-Drink-Water)
-  - [Movie App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017-Movie-App)
-  - [Background Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018-Background-Slider)
-  - [Theme Clock](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019-Theme-Clock)
-  - [Button Ripple Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020-Button-Ripple-Effect)
-  1.  [Drag N Drop](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021-Drag-N-Drop)
-  2.  [Drawing App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022-Drawing-App)
-  3.  [Kinetic CSS Loader](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023-Kinetic-CSS-Loader)
-  4.  [Content Placeholder](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024-Content-Placeholder)
-  5.  [Sticky Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025-Sticky-Navigation)
-  6.  [Double Vertical Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026-Double-Vertical-Slider)
-  7.  [Toast Notifications](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027-Toast-Notifications)
-  8.  [GitHub Profiles](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028-GitHub-Profiles)
-  9.  [Double Click Heart](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029-Double-Click-Heart)
-  10. [Auto Text Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030-Auto-Text-Effect)
-  11. [Password Generator](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031-Password-Generator)
-  12. [Good/Cheap/Fast Checkboxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/032-Good-Cheap-Fast-Checkboxes)
-  13. [Notes App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033-Notes-App)
-  14. [Animated Countdown](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034-Animated-Countdown)
-  15. [Image Carousel](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/035-Image-Carousel)
-  16. [Hoverboard](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/036-Hoverboard)
-  17. [Pokedex](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037-Pokedex)
-  18. [Mobile Tab Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038-Mobile-Tab-Navigation)
-  19. [Password Strength Background](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039-Password-Strength-Background)
-  20. [3D Background Boxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040-3D-Background-Boxes)
-  21. [Verify Account UI](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/041-Verify-Account-UI)
-  22. [Live User Filter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/042-Live-User-Filter)
-  23. [Feedback UI Design](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/043-Feedback-UI-Design)
-  24. [Custom Range Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044-Custom-Range-Slider)
-  25. [Netflix Mobile Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045-Netflix-Mobile-Navigation)
-  26. [Quiz App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046-Quiz-App)
-  27. [Testimonial Box Switcher](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047-Testimonial-Box-Switcher)
-  28. [Random Image Feed](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048-Random-Image-Feed)
-  29. [Todo List](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049-Todo-List)
-  30. [Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050-Insect-Catch-Game)
+
+- <strong>Projects</strong>
+  * [Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
+  * [Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps)
+  * [Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation)
+  * [Hidden Search Widget](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004-Hidden-Search-Widget)
+  * [Blurry Loading](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/005-Blurry-Loading)
+  * [Scroll Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006-Scroll-Animation)
+  * [Split Landing Page](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/007-Split-Landing-Page)
+  * [Form Wave Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008-Form-Wave-Animation)
+  * [Sound Board](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009-Sound-Board)
+  * [Dad Jokes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010-Dad-Jokes)
+  * [Event KeyCodes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011-Event-KeyCodes)
+  * [FAQ Collapse](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012-FAQ-Collapse)
+  * [Random Choice Picker](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013-Random-Choice-Picker)
+  * [Animated Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014-Animated-Navigation)
+  * [Incrementing Counter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015-Incrementing-Counter)
+  * [Drink Water](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016-Drink-Water)
+  * [Movie App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017-Movie-App)
+  * [Background Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018-Background-Slider)
+  * [Theme Clock](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019-Theme-Clock)
+  * [Button Ripple Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020-Button-Ripple-Effect)
+  * [Drag N Drop](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021-Drag-N-Drop)
+  * [Drawing App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022-Drawing-App)
+  * [Kinetic CSS Loader](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023-Kinetic-CSS-Loader)
+  * [Content Placeholder](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024-Content-Placeholder)
+  * [Sticky Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025-Sticky-Navigation)
+  * [Double Vertical Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026-Double-Vertical-Slider)
+  * [Toast Notifications](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027-Toast-Notifications)
+  * [GitHub Profiles](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028-GitHub-Profiles)
+  * [Double Click Heart](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029-Double-Click-Heart)
+  * [Auto Text Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030-Auto-Text-Effect)
+  * [Password Generator](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031-Password-Generator)
+  * [Good/Cheap/Fast Checkboxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/032-Good-Cheap-Fast-Checkboxes)
+  * [Notes App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033-Notes-App)
+  * [Animated Countdown](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034-Animated-Countdown)
+  * [Image Carousel](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/035-Image-Carousel)
+  * [Hoverboard](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/036-Hoverboard)
+  * [Pokedex](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037-Pokedex)
+  * [Mobile Tab Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038-Mobile-Tab-Navigation)
+  * [Password Strength Background](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039-Password-Strength-Background)
+  * [3D Background Boxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040-3D-Background-Boxes)
+  * [Verify Account UI](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/041-Verify-Account-UI)
+  * [Live User Filter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/042-Live-User-Filter)
+  * [Feedback UI Design](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/043-Feedback-UI-Design)
+  * [Custom Range Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044-Custom-Range-Slider)
+  * [Netflix Mobile Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045-Netflix-Mobile-Navigation)
+  * [Quiz App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046-Quiz-App)
+  * [Testimonial Box Switcher](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047-Testimonial-Box-Switcher)
+  * [Random Image Feed](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048-Random-Image-Feed)
+  * [Todo List](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049-Todo-List)
+  * [Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050-Insect-Catch-Game)
+
 </blockquote></details>
 
 <details><summary>🌟 Acknowledgements</summary><blockquote>
@@ -314,19 +296,19 @@ you
 everyone
 </blockquote></details>
 
-<details><summary>📬 Contact Info</summary><blockquote>
+<details><summary>📬 Contact Information</summary><blockquote>
 lib
 er
 ate
 </blockquote></details>
 
-<details><summary>📜 License Info</summary><blockquote>
+<details><summary>📜 License Information</summary><blockquote>
 lib
 er
 ate
 </blockquote></details>
 
-<details><summary>🔗 Resources, Links & Citations</summary><blockquote>
+<details><summary>🔗 Resources & Citations</summary><blockquote>
 lib
 er
 ate
@@ -337,7 +319,7 @@ ate
 <hr>
 
 <details open>
-<summary><h2>📖 About The Project</h2></summary>
+<summary><h2><a id="about-section">📖 About The Project</a></h2></summary>
 </details>
 
 <hr>
@@ -2868,7 +2850,7 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 <hr>
 
 <details open>
-<summary><h2>📬 Contact Info</h2></summary>
+<summary><h2>📬 Contact Information</h2></summary>
 Please feel free to reach out if you have any suggestions or run into any issues with viewing this project. I'm always looking for feedback from other people! I'd be more than happy to answer any questions you may have as well as assist with getting the project working on your machine.<br/>
 
 Be sure to view the setup guide in the README, as well as any specific README files for that specific project as they contain more details and may already have the answer to your question(s)!
@@ -2881,7 +2863,7 @@ Be sure to view the setup guide in the README, as well as any specific README fi
 <hr>
 
 <details open>
-<summary><h2>📜 License Info</h2></summary>
+<summary><h2>📜 License Information</h2></summary>
 
 The content within this repository was created as part of a personal educational project, following the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/). This repository is intended for personal use only and serves as a record of my learning progress. This repository & the content within it are not intended for commercial use, distribution, or replication. All rights to the original course content and methodologies belong to the respective copyright holders.
 
@@ -2894,7 +2876,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <hr>
 
 <details open>
-<summary><h2>🔗 Resources, Links & Citations</h2></summary>
+<summary><h2>🔗 Resources & Citations</h2></summary>
 
 <h3>Course Details</h3>
 
