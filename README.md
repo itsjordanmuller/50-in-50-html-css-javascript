@@ -157,70 +157,7 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 
 📖 <a href="#about-section">About The Project</a>
 
-
-<details><summary>🖼️ Image Gallery</summary><blockquote>
-<br>
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Cover Images</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" width="100%"></td>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" width="100%"></td>
-  </tr>
-</tbody>
-</table>
-<hr>
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Day 1 - Expanding Cards</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Portfolio Link</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-1.png" alt="Expanding Cards - Desktop View" width="100%"></td>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-4.png" alt="Expanding Cards - Mobile View" width="100%"></td>
-  </tr>
-  <tr align="center">
-    <td>Desktop</td>
-    <td>Mobile</td>
-  </tr>
-</tbody>
-</table>
-<hr>
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Day 2 - Progress Steps</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View On Portfolio Site</a></td>
-  </tr>
-  <!-- <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
-  </tr> -->
-  <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
-  </tr>
-    <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">Desktop</td>
-  </tr>
-</tbody>
-</table>
-</blockquote></details>
+🖼️ <a href="#gallery-section">Image Gallery</a>
 
 <details><summary>🛠️ Setup Instructions</summary><blockquote>
 x
@@ -323,6 +260,84 @@ ate
 </details>
 
 <hr>
+<details open>
+<summary><h2>🖼️ Image Gallery</h2></summary>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Cover Images</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" width="100%"></td>
+  </tr>
+</tbody>
+</table>
+<details>
+<summary align="center">
+View More Images 🌌
+</summary>
+
+<hr>
+<a id="gallery-section"></a>
+<div align="center">
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Day 1 - Expanding Cards</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Portfolio Link</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-1.png" alt="Expanding Cards - Desktop View" width="100%"></td>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-4.png" alt="Expanding Cards - Mobile View" width="100%"></td>
+  </tr>
+  <tr align="center">
+    <td>Desktop</td>
+    <td>Mobile</td>
+  </tr>
+</tbody>
+</table>
+<hr>
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Day 2 - Progress Steps</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View On Portfolio Site</a></td>
+  </tr>
+  <!-- <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
+  </tr> -->
+  <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">Desktop</td>
+  </tr>
+</tbody>
+</table>
+</details>
+</div>
+</details>
+
+<hr>
+
 
 <details>
 <summary><h2>🛠️ Setup Instructions</h2></summary>
