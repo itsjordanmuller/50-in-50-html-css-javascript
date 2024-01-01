@@ -1,3 +1,4 @@
+<a id="top"></a>
 <div align="center">
 
 <img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" height="180px"><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" height="180px"><br>
@@ -253,12 +254,13 @@ ate
 
 </blockquote></details>
 
-<hr>
-
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr><a id="about-section"></a>
 <details open>
-<summary><h2><a id="about-section">📖 About The Project</a></h2></summary>
+<summary><h2>📖 About The Project</h2></summary>
 </details>
 
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr><a id="gallery-section"></a>
 <details open>
 
