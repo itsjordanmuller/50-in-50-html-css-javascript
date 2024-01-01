@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" height="200px"><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" height="200px"><br>
+<img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" height="180px"><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" height="180px"><br>
 
-# 50 Projects in 50 Days<br/>HTML/CSS/JavaScript
+<h1>50 Projects in 50 Days<br/>HTML/CSS/JavaScript</h1>
 
 <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/50%20Projects%20in%2050%20Days-282A36.svg?style=for-the-badge&logo=package&logoColor=E34F26" width="100%"/></a>
 
@@ -67,122 +67,283 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 
 </details>
 
+<hr>
+
 ## Projects
 
-<img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?logo=star-fill&logoColor=000000" alt="Expanding Cards" />
-<img src="https://custom-icon-badges.demolab.com/badge/Progress%20Steps-ffbbb2.svg?logo=star-fill&logoColor=000000" alt="Progress Steps" />
-<img src="https://custom-icon-badges.demolab.com/badge/Rotating%20Navigation-ffc4b2.svg?logo=star-fill&logoColor=000000" alt="Rotating Navigation" />
-<img src="https://custom-icon-badges.demolab.com/badge/Hidden%20Search%20Widget-ffceb2.svg?logo=star-fill&logoColor=000000" alt="Hidden Search Widget" />
-<img src="https://custom-icon-badges.demolab.com/badge/Blurry%20Loading-ffd7b2.svg?logo=star-fill&logoColor=000000" alt="Blurry Loading" />
-<img src="https://custom-icon-badges.demolab.com/badge/Scroll%20Animation-ffe0b2.svg?logo=star-fill&logoColor=000000" alt="Scroll Animation" />
-<img src="https://custom-icon-badges.demolab.com/badge/Split%20Landing%20Page-ffe9b2.svg?logo=star-fill&logoColor=000000" alt="Split Landing Page" />
-<img src="https://custom-icon-badges.demolab.com/badge/Form%20Wave%20Animation-fff2b2.svg?logo=star-fill&logoColor=000000" alt="Form Wave Animation" />
-<img src="https://custom-icon-badges.demolab.com/badge/Sound%20Board-fffbb2.svg?logo=star-fill&logoColor=000000" alt="Sound Board" />
-<img src="https://custom-icon-badges.demolab.com/badge/Dad%20Jokes-f8ffb2.svg?logo=star-fill&logoColor=000000" alt="Dad Jokes" />
-<img src="https://custom-icon-badges.demolab.com/badge/Event%20KeyCodes-efffb2.svg?logo=star-fill&logoColor=000000" alt="Event KeyCodes" />
-<img src="https://custom-icon-badges.demolab.com/badge/FAQ%20Collapse-e6ffb2.svg?logo=star-fill&logoColor=000000" alt="FAQ Collapse" />
-<img src="https://custom-icon-badges.demolab.com/badge/Random%20Choice%20Picker-ddffb2.svg?logo=star-fill&logoColor=000000" alt="Random Choice Picker" />
-<img src="https://custom-icon-badges.demolab.com/badge/Animated%20Navigation-d4ffb2.svg?logo=star-fill&logoColor=000000" alt="Animated Navigation" />
-<img src="https://custom-icon-badges.demolab.com/badge/Incrementing%20Counter-caffb2.svg?logo=star-fill&logoColor=000000" alt="Incrementing Counter" />
-<img src="https://custom-icon-badges.demolab.com/badge/Drink%20Water-c1ffb2.svg?logo=star-fill&logoColor=000000" alt="Drink Water" />
-<img src="https://custom-icon-badges.demolab.com/badge/Movie%20App-b8ffb2.svg?logo=star-fill&logoColor=000000" alt="Movie App" />
-<img src="https://custom-icon-badges.demolab.com/badge/Background%20Slider-b2ffb5.svg?logo=star-fill&logoColor=000000" alt="Background Slider" />
-<img src="https://custom-icon-badges.demolab.com/badge/Theme%20Clock-b2ffbe.svg?logo=star-fill&logoColor=000000" alt="Theme Clock" />
-<img src="https://custom-icon-badges.demolab.com/badge/Button%20Ripple%20Effect-b2ffc7.svg?logo=star-fill&logoColor=000000" alt="Button Ripple Effect" />
-<img src="https://custom-icon-badges.demolab.com/badge/Drag%20N%20Drop-b2ffd1.svg?logo=star-fill&logoColor=000000" alt="Drag N Drop" />
-<img src="https://custom-icon-badges.demolab.com/badge/Drawing%20App-b2ffda.svg?logo=star-fill&logoColor=000000" alt="Drawing App" />
-<img src="https://custom-icon-badges.demolab.com/badge/Kinetic%20CSS%20Loader-b2ffe3.svg?logo=star-fill&logoColor=000000" alt="Kinetic CSS Loader" />
-<img src="https://custom-icon-badges.demolab.com/badge/Content%20Placeholder-b2ffec.svg?logo=star-fill&logoColor=000000" alt="Content Placeholder" />
-<img src="https://custom-icon-badges.demolab.com/badge/Sticky%20Navigation-b2fff5.svg?logo=star-fill&logoColor=000000" alt="Sticky Navigation" />
-<img src="https://custom-icon-badges.demolab.com/badge/Double%20Vertical%20Slider-b2ffff.svg?logo=star-fill&logoColor=000000" alt="Double Vertical Slider" />
-<img src="https://custom-icon-badges.demolab.com/badge/Toast%20Notifications-b2f5ff.svg?logo=star-fill&logoColor=000000" alt="Toast Notifications" />
-<img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Profiles-b2ecff.svg?logo=star-fill&logoColor=000000" alt="GitHub Profiles" />
-<img src="https://custom-icon-badges.demolab.com/badge/Double%20Click%20Heart-b2e3ff.svg?logo=star-fill&logoColor=000000" alt="Double Click Heart" />
-<img src="https://custom-icon-badges.demolab.com/badge/Auto%20Text%20Effect-b2daff.svg?logo=star-fill&logoColor=000000" alt="Auto Text Effect" />
-<img src="https://custom-icon-badges.demolab.com/badge/Password%20Generator-b2d1ff.svg?logo=star-fill&logoColor=000000" alt="Password Generator" />
-<img src="https://custom-icon-badges.demolab.com/badge/Good/Cheap/Fast%20Checkboxes-b2c7ff.svg?logo=star-fill&logoColor=000000" alt="Good/Cheap/Fast Checkboxes" />
-<img src="https://custom-icon-badges.demolab.com/badge/Notes%20App-b2beff.svg?logo=star-fill&logoColor=000000" alt="Notes App" />
-<img src="https://custom-icon-badges.demolab.com/badge/Animated%20Countdown-b2b5ff.svg?logo=star-fill&logoColor=000000" alt="Animated Countdown" />
-<img src="https://custom-icon-badges.demolab.com/badge/Image%20Carousel-b8b2ff.svg?logo=star-fill&logoColor=000000" alt="Image Carousel" />
-<img src="https://custom-icon-badges.demolab.com/badge/Hoverboard-c1b2ff.svg?logo=star-fill&logoColor=000000" alt="Hoverboard" />
-<img src="https://custom-icon-badges.demolab.com/badge/Pokedex-cab2ff.svg?logo=star-fill&logoColor=000000" alt="Pokedex" />
-<img src="https://custom-icon-badges.demolab.com/badge/Mobile%20Tab%20Navigation-d4b2ff.svg?logo=star-fill&logoColor=000000" alt="Mobile Tab Navigation" />
-<img src="https://custom-icon-badges.demolab.com/badge/Password%20Strength%20Background-ddb2ff.svg?logo=star-fill&logoColor=000000" alt="Password Strength Background" />
-<img src="https://custom-icon-badges.demolab.com/badge/3D%20Background%20Boxes-e6b2ff.svg?logo=star-fill&logoColor=000000" alt="3D Background Boxes" />
-<img src="https://custom-icon-badges.demolab.com/badge/Verify%20Account%20UI-efb2ff.svg?logo=star-fill&logoColor=000000" alt="Verify Account UI" />
-<img src="https://custom-icon-badges.demolab.com/badge/Live%20User%20Filter-f8b2ff.svg?logo=star-fill&logoColor=000000" alt="Live User Filter" />
-<img src="https://custom-icon-badges.demolab.com/badge/Feedback%20UI%20Design-ffb2fb.svg?logo=star-fill&logoColor=000000" alt="Feedback UI Design" />
-<img src="https://custom-icon-badges.demolab.com/badge/Custom%20Range%20Slider-ffb2f2.svg?logo=star-fill&logoColor=000000" alt="Custom Range Slider" />
-<img src="https://custom-icon-badges.demolab.com/badge/Netflix%20Mobile%20Navigation-ffb2e9.svg?logo=star-fill&logoColor=000000" alt="Netflix Mobile Navigation" />
-<img src="https://custom-icon-badges.demolab.com/badge/Quiz%20App-ffb2e0.svg?logo=star-fill&logoColor=000000" alt="Quiz App" />
-<img src="https://custom-icon-badges.demolab.com/badge/Testimonial%20Box%20Switcher-ffb2d7.svg?logo=star-fill&logoColor=000000" alt="Testimonial Box Switcher" />
-<img src="https://custom-icon-badges.demolab.com/badge/Random%20Image%20Feed-ffb2ce.svg?logo=star-fill&logoColor=000000" alt="Random Image Feed" />
-<img src="https://custom-icon-badges.demolab.com/badge/Todo%20List-ffb2c4.svg?logo=star-fill&logoColor=000000" alt="Todo List" />
-<img src="https://custom-icon-badges.demolab.com/badge/Insect%20Catch%20Game-ffb2bb.svg?logo=star-fill&logoColor=000000" alt="Insect Catch Game" />
-
+<table>
+<tbody>
+  <tr>
+    <td align="center" width="72px">1-10</td>
+    <td align="center">
+      <img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?logo=star-fill&logoColor=000000" alt="Expanding Cards" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Progress%20Steps-ffbbb2.svg?logo=star-fill&logoColor=000000" alt="Progress Steps" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Rotating%20Navigation-ffc4b2.svg?logo=star-fill&logoColor=000000" alt="Rotating Navigation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Hidden%20Search%20Widget-ffceb2.svg?logo=star-fill&logoColor=000000" alt="Hidden Search Widget" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Blurry%20Loading-ffd7b2.svg?logo=star-fill&logoColor=000000" alt="Blurry Loading" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Scroll%20Animation-ffe0b2.svg?logo=star-fill&logoColor=000000" alt="Scroll Animation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Split%20Landing%20Page-ffe9b2.svg?logo=star-fill&logoColor=000000" alt="Split Landing Page" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Form%20Wave%20Animation-fff2b2.svg?logo=star-fill&logoColor=000000" alt="Form Wave Animation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Sound%20Board-fffbb2.svg?logo=star-fill&logoColor=000000" alt="Sound Board" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Dad%20Jokes-f8ffb2.svg?logo=star-fill&logoColor=000000" alt="Dad Jokes" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">11-20</td>
+    <td align="center">
+      <img src="https://custom-icon-badges.demolab.com/badge/Event%20KeyCodes-efffb2.svg?logo=star-fill&logoColor=000000" alt="Event KeyCodes" />
+      <img src="https://custom-icon-badges.demolab.com/badge/FAQ%20Collapse-e6ffb2.svg?logo=star-fill&logoColor=000000" alt="FAQ Collapse" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Random%20Choice%20Picker-ddffb2.svg?logo=star-fill&logoColor=000000" alt="Random Choice Picker" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Animated%20Navigation-d4ffb2.svg?logo=star-fill&logoColor=000000" alt="Animated Navigation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Incrementing%20Counter-caffb2.svg?logo=star-fill&logoColor=000000" alt="Incrementing Counter" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Drink%20Water-c1ffb2.svg?logo=star-fill&logoColor=000000" alt="Drink Water" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Movie%20App-b8ffb2.svg?logo=star-fill&logoColor=000000" alt="Movie App" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Background%20Slider-b2ffb5.svg?logo=star-fill&logoColor=000000" alt="Background Slider" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Theme%20Clock-b2ffbe.svg?logo=star-fill&logoColor=000000" alt="Theme Clock" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Button%20Ripple%20Effect-b2ffc7.svg?logo=star-fill&logoColor=000000" alt="Button Ripple Effect" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">21-30</td>
+    <td align="center">
+      <img src="https://custom-icon-badges.demolab.com/badge/Drag%20N%20Drop-b2ffd1.svg?logo=star-fill&logoColor=000000" alt="Drag N Drop" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Drawing%20App-b2ffda.svg?logo=star-fill&logoColor=000000" alt="Drawing App" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Kinetic%20CSS%20Loader-b2ffe3.svg?logo=star-fill&logoColor=000000" alt="Kinetic CSS Loader" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Content%20Placeholder-b2ffec.svg?logo=star-fill&logoColor=000000" alt="Content Placeholder" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Sticky%20Navigation-b2fff5.svg?logo=star-fill&logoColor=000000" alt="Sticky Navigation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Double%20Vertical%20Slider-b2ffff.svg?logo=star-fill&logoColor=000000" alt="Double Vertical Slider" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Toast%20Notifications-b2f5ff.svg?logo=star-fill&logoColor=000000" alt="Toast Notifications" />
+      <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Profiles-b2ecff.svg?logo=star-fill&logoColor=000000" alt="GitHub Profiles" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Double%20Click%20Heart-b2e3ff.svg?logo=star-fill&logoColor=000000" alt="Double Click Heart" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Auto%20Text%20Effect-b2daff.svg?logo=star-fill&logoColor=000000" alt="Auto Text Effect" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">31-40</td>
+    <td align="center">
+      <img src="https://custom-icon-badges.demolab.com/badge/Password%20Generator-b2d1ff.svg?logo=star-fill&logoColor=000000" alt="Password Generator" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Good/Cheap/Fast%20Checkboxes-b2c7ff.svg?logo=star-fill&logoColor=000000" alt="Good/Cheap/Fast Checkboxes" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Notes%20App-b2beff.svg?logo=star-fill&logoColor=000000" alt="Notes App" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Animated%20Countdown-b2b5ff.svg?logo=star-fill&logoColor=000000" alt="Animated Countdown" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Image%20Carousel-b8b2ff.svg?logo=star-fill&logoColor=000000" alt="Image Carousel" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Hoverboard-c1b2ff.svg?logo=star-fill&logoColor=000000" alt="Hoverboard" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Pokedex-cab2ff.svg?logo=star-fill&logoColor=000000" alt="Pokedex" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Mobile%20Tab%20Navigation-d4b2ff.svg?logo=star-fill&logoColor=000000" alt="Mobile Tab Navigation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Password%20Strength%20Background-ddb2ff.svg?logo=star-fill&logoColor=000000" alt="Password Strength Background" />
+      <img src="https://custom-icon-badges.demolab.com/badge/3D%20Background%20Boxes-e6b2ff.svg?logo=star-fill&logoColor=000000" alt="3D Background Boxes" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">41-50</td>
+    <td align="center">
+      <img src="https://custom-icon-badges.demolab.com/badge/Verify%20Account%20UI-efb2ff.svg?logo=star-fill&logoColor=000000" alt="Verify Account UI" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Live%20User%20Filter-f8b2ff.svg?logo=star-fill&logoColor=000000" alt="Live User Filter" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Feedback%20UI%20Design-ffb2fb.svg?logo=star-fill&logoColor=000000" alt="Feedback UI Design" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Custom%20Range%20Slider-ffb2f2.svg?logo=star-fill&logoColor=000000" alt="Custom Range Slider" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Netflix%20Mobile%20Navigation-ffb2e9.svg?logo=star-fill&logoColor=000000" alt="Netflix Mobile Navigation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Quiz%20App-ffb2e0.svg?logo=star-fill&logoColor=000000" alt="Quiz App" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Testimonial%20Box%20Switcher-ffb2d7.svg?logo=star-fill&logoColor=000000" alt="Testimonial Box Switcher" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Random%20Image%20Feed-ffb2ce.svg?logo=star-fill&logoColor=000000" alt="Random Image Feed" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Todo%20List-ffb2c4.svg?logo=star-fill&logoColor=000000" alt="Todo List" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Insect%20Catch%20Game-ffb2bb.svg?logo=star-fill&logoColor=000000" alt="Insect Catch Game" />
+    </td>
+  </tr>
+</tbody>
+</table>
 </div>
+<hr>
 
-## Table of Contents
+<details open><summary><h2>Table of Contents 🗃️</h2></summary><blockquote>
+
+<details><summary>📖 About The Project</summary><blockquote>
+
+<details><summary>Built With</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+</blockquote></details>
+<details><summary> nest2 </summary><blockquote>
+
+a
+b
+c
+</blockquote></details>
+
+~~~
+file1
+file2
+file3
+~~~
+</blockquote></details>
+
+<details><summary>🖼️ Image Gallery</summary><blockquote>
+<br>
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Cover Images</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" width="100%"></td>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" width="100%"></td>
+  </tr>
+</tbody>
+</table>
+<hr>
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Day 1 - Expanding Cards</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Portfolio Link</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-1.png" alt="Expanding Cards - Desktop View" width="100%"></td>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-4.png" alt="Expanding Cards - Mobile View" width="100%"></td>
+  </tr>
+  <tr align="center">
+    <td>Desktop</td>
+    <td>Mobile</td>
+  </tr>
+</tbody>
+</table>
+<hr>
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Day 2 - Progress Steps</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View On Portfolio Site</a></td>
+  </tr>
+  <!-- <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
+  </tr> -->
+  <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">Desktop</td>
+  </tr>
+</tbody>
+</table>
+</blockquote></details>
+
+<details><summary>🛠️ Setup Instructions</summary><blockquote>
+x
+y
+z
+</blockquote></details>
+
+<details><summary>💡 Usage, Tips & Notes</summary><blockquote>
+p
+q
+r
+</blockquote></details>
+
+<details><summary>🔍 Section Overviews</summary><blockquote>
+- [Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
+  - [Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps)
+  - [Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation)
+  - [Hidden Search Widget](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004-Hidden-Search-Widget)
+  - [Blurry Loading](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/005-Blurry-Loading)
+  - [Scroll Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006-Scroll-Animation)
+  - [Split Landing Page](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/007-Split-Landing-Page)
+  - [Form Wave Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008-Form-Wave-Animation)
+  - [Sound Board](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009-Sound-Board)
+  -  [Dad Jokes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010-Dad-Jokes)
+  - [Event KeyCodes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011-Event-KeyCodes)
+  - [FAQ Collapse](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012-FAQ-Collapse)
+  - [Random Choice Picker](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013-Random-Choice-Picker)
+  - [Animated Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014-Animated-Navigation)
+  - [Incrementing Counter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015-Incrementing-Counter)
+  - [Drink Water](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016-Drink-Water)
+  - [Movie App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017-Movie-App)
+  - [Background Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018-Background-Slider)
+  - [Theme Clock](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019-Theme-Clock)
+  - [Button Ripple Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020-Button-Ripple-Effect)
+  1.  [Drag N Drop](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021-Drag-N-Drop)
+  2.  [Drawing App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022-Drawing-App)
+  3.  [Kinetic CSS Loader](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023-Kinetic-CSS-Loader)
+  4.  [Content Placeholder](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024-Content-Placeholder)
+  5.  [Sticky Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025-Sticky-Navigation)
+  6.  [Double Vertical Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026-Double-Vertical-Slider)
+  7.  [Toast Notifications](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027-Toast-Notifications)
+  8.  [GitHub Profiles](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028-GitHub-Profiles)
+  9.  [Double Click Heart](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029-Double-Click-Heart)
+  10. [Auto Text Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030-Auto-Text-Effect)
+  11. [Password Generator](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031-Password-Generator)
+  12. [Good/Cheap/Fast Checkboxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/032-Good-Cheap-Fast-Checkboxes)
+  13. [Notes App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033-Notes-App)
+  14. [Animated Countdown](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034-Animated-Countdown)
+  15. [Image Carousel](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/035-Image-Carousel)
+  16. [Hoverboard](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/036-Hoverboard)
+  17. [Pokedex](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037-Pokedex)
+  18. [Mobile Tab Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038-Mobile-Tab-Navigation)
+  19. [Password Strength Background](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039-Password-Strength-Background)
+  20. [3D Background Boxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040-3D-Background-Boxes)
+  21. [Verify Account UI](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/041-Verify-Account-UI)
+  22. [Live User Filter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/042-Live-User-Filter)
+  23. [Feedback UI Design](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/043-Feedback-UI-Design)
+  24. [Custom Range Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044-Custom-Range-Slider)
+  25. [Netflix Mobile Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045-Netflix-Mobile-Navigation)
+  26. [Quiz App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046-Quiz-App)
+  27. [Testimonial Box Switcher](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047-Testimonial-Box-Switcher)
+  28. [Random Image Feed](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048-Random-Image-Feed)
+  29. [Todo List](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049-Todo-List)
+  30. [Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050-Insect-Catch-Game)
+</blockquote></details>
+
+<details><summary>🌟 Acknowledgements</summary><blockquote>
+me
+you
+everyone
+</blockquote></details>
+
+<details><summary>📬 Contact Info</summary><blockquote>
+lib
+er
+ate
+</blockquote></details>
+
+<details><summary>📜 License Info</summary><blockquote>
+lib
+er
+ate
+</blockquote></details>
+
+<details><summary>🔗 Resources, Links & Citations</summary><blockquote>
+lib
+er
+ate
+</blockquote></details>
+
+</blockquote></details>
+
+<hr>
+
 <details open>
-<summary>Table of Contents 🗃️</summary>
-
-1. [Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
-2. [Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps)
-3. [Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation)
-4. [Hidden Search Widget](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004-Hidden-Search-Widget)
-5. [Blurry Loading](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/005-Blurry-Loading)
-6. [Scroll Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006-Scroll-Animation)
-7. [Split Landing Page](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/007-Split-Landing-Page)
-8. [Form Wave Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008-Form-Wave-Animation)
-9. [Sound Board](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009-Sound-Board)
-10. [Dad Jokes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010-Dad-Jokes)
-11. [Event KeyCodes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011-Event-KeyCodes)
-12. [FAQ Collapse](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012-FAQ-Collapse)
-13. [Random Choice Picker](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013-Random-Choice-Picker)
-14. [Animated Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014-Animated-Navigation)
-15. [Incrementing Counter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015-Incrementing-Counter)
-16. [Drink Water](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016-Drink-Water)
-17. [Movie App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017-Movie-App)
-18. [Background Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018-Background-Slider)
-19. [Theme Clock](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019-Theme-Clock)
-20. [Button Ripple Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020-Button-Ripple-Effect)
-21. [Drag N Drop](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021-Drag-N-Drop)
-22. [Drawing App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022-Drawing-App)
-23. [Kinetic CSS Loader](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023-Kinetic-CSS-Loader)
-24. [Content Placeholder](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024-Content-Placeholder)
-25. [Sticky Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025-Sticky-Navigation)
-26. [Double Vertical Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026-Double-Vertical-Slider)
-27. [Toast Notifications](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027-Toast-Notifications)
-28. [GitHub Profiles](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028-GitHub-Profiles)
-29. [Double Click Heart](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029-Double-Click-Heart)
-30. [Auto Text Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030-Auto-Text-Effect)
-31. [Password Generator](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031-Password-Generator)
-32. [Good/Cheap/Fast Checkboxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/032-Good-Cheap-Fast-Checkboxes)
-33. [Notes App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033-Notes-App)
-34. [Animated Countdown](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034-Animated-Countdown)
-35. [Image Carousel](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/035-Image-Carousel)
-36. [Hoverboard](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/036-Hoverboard)
-37. [Pokedex](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037-Pokedex)
-38. [Mobile Tab Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038-Mobile-Tab-Navigation)
-39. [Password Strength Background](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039-Password-Strength-Background)
-40. [3D Background Boxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040-3D-Background-Boxes)
-41. [Verify Account UI](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/041-Verify-Account-UI)
-42. [Live User Filter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/042-Live-User-Filter)
-43. [Feedback UI Design](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/043-Feedback-UI-Design)
-44. [Custom Range Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044-Custom-Range-Slider)
-45. [Netflix Mobile Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045-Netflix-Mobile-Navigation)
-46. [Quiz App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046-Quiz-App)
-47. [Testimonial Box Switcher](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047-Testimonial-Box-Switcher)
-48. [Random Image Feed](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048-Random-Image-Feed)
-49. [Todo List](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049-Todo-List)
-50. [Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050-Insect-Catch-Game)
-
+<summary><h2>📖 About The Project</h2></summary>
 </details>
 
-## Project Setup
+<hr>
 
 <details>
-<summary>(Show/Hide) - Project Setup 📑</summary>
+<summary><h2>🛠️ Setup Instructions</h2></summary>
 
 ### [Project Starter Template/Boilerplate](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/000-Project-Starter-Template)
 
@@ -262,14 +423,20 @@ body {
 
 </details>
 
-## Section Overviews
+<hr>
+
+<details>
+<summary><h2>💡 Usage, Tips & Notes</h2></summary>
+</details>
+
+<hr>
 
 <details open>
-<summary>(Hide/Show) - Section Overviews 📑</summary>
+<summary><h2>🔍 Section Overviews</h2></summary>
 
-## Day 1
+### Day 1
 
-### [1. Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
+#### [1. Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Expanding Cards" width="100%"/>
 
@@ -281,22 +448,22 @@ body {
 
 ![Expanding Cards - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-4.png)
 
-## Project Description
+##### Project Description
 
 This project, titled "Expanding Cards," focuses on creating an interactive gallery using HTML, CSS, and JavaScript. The goal was to make an aesthetically pleasing layout where each card expands upon clicking, showcasing different beautiful landscapes. This project serves as an excellent exercise in understanding basic web development concepts and integrating different technologies for a seamless user experience.
 
-## Project Details
+##### Project Details
 
-### HTML Structure
+###### HTML Structure
 The HTML setup involves a container div that holds multiple panels. Each panel represents an individual card with a distinct background image, set through inline CSS for variety. The structure is straightforward but effective, showcasing how to manage multiple items within a single container.
 
-### CSS Styling
+###### CSS Styling
 The CSS styling employs the Google font 'Muli', offering a sleek and modern look. The use of `flexbox` for layout showcases a responsive design strategy. Each card is styled with a transition effect, adding a dynamic feel when cards expand or contract. The media query ensures the layout remains responsive and visually appealing across different device sizes.
 
-### JavaScript Interactivity
+###### JavaScript Interactivity
 The JavaScript is concise yet powerful. It adds the main interactive feature: allowing cards to expand and contract on clicks. This is achieved through event listeners and class manipulation. The script effectively toggles the 'active' class, demonstrating a fundamental but crucial aspect of JavaScript interactivity in web design.
 
-## What I Learned/Key Takeaways
+##### What I Learned/Key Takeaways
 
 1. **Responsive Design:** The use of flexbox and media queries was a great lesson in creating responsive layouts that adapt to various screen sizes.
 2. **CSS Transitions:** Implementing the transition effects in CSS was enlightening, showing how simple properties can significantly enhance user experience.
@@ -305,9 +472,9 @@ The JavaScript is concise yet powerful. It adds the main interactive feature: al
 
 This project was a valuable step in my journey as a recent graduate, solidifying fundamental web development concepts and boosting my confidence in creating interactive web elements.
 
-## Day 2
+### Day 2
 
-### [2. Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps)
+#### [2. Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Progress%20Steps-ffbbb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Progress Steps" width="100%"/>
 
@@ -319,22 +486,22 @@ This project was a valuable step in my journey as a recent graduate, solidifying
 
 ![Progress Steps - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png)
 
-## Project Description
+##### Project Description
 
 The "Progress Steps" project is an interactive visual representation of a step-by-step process, commonly seen in multi-stage forms or tutorials. The goal was to build a responsive and user-friendly progress bar that visually indicates the current step out of a total sequence. This project is a great example of creating dynamic interfaces with HTML, CSS, and JavaScript.
 
-## Project Details
+##### Project Details
 
-### HTML Structure
+###### HTML Structure
 The HTML consists of a main container holding the progress bar and navigation buttons. The progress bar itself is made of a series of circles representing each step, connected by a line. This structure is simple but effective for representing sequential steps.
 
-### CSS Styling
+###### CSS Styling
 The CSS employs the 'Muli' font, ensuring readability and aesthetic appeal. The use of custom CSS variables, like `--line-border-fill`, demonstrates an efficient way to manage colors and styles. The progress bar and circles are styled to change visually when active, enhancing user experience. Responsive design is considered, making the progress bar look good on different screen sizes.
 
-### JavaScript Interactivity
+###### JavaScript Interactivity
 JavaScript plays a crucial role in this project. It controls the activation and deactivation of steps as the user navigates through them. The script listens for button clicks, updates the current active step, and adjusts the progress bar's width accordingly. This functionality shows how JavaScript can be used to make static elements interactive and responsive to user actions.
 
-## What I Learned/Key Takeaways
+##### What I Learned/Key Takeaways
 
 1. **Dynamic User Interfaces:** This project deepened my understanding of creating interfaces that respond to user input, a key skill in front-end development.
 2. **CSS Variables:** Using CSS variables for styling was a practical lesson in maintaining a consistent design theme and simplifying style changes.
@@ -2667,26 +2834,70 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 
 </details>
 
-## Sources, Credits & Acknowledgments
+<hr>
 
-### Course Details
+<details open>
+<summary><h2>🌟 Acknowledgements</h2></summary>
 
-[50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/)
+<h3 align="center">💌 Special Thanks</h3>
 
-## Contact Information
+<br>
 
+> Dear Florin Pop,
+>
+> I want to express my heartfelt thanks for the creativity and effort you put into crafting the 50 project ideas for the "50 Projects In 50 Days - HTML, CSS & JavaScript" course on Udemy.
+>
+> Your approach in designing these projects has not only enhanced my understanding of web development but also sparked my creativity. Your work in compiling the HTML/CSS/JavaScript code for each project was instrumental in providing a practical, hands-on experience.
+>
+> It's clear that a lot of thought and expertise went into each project, making my learning journey both challenging and enjoyable. Thank you for your dedication and for making this course a valuable resource for aspiring developers like me.
+
+<p align="center">- - -</p>
+
+> Dear Brad Traversy,
+>
+> I'm want to thank you for your exceptional guidance in the "50 Projects In 50 Days - HTML, CSS & JavaScript" course on Udemy.
+>
+> Your way of teaching made the complex concepts of web development accessible and engaging. The clarity and depth of your explanations in each of the 50 projects have greatly improved my skills in HTML, CSS, and JavaScript.
+>
+> Your passion for teaching and commitment to helping students like me understand the nuances of web development is truly admirable. I feel much more confident in my abilities to create web projects thanks to your instruction. Thank you for being such a fantastic mentor and teacher.
+
+<p align="center">Sincerely,<br><strong><em>Jordan Muller</em></strong></p>
+
+</details>
+
+<hr>
+
+<details open>
+<summary><h2>📬 Contact Info</h2></summary>
 Please feel free to reach out if you have any suggestions or run into any issues with viewing this project. I'm always looking for feedback from other people! I'd be more than happy to answer any questions you may have as well as assist with getting the project working on your machine.<br/>
 
 Be sure to view the setup guide in the README, as well as any specific README files for that specific project as they contain more details and may already have the answer to your question(s)!
 
 [![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)<br/>
 [![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
-[![My Website](https://custom-icon-badges.demolab.com/badge/My%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://www.linkedin.com/in/itsjordanmuller)
+[![My Website](https://custom-icon-badges.demolab.com/badge/My%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com/)
+</details>
 
-## License Information
+<hr>
+
+<details open>
+<summary><h2>📜 License Info</h2></summary>
 
 The content within this repository was created as part of a personal educational project, following the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/). This repository is intended for personal use only and serves as a record of my learning progress. This repository & the content within it are not intended for commercial use, distribution, or replication. All rights to the original course content and methodologies belong to the respective copyright holders.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 Copyright © 2023 Jordan Muller. All Rights Reserved.
+
+</details>
+
+<hr>
+
+<details open>
+<summary><h2>🔗 Resources, Links & Citations</h2></summary>
+
+<h3>Course Details</h3>
+
+[50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/)
+
+</details>
