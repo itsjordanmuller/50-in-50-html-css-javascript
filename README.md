@@ -259,8 +259,9 @@ ate
 <summary><h2><a id="about-section">📖 About The Project</a></h2></summary>
 </details>
 
-<hr>
+<hr><a id="gallery-section"></a>
 <details open>
+
 <summary><h2>🖼️ Image Gallery</h2></summary>
 
 <table>
@@ -284,7 +285,6 @@ View More Images 🌌
 </summary>
 
 <hr>
-<a id="gallery-section"></a>
 <div align="center">
 <table>
 <thead>
