@@ -7,7 +7,7 @@
 
 <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/50%20Projects%20in%2050%20Days-282A36.svg?style=for-the-badge&logo=package&logoColor=E34F26" width="100%"/></a>
 
-Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & JavaScript
+<p>Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & JavaScript</p>
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://jordanmuller.com/portfolio/tags/html/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://jordanmuller.com/portfolio/tags/css/)
@@ -18,7 +18,7 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7.svg?style=for-the-badge&logo=Font-Awesome&logoColor=white)](https://jordanmuller.com/portfolio/tags/font-awesome/)
 
 <details>
-<summary>More Technologies 📀</summary>
+<summary>More Technologies 📀</summary><br>
 
 [![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)](https://jordanmuller.com/portfolio/tags/axios/)
 [![Bash](https://img.shields.io/badge/Bash-8edf6a.svg?style=for-the-badge&logo=GNU-Bash&logoColor=black)](https://jordanmuller.com/portfolio/tags/bash/)
@@ -40,7 +40,7 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 
 <div align="left">
 
-## Overview of Technologies
+<h2>Overview of Technologies</h2>
 
 | **Technology** | **Overview** | **Release Year** |
 |:---:|:---:|:---:|
@@ -70,7 +70,7 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 
 <hr>
 
-## Projects
+<h2>Days & Projects</h2>
 
 <table>
 <tbody>
@@ -156,25 +156,16 @@ Self-Paced Learning Sandbox featuring 50 Projects in 50 Days using HTML, CSS & J
 
 <details open><summary><h2>Table of Contents 🗃️</h2></summary><blockquote>
 
-📖 <a href="#about-section">About The Project</a>
+📖 <a href="#about-section"><strong>About The Project</strong></h3></a>
 
-🖼️ <a href="#gallery-section">Image Gallery</a>
+🖼️ <a href="#gallery-section"><strong>Image Gallery</strong></a>
 
-<details><summary>🛠️ Setup Instructions</summary><blockquote>
-x
-y
-z
-</blockquote></details>
+🛠️ <a href="#setup-section"><strong>Setup Instructions</strong></a>
 
-<details><summary>💡 Usage, Tips & Notes</summary><blockquote>
-p
-q
-r
-</blockquote></details>
+💡 <a href="#usage-section"><strong>Usage, Tips & Notes</strong></a>
 
-<details><summary>🔍 Section Overviews</summary><blockquote>
+<details open><summary>🔍 <a href="#overview-section"><strong>Days & Projects</strong></a></summary><blockquote>
 
-- <strong>Projects</strong>
   * [Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
   * [Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps)
   * [Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation)
@@ -226,44 +217,38 @@ r
   * [Todo List](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049-Todo-List)
   * [Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050-Insect-Catch-Game)
 
-</blockquote></details>
-
-<details><summary>🌟 Acknowledgements</summary><blockquote>
-me
-you
-everyone
-</blockquote></details>
-
-<details><summary>📬 Contact Information</summary><blockquote>
-lib
-er
-ate
-</blockquote></details>
-
-<details><summary>📜 License Information</summary><blockquote>
-lib
-er
-ate
-</blockquote></details>
-
-<details><summary>🔗 Resources & Citations</summary><blockquote>
-lib
-er
-ate
-</blockquote></details>
-
-</blockquote></details>
-
-<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
-<hr><a id="about-section"></a>
-<details open>
-<summary><h2>📖 About The Project</h2></summary>
+</blockquote>
 </details>
 
-<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
-<hr><a id="gallery-section"></a>
 <details open>
+<summary>🌟 <a href="#acknowledgements-section"><strong>Acknowledgements</strong></a></summary>
+<blockquote>
 
+- 💌 <a href="#special-thanks">Special Thanks</a>
+
+</blockquote>
+</details>
+
+📬 <a href="#contact-section"><strong>Contact Information</strong></a>
+
+📜 <a href="#license-section"><strong>License Information</strong></a>
+
+🔗 <a href="#resources-section"><strong>Resources & Citations</strong></a>
+
+</blockquote></details>
+
+<hr>
+
+<a id="about-section"></a>
+<details open>
+<summary><h2>📖 About The Project</h2></summary>
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
+
+</details>
+
+<a id="gallery-section"></a>
+<details open>
 <summary><h2>🖼️ Image Gallery</h2></summary>
 
 <table>
@@ -286,7 +271,7 @@ ate
 View More Images 🌌
 </summary>
 
-<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 <div align="center">
 <table>
@@ -337,12 +322,14 @@ View More Images 🌌
 </table>
 </details>
 </div>
-</details>
 
-<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
+</details>
 
+
+<a id="setup-section"></a>
 <details>
 <summary><h2>🛠️ Setup Instructions</h2></summary>
 
@@ -420,22 +407,22 @@ body {
 // Empty
 ```
 
----
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
 
 </details>
 
-<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
-<hr>
-
+<a id="usage-section"></a>
 <details>
 <summary><h2>💡 Usage, Tips & Notes</h2></summary>
-</details>
-
-<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
+</details>
+
+<a id="overview-section"></a>
 <details open>
-<summary><h2>🔍 Section Overviews</h2></summary>
+<summary><h2>🔍 Sections & Projects</h2></summary>
 
 ### Day 1
 
@@ -2835,57 +2822,73 @@ The "Insect Catch Game" is a simple web-based game where the player's objective 
 
 The "Insect Catch Game" is a fun and straightforward game that demonstrates how to create a basic web-based game using HTML, CSS, and JavaScript. Players can enjoy trying to catch insects as they appear on the screen while keeping an eye on their score and time.
 
-</details>
-
-<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
+</details>
+
+<a id="acknowledgements-section"></a>
 <details open>
 <summary><h2>🌟 Acknowledgements</h2></summary>
 
-<h3 align="center">💌 Special Thanks</h3>
+<a id="special-thanks"></a>
 
+<div align="left">
+
+<h3>💌 Special Thanks</h3>
+
+<blockquote>
+<p>Dear Florin Pop & Brad Traversy,</p>
+<p>I want to express my heartfelt thanks for the creativity and effort you both put into creating the 50 project ideas and tutorials for the "50 Projects In 50 Days - HTML, CSS & JavaScript" course on Udemy.</p>
 <br>
+<p>Florin,</p>
+<p>Your approach in designing these projects has not only enhanced my understanding of web development but also sparked my creativity. Your work in compiling the HTML/CSS/JavaScript code for each project was instrumental in providing a practical, hands-on experience.</p>
+<p>It's clear that a lot of thought and expertise went into each project, making my learning journey both challenging and enjoyable. Thank you for your dedication and for making this course a valuable resource for aspiring developers like me.</p>
+<br>
+<p>Brad,</p>
+<p>Your way of teaching made the complex concepts of web development accessible and engaging. The clarity and depth of your explanations in each of the 50 projects have greatly improved my skills in HTML, CSS, and JavaScript.</p>
+<p>Your passion for teaching and commitment to helping students like me understand the nuances of web development is truly admirable. I feel much more confident in my abilities to create web projects thanks to your instruction. Thank you for being such a fantastic mentor and teacher.</p>
+<br>
+<p align="left">Sincerely,<br><strong><em>Jordan Muller</em></strong></p>
+</blockquote>
 
-> Dear Florin Pop,
->
-> I want to express my heartfelt thanks for the creativity and effort you put into crafting the 50 project ideas for the "50 Projects In 50 Days - HTML, CSS & JavaScript" course on Udemy.
->
-> Your approach in designing these projects has not only enhanced my understanding of web development but also sparked my creativity. Your work in compiling the HTML/CSS/JavaScript code for each project was instrumental in providing a practical, hands-on experience.
->
-> It's clear that a lot of thought and expertise went into each project, making my learning journey both challenging and enjoyable. Thank you for your dedication and for making this course a valuable resource for aspiring developers like me.
 
-<p align="center">- - -</p>
 
-> Dear Brad Traversy,
->
-> I'm want to thank you for your exceptional guidance in the "50 Projects In 50 Days - HTML, CSS & JavaScript" course on Udemy.
->
-> Your way of teaching made the complex concepts of web development accessible and engaging. The clarity and depth of your explanations in each of the 50 projects have greatly improved my skills in HTML, CSS, and JavaScript.
->
-> Your passion for teaching and commitment to helping students like me understand the nuances of web development is truly admirable. I feel much more confident in my abilities to create web projects thanks to your instruction. Thank you for being such a fantastic mentor and teacher.
-
-<p align="center">Sincerely,<br><strong><em>Jordan Muller</em></strong></p>
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
 
 </details>
 
-<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
-<hr>
-
+<a id="contact-section"></a>
 <details open>
 <summary><h2>📬 Contact Information</h2></summary>
-Please feel free to reach out if you have any suggestions or run into any issues with viewing this project. I'm always looking for feedback from other people! I'd be more than happy to answer any questions you may have as well as assist with getting the project working on your machine.<br/>
 
-Be sure to view the setup guide in the README, as well as any specific README files for that specific project as they contain more details and may already have the answer to your question(s)!
+<div align="center">
 
-[![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)<br/>
-[![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
-[![My Website](https://custom-icon-badges.demolab.com/badge/My%20Website-www.jordanmuller.com-a61168?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com/)
-</details>
+<blockquote>
+<img src="https://github.com/itsjordanmuller.png" width="160px"/><br>
+<em>If you have questions/feedback, I would love to hear from you. Thanks for stopping by!<br>- <strong>Jordan Muller</strong></em>
 
-<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
+</blockquote>
+
+[![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)
+[![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)
+[![Portfolio Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-a61168?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com/)
+
+</div>
+
+Please feel free to reach out if you have any suggestions or run into any issues with viewing this project.<br>
+
+I am always looking for feedback from other people! I'd be more than happy to answer any questions you may have as well as assist with getting the project working on your machine.<br>
+
+Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em></strong></a> in the README, as well as any specific README files for that specific project as they contain more details and may already have the answer to your question(s)!
+
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
+</details>
+
+<a id="license-section"></a>
 <details open>
 <summary><h2>📜 License Information</h2></summary>
 
@@ -2895,11 +2898,12 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rights Reserved.
 
-</details>
-
-<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
+</details>
+
+<a id="resources-section"></a>
 <details open>
 <summary><h2>🔗 Resources & Citations</h2></summary>
 
@@ -2908,5 +2912,5 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/)
 
 </details>
-<br>
-<div align="right"><a href="#top" title="Back to Top">⬆️ - (to top)</a></div>
+
+<div align="right"><a href="#top">(back to top)</a></div>
