@@ -299,11 +299,7 @@
 
 <a id="about-section"></a>
 <details open>
-<summary><h2>📖 About The Project</h2></summary>
-<table>
-<tbody>
-<tr>
-<td>
+<summary align="center"><h2>📖 About The Project</h2></summary>
 <h3>📂 Project Introduction</h3>
 <blockquote>
 <p><a href="https://www.udemy.com/course/50-projects-50-days/"><strong>50 Projects In 50 Days - HTML, CSS & JavaScript</strong></a> is a course I took that is designed to teach front-end development through practical projects. Led by instructors <a href="https://www.udemy.com/user/brad-traversy/">Brad Traversy</a> and <a href="https://www.udemy.com/user/popflorin/">Florin Pop</a>, it offers a hands-on approach to learning, where I built 50 different mini-projects. These projects cover a wide range of skills and design principles, from simple UI elements to fully interactive web games, and are aimed at strengthening my understanding of HTML, CSS, and JavaScript.</p>
@@ -323,11 +319,6 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
 <blockquote>
 <p>I began the first project on <strong>August 13th, 2023</strong> and committed to completing one project daily, concluding in 50 days. The project sizes were manageable, with each taking about one to three hours. This structured approach provided a consistent learning pace, where each new day presented a fresh challenge and an opportunity to apply the knowledge I had gained.</p>
 </blockquote>
-<a id="#timeline-bottom"></a>
-</td>
-</tr>
-</tbody>
-</table>
 
 <div align="right"><a href="#top">(back to top)</a></div>
 <hr>
@@ -336,7 +327,7 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
 
 <a id="gallery-section"></a>
 <details open>
-<summary><h2>🖼️ Image Gallery</h2></summary>
+<summary align="center"><h2>🖼️ Image Gallery</h2></summary>
 
 <table>
 <thead>
@@ -417,54 +408,78 @@ View More Images 🌌
 
 <a id="usage-section"></a>
 <details open>
-<summary><h2>💡 Usage Guide</h2></summary><blockquote>
+<summary align="center"><h2>💡 Usage Guide</h2></summary>
 
 <details open>
-<summary><h3>🚀 Getting Started</h3></summary><blockquote>
+<summary><h3>🚀 Getting Started</h3></summary>
+
+<h4>Looking for Live Demos?</h4>
+
+<blockquote>
+  <p>If you're eager to simply see the results of this project, most, if not all of the projects have a Live Demo associated with them. I have linked them all in the overview for each specific project/section. To view these live demos, simply follow the links provided with each project. You'll see them alongside buttons that look like this:</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td><img src="https://custom-icon-badges.demolab.com/badge/View%20Live%20Demo-ff3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></td>
+        <td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">https://specific-project-name.netlify.app</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Click the button/link and you should be taken to the Live Demo for that specific project. Please note that some projects don't have a Live Demo, and if that's the case there will not be a button/link. I'm hoping to get all of the projects on the internet at some point in the near future, so check back soon and you might find a link!</p>
+</blockquote>
+
+<h4>Want to View the Projects on Your Local Machine?</h4>
+
+<blockquote>
+  <p>I have provided detailed instructions for how to clone/download this repository to your local machine in the Setup Instructions section. In that section, you should find everything you need to be able to get these projects running and working on your own machine. Please note that a few of the projects use external APIs that include verification, so you will need to setup your own accounts/API keys for those services.</p>
+  <p>If you plan on running the code on your local machine, be sure to check the specific project you're trying to run to see if it needs any additional information or setup for the connections to the API to work. In most cases, I will try to include a `.env.example` file. You will need to open this file, and read the instructions inside to obtain your own API key. Once that's done, you'll need to make sure you've renamed the file from `.env.example` to `.env` only.</p>
+  <p>If you want to avoid setting up environment variables, check to see if the project has a Live Demo associated with it. For all of the projects that I have hosted on the internet, you'll be able to use them without any API configuration required. This is often a simpler way of viewing more complicated projects, since everything will already be running for you to view, use & explore.</p>
+</blockquote>
+
+<h4>📚 Just Trying to Learn More About Programming?</h4>
+
+<blockquote>
+  <p>I have provided a variety of resources and guides throughout this README for new developers. From the absolute basics, to specific videos and guides that helped me get unstuck in certain situations, I tried to include every single resource I ended up utilizing over the course of my journey.</p>
+  <p>We are so lucky to live in a time where almost all of this information is available for free on the internet. The only thing I paid for was the course itself, which can be purchased for about $20 on sale at Udemy. Besides that, I was able to complete the project with a low-spec Lenovo Thinkpad T480 I purchased for just under $300. It's proven to be a perfect machine for development & running Kubuntu Linux.</p>
+</blockquote>
+
+</details>
+
+<!-- <details open>
+<summary><h3>✴️ Features</h3></summary><blockquote>
+a
+b
+c
+
+<details open>
+<summary><h4>✳️ In Progress Features</h4></summary><blockquote>
 a
 b
 c
 </blockquote>
 </details>
 
+</blockquote>
+</details> -->
+
 <details open>
-<summary><h3>✴️ Features</h3></summary><blockquote>
-a
-b
-c
+<summary><h3>💾 Installation</h3></summary><blockquote>
+For detailed installation instructions, please refer to the <a href="#setup-section">Setup Instructions</a> section.
+</blockquote>
+</details>
 
 <!-- <details open>
-<summary><h4>✳️ In Progress Features</h4></summary><blockquote>
+<summary><h3>🎛️ Configuration Options</h3></summary><blockquote>
 a
 b
 c
 </blockquote>
 </details> -->
 
-</blockquote>
-</details>
-
-<details open>
-<summary><h3>💾 Installation</h3></summary><blockquote>
-a
-b
-c
-</blockquote>
-</details>
-
-<details open>
-<summary><h3>🎛️ Configuration Options</h3></summary><blockquote>
-a
-b
-c
-</blockquote>
-</details>
-
 <details open>
 <summary><h3>📖 Examples & Snippets</h3></summary><blockquote>
-a
-b
-c
 <details>
 
 <summary><h4>📝 Project Starter Template</h4></summary>
@@ -556,8 +571,6 @@ b
 c
 </details>
 
-</blockquote>
-
 <div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
@@ -565,7 +578,7 @@ c
 
 <a id="setup-section"></a>
 <details open>
-<summary><h2>🛠️ Setup Instructions</h2></summary><blockquote>
+<summary align="center"><h2>🛠️ Setup Instructions</h2></summary>
 
 <details open>
 <summary><h3>📋 Prerequisites</h3></summary><blockquote>
@@ -651,9 +664,12 @@ Below you will find various methods that are available to download/clone this re
 
 Feel free to use whichever option you are most comfortable & familiar with. You can also read GitHub's guide on [downloading source code archives](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives) & [cloning repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
+| 💡 Download Method Details | 
+|:--|
+
 <blockquote>
 <details>
-<summary><strong>Download ZIP File</strong></summary><blockquote>
+<summary><em>Download ZIP File</em></summary><blockquote>
 
 1. **Navigate to the Repository**: Open your web browser and go to the main page of the repository.
 2. **Find the 'Code' Button**: On the repository's main page, locate the 'Code' button. This is usually found near the top right, just above the file list.
@@ -667,7 +683,7 @@ Note: Downloading a ZIP file is a great way to get a copy of the repository with
 </details>
 
 <details>
-<summary><strong>Clone with SSH</strong></summary><blockquote>
+<summary><em>Clone with SSH</em></summary><blockquote>
 
 1. **Ensure SSH Key Setup**: Before you can clone with SSH, make sure you have an SSH key set up and added to your GitHub account. If you haven't done this, refer to GitHub's documentation on setting up a new SSH key.
 2. **Copy SSH URL**: Navigate to the repository on GitHub. Click the 'Code' button and switch to the 'SSH' tab in the dropdown menu. Click the clipboard icon to copy the SSH URL.
@@ -684,7 +700,7 @@ Note: Cloning with SSH is secure and allows for easy repository updates without 
 </details>
 
 <details>
-<summary><strong>Clone with HTTPS</strong></summary><blockquote>
+<summary><em>Clone with HTTPS</em></summary><blockquote>
 
 1. **Copy HTTPS URL**: Go to the GitHub page of the repository. Click on the 'Code' button. Under the dropdown menu, select the 'HTTPS' tab and click the clipboard icon to copy the HTTPS URL.
 2. **Open Terminal or Command Prompt**: Access your terminal (Linux/Mac) or command prompt (Windows). Navigate to the directory where you want the repository to be cloned.
@@ -700,7 +716,7 @@ Note: HTTPS cloning is straightforward but may require you to enter your GitHub 
 </details>
 
 <details>
-<summary><strong>Clone with GitHub CLI</strong></summary><blockquote>
+<summary><em>Clone with GitHub CLI</em></summary><blockquote>
 
 The GitHub CLI (`gh`) provides a convenient way to interact with GitHub from your command line. Here’s how to use `gh` to clone the repository `itsjordanmuller/50-in-50-html-css-javascript`:
 
@@ -727,9 +743,6 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 </details>
 
 </blockquote>
-
-| 💡 *Expand Dropdown Above for Details on Selected Download Method* | 
-|---|
 
 </td>
 </tr>
@@ -798,7 +811,7 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 
 <a id="support-section"></a>
 <details open>
-<summary><h2>💬 Technical Support</h2></summary><blockquote>
+<summary align="center"><h2>💬 Technical Support</h2></summary>
 
 <details open>
 <summary><h3>❌ Possible Errors & Issues</h3></summary><blockquote>
@@ -808,7 +821,7 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 
 <details open>
 <summary><h3>🐛 Known Bugs</h3></summary>
-
+<blockquote>
 <table>
 <thead>
 <tr>
@@ -833,7 +846,7 @@ This README was designed to be responsive on large & small screens, but is best 
 </tr>
 </tbody>
 </table>
-
+</blockquote>
 </details>
 
 <details open>
@@ -860,8 +873,6 @@ This README was designed to be responsive on large & small screens, but is best 
 </blockquote>
 </details>
 
-</blockquote>
-
 <div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
@@ -869,7 +880,7 @@ This README was designed to be responsive on large & small screens, but is best 
 
 <a id="overview-section"></a>
 <details open>
-<summary><h2>🔍 Sections & Projects</h2></summary>
+<summary align="center"><h2>🔍 Sections & Projects</h2></summary>
 
 ### Day 1
 
@@ -3276,7 +3287,7 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 
 <a id="acknowledgements-section"></a>
 <details open>
-<summary><h2>🌟 Acknowledgements</h2></summary>
+<summary align="center"><h2>🌟 Acknowledgements</h2></summary>
 
 <a id="special-thanks"></a>
 
@@ -3308,12 +3319,12 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 
 <a id="contact-section"></a>
 <details open>
-<summary><h2>📬 Get In Contact</h2></summary>
+<summary align="center"><h2>📬 Get In Contact</h2></summary>
 
 <div align="center">
 
 <blockquote>
-<img src="https://github.com/itsjordanmuller.png" width="160px"/><br>
+<img src="https://github.com/itsjordanmuller.png" width="160px"/><br><br>
 <em>If you have questions/feedback, I would love to hear from you. Thanks for stopping by!<br>- <strong>Jordan Muller</strong></em>
 </blockquote>
 
@@ -3336,7 +3347,7 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 
 <a id="license-section"></a>
 <details open>
-<summary><h2>📜 License Information</h2></summary><blockquote>
+<summary align="center"><h2>📜 License Information</h2></summary><blockquote>
 
 The content within this repository was created as part of a personal educational project, following the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/). This repository is intended for personal use only and serves as a record of my learning progress. This repository & the content within it are not intended for commercial use, distribution, or replication. All rights to the original course content and methodologies belong to the respective copyright holders.
 
@@ -3353,7 +3364,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 
 <a id="resources-section"></a>
 <details open>
-<summary><h2>🔗 Resources & Citations</h2></summary>
+<summary align="center"><h2>🔗 Resources & Citations</h2></summary>
 
 <h3>Course & Instructor Details</h3>
 <table>
