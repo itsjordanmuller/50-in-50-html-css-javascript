@@ -39,7 +39,7 @@
 <summary>Glossary - Overview of Tools & Tech 💻</summary>
 
 <div align="left">
-
+<a id="glossary-section">
 <h2>Overview of Technologies</h2>
 
 | **Technology** | **Overview** | **Release Year** |
@@ -559,9 +559,9 @@ If you're unsure, I recommend testing your setup with the intended software. Sho
 <summary><h3>📦 Installation Guide</h3></summary><blockquote>
 
 <details open>
-<summary><h4>⬇️ How to Download/Clone the Repository</h4></summary><blockquote>
+<summary><h4>⬇️ Download/Clone This Repo</h4></summary><blockquote>
 
-Below you will find various methods that are available to download/clone this repository. I personally prefer to use the `Clone with SSH` option most of the time. Alternatively, `Download ZIP File` can be a quick and easy way to simply download the files without a terminal or git. 
+Below you will find various methods that are available to download/clone this repository. I personally prefer to use the `Clone with SSH` option most of the time. Alternatively, `Download ZIP File` can be a quick and easy way to simply download the files without a terminal or Git. 
 
 Feel free to use whichever option you are most comfortable & familiar with.
 
@@ -648,12 +648,11 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 </blockquote>
 </details>
 
-<details open>
+<!-- <details open>
 <summary><h4>🔄 How to Pull New Changes</h4></summary><blockquote>
 
 </blockquote>
-</details>
-
+</details> -->
 
 <details open>
 <summary><h4>⛓️ Dependencies</h4></summary><blockquote>
@@ -661,7 +660,7 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 </blockquote>
 </details>
 
-<details open>
+<!-- <details open>
 <summary><h4>🏝️ Virtual Environments Setup</h4></summary><blockquote>
 
 </blockquote>
@@ -671,8 +670,7 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 <summary><h4>📦 Installing Required Packages</h4></summary><blockquote>
 
 </blockquote>
-</details>
-
+</details> -->
 
 </blockquote>
 
@@ -3246,10 +3244,156 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <details open>
 <summary><h2>🔗 Resources & Citations</h2></summary>
 
-<h3>Course Details</h3>
+<h3>Course & Instructor Details</h3>
+<table>
+<tr>
+<th nowrap="nowrap" align="left">Full Course Name</th>
+<th align="left">Link to Course<br></th>
+</tr>
+<tr><td>50 Projects In 50 Days - HTML, CSS & JavaScript</td><td>https://www.udemy.com/course/50-projects-50-days/</td></tr>
+</table>
 
-[50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/)
+<blockquote>
 
-</details>
+<h4>Instructor Information</h4>
+<table width=100%>
+<tr>
+  <th nowrap="nowrap" align="left" width="100%">Instructor Name</th>
+  <th align="left" width="100%">Platform</th>
+  <th align="left" width="100%">Link to Profile</th>
+</tr>
+<tr>
+  <td>Brad Traversy</td>
+  <td>Udemy Profile</td>
+  <td>https://www.udemy.com/user/brad-traversy/</td>
+</tr>
+<tr>
+  <td>Florin Pop</td>
+  <td>Udemy Profile</td>
+  <td>https://www.udemy.com/user/popflorin/</td>
+</tr>
+</table>
+
+</blockquote>
+
+<hr>
+
+<h3>Official Sites & Documentation</h3>
+<table>
+<tr>
+  <th nowrap="nowrap" align="left">Resource Name</th>
+  <th align="left">Link to Official Docs</th>
+</tr>
+<tr>
+  <td nowrap="nowrap">
+    HTML Official Docs
+  </td>
+  <td>https://html.spec.whatwg.org/</td>
+</tr>
+<tr>
+  <td nowrap="nowrap">
+    CSS Official Docs
+  </td>
+  <td>https://www.w3.org/TR/CSS/#css</td>
+</tr>
+<tr>
+  <td nowrap="nowrap">
+    JavaScript Official Docs
+  </td>
+  <td>https://www.ecmascript.org/</td>
+</tr>
+</table>
+
+<h3>Release Dates</h3>
+<table>
+  <tr>
+    <th align="left">Technology</th>
+    <th align="center">Release Year</th>
+    <th align="left">Link to Release Date Reference</th>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>1993</td>
+    <td>https://en.wikipedia.org/wiki/HTML</td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>1996</td>
+    <td>https://en.wikipedia.org/wiki/CSS</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>1995</td>
+    <td>https://en.wikipedia.org/wiki/JavaScript</td>
+  </tr>
+</table>
+
+<hr>
+
+<h3>Software & Tools I Used</h3>
+<table>
+  <tr>
+    <th align="left">Title</th>
+    <th nowrap="nowrap" align="left">Type of Software</th>
+    <th align="left">Link to Software</th>
+  </tr>
+  <tr>
+    <td>Git</td>
+    <td>Version Control System</td>
+    <td>https://git-scm.com/</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>Version Control Repository Hosting</td>
+    <td>https://github.com/</td>
+  </tr>
+  <tr>
+    <td>Visual Studio Code</td>
+    <td>Integrated Development Environment</td>
+    <td>https://code.visualstudio.com/</td>
+  </tr>
+</table>
+
+<hr>
+
+<h3>Additional Resources & Learning Materials</h3>
+<table>
+  <tr>
+    <th nowrap="nowrap" align="left">Resource Title</th>
+    <th nowrap="nowrap" align="left">Resource Description</th>
+    <th align="left">Link Type</th>
+    <th align="left">Link to Resource</th>
+  </tr>
+  <tr>
+    <td>Git and GitHub Tutorial for Beginners</td>
+    <td>Beginner's Introduction to Git and GitHub by <a href="https://www.youtube.com/@KevinStratvert">Kevin Stratvert</a> on <a href="https://www.youtube.com/">YouTube</a></td>
+    <td>Video</td>
+    <td>https://youtu.be/tRZGeaHPoaw?si=RnK9nCUEVb-aWjDb</td>
+  </tr>
+  <tr>
+    <td>Git for Everybody: How to Clone a Repository from GitHub</td>
+    <td>Example on How to Clone a GitHub Repository by <a href="https://www.youtube.com/@CodingForEverybody">Coding For Everybody</a> on <a href="https://www.youtube.com/">YouTube</a></td>
+    <td>Video</td>
+    <td>https://www.youtube.com/watch?v=CKcqniGu3tA&feature=youtu.be</td>
+  </tr>
+</table>
+
+<hr>
+
+<h3>Repository License Information</h3>
+<table>
+  <tr>
+    <th align="left">License</th>
+    <th align="left">Link to License</th>
+  </tr>
+  <tr>
+    <td>LICENSE.md</td>
+    <td>https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/LICENSE.md</td>
+  </tr>
+</table>
+
+<hr>
 
 <div align="right"><a href="#top">(back to top)</a></div>
+
+</details>
