@@ -167,57 +167,111 @@
 💬 <a href="#support-section"><strong>Technical Support</strong></a>
 
 <details open><summary>🔍 <a href="#overview-section"><strong>Days & Projects</strong></a></summary><blockquote>
-
-  * [Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
-  * [Progress Steps](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps)
-  * [Rotating Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation)
-  * [Hidden Search Widget](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004-Hidden-Search-Widget)
-  * [Blurry Loading](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/005-Blurry-Loading)
-  * [Scroll Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006-Scroll-Animation)
-  * [Split Landing Page](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/007-Split-Landing-Page)
-  * [Form Wave Animation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008-Form-Wave-Animation)
-  * [Sound Board](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009-Sound-Board)
-  * [Dad Jokes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010-Dad-Jokes)
-  * [Event KeyCodes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011-Event-KeyCodes)
-  * [FAQ Collapse](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012-FAQ-Collapse)
-  * [Random Choice Picker](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013-Random-Choice-Picker)
-  * [Animated Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014-Animated-Navigation)
-  * [Incrementing Counter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015-Incrementing-Counter)
-  * [Drink Water](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016-Drink-Water)
-  * [Movie App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017-Movie-App)
-  * [Background Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018-Background-Slider)
-  * [Theme Clock](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019-Theme-Clock)
-  * [Button Ripple Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020-Button-Ripple-Effect)
-  * [Drag N Drop](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021-Drag-N-Drop)
-  * [Drawing App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022-Drawing-App)
-  * [Kinetic CSS Loader](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023-Kinetic-CSS-Loader)
-  * [Content Placeholder](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024-Content-Placeholder)
-  * [Sticky Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025-Sticky-Navigation)
-  * [Double Vertical Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026-Double-Vertical-Slider)
-  * [Toast Notifications](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027-Toast-Notifications)
-  * [GitHub Profiles](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028-GitHub-Profiles)
-  * [Double Click Heart](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029-Double-Click-Heart)
-  * [Auto Text Effect](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030-Auto-Text-Effect)
-  * [Password Generator](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031-Password-Generator)
-  * [Good/Cheap/Fast Checkboxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/032-Good-Cheap-Fast-Checkboxes)
-  * [Notes App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033-Notes-App)
-  * [Animated Countdown](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034-Animated-Countdown)
-  * [Image Carousel](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/035-Image-Carousel)
-  * [Hoverboard](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/036-Hoverboard)
-  * [Pokedex](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037-Pokedex)
-  * [Mobile Tab Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038-Mobile-Tab-Navigation)
-  * [Password Strength Background](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039-Password-Strength-Background)
-  * [3D Background Boxes](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040-3D-Background-Boxes)
-  * [Verify Account UI](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/041-Verify-Account-UI)
-  * [Live User Filter](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/042-Live-User-Filter)
-  * [Feedback UI Design](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/043-Feedback-UI-Design)
-  * [Custom Range Slider](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044-Custom-Range-Slider)
-  * [Netflix Mobile Navigation](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045-Netflix-Mobile-Navigation)
-  * [Quiz App](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046-Quiz-App)
-  * [Testimonial Box Switcher](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047-Testimonial-Box-Switcher)
-  * [Random Image Feed](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048-Random-Image-Feed)
-  * [Todo List](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049-Todo-List)
-  * [Insect Catch Game](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050-Insect-Catch-Game)
+<br>
+<table>
+<tbody align="left" width="100%">
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">1 - Expanding Cards</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">2 - Progress Steps</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation">3 - Rotating Navigation</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004-Hidden-Search-Widget">4 - Hidden Search Widget</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/005-Blurry-Loading">5 - Blurry Loading</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006-Scroll-Animation">6 - Scroll Animation</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/007-Split-Landing-Page">7 - Split Landing Page</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008-Form-Wave-Animation">8 - Form Wave Animation</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009-Sound-Board">9 - Sound Board</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010-Dad-Jokes">10 - Dad Jokes</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011-Event-KeyCodes">11 - Event KeyCodes</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012-FAQ-Collapse">12 - FAQ Collapse</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013-Random-Choice-Picker">13 - Random Choice Picker</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014-Animated-Navigation">14 - Animated Navigation</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015-Incrementing-Counter">15 - Incrementing Counter</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016-Drink-Water">16 - Drink Water</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017-Movie-App">17 - Movie App</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018-Background-Slider">18 - Background Slider</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019-Theme-Clock">19 - Theme Clock</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020-Button-Ripple-Effect">20 - Button Ripple Effect</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021-Drag-N-Drop">21 - Drag N Drop</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022-Drawing-App">22 - Drawing App</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023-Kinetic-CSS-Loader">23 - Kinetic CSS Loader</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024-Content-Placeholder">24 - Content Placeholder</a></td>
+</tr>
+<tr>
+<td><a href="https://ithub.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025-Sticky-Navigation">25 - Sticky Navigation</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026-Double-Vertical-Slider">26 - Double Vertical Slider</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027-Toast-Notifications">27 - Toast Notifications</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028-GitHub-Profiles">28 - GitHub Profiles</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029-Double-Click-Heart">29 - Double Click Heart</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030-Auto-Text-Effect">30 - Auto Text Effect</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031-Password-Generator">31 - Password Generator</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/032-Good-Cheap-Fast-Checkboxes">32 - Good, Cheap, Fast Checkboxes</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033-Notes-App">33 - Notes App</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034-Animated-Countdown">34 - Animated Countdown</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/035-Image-Carousel">35 - Image Carousel</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/036-Hoverboard">36 - Hoverboard</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037-Pokedex">37 - Pokedex</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038-Mobile-Tab-Navigation">38 - Mobile Tab Navigation</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039-Password-Strength-Background">39 - Password Strength Background</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040-3D-Background-Boxes">40 - 3D Background Boxes</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/041-Verify-Account-UI">41 - Verify Account UI</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/042-Live-User-Filter">42 - Live User Filter</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/043-Feedback-UI-Design">43 - Feedback UI Design</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044-Custom-Range-Slider">44 - Custom Range Slider</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045-Netflix-Mobile-Navigation">45 - Netflix Mobile Navigation</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046-Quiz-App">46 - Quiz App</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047-Testimonial-Box-Switcher">47 - Testimonial Box Switcher</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048-Random-Image-Feed">48 - Random Image Feed</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049-Todo-List">49 - Todo List</a></td>
+<td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050-Insect-Catch-Game">50 - Insect Catch Game</a></td>
+</tr>
+</tbody>
+</table>
 
 </blockquote>
 </details>
@@ -252,18 +306,22 @@
 <td>
 <h3>📂 Project Introduction</h3>
 <blockquote>
-<p>"50 Projects In 50 Days - HTML, CSS & JavaScript" is a course I took that is designed to teach front-end development through practical projects. Led by instructors Brad Traversy and Florin Pop, it offers a hands-on approach to learning, where I built 50 different mini-projects. These projects cover a wide range of skills and design principles, from simple UI elements to fully interactive web games, and are aimed at strengthening my understanding of HTML, CSS, and JavaScript.</p>
+<p><a href="https://www.udemy.com/course/50-projects-50-days/"><strong>50 Projects In 50 Days - HTML, CSS & JavaScript</strong></a> is a course I took that is designed to teach front-end development through practical projects. Led by instructors <a href="https://www.udemy.com/user/brad-traversy/">Brad Traversy</a> and <a href="https://www.udemy.com/user/popflorin/">Florin Pop</a>, it offers a hands-on approach to learning, where I built 50 different mini-projects. These projects cover a wide range of skills and design principles, from simple UI elements to fully interactive web games, and are aimed at strengthening my understanding of HTML, CSS, and JavaScript.</p>
 </blockquote>
 
 <h3>⛳ Learning Objectives & Goals</h3>
 <blockquote>
-<p>In this project, I worked with HTML5, CSS3, and Vanilla JavaScript. The course also introduced me tools like Tailwind CSS, Axios, ESLint, and Prettier. I used a variety of external resources, including Font Awesome Icons & Unsplash Images. Spending time on these technologies was crucial in building a foundational understanding of web development, emphasizing the importance of mastering basic concepts before progressing to more advanced frameworks.</p>
-<p>My main goal in undertaking this course was to develop a comprehensive skill set in front-end web development. I focused on learning not just the syntax of HTML, CSS, and JavaScript but also their application in building interactive and responsive web interfaces. The projects were structured to progressively challenge my skills and deepen my understanding of essential web development concepts.</p>
+<p>
+My main goal in undertaking this course was to develop a comprehensive skill set in front-end web development. I focused on learning not just the syntax of HTML, CSS, and JavaScript but also their application in building interactive and responsive web interfaces. The projects were structured to progressively challenge my skills and deepen my understanding of essential web development concepts.
+</p>
+<p>
+In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and vanilla <strong>JavaScript</strong>. The course also introduced me tools like <strong>Tailwind CSS</strong>, <strong>Axios</strong>, <strong>ESLint</strong>, and <strong>Prettier</strong>. I used a variety of external resources, including <strong>Font Awesome</strong> icons & <strong>Unsplash</strong> images. Spending time on these technologies was crucial in building a foundational understanding of web development, emphasizing the importance of mastering basic concepts before progressing to more advanced frameworks.
+</p>
 </blockquote>
 
 <h3>🗓️ Project Timeline</h3>
 <blockquote>
-<p>I began the first project on August 13th, 2023 and committed to completing one project daily, concluding in 50 days. The project sizes were manageable, with each taking about one to three hours. This structured approach provided a consistent learning pace, where each new day presented a fresh challenge and an opportunity to apply the knowledge I had gained.</p>
+<p>I began the first project on <strong>August 13th, 2023</strong> and committed to completing one project daily, concluding in 50 days. The project sizes were manageable, with each taking about one to three hours. This structured approach provided a consistent learning pace, where each new day presented a fresh challenge and an opportunity to apply the knowledge I had gained.</p>
 </blockquote>
 <a id="#timeline-bottom"></a>
 </td>
@@ -513,9 +571,31 @@ c
 <summary><h3>📋 Prerequisites</h3></summary><blockquote>
 
 <details open>
-<summary><h4>💽 Required Software</h4></summary><blockquote>
+<summary><h4>💽 Required Software</h4></summary>
 
-</blockquote>
+<table>
+<tbody>
+<tr>
+<td>
+
+To be able to clone/download & view these projects, or to start learning <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> as well as web development in general, you'll need a few essential tools. At a minimum, you should have a basic text editor/integrated development environment, a web browser, and an internet connection.
+
+I used the following:
+
+- **Text Editor/IDE:** I use [Visual Studio Code](https://code.visualstudio.com/) as my main integrated development environment. VS Code can be customized to work with just about any technology, making it a great choice for a general all-purpose IDE, it also has a large and helpful community for support.
+- **Web Browser:** I prefer to use [Google Chrome](https://www.google.com/chrome/) for their comprehensive set of [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/). While most if not all of the tools are available in other browsers/Developer Tools such as [Firefox DevTools](https://firefox-source-docs.mozilla.org/devtools-user/index.html), [Safari Web Inspector](https://webkit.org/web-inspector/), and [Edge DevTools](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/landing/), I am most familiar & comfortable with the layout of Chrome.
+- **Internet Connection:** Aim to have at least 2-3 Mbps or more to speed up development, especially if you'll be downloading large files or loading video/image based resources. Most libraries and a variety of public places can have high-speed Wi-Fi available for visitors free-of-charge.
+
+Based on the fact that you're reading this right now, you probably already have a browser & internet connection!
+
+[Windows](https://www.microsoft.com/en-us/windows), [macOS](https://www.apple.com/macos/), and most [Linux distributions](https://en.wikipedia.org/wiki/Linux_distribution) should include a text editor by default, which in this case should be more than enough to view and edit HTML, CSS & JavaScript files.
+
+For those using mobile devices, I advise switching to a laptop or desktop for a more streamlined experience. While mobile development is feasible on Android or iOS, the ease of a full-sized computer, keyboard, and mouse is unmatched. Visual Studio Code is accessible via most browsers on any device, however, you would still need to serve/host it from another machine. For optimal functionality, a personal computer remains the best choice.
+
+</td>
+</tr>
+</tbody>
+</table>
 </details>
 
 <details open>
@@ -526,21 +606,22 @@ c
 <tr>
 <td>
 
-Minimum system requirements can significantly vary depending on the specific project you choose to clone & view. Typically, a modern operating system like Windows, macOS, or a mainstream Linux distribution is a good starting point. Almost all computers that were purchased somewhat recently should be more than enough.
+System requirements for these projects can vary due to the fact that they use different amounts of client-side processing power and resources. In general, a recent operating system like [Windows](https://www.microsoft.com/en-us/windows), [macOS](https://www.apple.com/macos/), or a popular [Linux distribution](https://en.wikipedia.org/wiki/Linux_distribution) usually suffices. Modern computers, especially those purchased in the last few years, should meet these needs adequately.
 
 Performance will heavily rely on your specific hardware setup, including processor speed, RAM capacity, storage type, and graphics card quality. The operating system choice and its configuration also play a significant role in speed.
 
 To give you a practical example, I personally used a [Lenovo Thinkpad T480](https://www.amazon.com/dp/B0842X4BNF) for the entirety of my recent project. This laptop, has been great for a variety of daily tasks, including programming.
 
 The computer I used for the entire project features the following specifications:
-- Processor: 8th Gen Intel Core Duo i5-8350U
-- RAM: 16GB DDR4 RAM
-- Storage: 512GB SSD of data
-- Graphics: Intel UHD Graphics 620
-- Display: 14.0" Screen with FHD 1920x1080 resolution.
-- Operating System: [Kubuntu Linux 22.04](https://cdimage.ubuntu.com/kubuntu/releases/22.04/release/)
 
-This setup served me well for this project & many others, striking a perfect balance between performance, portability, and cost. Despite the relatively low power of my laptop, I've been able to get a lot done with it! If anything, I am actually starting to enjoy working on a "slower" computer, because it helps me more easily realize when software I am writing is using lots of resources. When choosing a system for your needs, consider these factors to ensure a smooth and efficient workflow.
+- **Operating System:** [Kubuntu Linux 22.04](https://cdimage.ubuntu.com/kubuntu/releases/22.04/release/)
+- **Processor:** 8th Gen Intel Core Duo i5-8350U
+- **RAM:** 16GB DDR4 RAM
+- **Storage:** 512GB SSD of data
+- **Graphics:** Intel UHD Graphics 620
+- **Display:** 14.0" Screen with FHD 1920x1080 resolution.
+
+This configuration was more than sufficient for both my project and other tasks. Interestingly, working on a less powerful laptop has its advantages, such as highlighting inefficient code that consumes excessive resources.
 
 If you're unsure, I recommend testing your setup with the intended software. Should you encounter any errors, feel free to reach out for assistance. Your feedback can also help in making projects more adaptable to diverse hardware, operating systems, and browsers.
 
@@ -559,14 +640,16 @@ If you're unsure, I recommend testing your setup with the intended software. Sho
 <summary><h3>📦 Installation Guide</h3></summary><blockquote>
 
 <details open>
-<summary><h4>⬇️ Download/Clone This Repo</h4></summary><blockquote>
+<summary><h4>⬇️ Download/Clone This Repo</h4></summary>
+
+<table>
+<tbody>
+<tr>
+<td>
 
 Below you will find various methods that are available to download/clone this repository. I personally prefer to use the `Clone with SSH` option most of the time. Alternatively, `Download ZIP File` can be a quick and easy way to simply download the files without a terminal or Git. 
 
-Feel free to use whichever option you are most comfortable & familiar with.
-
-| 💡 *Expand to View Details for Selected Download Method* | 
-|---|
+Feel free to use whichever option you are most comfortable & familiar with. You can also read GitHub's guide on [downloading source code archives](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives) & [cloning repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
 <blockquote>
 <details>
@@ -605,7 +688,7 @@ Note: Cloning with SSH is secure and allows for easy repository updates without 
 
 1. **Copy HTTPS URL**: Go to the GitHub page of the repository. Click on the 'Code' button. Under the dropdown menu, select the 'HTTPS' tab and click the clipboard icon to copy the HTTPS URL.
 2. **Open Terminal or Command Prompt**: Access your terminal (Linux/Mac) or command prompt (Windows). Navigate to the directory where you want the repository to be cloned.
-3. **Execute Clone Command**: Type `git clone` followed by the copied HTTPS URL. For instance:
+3. **Execute Clone Command**: Type `git clone` followed by the copied HTTPS URL. In this case:
    ```
    git clone https://github.com/itsjordanmuller/50-in-50-html-css-javascript.git
    ```
@@ -625,7 +708,7 @@ The GitHub CLI (`gh`) provides a convenient way to interact with GitHub from you
 
 2. **Authenticate GitHub CLI**: Open your terminal and authenticate the GitHub CLI using the command `gh auth login`. Follow the prompts to complete the authentication process.
 
-3. **Clone the Repository**: To clone the `itsjordanmuller/50-in-50-html-css-javascript` repository, use the following command:
+3. **Clone the Repository**: To clone this repository, use the following command:
    ```
    gh repo clone itsjordanmuller/50-in-50-html-css-javascript
    ```
@@ -645,7 +728,13 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 
 </blockquote>
 
-</blockquote>
+| 💡 *Expand Dropdown Above for Details on Selected Download Method* | 
+|---|
+
+</td>
+</tr>
+</tbody>
+</table>
 </details>
 
 <!-- <details open>
@@ -654,11 +743,11 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 </blockquote>
 </details> -->
 
-<details open>
+<!-- <details open>
 <summary><h4>⛓️ Dependencies</h4></summary><blockquote>
 
 </blockquote>
-</details>
+</details> -->
 
 <!-- <details open>
 <summary><h4>🏝️ Virtual Environments Setup</h4></summary><blockquote>
@@ -672,20 +761,18 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 </blockquote>
 </details> -->
 
-</blockquote>
-
 </details>
 
 <details open>
 <summary><h3>⚙️ Configuration</h3></summary><blockquote>
 
 <details open>
-<summary><h4>🔐 API Keys & Environment Variables</h4></summary><blockquote>
+<summary><h4>🔐 API Keys/Environment Variables</h4></summary><blockquote>
 
 </blockquote>
 </details>
 
-<details open>
+<!-- <details open>
 <summary><h4>📡 External Services</h4></summary><blockquote>
 
 </blockquote>
@@ -695,7 +782,7 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 <summary><h4>💽 Database Setups & Connections</h4></summary><blockquote>
 
 </blockquote>
-</details>
+</details> -->
 
 
 </blockquote>
@@ -720,9 +807,33 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 </details>
 
 <details open>
-<summary><h3>🐛 Known Bugs</h3></summary><blockquote>
+<summary><h3>🐛 Known Bugs</h3></summary>
 
-</blockquote>
+<table>
+<thead>
+<tr>
+<th>
+<a href="https://github.com/orgs/community/discussions/81528">#81528 - Anchor link in Markdown does not work well on Mobile app for Android</a>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+
+- You may find that some anchor links in this README do not work well on the Android version of the GitHub mobile app. This is a known issue with GitHub mobile app, and I've yet to find a solution for it. 
+  - I had the following options:
+    - Remove all anchor tags/links that are used to scroll down to a specific section
+    - Leave the links broken on Android, but usable everywhere else
+- I have decided to leave the links as they are. I believe it greatly enhances the experience of viewing my repositories & READMEs & outweighs the potential downsides.
+- I'm hoping that GitHub will fix this at some point, but until then, I would recommend using GitHub in your mobile browser, installed as a Progressive Web App (PWA), or on a computer.
+This README was designed to be responsive on large & small screens, but is best viewed in a large resolution on a desktop.
+
+</td>
+</tr>
+</tbody>
+</table>
+
 </details>
 
 <details open>
