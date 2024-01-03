@@ -246,6 +246,31 @@
 <a id="about-section"></a>
 <details open>
 <summary><h2>📖 About The Project</h2></summary>
+<table>
+<tbody>
+<tr>
+<td>
+<h3>📂 Project Introduction</h3>
+<blockquote>
+<p>"50 Projects In 50 Days - HTML, CSS & JavaScript" is a course I took that is designed to teach front-end development through practical projects. Led by instructors Brad Traversy and Florin Pop, it offers a hands-on approach to learning, where I built 50 different mini-projects. These projects cover a wide range of skills and design principles, from simple UI elements to fully interactive web games, and are aimed at strengthening my understanding of HTML, CSS, and JavaScript.</p>
+</blockquote>
+
+<h3>⛳ Learning Objectives & Goals</h3>
+<blockquote>
+<p>In this project, I worked with HTML5, CSS3, and Vanilla JavaScript. The course also introduced me tools like Tailwind CSS, Axios, ESLint, and Prettier. I used a variety of external resources, including Font Awesome Icons & Unsplash Images. Spending time on these technologies was crucial in building a foundational understanding of web development, emphasizing the importance of mastering basic concepts before progressing to more advanced frameworks.</p>
+<p>My main goal in undertaking this course was to develop a comprehensive skill set in front-end web development. I focused on learning not just the syntax of HTML, CSS, and JavaScript but also their application in building interactive and responsive web interfaces. The projects were structured to progressively challenge my skills and deepen my understanding of essential web development concepts.</p>
+</blockquote>
+
+<h3>🗓️ Project Timeline</h3>
+<blockquote>
+<p>I began the first project on August 13th, 2023 and committed to completing one project daily, concluding in 50 days. The project sizes were manageable, with each taking about one to three hours. This structured approach provided a consistent learning pace, where each new day presented a fresh challenge and an opportunity to apply the knowledge I had gained.</p>
+</blockquote>
+<a id="#timeline-bottom"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
 <div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
@@ -350,13 +375,13 @@ a
 b
 c
 
-<details open>
+<!-- <details open>
 <summary><h4>✳️ In Progress Features</h4></summary><blockquote>
 a
 b
 c
 </blockquote>
-</details>
+</details> -->
 
 </blockquote>
 </details>
@@ -494,9 +519,35 @@ c
 </details>
 
 <details open>
-<summary><h4>🖥️ System Requirements</h4></summary><blockquote>
+<summary><h4>🖥️ System Requirements</h4></summary>
 
-</blockquote>
+<table>
+<tbody>
+<tr>
+<td>
+
+Minimum system requirements can significantly vary depending on the specific project you choose to clone & view. Typically, a modern operating system like Windows, macOS, or a mainstream Linux distribution is a good starting point. Almost all computers that were purchased somewhat recently should be more than enough.
+
+Performance will heavily rely on your specific hardware setup, including processor speed, RAM capacity, storage type, and graphics card quality. The operating system choice and its configuration also play a significant role in speed.
+
+To give you a practical example, I personally used a [Lenovo Thinkpad T480](https://www.amazon.com/dp/B0842X4BNF) for the entirety of my recent project. This laptop, has been great for a variety of daily tasks, including programming.
+
+The computer I used for the entire project features the following specifications:
+- Processor: 8th Gen Intel Core Duo i5-8350U
+- RAM: 16GB DDR4 RAM
+- Storage: 512GB SSD of data
+- Graphics: Intel UHD Graphics 620
+- Display: 14.0" Screen with FHD 1920x1080 resolution.
+- Operating System: [Kubuntu Linux 22.04](https://cdimage.ubuntu.com/kubuntu/releases/22.04/release/)
+
+This setup served me well for this project & many others, striking a perfect balance between performance, portability, and cost. Despite the relatively low power of my laptop, I've been able to get a lot done with it! If anything, I am actually starting to enjoy working on a "slower" computer, because it helps me more easily realize when software I am writing is using lots of resources. When choosing a system for your needs, consider these factors to ensure a smooth and efficient workflow.
+
+If you're unsure, I recommend testing your setup with the intended software. Should you encounter any errors, feel free to reach out for assistance. Your feedback can also help in making projects more adaptable to diverse hardware, operating systems, and browsers.
+
+</td>
+</tr>
+</tbody>
+</table>
 </details>
 
 </blockquote>
@@ -510,23 +561,89 @@ c
 <details open>
 <summary><h4>⬇️ How to Download/Clone the Repository</h4></summary><blockquote>
 
-<details open>
-<summary><h5>Download ZIP File</h5></summary><blockquote>
+Below you will find various methods that are available to download/clone this repository. I personally prefer to use the `Clone with SSH` option most of the time. Alternatively, `Download ZIP File` can be a quick and easy way to simply download the files without a terminal or git. 
+
+Feel free to use whichever option you are most comfortable & familiar with.
+
+| 💡 *Expand to View Details for Selected Download Method* | 
+|---|
+
+<blockquote>
+<details>
+<summary><strong>Download ZIP File</strong></summary><blockquote>
+
+1. **Navigate to the Repository**: Open your web browser and go to the main page of the repository.
+2. **Find the 'Code' Button**: On the repository's main page, locate the 'Code' button. This is usually found near the top right, just above the file list.
+3. **Download ZIP Option**: Click on the 'Code' button. A dropdown menu will appear. Select the 'Download ZIP' option from this menu.
+4. **Save the ZIP File**: Choose a location on your computer where you want to save the ZIP file and confirm the download.
+5. **Extract Files**: Once the download is complete, navigate to the downloaded file. Right-click on the ZIP file and select 'Extract All...' or use your preferred extraction tool. Choose where you want the extracted folder to be placed.
+6. **Access Repository Contents**: Open the extracted folder to access the contents of the repository.
+Note: Downloading a ZIP file is a great way to get a copy of the repository without using Git commands.
 
 </blockquote>
 </details>
 
-<details open>
-<summary><h5>Clone with SSH</h5></summary><blockquote>
+<details>
+<summary><strong>Clone with SSH</strong></summary><blockquote>
+
+1. **Ensure SSH Key Setup**: Before you can clone with SSH, make sure you have an SSH key set up and added to your GitHub account. If you haven't done this, refer to GitHub's documentation on setting up a new SSH key.
+2. **Copy SSH URL**: Navigate to the repository on GitHub. Click the 'Code' button and switch to the 'SSH' tab in the dropdown menu. Click the clipboard icon to copy the SSH URL.
+3. **Open Terminal or Command Prompt**: Open your terminal or command prompt. Navigate to the directory where you want the cloned repository to be placed.
+4. **Run Clone Command**: Type `git clone` followed by the copied SSH URL. For this project, that's:
+   ```
+   git clone git@github.com:itsjordanmuller/50-in-50-html-css-javascript.git
+   ```
+5. **Access Cloned Repository**: Once the cloning process is complete, you will have a local copy of the repository. Navigate into the newly created directory to access the repository files.
+
+Note: Cloning with SSH is secure and allows for easy repository updates without repeatedly entering credentials.
 
 </blockquote>
 </details>
 
-<details open>
-<summary><h5>Clone with HTTPS</h5></summary><blockquote>
+<details>
+<summary><strong>Clone with HTTPS</strong></summary><blockquote>
+
+1. **Copy HTTPS URL**: Go to the GitHub page of the repository. Click on the 'Code' button. Under the dropdown menu, select the 'HTTPS' tab and click the clipboard icon to copy the HTTPS URL.
+2. **Open Terminal or Command Prompt**: Access your terminal (Linux/Mac) or command prompt (Windows). Navigate to the directory where you want the repository to be cloned.
+3. **Execute Clone Command**: Type `git clone` followed by the copied HTTPS URL. For instance:
+   ```
+   git clone https://github.com/itsjordanmuller/50-in-50-html-css-javascript.git
+   ```
+4. **Enter GitHub Credentials**: If prompted, enter your GitHub username and password. This step is usually required the first time you use HTTPS to clone a repository.
+5. **Access Cloned Repository**: After the cloning process completes, a local copy of the repository will be created. Navigate into the directory that was just created to start working with the files.
+Note: HTTPS cloning is straightforward but may require you to enter your GitHub credentials more frequently compared to SSH.
 
 </blockquote>
 </details>
+
+<details>
+<summary><strong>Clone with GitHub CLI</strong></summary><blockquote>
+
+The GitHub CLI (`gh`) provides a convenient way to interact with GitHub from your command line. Here’s how to use `gh` to clone the repository `itsjordanmuller/50-in-50-html-css-javascript`:
+
+1. **Install GitHub CLI**: If you haven't already, you need to install the GitHub CLI. You can find installation instructions on the [official GitHub CLI page](https://cli.github.com/).
+
+2. **Authenticate GitHub CLI**: Open your terminal and authenticate the GitHub CLI using the command `gh auth login`. Follow the prompts to complete the authentication process.
+
+3. **Clone the Repository**: To clone the `itsjordanmuller/50-in-50-html-css-javascript` repository, use the following command:
+   ```
+   gh repo clone itsjordanmuller/50-in-50-html-css-javascript
+   ```
+   This command will clone the repository into a new directory named `50-in-50-html-css-javascript` in your current working directory.
+
+4. **Navigate to the Repository**: Once the cloning process is complete, navigate into the repository directory with:
+   ```
+   cd 50-in-50-html-css-javascript
+   ```
+
+5. **Start Working**: You now have a local copy of the repository and can begin working on it.
+
+Note: The GitHub CLI streamlines various GitHub operations and is particularly useful for those who prefer command-line tools.
+
+</blockquote>
+</details>
+
+</blockquote>
 
 </blockquote>
 </details>
