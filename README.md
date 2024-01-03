@@ -1,7 +1,7 @@
 <a id="top"></a>
 <div align="center">
 
-<img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" height="180px"><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" height="180px"><br>
+<img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" height="180px"> <img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" height="180px"><br>
 
 <h1>50 Projects in 50 Days<br/>HTML/CSS/JavaScript</h1>
 
@@ -160,9 +160,11 @@
 
 🖼️ <a href="#gallery-section"><strong>Image Gallery</strong></a>
 
+💡 <a href="#usage-section"><strong>Usage Guide</strong></a>
+
 🛠️ <a href="#setup-section"><strong>Setup Instructions</strong></a>
 
-💡 <a href="#usage-section"><strong>Usage, Tips & Notes</strong></a>
+💬 <a href="#support-section"><strong>Technical Support</strong></a>
 
 <details open><summary>🔍 <a href="#overview-section"><strong>Days & Projects</strong></a></summary><blockquote>
 
@@ -229,15 +231,17 @@
 </blockquote>
 </details>
 
-📬 <a href="#contact-section"><strong>Contact Information</strong></a>
+📬 <a href="#contact-section"><strong>Get In Contact</strong></a>
 
 📜 <a href="#license-section"><strong>License Information</strong></a>
 
 🔗 <a href="#resources-section"><strong>Resources & Citations</strong></a>
 
-</blockquote></details>
+</blockquote>
 
 <hr>
+
+</details>
 
 <a id="about-section"></a>
 <details open>
@@ -328,16 +332,65 @@ View More Images 🌌
 
 </details>
 
+<a id="usage-section"></a>
+<details open>
+<summary><h2>💡 Usage Guide</h2></summary><blockquote>
 
-<a id="setup-section"></a>
+<details open>
+<summary><h3>🚀 Getting Started</h3></summary><blockquote>
+a
+b
+c
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>✴️ Features</h3></summary><blockquote>
+a
+b
+c
+
+<details open>
+<summary><h4>✳️ In Progress Features</h4></summary><blockquote>
+a
+b
+c
+</blockquote>
+</details>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>💾 Installation</h3></summary><blockquote>
+a
+b
+c
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>🎛️ Configuration Options</h3></summary><blockquote>
+a
+b
+c
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>📖 Examples & Snippets</h3></summary><blockquote>
+a
+b
+c
 <details>
-<summary><h2>🛠️ Setup Instructions</h2></summary>
 
-### [Project Starter Template/Boilerplate](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/000-Project-Starter-Template)
+<summary><h4>📝 Project Starter Template</h4></summary>
+
+##### [Project Starter Template](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/000-Project-Starter-Template)
 
 ---
 
-#### [HTML5 Boilerplate - HTML5 (HyperText Markup Language 5)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html)
+###### [HTML5 Boilerplate - HTML5 (HyperText Markup Language 5)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html)
 
 ![HTML5 Boilerplate](https://img.shields.io/badge/HTML5_-_Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26)
 
@@ -369,7 +422,7 @@ View More Images 🌌
 
 ---
 
-#### [CSS Boilerplate - CSS3 (Cascading Style Sheets Level 3)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/style.css)
+###### [CSS Boilerplate - CSS3 (Cascading Style Sheets Level 3)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/style.css)
 
 ![CSS3 Boilerplate](https://img.shields.io/badge/CSS3-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6)
 
@@ -397,7 +450,7 @@ body {
 
 ---
 
-#### [JavaScript Boilerplate - JS ES6+ (ECMAScript 2015 Onwards)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/script.js)
+###### [JavaScript Boilerplate - JS ES6+ (ECMAScript 2015 Onwards)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/script.js)
 
 ![JavaScript Boilerplate](https://img.shields.io/badge/JavaScript-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF1E)
 
@@ -407,14 +460,182 @@ body {
 // Empty
 ```
 
+</details>
+
+</blockquote>
+
+</details>
+
+<details open>
+<summary><h3>⚡ Tips & Tricks</h3></summary>
+a
+b
+c
+</details>
+
+</blockquote>
+
 <div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
 </details>
 
-<a id="usage-section"></a>
-<details>
-<summary><h2>💡 Usage, Tips & Notes</h2></summary>
+<a id="setup-section"></a>
+<details open>
+<summary><h2>🛠️ Setup Instructions</h2></summary><blockquote>
+
+<details open>
+<summary><h3>📋 Prerequisites</h3></summary><blockquote>
+
+<details open>
+<summary><h4>💽 Required Software</h4></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h4>🖥️ System Requirements</h4></summary><blockquote>
+
+</blockquote>
+</details>
+
+</blockquote>
+
+</details>
+
+
+<details open>
+<summary><h3>📦 Installation Guide</h3></summary><blockquote>
+
+<details open>
+<summary><h4>⬇️ How to Download/Clone the Repository</h4></summary><blockquote>
+
+<details open>
+<summary><h5>Download ZIP File</h5></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h5>Clone with SSH</h5></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h5>Clone with HTTPS</h5></summary><blockquote>
+
+</blockquote>
+</details>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h4>🔄 How to Pull New Changes</h4></summary><blockquote>
+
+</blockquote>
+</details>
+
+
+<details open>
+<summary><h4>⛓️ Dependencies</h4></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h4>🏝️ Virtual Environments Setup</h4></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h4>📦 Installing Required Packages</h4></summary><blockquote>
+
+</blockquote>
+</details>
+
+
+</blockquote>
+
+</details>
+
+<details open>
+<summary><h3>⚙️ Configuration</h3></summary><blockquote>
+
+<details open>
+<summary><h4>🔐 API Keys & Environment Variables</h4></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h4>📡 External Services</h4></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h4>💽 Database Setups & Connections</h4></summary><blockquote>
+
+</blockquote>
+</details>
+
+
+</blockquote>
+
+</details>
+
+</blockquote>
+
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
+
+</details>
+
+<a id="support-section"></a>
+<details open>
+<summary><h2>💬 Technical Support</h2></summary><blockquote>
+
+<details open>
+<summary><h3>❌ Possible Errors & Issues</h3></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>🐛 Known Bugs</h3></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>🎦 Helpful Videos</h3></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>🗨️ Frequently Asked Questions</h3></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>🛟 Seeking Help</h3></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>📬 Get in Contact for Support</h3></summary><blockquote>
+
+</blockquote>
+</details>
+
+</blockquote>
+
 <div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
@@ -2861,14 +3082,13 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 
 <a id="contact-section"></a>
 <details open>
-<summary><h2>📬 Contact Information</h2></summary>
+<summary><h2>📬 Get In Contact</h2></summary>
 
 <div align="center">
 
 <blockquote>
 <img src="https://github.com/itsjordanmuller.png" width="160px"/><br>
 <em>If you have questions/feedback, I would love to hear from you. Thanks for stopping by!<br>- <strong>Jordan Muller</strong></em>
-
 </blockquote>
 
 [![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)
@@ -2890,13 +3110,15 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 
 <a id="license-section"></a>
 <details open>
-<summary><h2>📜 License Information</h2></summary>
+<summary><h2>📜 License Information</h2></summary><blockquote>
 
 The content within this repository was created as part of a personal educational project, following the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/). This repository is intended for personal use only and serves as a record of my learning progress. This repository & the content within it are not intended for commercial use, distribution, or replication. All rights to the original course content and methodologies belong to the respective copyright holders.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rights Reserved.
+
+</blockquote>
 
 <div align="right"><a href="#top">(back to top)</a></div>
 <hr>
