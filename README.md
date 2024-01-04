@@ -70,106 +70,29 @@
 
 <hr>
 
-<h2>Days & Projects</h2>
-
-<table>
-<tbody>
-  <tr>
-    <td align="center" width="72px">1-10</td>
-    <td align="center">
-      <img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?logo=star-fill&logoColor=000000" alt="Expanding Cards" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Progress%20Steps-ffbbb2.svg?logo=star-fill&logoColor=000000" alt="Progress Steps" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Rotating%20Navigation-ffc4b2.svg?logo=star-fill&logoColor=000000" alt="Rotating Navigation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Hidden%20Search%20Widget-ffceb2.svg?logo=star-fill&logoColor=000000" alt="Hidden Search Widget" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Blurry%20Loading-ffd7b2.svg?logo=star-fill&logoColor=000000" alt="Blurry Loading" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Scroll%20Animation-ffe0b2.svg?logo=star-fill&logoColor=000000" alt="Scroll Animation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Split%20Landing%20Page-ffe9b2.svg?logo=star-fill&logoColor=000000" alt="Split Landing Page" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Form%20Wave%20Animation-fff2b2.svg?logo=star-fill&logoColor=000000" alt="Form Wave Animation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Sound%20Board-fffbb2.svg?logo=star-fill&logoColor=000000" alt="Sound Board" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Dad%20Jokes-f8ffb2.svg?logo=star-fill&logoColor=000000" alt="Dad Jokes" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">11-20</td>
-    <td align="center">
-      <img src="https://custom-icon-badges.demolab.com/badge/Event%20KeyCodes-efffb2.svg?logo=star-fill&logoColor=000000" alt="Event KeyCodes" />
-      <img src="https://custom-icon-badges.demolab.com/badge/FAQ%20Collapse-e6ffb2.svg?logo=star-fill&logoColor=000000" alt="FAQ Collapse" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Random%20Choice%20Picker-ddffb2.svg?logo=star-fill&logoColor=000000" alt="Random Choice Picker" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Animated%20Navigation-d4ffb2.svg?logo=star-fill&logoColor=000000" alt="Animated Navigation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Incrementing%20Counter-caffb2.svg?logo=star-fill&logoColor=000000" alt="Incrementing Counter" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Drink%20Water-c1ffb2.svg?logo=star-fill&logoColor=000000" alt="Drink Water" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Movie%20App-b8ffb2.svg?logo=star-fill&logoColor=000000" alt="Movie App" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Background%20Slider-b2ffb5.svg?logo=star-fill&logoColor=000000" alt="Background Slider" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Theme%20Clock-b2ffbe.svg?logo=star-fill&logoColor=000000" alt="Theme Clock" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Button%20Ripple%20Effect-b2ffc7.svg?logo=star-fill&logoColor=000000" alt="Button Ripple Effect" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">21-30</td>
-    <td align="center">
-      <img src="https://custom-icon-badges.demolab.com/badge/Drag%20N%20Drop-b2ffd1.svg?logo=star-fill&logoColor=000000" alt="Drag N Drop" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Drawing%20App-b2ffda.svg?logo=star-fill&logoColor=000000" alt="Drawing App" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Kinetic%20CSS%20Loader-b2ffe3.svg?logo=star-fill&logoColor=000000" alt="Kinetic CSS Loader" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Content%20Placeholder-b2ffec.svg?logo=star-fill&logoColor=000000" alt="Content Placeholder" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Sticky%20Navigation-b2fff5.svg?logo=star-fill&logoColor=000000" alt="Sticky Navigation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Double%20Vertical%20Slider-b2ffff.svg?logo=star-fill&logoColor=000000" alt="Double Vertical Slider" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Toast%20Notifications-b2f5ff.svg?logo=star-fill&logoColor=000000" alt="Toast Notifications" />
-      <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Profiles-b2ecff.svg?logo=star-fill&logoColor=000000" alt="GitHub Profiles" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Double%20Click%20Heart-b2e3ff.svg?logo=star-fill&logoColor=000000" alt="Double Click Heart" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Auto%20Text%20Effect-b2daff.svg?logo=star-fill&logoColor=000000" alt="Auto Text Effect" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">31-40</td>
-    <td align="center">
-      <img src="https://custom-icon-badges.demolab.com/badge/Password%20Generator-b2d1ff.svg?logo=star-fill&logoColor=000000" alt="Password Generator" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Good/Cheap/Fast%20Checkboxes-b2c7ff.svg?logo=star-fill&logoColor=000000" alt="Good/Cheap/Fast Checkboxes" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Notes%20App-b2beff.svg?logo=star-fill&logoColor=000000" alt="Notes App" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Animated%20Countdown-b2b5ff.svg?logo=star-fill&logoColor=000000" alt="Animated Countdown" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Image%20Carousel-b8b2ff.svg?logo=star-fill&logoColor=000000" alt="Image Carousel" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Hoverboard-c1b2ff.svg?logo=star-fill&logoColor=000000" alt="Hoverboard" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Pokedex-cab2ff.svg?logo=star-fill&logoColor=000000" alt="Pokedex" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Mobile%20Tab%20Navigation-d4b2ff.svg?logo=star-fill&logoColor=000000" alt="Mobile Tab Navigation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Password%20Strength%20Background-ddb2ff.svg?logo=star-fill&logoColor=000000" alt="Password Strength Background" />
-      <img src="https://custom-icon-badges.demolab.com/badge/3D%20Background%20Boxes-e6b2ff.svg?logo=star-fill&logoColor=000000" alt="3D Background Boxes" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">41-50</td>
-    <td align="center">
-      <img src="https://custom-icon-badges.demolab.com/badge/Verify%20Account%20UI-efb2ff.svg?logo=star-fill&logoColor=000000" alt="Verify Account UI" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Live%20User%20Filter-f8b2ff.svg?logo=star-fill&logoColor=000000" alt="Live User Filter" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Feedback%20UI%20Design-ffb2fb.svg?logo=star-fill&logoColor=000000" alt="Feedback UI Design" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Custom%20Range%20Slider-ffb2f2.svg?logo=star-fill&logoColor=000000" alt="Custom Range Slider" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Netflix%20Mobile%20Navigation-ffb2e9.svg?logo=star-fill&logoColor=000000" alt="Netflix Mobile Navigation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Quiz%20App-ffb2e0.svg?logo=star-fill&logoColor=000000" alt="Quiz App" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Testimonial%20Box%20Switcher-ffb2d7.svg?logo=star-fill&logoColor=000000" alt="Testimonial Box Switcher" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Random%20Image%20Feed-ffb2ce.svg?logo=star-fill&logoColor=000000" alt="Random Image Feed" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Todo%20List-ffb2c4.svg?logo=star-fill&logoColor=000000" alt="Todo List" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Insect%20Catch%20Game-ffb2bb.svg?logo=star-fill&logoColor=000000" alt="Insect Catch Game" />
-    </td>
-  </tr>
-</tbody>
-</table>
 </div>
-<hr>
 
 <details open><summary><h2>Table of Contents 🗃️</h2></summary><blockquote>
 
 📖 <a href="#about-section"><strong>About The Project</strong></h3></a>
 
-🖼️ <a href="#gallery-section"><strong>Image Gallery</strong></a>
-
 💡 <a href="#usage-section"><strong>Usage Guide</strong></a>
 
 🛠️ <a href="#setup-section"><strong>Setup Instructions</strong></a>
 
-💬 <a href="#support-section"><strong>Technical Support</strong></a>
+🖼️ <a href="#gallery-section"><strong>Image Gallery</strong></a>
 
-<details open><summary>🔍 <a href="#overview-section"><strong>Days & Projects</strong></a></summary><blockquote>
+<details open><summary>🔍 <a href="#overview-section"><strong>Sections & Projects</strong></a></summary><blockquote>
 <br>
 <table>
-<tbody align="left" width="100%">
+<thead>
+<tr>
+<th colspan="2">
+Day - Project Name
+</th>
+</tr>
+</thead>
+<tbody align="center">
 <tr>
 <td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">1 - Expanding Cards</a></td>
 <td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">2 - Progress Steps</a></td>
@@ -276,6 +199,10 @@
 </blockquote>
 </details>
 
+💬 <a href="#support-section"><strong>Technical Support</strong></a>
+
+📬 <a href="#contact-section"><strong>Contact Information</strong></a>
+
 <details open>
 <summary>🌟 <a href="#acknowledgements-section"><strong>Acknowledgements</strong></a></summary>
 <blockquote>
@@ -285,17 +212,15 @@
 </blockquote>
 </details>
 
-📬 <a href="#contact-section"><strong>Get In Contact</strong></a>
+📜 <a href="#license-section"><strong>License Details</strong></a>
 
-📜 <a href="#license-section"><strong>License Information</strong></a>
-
-🔗 <a href="#resources-section"><strong>Resources & Citations</strong></a>
+🔗 <a href="#resources-section"><strong>Links & Citations</strong></a>
 
 </blockquote>
 
-<hr>
-
 </details>
+
+<hr>
 
 <a id="about-section"></a>
 <details open>
@@ -325,87 +250,6 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
 
 </details>
 
-<a id="gallery-section"></a>
-<details open>
-<summary align="center"><h2>🖼️ Image Gallery</h2></summary>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Cover Images</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" width="100%"></td>
-  </tr>
-</tbody>
-</table>
-<details>
-<summary align="center">
-View More Images 🌌
-</summary>
-
-<div align="right"><a href="#top">(back to top)</a></div>
-<hr>
-<div align="center">
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Day 1 - Expanding Cards</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Portfolio Link</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-1.png" alt="Expanding Cards - Desktop View" width="100%"></td>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-4.png" alt="Expanding Cards - Mobile View" width="100%"></td>
-  </tr>
-  <tr align="center">
-    <td>Desktop</td>
-    <td>Mobile</td>
-  </tr>
-</tbody>
-</table>
-<hr>
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Day 2 - Progress Steps</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View On Portfolio Site</a></td>
-  </tr>
-  <!-- <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
-  </tr> -->
-  <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
-  </tr>
-    <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">Desktop</td>
-  </tr>
-</tbody>
-</table>
-</details>
-</div>
-
-<div align="right"><a href="#top">(back to top)</a></div>
-<hr>
-
-</details>
-
 <a id="usage-section"></a>
 <details open>
 <summary align="center"><h2>💡 Usage Guide</h2></summary>
@@ -418,11 +262,31 @@ View More Images 🌌
 <blockquote>
   <p>If you're eager to simply see the results of this project, most, if not all of the projects have a Live Demo associated with them. I have linked them all in the overview for each specific project/section. To view these live demos, simply follow the links provided with each project. You'll see them alongside buttons that look like this:</p>
 
-  <table>
-    <tbody>
+  <table >
+    <thead>
       <tr>
-        <td><img src="https://custom-icon-badges.demolab.com/badge/View%20Live%20Demo-ff3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></td>
-        <td><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">https://specific-project-name.netlify.app</a></td>
+        <th>
+          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">Live Demo</a>
+        </th>
+        <th>
+          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">Directory</a>
+        </th>
+        <th>
+          <a href="">View On Portfolio</a>
+        </th>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr>
+        <td>
+        <img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/>
+        </td>
+        <td>
+        <img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/>
+        </td>
+        <td>
+        <img src="https://custom-icon-badges.demolab.com/badge/Portfolio%20Link-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -564,11 +428,13 @@ body {
 
 </details>
 
-<details open>
+<details>
 <summary><h3>⚡ Tips & Tricks</h3></summary>
+<blockquote>
 a
 b
 c
+</blockquote>
 </details>
 
 <div align="right"><a href="#top">(back to top)</a></div>
@@ -809,69 +675,81 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 
 </details>
 
-<a id="support-section"></a>
+<a id="gallery-section"></a>
 <details open>
-<summary align="center"><h2>💬 Technical Support</h2></summary>
+<summary align="center"><h2>🖼️ Image Gallery</h2></summary>
 
-<details open>
-<summary><h3>❌ Possible Errors & Issues</h3></summary><blockquote>
-
-</blockquote>
-</details>
-
-<details open>
-<summary><h3>🐛 Known Bugs</h3></summary>
-<blockquote>
 <table>
 <thead>
-<tr>
-<th>
-<a href="https://github.com/orgs/community/discussions/81528">#81528 - Anchor link in Markdown does not work well on Mobile app for Android</a>
-</th>
-</tr>
+  <tr>
+    <th colspan="2">Cover Images</th>
+  </tr>
 </thead>
 <tbody>
-<tr>
-<td>
-
-- You may find that some anchor links in this README do not work well on the Android version of the GitHub mobile app. This is a known issue with GitHub mobile app, and I've yet to find a solution for it. 
-  - I had the following options:
-    - Remove all anchor tags/links that are used to scroll down to a specific section
-    - Leave the links broken on Android, but usable everywhere else
-- I have decided to leave the links as they are. I believe it greatly enhances the experience of viewing my repositories & READMEs & outweighs the potential downsides.
-- I'm hoping that GitHub will fix this at some point, but until then, I would recommend using GitHub in your mobile browser, installed as a Progressive Web App (PWA), or on a computer.
-This README was designed to be responsive on large & small screens, but is best viewed in a large resolution on a desktop.
-
-</td>
-</tr>
+  <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" width="100%"></td>
+  </tr>
 </tbody>
 </table>
-</blockquote>
+<details>
+<summary align="center">
+View More Images 🌌
+</summary>
+
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
+<div align="center">
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Day 1 - Expanding Cards</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Portfolio Link</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-1.png" alt="Expanding Cards - Desktop View" width="100%"></td>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-4.png" alt="Expanding Cards - Mobile View" width="100%"></td>
+  </tr>
+  <tr align="center">
+    <td>Desktop</td>
+    <td>Mobile</td>
+  </tr>
+</tbody>
+</table>
+<hr>
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Day 2 - Progress Steps</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View On Portfolio Site</a></td>
+  </tr>
+  <!-- <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
+  </tr> -->
+  <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">Desktop</td>
+  </tr>
+</tbody>
+</table>
 </details>
-
-<details open>
-<summary><h3>🎦 Helpful Videos</h3></summary><blockquote>
-
-</blockquote>
-</details>
-
-<details open>
-<summary><h3>🗨️ Frequently Asked Questions</h3></summary><blockquote>
-
-</blockquote>
-</details>
-
-<details open>
-<summary><h3>🛟 Seeking Help</h3></summary><blockquote>
-
-</blockquote>
-</details>
-
-<details open>
-<summary><h3>📬 Get in Contact for Support</h3></summary><blockquote>
-
-</blockquote>
-</details>
+</div>
 
 <div align="right"><a href="#top">(back to top)</a></div>
 <hr>
@@ -882,9 +760,95 @@ This README was designed to be responsive on large & small screens, but is best 
 <details open>
 <summary align="center"><h2>🔍 Sections & Projects</h2></summary>
 
-### Day 1
+<table>
+<thead>
+<tr>
+<th colspan="2">
+Navigation Quick Links
+</th>
+</tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center" width="72px">1-10</td>
+    <td align="center">
+      <img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?logo=star-fill&logoColor=000000" alt="Expanding Cards" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Progress%20Steps-ffbbb2.svg?logo=star-fill&logoColor=000000" alt="Progress Steps" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Rotating%20Navigation-ffc4b2.svg?logo=star-fill&logoColor=000000" alt="Rotating Navigation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Hidden%20Search%20Widget-ffceb2.svg?logo=star-fill&logoColor=000000" alt="Hidden Search Widget" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Blurry%20Loading-ffd7b2.svg?logo=star-fill&logoColor=000000" alt="Blurry Loading" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Scroll%20Animation-ffe0b2.svg?logo=star-fill&logoColor=000000" alt="Scroll Animation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Split%20Landing%20Page-ffe9b2.svg?logo=star-fill&logoColor=000000" alt="Split Landing Page" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Form%20Wave%20Animation-fff2b2.svg?logo=star-fill&logoColor=000000" alt="Form Wave Animation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Sound%20Board-fffbb2.svg?logo=star-fill&logoColor=000000" alt="Sound Board" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Dad%20Jokes-f8ffb2.svg?logo=star-fill&logoColor=000000" alt="Dad Jokes" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">11-20</td>
+    <td align="center">
+      <img src="https://custom-icon-badges.demolab.com/badge/Event%20KeyCodes-efffb2.svg?logo=star-fill&logoColor=000000" alt="Event KeyCodes" />
+      <img src="https://custom-icon-badges.demolab.com/badge/FAQ%20Collapse-e6ffb2.svg?logo=star-fill&logoColor=000000" alt="FAQ Collapse" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Random%20Choice%20Picker-ddffb2.svg?logo=star-fill&logoColor=000000" alt="Random Choice Picker" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Animated%20Navigation-d4ffb2.svg?logo=star-fill&logoColor=000000" alt="Animated Navigation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Incrementing%20Counter-caffb2.svg?logo=star-fill&logoColor=000000" alt="Incrementing Counter" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Drink%20Water-c1ffb2.svg?logo=star-fill&logoColor=000000" alt="Drink Water" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Movie%20App-b8ffb2.svg?logo=star-fill&logoColor=000000" alt="Movie App" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Background%20Slider-b2ffb5.svg?logo=star-fill&logoColor=000000" alt="Background Slider" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Theme%20Clock-b2ffbe.svg?logo=star-fill&logoColor=000000" alt="Theme Clock" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Button%20Ripple%20Effect-b2ffc7.svg?logo=star-fill&logoColor=000000" alt="Button Ripple Effect" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">21-30</td>
+    <td align="center">
+      <img src="https://custom-icon-badges.demolab.com/badge/Drag%20N%20Drop-b2ffd1.svg?logo=star-fill&logoColor=000000" alt="Drag N Drop" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Drawing%20App-b2ffda.svg?logo=star-fill&logoColor=000000" alt="Drawing App" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Kinetic%20CSS%20Loader-b2ffe3.svg?logo=star-fill&logoColor=000000" alt="Kinetic CSS Loader" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Content%20Placeholder-b2ffec.svg?logo=star-fill&logoColor=000000" alt="Content Placeholder" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Sticky%20Navigation-b2fff5.svg?logo=star-fill&logoColor=000000" alt="Sticky Navigation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Double%20Vertical%20Slider-b2ffff.svg?logo=star-fill&logoColor=000000" alt="Double Vertical Slider" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Toast%20Notifications-b2f5ff.svg?logo=star-fill&logoColor=000000" alt="Toast Notifications" />
+      <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Profiles-b2ecff.svg?logo=star-fill&logoColor=000000" alt="GitHub Profiles" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Double%20Click%20Heart-b2e3ff.svg?logo=star-fill&logoColor=000000" alt="Double Click Heart" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Auto%20Text%20Effect-b2daff.svg?logo=star-fill&logoColor=000000" alt="Auto Text Effect" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">31-40</td>
+    <td align="center">
+      <img src="https://custom-icon-badges.demolab.com/badge/Password%20Generator-b2d1ff.svg?logo=star-fill&logoColor=000000" alt="Password Generator" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Good/Cheap/Fast%20Checkboxes-b2c7ff.svg?logo=star-fill&logoColor=000000" alt="Good/Cheap/Fast Checkboxes" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Notes%20App-b2beff.svg?logo=star-fill&logoColor=000000" alt="Notes App" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Animated%20Countdown-b2b5ff.svg?logo=star-fill&logoColor=000000" alt="Animated Countdown" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Image%20Carousel-b8b2ff.svg?logo=star-fill&logoColor=000000" alt="Image Carousel" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Hoverboard-c1b2ff.svg?logo=star-fill&logoColor=000000" alt="Hoverboard" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Pokedex-cab2ff.svg?logo=star-fill&logoColor=000000" alt="Pokedex" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Mobile%20Tab%20Navigation-d4b2ff.svg?logo=star-fill&logoColor=000000" alt="Mobile Tab Navigation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Password%20Strength%20Background-ddb2ff.svg?logo=star-fill&logoColor=000000" alt="Password Strength Background" />
+      <img src="https://custom-icon-badges.demolab.com/badge/3D%20Background%20Boxes-e6b2ff.svg?logo=star-fill&logoColor=000000" alt="3D Background Boxes" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">41-50</td>
+    <td align="center">
+      <img src="https://custom-icon-badges.demolab.com/badge/Verify%20Account%20UI-efb2ff.svg?logo=star-fill&logoColor=000000" alt="Verify Account UI" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Live%20User%20Filter-f8b2ff.svg?logo=star-fill&logoColor=000000" alt="Live User Filter" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Feedback%20UI%20Design-ffb2fb.svg?logo=star-fill&logoColor=000000" alt="Feedback UI Design" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Custom%20Range%20Slider-ffb2f2.svg?logo=star-fill&logoColor=000000" alt="Custom Range Slider" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Netflix%20Mobile%20Navigation-ffb2e9.svg?logo=star-fill&logoColor=000000" alt="Netflix Mobile Navigation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Quiz%20App-ffb2e0.svg?logo=star-fill&logoColor=000000" alt="Quiz App" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Testimonial%20Box%20Switcher-ffb2d7.svg?logo=star-fill&logoColor=000000" alt="Testimonial Box Switcher" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Random%20Image%20Feed-ffb2ce.svg?logo=star-fill&logoColor=000000" alt="Random Image Feed" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Todo%20List-ffb2c4.svg?logo=star-fill&logoColor=000000" alt="Todo List" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Insect%20Catch%20Game-ffb2bb.svg?logo=star-fill&logoColor=000000" alt="Insect Catch Game" />
+    </td>
+  </tr>
+</tbody>
+</table>
+<hr>
 
-#### [1. Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
+### [Day 1 - Expanding Cards](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Expanding Cards" width="100%"/>
 
@@ -3285,41 +3249,124 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 
 </details>
 
-<a id="acknowledgements-section"></a>
+<a id="support-section"></a>
 <details open>
-<summary align="center"><h2>🌟 Acknowledgements</h2></summary>
+<summary align="center"><h2>💬 Technical Support</h2></summary>
 
-<a id="special-thanks"></a>
+<details open>
+<summary><h3>❌ Possible Errors & Issues</h3></summary><blockquote>
 
-<div align="left">
-
-<h3>💌 Special Thanks</h3>
-
-<blockquote>
-<p>Dear Florin Pop & Brad Traversy,</p>
-<p>I want to express my heartfelt thanks for the creativity and effort you both put into creating the 50 project ideas and tutorials for the "50 Projects In 50 Days - HTML, CSS & JavaScript" course on Udemy.</p>
-<br>
-<p>Florin,</p>
-<p>Your approach in designing these projects has not only enhanced my understanding of web development but also sparked my creativity. Your work in compiling the HTML/CSS/JavaScript code for each project was instrumental in providing a practical, hands-on experience.</p>
-<p>It's clear that a lot of thought and expertise went into each project, making my learning journey both challenging and enjoyable. Thank you for your dedication and for making this course a valuable resource for aspiring developers like me.</p>
-<br>
-<p>Brad,</p>
-<p>Your way of teaching made the complex concepts of web development accessible and engaging. The clarity and depth of your explanations in each of the 50 projects have greatly improved my skills in HTML, CSS, and JavaScript.</p>
-<p>Your passion for teaching and commitment to helping students like me understand the nuances of web development is truly admirable. I feel much more confident in my abilities to create web projects thanks to your instruction. Thank you for being such a fantastic mentor and teacher.</p>
-<br>
-<p align="left">Sincerely,<br><strong><em>Jordan Muller</em></strong></p>
 </blockquote>
+</details>
 
+<details open>
+<summary><h3>🐛 Known Bugs</h3></summary>
+<blockquote>
+<table>
+<thead>
+<tr>
+<th>
+<a href="https://github.com/orgs/community/discussions/81528">#81528 - Anchor link in Markdown does not work well on Mobile app for Android</a>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
 
+- You may find that some anchor links in this README do not work well on the Android version of the GitHub mobile app. This is a known issue with GitHub mobile app, and I've yet to find a solution for it. 
+  - I had the following options:
+    - Remove all anchor tags/links that are used to scroll down to a specific section
+    - Leave the links broken on Android, but usable everywhere else
+- I have decided to leave the links as they are. I believe it greatly enhances the experience of viewing my repositories & READMEs & outweighs the potential downsides.
+- I'm hoping that GitHub will fix this at some point, but until then, I would recommend using GitHub in your mobile browser, installed as a Progressive Web App (PWA), or on a computer.
+This README was designed to be responsive on large & small screens, but is best viewed in a large resolution on a desktop.
 
-<div align="right"><a href="#top">(back to top)</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>🎦 Helpful Videos</h3></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>🗨️ Frequently Asked Questions</h3></summary><blockquote>
+
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>🛟 Support Resources</h3></summary><blockquote>
+
+</blockquote>
+</details>
+
+<table>
+<thead>
+<tr>
+<th>
+⚠️ Trying to Complete The Same Projects?
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>If you are working on these projects & need help, you will need to purchase the official course.</p>
+<p>Besides, nothing can replace the valuable insights gained in the course videos including:</p>
+<ul>
+<li>Commentary from Instructors</li>
+<li>Engaging Visuals & Diagrams</li>
+<li>Updates As They Happen</li>
+<li>Access to Instructor Support</li>
+<li>Community of Students Working on Same Projects</li>
+</ul>
+<p><strong><em>A link to the course can be found below in the Links & Citations.</em></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>
+💡 Still Need Help/Having Issues?
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>I am always available to help with these projects, please reach out if you:</p>
+<ul>
+<li>Have a Question For Me</li>
+<li>Encounter Any Issues Whatsoever</li>
+<li>Have Trouble Viewing The Live Demos</li>
+<li>Need Help Running the Projects on Your Local Machine</li>
+<li>Find a Broken Link</li>
+<li>Have Trouble Viewing Images</li>
+<li>Notice Something Could Be Improved</li>
+</ul>
+<p><strong><em>Please see below for my personal contact information. I would love to hear from you!</em></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+
 <hr>
 
 </details>
 
 <a id="contact-section"></a>
 <details open>
-<summary align="center"><h2>📬 Get In Contact</h2></summary>
+<summary align="center"><h2>📬 Contact Information</h2></summary>
 
 <div align="center">
 
@@ -3345,9 +3392,39 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 
 </details>
 
+<a id="acknowledgements-section"></a>
+<details open>
+<summary align="center"><h2>🌟 Acknowledgements</h2></summary>
+
+<a id="special-thanks"></a>
+
+<div align="left">
+
+<h3>💌 Special Thanks</h3>
+
+<blockquote>
+<p>Dear Florin Pop & Brad Traversy,</p>
+<p>I want to express my heartfelt thanks for the creativity and effort you both put into creating the 50 project ideas and tutorials for the "50 Projects In 50 Days - HTML, CSS & JavaScript" course on Udemy.</p>
+<br>
+<p>Florin,</p>
+<p>Your approach in designing these projects has not only enhanced my understanding of web development but also sparked my creativity. Your work in compiling the HTML/CSS/JavaScript code for each project was instrumental in providing a practical, hands-on experience.</p>
+<p>It's clear that a lot of thought and expertise went into each project, making my learning journey both challenging and enjoyable. Thank you for your dedication and for making this course a valuable resource for aspiring developers like me.</p>
+<br>
+<p>Brad,</p>
+<p>Your way of teaching made the complex concepts of web development accessible and engaging. The clarity and depth of your explanations in each of the 50 projects have greatly improved my skills in HTML, CSS, and JavaScript.</p>
+<p>Your passion for teaching and commitment to helping students like me understand the nuances of web development is truly admirable. I feel much more confident in my abilities to create web projects thanks to your instruction. Thank you for being such a fantastic mentor and teacher.</p>
+<br>
+<p align="left">Sincerely,<br><strong><em>Jordan Muller</em></strong></p>
+</blockquote>
+
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
+
+</details>
+
 <a id="license-section"></a>
 <details open>
-<summary align="center"><h2>📜 License Information</h2></summary><blockquote>
+<summary align="center"><h2>📜 License Details</h2></summary><blockquote>
 
 The content within this repository was created as part of a personal educational project, following the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/). This repository is intended for personal use only and serves as a record of my learning progress. This repository & the content within it are not intended for commercial use, distribution, or replication. All rights to the original course content and methodologies belong to the respective copyright holders.
 
@@ -3364,7 +3441,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 
 <a id="resources-section"></a>
 <details open>
-<summary align="center"><h2>🔗 Resources & Citations</h2></summary>
+<summary align="center"><h2>🔗 Links & Citations</h2></summary>
 
 <h3>Course & Instructor Details</h3>
 <table>
