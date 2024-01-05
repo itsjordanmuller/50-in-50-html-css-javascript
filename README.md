@@ -3946,150 +3946,75 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 </table>
 
 <table>
+  <thead>
+    <tr>
+      <th><em>Markdown</em><br><a href="https://en.wikipedia.org/wiki/Markdown">2004</a></th>
+      <th align="left"><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" height="47px" alt="Markdown Badge"/></th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td>
-        <table>
-          <thead>
-            <tr>
-              <th><em>Markdown</em><br><a href="https://en.wikipedia.org/wiki/Markdown">2004</a></th>
-              <th align="left"><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" height="50px" alt="Markdown Badge"/></th>
-            </tr>
-          </thead>
-          <tbody>
-              <tr>
-              <td align="center">Home Page</td>
-              <td>https://daringfireball.net/projects/markdown/</td>
-            </tr>
-            <tr>
-              <td align="center">GitHub Topic</td>
-              <td>https://github.com/topics/markdown</td>
-            </tr>
-          </tbody>
-        </table>
+      <td align="center">Home Page</td>
+      <td>https://daringfireball.net/projects/markdown/</td>
+    </tr>
+    <tr>
+      <td align="center">GitHub Topic</td>
+      <td>https://github.com/topics/markdown</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+      <br>
         <blockquote>
+        <details>
+          <summary>View Markdown Learning Resources</summary>
+          <br>
           <table>
-            <tbody width="100%">
-              <tr width="100%">
-                <td colspan=3>
-                <br>
-                  <details>
-                    <summary>View Markdown Learning Resources</summary>
-                    <br>
-                    <table>
-                      <tbody>
-                        <tr>
-                          <td>Guides</td>
-                          <td>
-                              ■ https://www.markdownguide.org/getting-started/<br>
-                              ■ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>GitHub Flavored</td>
-                          <td>https://github.github.com/gfm/</td>
-                        </tr>
-                        <tr>
-                          <td>Wikipedia</td>
-                          <td>https://en.wikipedia.org/wiki/Markdown</td>
-                        </tr>
-                      </tbody>
-                    </table>
-                    <hr>
-                  </details>
-                  <details colspan=3>
-                    <summary>View Markdown Support & Communities</summary>
-                    <br>
-                    <table>
-                        <tbody>
-                        <tr>
-                          <td>Discussion Boards</td>
-                          <td>https://www.reddit.com/r/Markdown/</td>
-                        </tr>
-                        <tr>
-                          <td>Stack Overflow Help</td>
-                          <td>https://stackoverflow.com/questions/tagged/markdown</td>
-                        </tr>
-                      </tbody>
-                    </table>
-                  </details>
-                  <hr>
+            <tbody>
+              <tr>
+                <td>
+                    <strong>Additional Guides</strong><br>
+                    ■ https://www.markdownguide.org/getting-started/<br>
+                    ■ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>GitHub Flavored Markdown</strong><br>
+                  https://github.github.com/gfm/
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Wikipedia Article</strong><br>
+                  https://en.wikipedia.org/wiki/Markdown
                 </td>
               </tr>
             </tbody>
           </table>
+          <hr>
+        </details>
+        <details>
+          <summary>View Markdown Support & Communities</summary>
+          <br>
+          <table>
+              <tbody>
+              <tr>
+                <td>
+                  <strong>Forums & Discussion Boards</strong><br>
+                  https://www.reddit.com/r/Markdown/
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Stack Overflow Help</strong><br>
+                  https://stackoverflow.com/questions/tagged/markdown
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </details>
         </blockquote>
         <hr>
-        <table>
-          <thead>
-            <tr>
-              <th><em>Markdown</em><br><a href="https://en.wikipedia.org/wiki/Markdown">2004</a></th>
-              <th align="left"><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" height="50px" alt="Markdown Badge"/></th>
-            </tr>
-          </thead>
-          <tbody>
-              <tr>
-              <td align="center">Home Page</td>
-              <td>https://daringfireball.net/projects/markdown/</td>
-            </tr>
-            <tr>
-              <td align="center">GitHub Topic</td>
-              <td>https://github.com/topics/markdown</td>
-            </tr>
-          </tbody>
-        </table>
-        <blockquote>
-          <table>
-            <tbody width="100%">
-              <tr width="100%">
-                <td colspan=3>
-                <br>
-                  <details>
-                    <summary>View Markdown Learning Resources</summary>
-                    <br>
-                    <table>
-                      <tbody>
-                        <tr>
-                          <td>Guides</td>
-                          <td>
-                              ■ https://www.markdownguide.org/getting-started/<br>
-                              ■ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>GitHub Flavored</td>
-                          <td>https://github.github.com/gfm/</td>
-                        </tr>
-                        <tr>
-                          <td>Wikipedia</td>
-                          <td>https://en.wikipedia.org/wiki/Markdown</td>
-                        </tr>
-                      </tbody>
-                    </table>
-                    <hr>
-                  </details>
-                  <details colspan=3>
-                    <summary>View Markdown Support & Communities</summary>
-                    <br>
-                    <table>
-                        <tbody>
-                        <tr>
-                          <td>Discussion Boards</td>
-                          <td>https://www.reddit.com/r/Markdown/</td>
-                        </tr>
-                        <tr>
-                          <td>Stack Overflow Help</td>
-                          <td>https://stackoverflow.com/questions/tagged/markdown</td>
-                        </tr>
-                      </tbody>
-                    </table>
-                  </details>
-                  <hr>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </blockquote>
       </td>
     </tr>
   </tbody>
