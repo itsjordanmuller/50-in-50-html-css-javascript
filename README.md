@@ -3638,7 +3638,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   <thead>
     <tr>
     <th><em>HTML</em><br><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" width="100%" alt="HTML5 Badge"/><br><a href="https://en.wikipedia.org/wiki/HTML">1993</a></th>
-    <th><h5>Helpful HTML Links & Resources</h5></th>
+    <th><h5 align="left">HTML Links & Resources</h5></th>
     </tr>
   </thead>
   <tbody>
@@ -3664,8 +3664,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
           <table>
             <tbody>
               <tr>
-                <td>Third Party Guides</td>
-                <td>MDN</td>
+                <td>MDN Guides</td>
                 <td>
                   <ul>
                     <li>https://developer.mozilla.org/en-US/docs/Web/HTML</li>
@@ -3674,7 +3673,6 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
                 </td>
               </tr>
               <tr>
-                <td>General Info</td>
                 <td>Wikipedia</td>
                 <td>https://en.wikipedia.org/wiki/HTML</td>
               </tr>
@@ -3688,7 +3686,6 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
           <table>
               <tbody>
               <tr>
-                <td>Community Links</td>
                 <td>Discussion Boards</td>
                 <td>
                   <ul>
@@ -3698,8 +3695,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
                 </td>
               </tr>
               <tr>
-                <td>Troubleshooting</td>
-                <td>Stack Overflow Tag</td>
+                <td>Stack Overflow Help</td>
                 <td>https://stackoverflow.com/questions/tagged/html</td>
               </tr>
             </tbody>
@@ -3714,93 +3710,71 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <table>
   <thead>
     <tr>
-    <th colspan="3">{X} Links & Resources</th>
+    <th><em>{x}</em><br><img src="{x}" width="100%" alt="{x} Badge"/><br><a href="{x}">{x}</a></th>
+    <th><h5 align="left">{x} Links & Resources</h5></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Home Page</td>
-      <td>{X}</td>
+      <td align="center">Home Page</td>
+      <td>{x}</td>
     </tr>
     <tr>
-      <td>Docs Link</td>
-      <td>{X}</td>
-    </tr>
-    <tr>
-      <td>Repo Link</td>
-      <td>{X}</td>
-    </tr>
-    <tr>
-      <td>GitHub Topic</td>
+      <td align="center">GitHub Topic</td>
       <td>
         <ul>
-          <li>{X}</li>
-          <li>{X}</li>
+          <li>{x}</li>
+          <li>{x}</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td colspan=3>
+      <br>
         <details>
-          <summary>Additional HTML Learning Resources</summary>
+          <summary>View {x} Learning Resources</summary>
           <br>
           <table>
             <tbody>
               <tr>
-                <td>Third Party Guides</td>
-                <td>MDN</td>
+                <td>MDN Guides</td>
                 <td>
                   <ul>
-                    <li>{X}</li>
-                    <li>{X}</li>
+                    <li>{x}</li>
+                    <li>{x}</li>
                   </ul>
                 </td>
               </tr>
               <tr>
-                <td>Games</td>
-                <td>{X}</td>
-                <td>{X}</td>
-              </tr>
-              <tr>
-                <td>General Info</td>
                 <td>Wikipedia</td>
-                <td>{X}</td>
+                <td>{x}</td>
               </tr>
             </tbody>
           </table>
+          <hr>
         </details>
         <details colspan=3>
-          <summary>HTML Support & Communities</summary>
+          <summary>View {X} Support & Communities</summary>
           <br>
           <table>
               <tbody>
               <tr>
-                <td>Support</td>
-                <td>Official Support</td>
-                <td>{X}</td>
-              </tr>
-              <tr>
-                <td rowspan="2">Community Links</td>
                 <td>Discussion Boards</td>
                 <td>
                   <ul>
-                    <li>{X}</li>
-                    <li>{X}</li>
+                    <li>{x}</li>
+                    <li>{x}</li>
                   </ul>
                 </td>
               </tr>
               <tr>
-                <td>Discord Link</td>
-                <td>{X}</td>
-              </tr>
-              <tr>
-                <td>Troubleshooting</td>
-                <td>Stack Overflow Tag</td>
-                <td>{X}</td>
+                <td>Stack Overflow Help</td>
+                <td>{x}</td>
               </tr>
             </tbody>
           </table>
         </details>
+        <hr>
       </td>
     </tr>
   </tbody>
