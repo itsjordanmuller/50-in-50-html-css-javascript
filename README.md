@@ -3637,7 +3637,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <table>
   <thead>
     <tr>
-    <th><em>HTML</em><br><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" width="100%" alt="HTML5 Badge"/><br><a href="https://en.wikipedia.org/wiki/HTML">1993</a></th>
+    <th><em>HTML</em><br><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" width="90%" alt="HTML5 Badge"/><br><a href="https://en.wikipedia.org/wiki/HTML">1993</a></th>
     <th><h5 align="left">HTML Links & Resources</h5></th>
     </tr>
   </thead>
@@ -3710,7 +3710,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <table>
   <thead>
     <tr>
-      <th><em>CSS</em><br><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" width="100%" alt="CSS3 Badge"/><br><a href="https://en.wikipedia.org/wiki/CSS">1996</a></th>
+      <th><em>CSS</em><br><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" width="90%" alt="CSS3 Badge"/><br><a href="https://en.wikipedia.org/wiki/CSS">1996</a></th>
       <th><h5 align="left">CSS Links & Resources</h5></th>
     </tr>
   </thead>
@@ -3802,7 +3802,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <table>
   <thead>
     <tr>
-      <th><em>JavaScript</em><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" width="100%" alt="JavaScript Badge"/><br><a href="https://en.wikipedia.org/wiki/JavaScript">1995</a></th>
+      <th><em>JavaScript</em><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" width="90%" alt="JavaScript Badge"/><br><a href="https://en.wikipedia.org/wiki/JavaScript">1995</a></th>
       <th><h5 align="left">JavaScript Links & Resources</h5></th>
     </tr>
   </thead>
@@ -3879,7 +3879,78 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <table>
   <thead>
     <tr>
-    <th><em>{x}</em><br><img src="{x}" width="100%" alt="{x} Badge"/><br><a href="{x}">{x}</a></th>
+      <th><em>Markdown</em><br><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" width="90%" alt="Markdown Badge"/><br><a href="https://en.wikipedia.org/wiki/Markdown">2004</a></th>
+      <th><h5 align="left">Markdown Links & Resources</h5></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home Page</td>
+      <td>https://daringfireball.net/projects/markdown/</td>
+    </tr>
+    <tr>
+      <td align="center">GitHub Topic</td>
+      <td>https://github.com/topics/markdown</td>
+    </tr>
+    <tr>
+      <td colspan=3>
+      <br>
+        <details>
+          <summary>View Markdown Learning Resources</summary>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>Guides</td>
+                <td>
+                  <ul>
+                    <li>https://www.markdownguide.org/getting-started/</li>
+                    <li>https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>GitHub Flavored</td>
+                <td>
+                  <ul wrap="wrap">
+                    <li>https://github.github.com/gfm/</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Wikipedia</td>
+                <td>https://en.wikipedia.org/wiki/Markdown</td>
+              </tr>
+            </tbody>
+          </table>
+          <hr>
+        </details>
+        <details colspan=3>
+          <summary>View Markdown Support & Communities</summary>
+          <br>
+          <table>
+              <tbody>
+              <tr>
+                <td>Discussion Boards</td>
+                <td>https://www.reddit.com/r/Markdown/</td>
+              </tr>
+              <tr>
+                <td>Stack Overflow Help</td>
+                <td>https://stackoverflow.com/questions/tagged/markdown</td>
+              </tr>
+            </tbody>
+          </table>
+        </details>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+    <th><em>{x}</em><br><img src="{x}" width="90%" alt="{x} Badge"/><br><a href="{x}">{x}</a></th>
     <th><h5 align="left">{x} Links & Resources</h5></th>
     </tr>
   </thead>
@@ -3952,57 +4023,6 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <h3>Developer Tools</h3>
 
 <h3>Additional Resources</h3>
-
-
-<h3>Official Sites & Documentation</h3>
-<table>
-<tr>
-  <th nowrap="nowrap" align="left">Resource Name</th>
-  <th align="left">Link to Official Docs</th>
-</tr>
-<tr>
-  <td nowrap="nowrap">
-    HTML Official Docs
-  </td>
-  <td>https://html.spec.whatwg.org/</td>
-</tr>
-<tr>
-  <td nowrap="nowrap">
-    CSS Official Docs
-  </td>
-  <td>https://www.w3.org/TR/CSS/#css</td>
-</tr>
-<tr>
-  <td nowrap="nowrap">
-    JavaScript Official Docs
-  </td>
-  <td>https://www.ecmascript.org/</td>
-</tr>
-</table>
-
-<h3>Release Dates</h3>
-<table>
-  <tr>
-    <th align="left">Technology</th>
-    <th align="center">Release Year</th>
-    <th align="left">Link to Release Date Reference</th>
-  </tr>
-  <tr>
-    <td>HTML</td>
-    <td>1993</td>
-    <td>https://en.wikipedia.org/wiki/HTML</td>
-  </tr>
-  <tr>
-    <td>CSS</td>
-    <td>1996</td>
-    <td>https://en.wikipedia.org/wiki/CSS</td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>1995</td>
-    <td>https://en.wikipedia.org/wiki/JavaScript</td>
-  </tr>
-</table>
 
 <hr>
 
