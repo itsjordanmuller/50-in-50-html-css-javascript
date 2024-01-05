@@ -3637,356 +3637,46 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <table>
   <thead>
     <tr>
-    <th><em>HTML</em><br><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" width="90%" alt="HTML5 Badge"/><br><a href="https://en.wikipedia.org/wiki/HTML">1993</a></th>
-    <th><h5 align="left">HTML Links & Resources</h5></th>
+      <th><em>HTML</em><br><a href="https://en.wikipedia.org/wiki/HTML">1993</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/html/"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" height="47px" alt="HTML Badge"/></a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">Home Page</td>
-      <td>https://html.spec.whatwg.org/</td>
+      <td align="center">Home</td>
+      <td><a href="https://html.spec.whatwg.org/">html.spec.whatwg.org/</a></td>
     </tr>
     <tr>
-      <td align="center">GitHub Topic</td>
+      <td align="center">Topic</td>
       <td>
         <ul>
-          <li>https://github.com/topics/html</li>
-          <li>https://github.com/topics/html5</li>
+          <li><a href="https://github.com/topics/html">github.com/topics/html</a></li>
+          <li><a href="https://github.com/topics/html">github.com/topics/html5</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td colspan=3>
-      <br>
-        <details>
-          <summary>View HTML Learning Resources</summary>
-          <br>
-          <table>
-            <tbody>
-              <tr>
-                <td>MDN Guides</td>
-                <td>
-                  <ul>
-                    <li>https://developer.mozilla.org/en-US/docs/Web/HTML</li>
-                    <li>https://developer.mozilla.org/en-US/docs/Learn/HTML</li>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>Wikipedia</td>
-                <td>https://en.wikipedia.org/wiki/HTML</td>
-              </tr>
-            </tbody>
-          </table>
-          <hr>
-        </details>
-        <details colspan=3>
-          <summary>View HTML Support & Communities</summary>
-          <br>
-          <table>
-              <tbody>
-              <tr>
-                <td>Discussion Boards</td>
-                <td>
-                  <ul>
-                    <li>https://www.reddit.com/r/HTML/</li>
-                    <li>https://www.reddit.com/r/html5/</li>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>Stack Overflow Help</td>
-                <td>https://stackoverflow.com/questions/tagged/html</td>
-              </tr>
-            </tbody>
-          </table>
-        </details>
-        <hr>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th><em>CSS</em><br><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" width="90%" alt="CSS3 Badge"/><br><a href="https://en.wikipedia.org/wiki/CSS">1996</a></th>
-      <th><h5 align="left">CSS Links & Resources</h5></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Home Page</td>
-      <td>https://www.w3.org/TR/CSS/#css</td>
-    </tr>
-    <tr>
-      <td align="center">GitHub Topic</td>
-      <td>
-        <ul>
-          <li>https://github.com/topics/css</li>
-          <li>https://github.com/topics/css3</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td colspan=3>
-      <br>
-        <details>
-          <summary>View CSS Learning Resources</summary>
-          <br>
-          <table>
-            <tbody>
-              <tr>
-                <td>MDN Guides</td>
-                <td>
-                  <ul>
-                    <li>https://developer.mozilla.org/en-US/docs/Web/CSS</li>
-                    <li>https://developer.mozilla.org/en-US/docs/Learn/CSS</li>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>Interactive Games</td>
-                <td>
-                  <ul>
-                    <li>Flexbox</li>
-                      <ul>
-                        <li>https://flexboxfroggy.com/</li>
-                        <li>http://www.flexboxdefense.com/</li>
-                        <li>https://flexboxzombies.com/</li>
-                      </ul>
-                    <hr>
-                    <li>Grid</li>
-                      <ul>
-                        <li>https://cssgridgarden.com/</li>
-                        <li>https://www.gridcritters.com/</li>
-                      </ul>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>Wikipedia</td>
-                <td>https://en.wikipedia.org/wiki/CSS</td>
-              </tr>
-            </tbody>
-          </table>
-          <hr>
-        </details>
-        <details colspan=3>
-          <summary>View CSS Support & Communities</summary>
-          <br>
-          <table>
-              <tbody>
-              <tr>
-                <td>Discussion Boards</td>
-                <td>
-                  <ul>
-                    <li>https://www.reddit.com/r/css/</li>
-                    <li>https://www.reddit.com/r/csshelp/</li>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>Stack Overflow Help</td>
-                <td>https://stackoverflow.com/questions/tagged/css</td>
-              </tr>
-            </tbody>
-          </table>
-        </details>
-        <hr>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th><em>JavaScript</em><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" width="90%" alt="JavaScript Badge"/><br><a href="https://en.wikipedia.org/wiki/JavaScript">1995</a></th>
-      <th><h5 align="left">JavaScript Links & Resources</h5></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Home Page</td>
-      <td><a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">https://ecma-international.org/</a></td>
-    </tr>
-    <tr>
-      <td align="center">GitHub Topic</td>
-      <td>
-        https://github.com/topics/javascript<br>
-        https://github.com/topics/es6
-      </td>
-    </tr>
-    <tr>
-      <td colspan=4>
-      <br>
-        <details>
-          <summary>View JavaScript Learning Resources</summary>
-          <br>
-          <table>
-            <tbody>
-              <tr>
-                <td>MDN Guides</td>
-                <td>
-                  <ul>
-                    <li>https://developer.mozilla.org/en-US/docs/Web/JavaScript</li>
-                    <li>https://developer.mozilla.org/en-US/docs/Learn/JavaScript</li>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>Jargon Guide</td>
-                <td>http://jargon.js.org/</td>
-              </tr>
-              <tr>
-                <td>Wikipedia</td>
-                <td>https://en.wikipedia.org/wiki/JavaScript</td>
-              </tr>
-            </tbody>
-          </table>
-          <hr>
-        </details>
-        <details>
-          <summary>View JavaScript Support & Communities</summary>
-          <br>
-          <table>
-              <tbody>
-              <tr>
-                <td>Discussion Boards</td>
-                <td>
-                  <ul>
-                    <li>https://www.reddit.com/r/javascript/</li>
-                    <li>https://www.reddit.com/r/learnjavascript/</li>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>Stack Overflow Help</td>
-                <td>https://stackoverflow.com/questions/tagged/javascript</td>
-              </tr>
-            </tbody>
-          </table>
-        </details>
-        <hr>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th><em>Markdown</em><br><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" width="90%" alt="Markdown Badge"/><br><a href="https://en.wikipedia.org/wiki/Markdown">2004</a></th>
-      <th><h5 align="left">Markdown Links & Resources</h5></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Home Page</td>
-      <td>https://daringfireball.net/projects/markdown/</td>
-    </tr>
-    <tr>
-      <td align="center">GitHub Topic</td>
-      <td>https://github.com/topics/markdown</td>
-    </tr>
-    <tr>
-      <td colspan=3>
-      <br>
-        <details>
-          <summary>View Markdown Learning Resources</summary>
-          <br>
-          <table>
-            <tbody>
-              <tr>
-                <td>Guides</td>
-                <td>
-                  <ul>
-                    <li>https://www.markdownguide.org/getting-started/</li>
-                    <li>https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</li>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>GitHub Flavored</td>
-                <td>
-                  <ul wrap="wrap">
-                    <li>https://github.github.com/gfm/</li>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>Wikipedia</td>
-                <td>https://en.wikipedia.org/wiki/Markdown</td>
-              </tr>
-            </tbody>
-          </table>
-          <hr>
-        </details>
-        <details colspan=3>
-          <summary>View Markdown Support & Communities</summary>
-          <br>
-          <table>
-              <tbody>
-              <tr>
-                <td>Discussion Boards</td>
-                <td>https://www.reddit.com/r/Markdown/</td>
-              </tr>
-              <tr>
-                <td>Stack Overflow Help</td>
-                <td>https://stackoverflow.com/questions/tagged/markdown</td>
-              </tr>
-            </tbody>
-          </table>
-        </details>
-        <hr>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th><em>Markdown</em><br><a href="https://en.wikipedia.org/wiki/Markdown">2004</a></th>
-      <th align="left"><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" height="47px" alt="Markdown Badge"/></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Home Page</td>
-      <td>https://daringfireball.net/projects/markdown/</td>
-    </tr>
-    <tr>
-      <td align="center">GitHub Topic</td>
-      <td>https://github.com/topics/markdown</td>
     </tr>
     <tr>
       <td colspan="2">
       <br>
         <blockquote>
         <details>
-          <summary>View Markdown Learning Resources</summary>
+          <summary>View HTML Resources & Information</summary>
           <br>
           <table>
             <tbody>
               <tr>
                 <td>
-                    <strong>Additional Guides</strong><br>
-                    ■ https://www.markdownguide.org/getting-started/<br>
-                    ■ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>GitHub Flavored Markdown</strong><br>
-                  https://github.github.com/gfm/
+                  <strong>MDN Guides</strong>
+                  <ul>
+                    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">developer.mozilla.org/en-US/docs/Web/HTML</a></li>
+                    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">developer.mozilla.org/en-US/docs/Learn/HTML</a></li>
+                  </ul>
                 </td>
               </tr>
               <tr>
                 <td>
                   <strong>Wikipedia Article</strong><br>
-                  https://en.wikipedia.org/wiki/Markdown
+                  <a href="https://en.wikipedia.org/wiki/HTML">en.wikipedia.org/wiki/HTML</a>
                 </td>
               </tr>
             </tbody>
@@ -3994,20 +3684,23 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
           <hr>
         </details>
         <details>
-          <summary>View Markdown Support & Communities</summary>
+          <summary>View HTML Support & Communities</summary>
           <br>
           <table>
-              <tbody>
+            <tbody>
               <tr>
                 <td>
                   <strong>Forums & Discussion Boards</strong><br>
-                  https://www.reddit.com/r/Markdown/
+                  <ul>
+                    <li><a href="https://www.reddit.com/r/HTML/">reddit.com/r/HTML/</a></li>
+                    <li><a href="https://www.reddit.com/r/html5/">reddit.com/r/html5/</a></li>
+                  </ul>
                 </td>
               </tr>
               <tr>
                 <td>
                   <strong>Stack Overflow Help</strong><br>
-                  https://stackoverflow.com/questions/tagged/markdown
+                  <a href="https://stackoverflow.com/questions/tagged/html">stackoverflow.com/questions/tagged/html</a>
                 </td>
               </tr>
             </tbody>
@@ -4023,70 +3716,257 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <table>
   <thead>
     <tr>
-    <th><em>{x}</em><br><img src="{x}" width="90%" alt="{x} Badge"/><br><a href="{x}">{x}</a></th>
-    <th><h5 align="left">{x} Links & Resources</h5></th>
+      <th><em>CSS</em><br><a href="https://en.wikipedia.org/wiki/CSS">1996</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/css/"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" height="47px" alt="CSS Badge"/></a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">Home Page</td>
-      <td>{x}</td>
+      <td align="center">Home</td>
+      <td><a href="https://www.w3.org/TR/CSS/#css">w3.org/TR/CSS/#css</a></td>
     </tr>
     <tr>
-      <td align="center">GitHub Topic</td>
+      <td align="center">Topic</td>
       <td>
         <ul>
-          <li>{x}</li>
-          <li>{x}</li>
+          <li><a href="https://github.com/topics/css">github.com/topics/css</a></li>
+          <li><a href="https://github.com/topics/css3">github.com/topics/css3</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td colspan=3>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View CSS Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>MDN Guides</strong>
+                    <ul>
+                      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">developer.mozilla.org/en-US/docs/Web/CSS</a></li>
+                      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">developer.mozilla.org/en-US/docs/Learn/CSS</a></li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Interactive Learning Games</strong>
+                    <ul>
+                      <li>Flexbox</li>
+                      <ul>
+                        <li><a href="https://flexboxfroggy.com/">Flexbox Froggy</a></li>
+                        <li><a href="http://www.flexboxdefense.com/">Flexbox Defense</a></li>
+                        <li><a href="https://flexboxzombies.com/">Flexbox Zombies</a></li>
+                      </ul>
+                      <hr>
+                      <li>Grid</li>
+                      <ul>
+                        <li><a href="https://cssgridgarden.com/">CSS Grid Garden</a></li>
+                        <li><a href="https://www.gridcritters.com/">Grid Critters</a></li>
+                      </ul>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Wikipedia Article</strong><br>
+                    <a href="https://en.wikipedia.org/wiki/CSS">en.wikipedia.org/wiki/CSS</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View CSS Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Forums & Discussion Boards</strong><br>
+                    <ul>
+                      <li><a href="https://www.reddit.com/r/css/">reddit.com/r/css/</a></li>
+                      <li><a href="https://www.reddit.com/r/csshelp/">reddit.com/r/csshelp/</a></li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/css">stackoverflow.com/questions/tagged/css</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>JavaScript</em><br><a href="https://en.wikipedia.org/wiki/JavaScript">1995</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/javascript/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="47px" alt="JavaScript Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">ecma-international.org/</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/topics/javascript">github.com/topics/javascript</a></li>
+          <li><a href="https://github.com/topics/es6">github.com/topics/es6</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View JavaScript Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>MDN Guides</strong>
+                    <ul>
+                      <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">developer.mozilla.org/en-US/docs/Web/JavaScript</a></li>
+                      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript">developer.mozilla.org/en-US/docs/Learn/JavaScript</a></li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Simplified JavaScript Jargon Guide</strong><br>
+                    <a href="http://jargon.js.org/">jargon.js.org/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Wikipedia Article</strong><br>
+                    <a href="https://en.wikipedia.org/wiki/JavaScript">en.wikipedia.org/wiki/JavaScript</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View JavaScript Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Forums & Discussion Boards</strong><br>
+                    <ul>
+                      <li><a href="https://www.reddit.com/r/javascript/">reddit.com/r/javascript/</a></li>
+                      <li><a href="https://www.reddit.com/r/learnjavascript/">reddit.com/r/learnjavascript/</a></li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/javascript">stackoverflow.com/questions/tagged/javascript</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>Markdown</em><br><a href="https://en.wikipedia.org/wiki/Markdown">2004</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/markdown/"><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" height="47px" alt="Markdown Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://daringfireball.net/projects/markdown/">daringfireball.net/projects/markdown/</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/markdown">github.com/topics/markdown</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
       <br>
+        <blockquote>
         <details>
-          <summary>View {x} Learning Resources</summary>
+          <summary>View Markdown Resources & Information</summary>
           <br>
           <table>
             <tbody>
               <tr>
-                <td>MDN Guides</td>
-                <td>
-                  <ul>
-                    <li>{x}</li>
-                    <li>{x}</li>
-                  </ul>
+                  <td>
+                    <strong>Additional Guides</strong>
+                    <ul>
+                      <li><a href="https://www.markdownguide.org/getting-started/">markdownguide.org/getting-started/</a></li>
+                      <li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a></li>
+                    </ul>
                 </td>
               </tr>
               <tr>
-                <td>Wikipedia</td>
-                <td>{x}</td>
+                <td>
+                  <strong>GitHub Flavored Markdown</strong><br>
+                  <a href="https://github.github.com/gfm/">github.github.com/gfm/</a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Wikipedia Article</strong><br>
+                  <a href="https://en.wikipedia.org/wiki/Markdown">en.wikipedia.org/wiki/Markdown</a>
+                </td>
               </tr>
             </tbody>
           </table>
           <hr>
         </details>
-        <details colspan=3>
-          <summary>View {X} Support & Communities</summary>
+        <details>
+          <summary>View Markdown Support & Communities</summary>
           <br>
           <table>
               <tbody>
               <tr>
-                <td>Discussion Boards</td>
                 <td>
-                  <ul>
-                    <li>{x}</li>
-                    <li>{x}</li>
-                  </ul>
+                  <strong>Forums & Discussion Boards</strong><br>
+                  <a href="https://www.reddit.com/r/Markdown/">reddit.com/r/Markdown/</a>
                 </td>
               </tr>
               <tr>
-                <td>Stack Overflow Help</td>
-                <td>{x}</td>
+                <td>
+                  <strong>Stack Overflow Help</strong><br>
+                  <a href="https://stackoverflow.com/questions/tagged/markdown">stackoverflow.com/questions/tagged/markdown</a>
+                </td>
               </tr>
             </tbody>
           </table>
         </details>
+        </blockquote>
         <hr>
       </td>
     </tr>
@@ -4098,71 +3978,76 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <table>
   <thead>
     <tr>
-      <th><em>Git</em><br><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" width="100%" alt="Git Badge"/><br><a href="https://en.wikipedia.org/wiki/Git">2005</a></th>
-      <th><h5 align="left">Git Links & Resources</h5></th>
+      <th><em>Git</em><br><a href="https://en.wikipedia.org/wiki/Git">2005</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/git/"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" height="47px" alt="Git Badge"/></a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">Home Page</td>
-      <td>https://git-scm.com/</td>
+      <td align="center">Home</td>
+      <td><a href="https://git-scm.com/">git-scm.com/</a></td>
     </tr>
     <tr>
-      <td align="center">GitHub Topic</td>
-      <td>
-        <ul>
-          <li>https://github.com/topics/git</li>
-        </ul>
-      </td>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/git">github.com/topics/git</a></td>
     </tr>
     <tr>
-      <td colspan=3>
+      <td colspan="2">
       <br>
+        <blockquote>
         <details>
-          <summary>View Git Learning Resources</summary>
+          <summary>View Git Resources & Information</summary>
           <br>
           <table>
             <tbody>
               <tr>
-                <td>Repository</td>
-                <td>https://github.com/git/git</td>
-              </tr>
-              <tr>
-                <td>Wikipedia</td>
-                <td>https://en.wikipedia.org/wiki/Git</td>
+                <td>
+                  <strong>Wikipedia Article</strong><br>
+                  <a href="https://en.wikipedia.org/wiki/Git">en.wikipedia.org/wiki/Git</a>
+                </td>
               </tr>
             </tbody>
           </table>
           <hr>
         </details>
-        <details colspan=3>
+        <details>
           <summary>View Git Support & Communities</summary>
           <br>
           <table>
-              <tbody>
+            <tbody>
               <tr>
-                <td>Community</td>
-                <td>https://git-scm.com/community</td>
-              </tr>
-              <tr>
-                <td>Discord</td>
-                <td>https://discord.gg/GRFVkzgxRd</td>
-              </tr>
-              <tr>
-                <td>Discussion Boards</td>
                 <td>
+                  <strong>Forums & Discussion Boards</strong><br>
                   <ul>
-                    <li>https://www.reddit.com/r/git/</li>
+                    <li><a href="https://www.reddit.com/r/git/">reddit.com/r/git/</a></li>
                   </ul>
                 </td>
               </tr>
               <tr>
-                <td>Stack Overflow Help</td>
-                <td>https://stackoverflow.com/questions/tagged/git</td>
+                <td>
+                  <strong>Stack Overflow Help</strong><br>
+                  <a href="https://stackoverflow.com/questions/tagged/git">stackoverflow.com/questions/tagged/git</a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Community Links</strong><br>
+                  <ul>
+                    <li><a href="https://git-scm.com/community">git-scm.com/community</a></li>
+                    <li><a href="https://discord.gg/GRFVkzgxRd">discord.gg/GRFVkzgxRd</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>GitHub Repository</strong><br>
+                  <a href="https://github.com/git/git">github.com/git/git</a>
+                </td>
               </tr>
             </tbody>
           </table>
         </details>
+        </blockquote>
         <hr>
       </td>
     </tr>
