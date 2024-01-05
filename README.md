@@ -4054,6 +4054,90 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th><em>GitHub</em><br><a href="https://en.wikipedia.org/wiki/GitHub">2008</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/github/"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="47px" alt="GitHub Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://github.com/">github.com/</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/github">github.com/topics/github</a></td>
+    </tr>
+    <tr>
+      <td align="center">Profile</td>
+      <td><a href="https://github.com/itsjordanmuller">github.com/itsjordanmuller</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View GitHub Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Guides</strong><br>
+                    <a href="https://docs.github.com/en/get-started/quickstart/hello-world">docs.github.com/en/get-started/quickstart/hello-world</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Videos</strong><br>
+                    <a href="https://www.youtube.com/watch?v=tRZGeaHPoaw">Git and GitHub Tutorial for Beginners by Kevin Stratvert</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Wikipedia Article</strong><br>
+                    <a href="https://en.wikipedia.org/wiki/GitHub">en.wikipedia.org/wiki/GitHub</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View GitHub Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Support</strong><br>
+                    <a href="https://support.github.com/">support.github.com/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Forums & Discussion Boards</strong><br>
+                    <a href="https://www.reddit.com/r/github/">reddit.com/r/github/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/github">stackoverflow.com/questions/tagged/github</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <h3>Additional Resources</h3>
 
 <hr>
