@@ -3710,6 +3710,175 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <table>
   <thead>
     <tr>
+      <th><em>CSS</em><br><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" width="100%" alt="CSS3 Badge"/><br><a href="https://en.wikipedia.org/wiki/CSS">1996</a></th>
+      <th><h5 align="left">CSS Links & Resources</h5></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home Page</td>
+      <td>https://www.w3.org/TR/CSS/#css</td>
+    </tr>
+    <tr>
+      <td align="center">GitHub Topic</td>
+      <td>
+        <ul>
+          <li>https://github.com/topics/css</li>
+          <li>https://github.com/topics/css3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan=3>
+      <br>
+        <details>
+          <summary>View CSS Learning Resources</summary>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>MDN Guides</td>
+                <td>
+                  <ul>
+                    <li>https://developer.mozilla.org/en-US/docs/Web/CSS</li>
+                    <li>https://developer.mozilla.org/en-US/docs/Learn/CSS</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Interactive Games</td>
+                <td>
+                  <ul>
+                    <li>Flexbox</li>
+                      <ul>
+                        <li>https://flexboxfroggy.com/</li>
+                        <li>http://www.flexboxdefense.com/</li>
+                        <li>https://flexboxzombies.com/</li>
+                      </ul>
+                    <hr>
+                    <li>Grid</li>
+                      <ul>
+                        <li>https://cssgridgarden.com/</li>
+                        <li>https://www.gridcritters.com/</li>
+                      </ul>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Wikipedia</td>
+                <td>https://en.wikipedia.org/wiki/CSS</td>
+              </tr>
+            </tbody>
+          </table>
+          <hr>
+        </details>
+        <details colspan=3>
+          <summary>View CSS Support & Communities</summary>
+          <br>
+          <table>
+              <tbody>
+              <tr>
+                <td>Discussion Boards</td>
+                <td>
+                  <ul>
+                    <li>https://www.reddit.com/r/css/</li>
+                    <li>https://www.reddit.com/r/csshelp/</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Stack Overflow Help</td>
+                <td>https://stackoverflow.com/questions/tagged/css</td>
+              </tr>
+            </tbody>
+          </table>
+        </details>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>JavaScript</em><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" width="100%" alt="JavaScript Badge"/><br><a href="https://en.wikipedia.org/wiki/JavaScript">1995</a></th>
+      <th><h5 align="left">JavaScript Links & Resources</h5></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home Page</td>
+      <td><a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">https://ecma-international.org/</a></td>
+    </tr>
+    <tr>
+      <td align="center">GitHub Topic</td>
+      <td>
+        <ul>
+          <li>https://github.com/topics/javascript</li>
+          <li>https://github.com/topics/es6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan=3>
+      <br>
+        <details>
+          <summary>View JavaScript Learning Resources</summary>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>MDN Guides</td>
+                <td>
+                  <ul>
+                    <li>https://developer.mozilla.org/en-US/docs/Web/JavaScript</li>
+                    <li>https://developer.mozilla.org/en-US/docs/Learn/JavaScript</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Jargon Guide</td>
+                <td>http://jargon.js.org/</td>
+              </tr>
+              <tr>
+                <td>Wikipedia</td>
+                <td>https://en.wikipedia.org/wiki/JavaScript</td>
+              </tr>
+            </tbody>
+          </table>
+          <hr>
+        </details>
+        <details colspan=3>
+          <summary>View JavaScript Support & Communities</summary>
+          <br>
+          <table>
+              <tbody>
+              <tr>
+                <td>Discussion Boards</td>
+                <td>
+                  <ul>
+                    <li>https://www.reddit.com/r/javascript/</li>
+                    <li>https://www.reddit.com/r/learnjavascript/</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Stack Overflow Help</td>
+                <td>https://stackoverflow.com/questions/tagged/javascript</td>
+              </tr>
+            </tbody>
+          </table>
+        </details>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
     <th><em>{x}</em><br><img src="{x}" width="100%" alt="{x} Badge"/><br><a href="{x}">{x}</a></th>
     <th><h5 align="left">{x} Links & Resources</h5></th>
     </tr>
