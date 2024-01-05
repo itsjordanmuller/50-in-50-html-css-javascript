@@ -3630,20 +3630,24 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 </blockquote>
 
 <hr>
+
+<h3>Core Technologies</h3>
+
+<h4>Languages</h4>
 <table>
   <thead>
     <tr>
-    <th colspan="2">HTML<br><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/></th>
-    <th colspan="1">Links & Resources</th>
+    <th><em>HTML</em><br><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" width="100%" alt="HTML5 Badge"/><br><a href="https://en.wikipedia.org/wiki/HTML">1993</a></th>
+    <th><h5>Helpful HTML Links & Resources</h5></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" colspan="2">Home Page</td>
+      <td align="center">Home Page</td>
       <td>https://html.spec.whatwg.org/</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">GitHub Topic</td>
+      <td align="center">GitHub Topic</td>
       <td>
         <ul>
           <li>https://github.com/topics/html</li>
@@ -3651,11 +3655,11 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
         </ul>
       </td>
     </tr>
-    <tr><br>
+    <tr>
       <td colspan=3>
       <br>
         <details>
-          <summary>Additional HTML Learning Resources</summary>
+          <summary>View HTML Learning Resources</summary>
           <br>
           <table>
             <tbody>
@@ -3679,7 +3683,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
           <hr>
         </details>
         <details colspan=3>
-          <summary>HTML Support & Communities</summary>
+          <summary>View HTML Support & Communities</summary>
           <br>
           <table>
               <tbody>
