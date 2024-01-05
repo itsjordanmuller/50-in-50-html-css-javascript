@@ -285,7 +285,7 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
         <img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/>
         </td>
         <td>
-        <img src="https://custom-icon-badges.demolab.com/badge/Portfolio%20Link-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/>
         </td>
       </tr>
     </tbody>
@@ -301,13 +301,29 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
   <p>If you plan on running the code on your local machine, be sure to check the specific project you're trying to run to see if it needs any additional information or setup for the connections to the API to work. In most cases, I will try to include a `.env.example` file. You will need to open this file, and read the instructions inside to obtain your own API key. Once that's done, you'll need to make sure you've renamed the file from `.env.example` to `.env` only.</p>
   <p>If you want to avoid setting up environment variables, check to see if the project has a Live Demo associated with it. For all of the projects that I have hosted on the internet, you'll be able to use them without any API configuration required. This is often a simpler way of viewing more complicated projects, since everything will already be running for you to view, use & explore.</p>
 </blockquote>
+<hr>
+<table>
+<thead>
+<tr>
+<th>
+<h4>📚 Just Hoping to Learn More About Programming?</h4>
+</th>
+</tr>
+</thead>
 
-<h4>📚 Just Trying to Learn More About Programming?</h4>
+<tbody>
+<tr>
+<td>
 
 <blockquote>
   <p>I have provided a variety of resources and guides throughout this README for new developers. From the absolute basics, to specific videos and guides that helped me get unstuck in certain situations, I tried to include every single resource I ended up utilizing over the course of my journey.</p>
   <p>We are so lucky to live in a time where almost all of this information is available for free on the internet. The only thing I paid for was the course itself, which can be purchased for about $20 on sale at Udemy. Besides that, I was able to complete the project with a low-spec Lenovo Thinkpad T480 I purchased for just under $300. It's proven to be a perfect machine for development & running Kubuntu Linux.</p>
 </blockquote>
+
+</td>
+</tr>
+</tbody>
+</table>
 
 </details>
 
@@ -328,12 +344,6 @@ c
 </blockquote>
 </details> -->
 
-<details open>
-<summary><h3>💾 Installation</h3></summary><blockquote>
-For detailed installation instructions, please refer to the <a href="#setup-section">Setup Instructions</a> section.
-</blockquote>
-</details>
-
 <!-- <details open>
 <summary><h3>🎛️ Configuration Options</h3></summary><blockquote>
 a
@@ -343,18 +353,14 @@ c
 </details> -->
 
 <details open>
-<summary><h3>📖 Examples & Snippets</h3></summary><blockquote>
+<summary><h3>📖 Examples & Snippets</h3></summary>
+<h4>Project Starter Template 📝</h4>
+<blockquote>
+
+<img src="https://img.shields.io/badge/HTML5_-_Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26" alt="HTML5 Boilerplate">
 <details>
-
-<summary><h4>📝 Project Starter Template</h4></summary>
-
-##### [Project Starter Template](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/000-Project-Starter-Template)
-
----
-
-###### [HTML5 Boilerplate - HTML5 (HyperText Markup Language 5)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html)
-
-![HTML5 Boilerplate](https://img.shields.io/badge/HTML5_-_Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26)
+<summary><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html">View Boilerplate - HTML5 (HyperText Markup Language 5)</a>
+</summary><br>
 
 |[index.html](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html)|
 |---|
@@ -382,11 +388,15 @@ c
 </html>
 ```
 
----
+</details>
 
-###### [CSS Boilerplate - CSS3 (Cascading Style Sheets Level 3)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/style.css)
+<hr>
 
-![CSS3 Boilerplate](https://img.shields.io/badge/CSS3-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6)
+<img src="https://img.shields.io/badge/CSS3-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS3 Boilerplate Badge">
+<details>
+<summary><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/style.css">View Boilerplate - CSS3 (Cascading Style Sheets Level 3)</a>
+
+</summary><br>
 
 |[style.css](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/style.css)|
 |---|
@@ -410,11 +420,16 @@ body {
 }
 ```
 
----
+</details>
 
-###### [JavaScript Boilerplate - JS ES6+ (ECMAScript 2015 Onwards)](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/script.js)
+<hr>
 
-![JavaScript Boilerplate](https://img.shields.io/badge/JavaScript-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF1E)
+<img src="https://img.shields.io/badge/JavaScript-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF1E" alt="JavaScript Boilerplate Badge"/>
+<details>
+<summary>
+<a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/script.js"> View Boilerplate - JS ES6+ (ECMAScript 2015 Onwards)</a>
+
+</summary><br>
 
 |[script.js](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/script.js)|
 |---|
@@ -428,12 +443,9 @@ body {
 
 </details>
 
-<details>
-<summary><h3>⚡ Tips & Tricks</h3></summary>
-<blockquote>
-a
-b
-c
+<details open>
+<summary><h3>💾 Installation</h3></summary><blockquote>
+For detailed installation instructions, please refer to the <a href="#setup-section">Setup Instructions</a> section.
 </blockquote>
 </details>
 
@@ -489,7 +501,7 @@ System requirements for these projects can vary due to the fact that they use di
 
 Performance will heavily rely on your specific hardware setup, including processor speed, RAM capacity, storage type, and graphics card quality. The operating system choice and its configuration also play a significant role in speed.
 
-To give you a practical example, I personally used a [Lenovo Thinkpad T480](https://www.amazon.com/dp/B0842X4BNF) for the entirety of my recent project. This laptop, has been great for a variety of daily tasks, including programming.
+To give you a practical example, I personally used a [Lenovo Thinkpad T480](https://www.amazon.com/dp/B0842X4BNF) for the entirety of my recent projects. This laptop, has been great for a variety of daily tasks, including programming.
 
 The computer I used for the entire project features the following specifications:
 
@@ -534,22 +546,9 @@ Feel free to use whichever option you are most comfortable & familiar with. You 
 |:--|
 
 <blockquote>
-<details>
-<summary><em>Download ZIP File</em></summary><blockquote>
-
-1. **Navigate to the Repository**: Open your web browser and go to the main page of the repository.
-2. **Find the 'Code' Button**: On the repository's main page, locate the 'Code' button. This is usually found near the top right, just above the file list.
-3. **Download ZIP Option**: Click on the 'Code' button. A dropdown menu will appear. Select the 'Download ZIP' option from this menu.
-4. **Save the ZIP File**: Choose a location on your computer where you want to save the ZIP file and confirm the download.
-5. **Extract Files**: Once the download is complete, navigate to the downloaded file. Right-click on the ZIP file and select 'Extract All...' or use your preferred extraction tool. Choose where you want the extracted folder to be placed.
-6. **Access Repository Contents**: Open the extracted folder to access the contents of the repository.
-Note: Downloading a ZIP file is a great way to get a copy of the repository without using Git commands.
-
-</blockquote>
-</details>
 
 <details>
-<summary><em>Clone with SSH</em></summary><blockquote>
+<summary><em>Clone with SSH ★</em></summary><blockquote>
 
 1. **Ensure SSH Key Setup**: Before you can clone with SSH, make sure you have an SSH key set up and added to your GitHub account. If you haven't done this, refer to GitHub's documentation on setting up a new SSH key.
 2. **Copy SSH URL**: Navigate to the repository on GitHub. Click the 'Code' button and switch to the 'SSH' tab in the dropdown menu. Click the clipboard icon to copy the SSH URL.
@@ -561,6 +560,20 @@ Note: Downloading a ZIP file is a great way to get a copy of the repository with
 5. **Access Cloned Repository**: Once the cloning process is complete, you will have a local copy of the repository. Navigate into the newly created directory to access the repository files.
 
 Note: Cloning with SSH is secure and allows for easy repository updates without repeatedly entering credentials.
+
+</blockquote>
+</details>
+
+<details>
+<summary><em>Download ZIP File</em></summary><blockquote>
+
+1. **Navigate to the Repository**: Open your web browser and go to the main page of the repository.
+2. **Find the 'Code' Button**: On the repository's main page, locate the 'Code' button. This is usually found near the top right, just above the file list.
+3. **Download ZIP Option**: Click on the 'Code' button. A dropdown menu will appear. Select the 'Download ZIP' option from this menu.
+4. **Save the ZIP File**: Choose a location on your computer where you want to save the ZIP file and confirm the download.
+5. **Extract Files**: Once the download is complete, navigate to the downloaded file. Right-click on the ZIP file and select 'Extract All...' or use your preferred extraction tool. Choose where you want the extracted folder to be placed.
+6. **Access Repository Contents**: Open the extracted folder to access the contents of the repository.
+Note: Downloading a ZIP file is a great way to get a copy of the repository without using Git commands.
 
 </blockquote>
 </details>
@@ -3254,12 +3267,6 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 <summary align="center"><h2>💬 Technical Support</h2></summary>
 
 <details open>
-<summary><h3>❌ Possible Errors & Issues</h3></summary><blockquote>
-
-</blockquote>
-</details>
-
-<details open>
 <summary><h3>🐛 Known Bugs</h3></summary>
 <blockquote>
 <table>
@@ -3274,18 +3281,166 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 <tr>
 <td>
 
-- You may find that some anchor links in this README do not work well on the Android version of the GitHub mobile app. This is a known issue with GitHub mobile app, and I've yet to find a solution for it. 
-  - I had the following options:
-    - Remove all anchor tags/links that are used to scroll down to a specific section
-    - Leave the links broken on Android, but usable everywhere else
-- I have decided to leave the links as they are. I believe it greatly enhances the experience of viewing my repositories & READMEs & outweighs the potential downsides.
-- I'm hoping that GitHub will fix this at some point, but until then, I would recommend using GitHub in your mobile browser, installed as a Progressive Web App (PWA), or on a computer.
-This README was designed to be responsive on large & small screens, but is best viewed in a large resolution on a desktop.
+<p>You may find that some anchor links in this README do not work well on the Android version of the GitHub mobile app. This is a known issue with GitHub mobile app, and I've yet to find a solution for it. </p>
+
+<ul>
+  <li>I had the following options:
+    <ul>
+      <li>Remove all anchor tags/links that are used to scroll down to a specific section</li>
+      <li>Leave the links broken on Android, but usable everywhere else</li>
+    </ul>
+  </li>
+</ul>
+  
+<p>I have decided to leave the links as they are. I believe it greatly enhances the experience of viewing my repositories & READMEs & outweighs the potential downsides.</p>
+<p>I'm hoping that GitHub will fix this at some point, but until then, I would recommend using GitHub in your mobile browser, installed as a Progressive Web App (PWA), or on a computer.</p>
+<p>This README was designed to be responsive on large & small screens, but is best viewed in a large resolution on a desktop.</p>
 
 </td>
 </tr>
 </tbody>
 </table>
+</blockquote>
+</details>
+
+<details open>
+<summary><h3>❌ Possible Errors & Issues</h3></summary><blockquote>
+
+<table>
+  <tr>
+    <th>Issue</th>
+    <th>Solutions</th>
+  </tr>
+  <tr>
+    <td>Initial Display Blank</td>
+    <td>
+      <ul>
+        <li>Ensure your browser is updated.</li>
+        <li>Clear browser cache and cookies.</li>
+        <li>Check URL accuracy and internet stability.</li>
+        <li>Test in incognito/private mode.</li>
+        <li>Verify file directory structure for index.html, style.css, and script.js.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Missing Styles</td>
+    <td>
+      <ul>
+        <li>Confirm browser support for latest CSS standards.</li>
+        <li>Check for global settings or extensions overriding CSS.</li>
+        <li>Ensure no reader/accessibility modes are active.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Content Visibility Issues</td>
+    <td>
+      <ul>
+        <li>Check if firewall or antivirus is blocking content.</li>
+        <li>Disable content blockers or ad blockers.</li>
+        <li>Consider network restrictions (corporate, educational).</li>
+        <li>Assess VPN impact on content loading.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Interactivity Issues</td>
+    <td>
+      <ul>
+        <li>Update your browser for JavaScript support.</li>
+        <li>Disable conflicting browser extensions.</li>
+        <li>Check browser JavaScript settings.</li>
+        <li>Enable cookies if necessary for JavaScript.</li>
+        <li>Ensure no security software is blocking scripts.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Image Display Problems</td>
+    <td>
+      <ul>
+        <li>Inspect network stability for image loading.</li>
+        <li>Test website on different browsers.</li>
+        <li>Check browser's image quality settings.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Extended Load Times</td>
+    <td>
+      <ul>
+        <li>Check network tab in browser's developer tools.</li>
+        <li>Ensure fast and stable network connection.</li>
+        <li>Test on different devices.</li>
+        <li>Close other bandwidth-intensive applications.</li>
+        <li>Disable data saver modes.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>API Issues</td>
+    <td>
+      <ul>
+        <li>Follow documentation for API key insertion.</li>
+        <li>Check API key formatting and case sensitivity.</li>
+        <li>Refer to API provider's key usage guidelines.</li>
+        <li>Correctly enter key/token as required.</li>
+        <li>Renew expired API keys.</li>
+        <li>Visit API provider for new key and troubleshooting.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Issues Cloning/Downloading Repository</td>
+    <td>
+      <ul>
+        <li>Verify Git installation and update if necessary.</li>
+        <li>Check for correct repository URL in Git commands.</li>
+        <li>Ensure adequate permissions for the repository access.</li>
+        <li>Check internet connection for stability.</li>
+        <li>Try downloading the ZIP file of the repository if Git clone fails.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Having Trouble Viewing Live Demos</td>
+    <td>
+      <ul>
+        <li>Ensure a stable internet connection.</li>
+        <li>Check if the demo link is up-to-date and correct.</li>
+        <li>Try accessing the demo on different browsers or devices.</li>
+        <li>Disable browser extensions that might interfere with the demo.</li>
+        <li>Contact the project maintainer if the issue persists.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Can't Get Site Running on Local Machine</td>
+    <td>
+      <ul>
+        <li>Ensure all required dependencies are installed.</li>
+        <li>Check the local server setup and configuration.</li>
+        <li>Verify environment variables and settings.</li>
+        <li>Consult the README for specific setup instructions.</li>
+        <li>Review error logs for specific issues during setup.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Problems with Dependency Installation</td>
+    <td>
+      <ul>
+        <li>Ensure correct versions of node and npm are installed.</li>
+        <li>Run 'npm install' to install all required dependencies.</li>
+        <li>Check for errors in the console during installation.</li>
+        <li>Try removing 'node_modules' folder and reinstalling dependencies.</li>
+        <li>Consult documentation for any specific dependency issues.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 </blockquote>
 </details>
 
