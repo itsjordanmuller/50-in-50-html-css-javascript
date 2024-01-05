@@ -3627,10 +3627,185 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   <td>https://www.udemy.com/user/popflorin/</td>
 </tr>
 </table>
-
 </blockquote>
 
 <hr>
+<table>
+  <thead>
+    <tr>
+    <th colspan="2">HTML<br><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/></th>
+    <th colspan="1">Links & Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" colspan="2">Home Page</td>
+      <td>https://html.spec.whatwg.org/</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">GitHub Topic</td>
+      <td>
+        <ul>
+          <li>https://github.com/topics/html</li>
+          <li>https://github.com/topics/html5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr><br>
+      <td colspan=3>
+      <br>
+        <details>
+          <summary>Additional HTML Learning Resources</summary>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>Third Party Guides</td>
+                <td>MDN</td>
+                <td>
+                  <ul>
+                    <li>https://developer.mozilla.org/en-US/docs/Web/HTML</li>
+                    <li>https://developer.mozilla.org/en-US/docs/Learn/HTML</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>General Info</td>
+                <td>Wikipedia</td>
+                <td>https://en.wikipedia.org/wiki/HTML</td>
+              </tr>
+            </tbody>
+          </table>
+          <hr>
+        </details>
+        <details colspan=3>
+          <summary>HTML Support & Communities</summary>
+          <br>
+          <table>
+              <tbody>
+              <tr>
+                <td>Community Links</td>
+                <td>Discussion Boards</td>
+                <td>
+                  <ul>
+                    <li>https://www.reddit.com/r/HTML/</li>
+                    <li>https://www.reddit.com/r/html5/</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Troubleshooting</td>
+                <td>Stack Overflow Tag</td>
+                <td>https://stackoverflow.com/questions/tagged/html</td>
+              </tr>
+            </tbody>
+          </table>
+        </details>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+    <th colspan="3">{X} Links & Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Home Page</td>
+      <td>{X}</td>
+    </tr>
+    <tr>
+      <td>Docs Link</td>
+      <td>{X}</td>
+    </tr>
+    <tr>
+      <td>Repo Link</td>
+      <td>{X}</td>
+    </tr>
+    <tr>
+      <td>GitHub Topic</td>
+      <td>
+        <ul>
+          <li>{X}</li>
+          <li>{X}</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan=3>
+        <details>
+          <summary>Additional HTML Learning Resources</summary>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>Third Party Guides</td>
+                <td>MDN</td>
+                <td>
+                  <ul>
+                    <li>{X}</li>
+                    <li>{X}</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Games</td>
+                <td>{X}</td>
+                <td>{X}</td>
+              </tr>
+              <tr>
+                <td>General Info</td>
+                <td>Wikipedia</td>
+                <td>{X}</td>
+              </tr>
+            </tbody>
+          </table>
+        </details>
+        <details colspan=3>
+          <summary>HTML Support & Communities</summary>
+          <br>
+          <table>
+              <tbody>
+              <tr>
+                <td>Support</td>
+                <td>Official Support</td>
+                <td>{X}</td>
+              </tr>
+              <tr>
+                <td rowspan="2">Community Links</td>
+                <td>Discussion Boards</td>
+                <td>
+                  <ul>
+                    <li>{X}</li>
+                    <li>{X}</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Discord Link</td>
+                <td>{X}</td>
+              </tr>
+              <tr>
+                <td>Troubleshooting</td>
+                <td>Stack Overflow Tag</td>
+                <td>{X}</td>
+              </tr>
+            </tbody>
+          </table>
+        </details>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Developer Tools</h3>
+
+<h3>Additional Resources</h3>
+
 
 <h3>Official Sites & Documentation</h3>
 <table>
