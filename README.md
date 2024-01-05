@@ -3814,14 +3814,12 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
     <tr>
       <td align="center">GitHub Topic</td>
       <td>
-        <ul>
-          <li>https://github.com/topics/javascript</li>
-          <li>https://github.com/topics/es6</li>
-        </ul>
+        https://github.com/topics/javascript<br>
+        https://github.com/topics/es6
       </td>
     </tr>
     <tr>
-      <td colspan=3>
+      <td colspan=4>
       <br>
         <details>
           <summary>View JavaScript Learning Resources</summary>
@@ -3849,7 +3847,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
           </table>
           <hr>
         </details>
-        <details colspan=3>
+        <details>
           <summary>View JavaScript Support & Communities</summary>
           <br>
           <table>
@@ -3948,6 +3946,156 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 </table>
 
 <table>
+  <tbody>
+    <tr>
+      <td>
+        <table>
+          <thead>
+            <tr>
+              <th><em>Markdown</em><br><a href="https://en.wikipedia.org/wiki/Markdown">2004</a></th>
+              <th align="left"><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" height="50px" alt="Markdown Badge"/></th>
+            </tr>
+          </thead>
+          <tbody>
+              <tr>
+              <td align="center">Home Page</td>
+              <td>https://daringfireball.net/projects/markdown/</td>
+            </tr>
+            <tr>
+              <td align="center">GitHub Topic</td>
+              <td>https://github.com/topics/markdown</td>
+            </tr>
+          </tbody>
+        </table>
+        <blockquote>
+          <table>
+            <tbody width="100%">
+              <tr width="100%">
+                <td colspan=3>
+                <br>
+                  <details>
+                    <summary>View Markdown Learning Resources</summary>
+                    <br>
+                    <table>
+                      <tbody>
+                        <tr>
+                          <td>Guides</td>
+                          <td>
+                              ■ https://www.markdownguide.org/getting-started/<br>
+                              ■ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>GitHub Flavored</td>
+                          <td>https://github.github.com/gfm/</td>
+                        </tr>
+                        <tr>
+                          <td>Wikipedia</td>
+                          <td>https://en.wikipedia.org/wiki/Markdown</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <hr>
+                  </details>
+                  <details colspan=3>
+                    <summary>View Markdown Support & Communities</summary>
+                    <br>
+                    <table>
+                        <tbody>
+                        <tr>
+                          <td>Discussion Boards</td>
+                          <td>https://www.reddit.com/r/Markdown/</td>
+                        </tr>
+                        <tr>
+                          <td>Stack Overflow Help</td>
+                          <td>https://stackoverflow.com/questions/tagged/markdown</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </details>
+                  <hr>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </blockquote>
+        <hr>
+        <table>
+          <thead>
+            <tr>
+              <th><em>Markdown</em><br><a href="https://en.wikipedia.org/wiki/Markdown">2004</a></th>
+              <th align="left"><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" height="50px" alt="Markdown Badge"/></th>
+            </tr>
+          </thead>
+          <tbody>
+              <tr>
+              <td align="center">Home Page</td>
+              <td>https://daringfireball.net/projects/markdown/</td>
+            </tr>
+            <tr>
+              <td align="center">GitHub Topic</td>
+              <td>https://github.com/topics/markdown</td>
+            </tr>
+          </tbody>
+        </table>
+        <blockquote>
+          <table>
+            <tbody width="100%">
+              <tr width="100%">
+                <td colspan=3>
+                <br>
+                  <details>
+                    <summary>View Markdown Learning Resources</summary>
+                    <br>
+                    <table>
+                      <tbody>
+                        <tr>
+                          <td>Guides</td>
+                          <td>
+                              ■ https://www.markdownguide.org/getting-started/<br>
+                              ■ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>GitHub Flavored</td>
+                          <td>https://github.github.com/gfm/</td>
+                        </tr>
+                        <tr>
+                          <td>Wikipedia</td>
+                          <td>https://en.wikipedia.org/wiki/Markdown</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <hr>
+                  </details>
+                  <details colspan=3>
+                    <summary>View Markdown Support & Communities</summary>
+                    <br>
+                    <table>
+                        <tbody>
+                        <tr>
+                          <td>Discussion Boards</td>
+                          <td>https://www.reddit.com/r/Markdown/</td>
+                        </tr>
+                        <tr>
+                          <td>Stack Overflow Help</td>
+                          <td>https://stackoverflow.com/questions/tagged/markdown</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </details>
+                  <hr>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </blockquote>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
   <thead>
     <tr>
     <th><em>{x}</em><br><img src="{x}" width="90%" alt="{x} Badge"/><br><a href="{x}">{x}</a></th>
@@ -4021,6 +4169,80 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 </table>
 
 <h3>Developer Tools</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>Git</em><br><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" width="100%" alt="Git Badge"/><br><a href="https://en.wikipedia.org/wiki/Git">2005</a></th>
+      <th><h5 align="left">Git Links & Resources</h5></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home Page</td>
+      <td>https://git-scm.com/</td>
+    </tr>
+    <tr>
+      <td align="center">GitHub Topic</td>
+      <td>
+        <ul>
+          <li>https://github.com/topics/git</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan=3>
+      <br>
+        <details>
+          <summary>View Git Learning Resources</summary>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>Repository</td>
+                <td>https://github.com/git/git</td>
+              </tr>
+              <tr>
+                <td>Wikipedia</td>
+                <td>https://en.wikipedia.org/wiki/Git</td>
+              </tr>
+            </tbody>
+          </table>
+          <hr>
+        </details>
+        <details colspan=3>
+          <summary>View Git Support & Communities</summary>
+          <br>
+          <table>
+              <tbody>
+              <tr>
+                <td>Community</td>
+                <td>https://git-scm.com/community</td>
+              </tr>
+              <tr>
+                <td>Discord</td>
+                <td>https://discord.gg/GRFVkzgxRd</td>
+              </tr>
+              <tr>
+                <td>Discussion Boards</td>
+                <td>
+                  <ul>
+                    <li>https://www.reddit.com/r/git/</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Stack Overflow Help</td>
+                <td>https://stackoverflow.com/questions/tagged/git</td>
+              </tr>
+            </tbody>
+          </table>
+        </details>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <h3>Additional Resources</h3>
 
