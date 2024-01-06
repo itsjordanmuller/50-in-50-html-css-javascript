@@ -3973,6 +3973,164 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </tbody>
 </table>
 
+<h4>Frameworks</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>Tailwind CSS</em><br><a href="https://en.wikipedia.org/wiki/Tailwind_CSS">2017</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/tailwind-css/"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" height="47px" alt="Tailwind CSS Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://tailwindcss.com/">tailwindcss.com</a></td>
+    </tr>
+    <tr>
+      <td align="center">Docs</td>
+      <td><a href="https://tailwindcss.com/docs/installation">tailwindcss.com/docs/installation</a></td>
+    </tr>
+    <tr>
+      <td align="center">Repo</td>
+      <td><a href="https://github.com/tailwindlabs/tailwindcss">github.com/tailwindlabs/tailwindcss</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/tailwind">github.com/topics/tailwind</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View Tailwind CSS Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Tailwind CSS Blog</strong><br>
+                    <a href="https://tailwindcss.com/blog">tailwindcss.com/blog</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Wikipedia Article</strong><br>
+                    <a href="https://en.wikipedia.org/wiki/Tailwind_CSS">en.wikipedia.org/wiki/Tailwind_CSS</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+          <summary>View Tailwind CSS Support & Communities</summary>
+          <br>
+          <table>
+              <tbody>
+              <tr>
+                <td>
+                  <strong>Forums & Discussion Boards</strong><br>
+                  <a href="https://www.reddit.com/r/tailwindcss/">reddit.com/r/tailwindcss/</a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Stack Overflow Help</strong><br>
+                  <a href="https://stackoverflow.com/questions/tagged/tailwind-css">stackoverflow.com/questions/tagged/tailwind-css</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h4>Libraries</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>Axios</em><br><a href="https://github.com/axios/axios/releases">2016</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/axios/"><img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" height="47px" alt="Axios Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://axios-http.com/">axios-http.com</a></td>
+    </tr>
+    <tr>
+      <td align="center">Docs</td>
+      <td><a href="https://axios-http.com/docs/intro">axios-http.com/docs/intro</a></td>
+    </tr>
+    <tr>
+      <td align="center">Repo</td>
+      <td><a href="https://github.com/axios/axios">github.com/axios/axios</a></td>
+    </tr>
+    <tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/axios">github.com/topics/axios</a></td>
+    </tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View Axios Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Axios API Reference</strong><br>
+                    <a href="https://axios-http.com/docs/api_intro">axios-http.com/docs/api_intro</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Axios Code of Conduct</strong><br>
+                    <a href="https://github.com/axios/axios/blob/master/CODE_OF_CONDUCT.md">github.com/axios/axios/blob/master/CODE_OF_CONDUCT.md</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View Axios Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Axios Issues on GitHub</strong><br>
+                    <a href="https://github.com/axios/axios/issues">github.com/axios/axios/issues</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/axios">stackoverflow.com/questions/tagged/axios</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 <h3>Developer Tools</h3>
 
 <table>
@@ -3988,6 +4146,14 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
       <td><a href="https://git-scm.com/">git-scm.com/</a></td>
     </tr>
     <tr>
+      <td align="center">Docs</td>
+      <td><a href="https://git-scm.com/doc">git-scm.com/doc</a></td>
+    </tr>
+    <tr>
+      <td align="center">Repo</td>
+      <td><a href="https://github.com/git/git">github.com/git/git</a></td>
+    </tr>
+    <tr>
       <td align="center">Topic</td>
       <td><a href="https://github.com/topics/git">github.com/topics/git</a></td>
     </tr>
@@ -4000,6 +4166,18 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
           <br>
           <table>
             <tbody>
+              <tr>
+                  <td>
+                    <strong>Visual Git Cheatsheet</strong><br>
+                    <a href="https://ndpsoftware.com/git-cheatsheet.html">ndpsoftware.com/git-cheatsheet.html</a>
+                  </td>
+                </tr>
+              <tr>
+                  <td>
+                    <strong>Videos</strong><br>
+                    <a href="https://www.youtube.com/watch?v=tRZGeaHPoaw">Git and GitHub Tutorial for Beginners by Kevin Stratvert</a>
+                  </td>
+                </tr>
               <tr>
                 <td>
                   <strong>Wikipedia Article</strong><br>
@@ -4017,20 +4195,6 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
             <tbody>
               <tr>
                 <td>
-                  <strong>Forums & Discussion Boards</strong><br>
-                  <ul>
-                    <li><a href="https://www.reddit.com/r/git/">reddit.com/r/git/</a></li>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>Stack Overflow Help</strong><br>
-                  <a href="https://stackoverflow.com/questions/tagged/git">stackoverflow.com/questions/tagged/git</a>
-                </td>
-              </tr>
-              <tr>
-                <td>
                   <strong>Community Links</strong><br>
                   <ul>
                     <li><a href="https://git-scm.com/community">git-scm.com/community</a></li>
@@ -4040,8 +4204,14 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
               </tr>
               <tr>
                 <td>
-                  <strong>GitHub Repository</strong><br>
-                  <a href="https://github.com/git/git">github.com/git/git</a>
+                  <strong>Forums & Discussion Boards</strong><br>
+                  <a href="https://www.reddit.com/r/git/">reddit.com/r/git/</a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Stack Overflow Help</strong><br>
+                  <a href="https://stackoverflow.com/questions/tagged/git">stackoverflow.com/questions/tagged/git</a>
                 </td>
               </tr>
             </tbody>
@@ -4067,12 +4237,12 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
       <td><a href="https://github.com/">github.com/</a></td>
     </tr>
     <tr>
-      <td align="center">Topic</td>
-      <td><a href="https://github.com/topics/github">github.com/topics/github</a></td>
+      <td align="center">My Profile</td>
+      <td><a href="https://github.com/itsjordanmuller">github.com/itsjordanmuller</a></td>
     </tr>
     <tr>
-      <td align="center">Profile</td>
-      <td><a href="https://github.com/itsjordanmuller">github.com/itsjordanmuller</a></td>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/github">github.com/topics/github</a></td>
     </tr>
     <tr>
       <td colspan="2">
@@ -4112,7 +4282,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
               <tbody>
                 <tr>
                   <td>
-                    <strong>Support</strong><br>
+                    <strong>GitHub Support</strong><br>
                     <a href="https://support.github.com/">support.github.com/</a>
                   </td>
                 </tr>
@@ -4126,6 +4296,540 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
                   <td>
                     <strong>Stack Overflow Help</strong><br>
                     <a href="https://stackoverflow.com/questions/tagged/github">stackoverflow.com/questions/tagged/github</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>VS Code</em><br><a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">2015</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/vs-code/"><img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" height="47px" alt="VS Code Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://code.visualstudio.com/">code.visualstudio.com/</a></td>
+    </tr>
+    <tr>
+      <td align="center">Repo</td>
+      <td><a href="https://github.com/microsoft/vscode">github.com/microsoft/vscode</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/vscode">github.com/topics/vscode</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View VS Code Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>VS Code Blog</strong><br>
+                    <a href="https://code.visualstudio.com/blogs">code.visualstudio.com/blogs</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Wikipedia Article</strong><br>
+                    <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">en.wikipedia.org/wiki/Visual_Studio_Code</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View VS Code Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Forums & Discussion Boards</strong><br>
+                    <a href="https://www.reddit.com/r/vscode/">reddit.com/r/vscode/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/visual-studio-code">stackoverflow.com/questions/tagged/visual-studio-code</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>Bash</em><br><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">1989</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/bash/"><img src="https://img.shields.io/badge/Bash-8edf6a.svg?style=for-the-badge&logo=GNU-Bash&logoColor=black" height="47px" alt="Bash Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://www.gnu.org/software/bash/">gnu.org/software/bash/</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/topics/bash">github.com/topics/bash</a></li>
+          <li><a href="https://github.com/topics/bash-script">github.com/topics/bash-script</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View Bash Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>About GNU</strong><br>
+                    <a href="https://www.gnu.org/gnu/gnu.html">www.gnu.org/gnu/gnu.html</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Wikipedia Article</strong><br>
+                    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">en.wikipedia.org/wiki/Bash_(Unix_shell)</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View Bash Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Forums & Discussion Boards</strong><br>
+                    <a href="https://www.reddit.com/r/bash/">reddit.com/r/bash/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/bash">stackoverflow.com/questions/tagged/bash</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>Kubuntu</em><br><a href="https://en.wikipedia.org/wiki/Kubuntu">2006</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/kubuntu/"><img src="https://img.shields.io/badge/Kubuntu-0079C1.svg?style=for-the-badge&logo=Kubuntu&logoColor=white" height="47px" alt="Kubuntu Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://kubuntu.org/">kubuntu.org/</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/kubuntu">github.com/topics/kubuntu</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View Kubuntu Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Features</strong><br>
+                    <a href="https://kubuntu.org/feature-tour/">kubuntu.org/feature-tour/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>About Kubuntu</strong><br>
+                    <a href="https://kubuntu.org/about-us/">kubuntu.org/about-us/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Wikipedia Article</strong><br>
+                    <a href="https://en.wikipedia.org/wiki/Kubuntu">en.wikipedia.org/wiki/Kubuntu</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View Kubuntu Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Kubuntu Community</strong><br>
+                    <a href="https://kubuntu.org/community/">kubuntu.org/community/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Forums & Discussion Boards</strong><br>
+                    <a href="https://www.reddit.com/r/kubuntu/">reddit.com/r/kubuntu/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://unix.stackexchange.com/questions/tagged/kubuntu">unix.stackexchange.com/questions/tagged/kubuntu</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>KDE</em><br><a href="https://en.wikipedia.org/wiki/KDE">1996</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/kde/"><img src="https://img.shields.io/badge/KDE-1D99F3.svg?style=for-the-badge&logo=KDE&logoColor=white" height="47px" alt="KDE Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://kde.org/">kde.org/</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/kde">github.com/topics/kde</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View KDE Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>What is KDE?</strong><br>
+                    <a href="https://kde.org/community/whatiskde/">kde.org/community/whatiskde/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>KDE Apps</strong><br>
+                    <a href="https://apps.kde.org">apps.kde.org</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Wikipedia Article</strong><br>
+                    <a href="https://en.wikipedia.org/wiki/KDE">en.wikipedia.org/wiki/KDE</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View KDE Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Forums & Discussion Boards</strong><br>
+                    <a href="https://www.reddit.com/r/kde/">reddit.com/r/kde/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://unix.stackexchange.com/questions/tagged/kde">unix.stackexchange.com/questions/tagged/kde</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>Ubuntu</em><br><a href="https://en.wikipedia.org/wiki/Ubuntu">2004</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/ubuntu/"><img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" height="47px" alt="Ubuntu Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://ubuntu.com/">ubuntu.com/</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/ubuntu">github.com/topics/ubuntu</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View Ubuntu Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Ubuntu Blog</strong><br>
+                    <a href="https://ubuntu.com/blog">ubuntu.com/blog</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Ubuntu Resources</strong><br>
+                    <a href="https://ubuntu.com/engage">ubuntu.com/engage</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Wikipedia Article</strong><br>
+                    <a href="https://en.wikipedia.org/wiki/Ubuntu">en.wikipedia.org/wiki/Ubuntu</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View Ubuntu Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Ubuntu Community</strong><br>
+                    <a href="https://ubuntu.com/#community">ubuntu.com/#community</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Forums & Discussion Boards</strong><br>
+                    <a href="https://www.reddit.com/r/Ubuntu/">reddit.com/r/Ubuntu/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/ubuntu">stackoverflow.com/questions/tagged/ubuntu</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>Debian</em><br><a href="https://en.wikipedia.org/wiki/Debian">1993</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/debian/"><img src="https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white" height="47px" alt="Debian Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://www.debian.org/">debian.org</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/debian">github.com/topics/debian</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View Debian Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Debian Blog</strong><br>
+                    <a href="https://bits.debian.org">bits.debian.org</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Wikipedia Article</strong><br>
+                    <a href="https://en.wikipedia.org/wiki/Debian">en.wikipedia.org/wiki/Debian</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View Debian Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Debian Support</strong><br>
+                    <a href="https://www.debian.org/support">debian.org/support</a>
+                  </td>
+                </tr>
+                <tr>
+                <tr>
+                  <td>
+                    <strong>Forums & Discussion Boards</strong><br>
+                    <a href="https://www.reddit.com/r/debian/">reddit.com/r/debian/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/Debian">stackoverflow.com/questions/tagged/Debian</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>Linux</em><br><a href="https://en.wikipedia.org/wiki/Linux">1991</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/linux/"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" height="47px" alt="Linux Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://kernel.org/">kernel.org</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/linux">github.com/topics/linux</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View Linux Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>About Linux</strong><br>
+                    <a href="https://kernel.org/category/about.html">kernel.org/category/about.html</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Frequently Asked Questions</strong><br>
+                    <a href="https://kernel.org/category/faq.html">kernel.org/category/faq.html</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Wikipedia Article</strong><br>
+                    <a href="https://en.wikipedia.org/wiki/Linux">en.wikipedia.org/wiki/Linux</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View Linux Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Linux Support</strong><br>
+                    <a href="https://kernel.org/category/contact-us.html">kernel.org/category/contact-us.html</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Forums & Discussion Boards</strong><br>
+                    <a href="https://www.reddit.com/r/linux/">reddit.com/r/linux/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/linux">stackoverflow.com/questions/tagged/linux</a>
                   </td>
                 </tr>
               </tbody>
