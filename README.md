@@ -36,7 +36,7 @@
 </details>
 
 <details>
-<summary>Glossary - Overview of Tools & Tech 💻</summary>
+<summary>Glossary - Overview of Tools & Tech 📡</summary>
 
 <div align="left">
 <a id="glossary-section">
@@ -212,9 +212,9 @@ Day - Project Name
 </blockquote>
 </details>
 
-📜 <a href="#license-section"><strong>License Details</strong></a>
-
 🔗 <a href="#resources-section"><strong>Links & Citations</strong></a>
+
+📜 <a href="#license-section"><strong>License Details</strong></a>
 
 </blockquote>
 
@@ -257,7 +257,7 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
 <details open>
 <summary><h3>🚀 Getting Started</h3></summary>
 
-<h4>Looking for Live Demos?</h4>
+<h4>🌐 Looking for Live Demos?</h4>
 
 <blockquote>
   <p>If you're eager to simply see the results of this project, most, if not all of the projects have a Live Demo associated with them. I have linked them all in the overview for each specific project/section. To view these live demos, simply follow the links provided with each project. You'll see them alongside buttons that look like this:</p>
@@ -294,7 +294,7 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
   <p>Click the button/link and you should be taken to the Live Demo for that specific project. Please note that some projects don't have a Live Demo, and if that's the case there will not be a button/link. I'm hoping to get all of the projects on the internet at some point in the near future, so check back soon and you might find a link!</p>
 </blockquote>
 
-<h4>Want to View the Projects on Your Local Machine?</h4>
+<h4>💻 Want to View the Projects on Your Local Machine?</h4>
 
 <blockquote>
   <p>I have provided detailed instructions for how to clone/download this repository to your local machine in the Setup Instructions section. In that section, you should find everything you need to be able to get these projects running and working on your own machine. Please note that a few of the projects use external APIs that include verification, so you will need to setup your own accounts/API keys for those services.</p>
@@ -320,7 +320,7 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
   <p>We are so lucky to live in a time where almost all of this information is available for free on the internet. The only thing I paid for was the course itself, which can be purchased for about $20 on sale at <a href="https://www.udemy.com/">Udemy</a>. Besides that, I was able to complete the project with a low-spec <a href="https://www.amazon.com/dp/B0842X4BNF">Lenovo Thinkpad T480</a> I purchased for just under $300. It's proven to be a perfect machine for development & running <a href="https://kubuntu.org/">Kubuntu Linux</a>.</p>
 </blockquote>
 <br>
-<strong><em>A full list of tech, tools, and other links & resources can be found towards the bottom of this README in the <a href="#resources-section">Links & Citations</a> section.</em></strong>>
+<strong><em>A full list of tech, tools, and other links & resources can be found towards the bottom of this README in the <a href="#resources-section">Links & Citations</a> section.</em></strong>
 
 </td>
 </tr>
@@ -355,14 +355,13 @@ c
 </details> -->
 
 <details open>
-<summary><h3>📖 Examples & Snippets</h3></summary>
-<h4>Project Starter Template 📝</h4>
+<summary><h3>📑 Examples & Snippets</h3></summary>
+<h4>📝 Project Starter Template</h4>
 <blockquote>
 
 <img src="https://img.shields.io/badge/HTML5_-_Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26" alt="HTML5 Boilerplate">
 <details>
-<summary><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html">View Boilerplate - HTML5</a>
-</summary><br>
+<summary>View Boilerplate - HTML</summary><br>
 
 |[index.html](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html)|
 |---|
@@ -396,9 +395,7 @@ c
 
 <img src="https://img.shields.io/badge/CSS3-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS3 Boilerplate Badge">
 <details>
-<summary><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/style.css">View Boilerplate - CSS3</a>
-
-</summary><br>
+<summary>View Boilerplate - CSS</summary><br>
 
 |[style.css](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/style.css)|
 |---|
@@ -428,10 +425,7 @@ body {
 
 <img src="https://img.shields.io/badge/JavaScript-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF1E" alt="JavaScript Boilerplate Badge"/>
 <details>
-<summary>
-<a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/script.js"> View Boilerplate - JavaScript</a>
-
-</summary><br>
+<summary>View Boilerplate - JavaScript</summary><br>
 
 |[script.js](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/script.js)|
 |---|
@@ -447,7 +441,7 @@ body {
 
 <details open>
 <summary><h3>💾 Installation</h3></summary><blockquote>
-For detailed installation instructions, please refer to the <a href="#setup-section">Setup Instructions</a> section.
+For detailed installation instructions, please refer to the <a href="#setup-section">Setup Instructions</a> section below:
 </blockquote>
 </details>
 
@@ -3643,23 +3637,6 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 
 </details>
 
-<a id="license-section"></a>
-<details open>
-<summary align="center"><h2>📜 License Details</h2></summary><blockquote>
-
-The content within this repository was created as part of a personal educational project, following the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/). This repository is intended for personal use only and serves as a record of my learning progress. This repository & the content within it are not intended for commercial use, distribution, or replication. All rights to the original course content and methodologies belong to the respective copyright holders.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-
-Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rights Reserved.
-
-</blockquote>
-
-<div align="right"><a href="#top">(back to top)</a></div>
-<hr>
-
-</details>
-
 <a id="resources-section"></a>
 <details open>
 <summary align="center"><h2>🔗 Links & Citations</h2></summary>
@@ -3668,19 +3645,31 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <table>
   <thead>
     <tr>
-      <th nowrap="nowrap" align="left">Full Course Name</th>
-      <th align="left">Link to Course<br></th>
+      <th>
+        <h4>Course - 50 Projects In 50 Days - HTML, CSS & JavaScript</h4>
+      </th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
-      <td>50 Projects In 50 Days - HTML, CSS & JavaScript</td>
-      <td>https://www.udemy.com/course/50-projects-50-days/</td>
+      <td>
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/projects/50-in-50/50-in-50-html-css-javascript-course.png" alt="50 Projects In 50 Days - HTML, CSS & JavaScript Course Cover" width="525px"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.udemy.com/course/50-projects-50-days/">udemy.com/course/50-projects-50-days/</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/View%20Course%20on%20Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" width="80%" alt="Udemy Badge"/>
+      </td>
     </tr>
   </tbody>
 </table>
 
-<br><img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/projects/50-in-50/50-in-50-html-css-javascript-course.png" alt="50 Projects In 50 Days - HTML, CSS & JavaScript Course Cover" width="525px"/><br><hr>
+<hr>
 
 <blockquote>
   <h4>Instructor Information</h4>
@@ -3696,12 +3685,12 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
       <tr>
         <td>Brad Traversy</td>
         <td>Udemy Profile</td>
-        <td>https://www.udemy.com/user/brad-traversy/</td>
+        <td><a href="https://www.udemy.com/user/brad-traversy/">udemy.com/user/brad-traversy/</a></td>
       </tr>
       <tr>
         <td>Florin Pop</td>
         <td>Udemy Profile</td>
-        <td>https://www.udemy.com/user/popflorin/</td>
+        <td><a href="https://www.udemy.com/user/popflorin/">udemy.com/user/popflorin/</a></td>
       </tr>
     </tbody>
   </table>
@@ -3709,9 +3698,9 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 
 <hr>
 
-<h3>Core Technologies</h3>
+<h3>📀 Core Technologies</h3>
 
-<h4>Languages</h4>
+<h4>🔠 Languages</h4>
 <table>
   <thead>
     <tr>
@@ -4051,9 +4040,10 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </tbody>
 </table>
 
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
-<h4>Frameworks</h4>
+<h4>🏗️ Frameworks</h4>
 
 <table>
   <thead>
@@ -4136,9 +4126,10 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </tbody>
 </table>
 
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
-<h4>Libraries</h4>
+<h4>📙 Libraries</h4>
 
 <table>
   <thead>
@@ -4221,9 +4212,10 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </tbody>
 </table>
 <br>
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
-<h3>Developer Tools</h3>
+<h3>🧰 Developer Tools</h3>
 
 <table>
   <thead>
@@ -5130,9 +5122,10 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </tbody>
 </table>
 <br>
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
-<h3>Additional & External Resources</h3>
+<h3>🗂️ Additional & External Resources</h3>
 
 <table>
   <thead>
@@ -5302,35 +5295,10 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </tbody>
 </table>
 
+<div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
-<h3>Software & Tools I Used</h3>
-<table>
-  <tr>
-    <th align="left">Title</th>
-    <th nowrap="nowrap" align="left">Type of Software</th>
-    <th align="left">Link to Software</th>
-  </tr>
-  <tr>
-    <td>Git</td>
-    <td>Version Control System</td>
-    <td>https://git-scm.com/</td>
-  </tr>
-  <tr>
-    <td>GitHub</td>
-    <td>Version Control Repository Hosting</td>
-    <td>https://github.com/</td>
-  </tr>
-  <tr>
-    <td>Visual Studio Code</td>
-    <td>Integrated Development Environment</td>
-    <td>https://code.visualstudio.com/</td>
-  </tr>
-</table>
-
-<hr>
-
-<h3>Additional Resources & Learning Materials</h3>
+<h3>🖇️ Additional Resources & Learning Materials</h3>
 <table>
   <tr>
     <th nowrap="nowrap" align="left">Resource Title</th>
@@ -5354,19 +5322,19 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 
 <hr>
 
-<h3>Repository License Details</h3>
-<table>
-  <tr>
-    <th align="left">License</th>
-    <th align="left">Link to License</th>
-  </tr>
-  <tr>
-    <td>LICENSE.md</td>
-    <td>https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/LICENSE.md</td>
-  </tr>
-</table>
+</details>
 
-<hr>
+<a id="license-section"></a>
+<details open>
+<summary align="center"><h2>📜 License Details</h2></summary><blockquote>
+
+The content within this repository was created as part of a personal educational project, following the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/). This repository is intended for personal use only and serves as a record of my learning progress. This repository & the content within it are not intended for commercial use, distribution, or replication. All rights to the original course content and methodologies belong to the respective copyright holders.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rights Reserved.
+
+</blockquote>
 
 <div align="right"><a href="#top">(back to top)</a></div>
 
