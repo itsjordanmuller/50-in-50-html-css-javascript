@@ -3,7 +3,7 @@
 
 <img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" height="180px"> <img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" height="180px"><br>
 
-<h1>50 Projects in 50 Days<br/>HTML/CSS/JavaScript</h1>
+<h1>50 Projects in 50 Days<br/>HTML, CSS & JavaScript</h1>
 
 <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/50%20Projects%20in%2050%20Days-282A36.svg?style=for-the-badge&logo=package&logoColor=E34F26" width="100%"/></a>
 
@@ -317,8 +317,10 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
 
 <blockquote>
   <p>I have provided a variety of resources and guides throughout this README for new developers. From the absolute basics, to specific videos and guides that helped me get unstuck in certain situations, I tried to include every single resource I ended up utilizing over the course of my journey.</p>
-  <p>We are so lucky to live in a time where almost all of this information is available for free on the internet. The only thing I paid for was the course itself, which can be purchased for about $20 on sale at Udemy. Besides that, I was able to complete the project with a low-spec Lenovo Thinkpad T480 I purchased for just under $300. It's proven to be a perfect machine for development & running Kubuntu Linux.</p>
+  <p>We are so lucky to live in a time where almost all of this information is available for free on the internet. The only thing I paid for was the course itself, which can be purchased for about $20 on sale at <a href="https://www.udemy.com/">Udemy</a>. Besides that, I was able to complete the project with a low-spec <a href="https://www.amazon.com/dp/B0842X4BNF">Lenovo Thinkpad T480</a> I purchased for just under $300. It's proven to be a perfect machine for development & running <a href="https://kubuntu.org/">Kubuntu Linux</a>.</p>
 </blockquote>
+<br>
+<strong><em>A full list of tech, tools, and other links & resources can be found towards the bottom of this README in the <a href="#resources-section">Links & Citations</a> section.</em></strong>>
 
 </td>
 </tr>
@@ -359,7 +361,7 @@ c
 
 <img src="https://img.shields.io/badge/HTML5_-_Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26" alt="HTML5 Boilerplate">
 <details>
-<summary><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html">View Boilerplate - HTML5 (HyperText Markup Language 5)</a>
+<summary><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html">View Boilerplate - HTML5</a>
 </summary><br>
 
 |[index.html](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/index.html)|
@@ -394,7 +396,7 @@ c
 
 <img src="https://img.shields.io/badge/CSS3-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS3 Boilerplate Badge">
 <details>
-<summary><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/style.css">View Boilerplate - CSS3 (Cascading Style Sheets Level 3)</a>
+<summary><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/style.css">View Boilerplate - CSS3</a>
 
 </summary><br>
 
@@ -427,7 +429,7 @@ body {
 <img src="https://img.shields.io/badge/JavaScript-Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF1E" alt="JavaScript Boilerplate Badge"/>
 <details>
 <summary>
-<a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/script.js"> View Boilerplate - JS ES6+ (ECMAScript 2015 Onwards)</a>
+<a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/000-Project-Starter-Template/script.js"> View Boilerplate - JavaScript</a>
 
 </summary><br>
 
@@ -538,7 +540,7 @@ If you're unsure, I recommend testing your setup with the intended software. Sho
 <tr>
 <td>
 
-Below you will find various methods that are available to download/clone this repository. I personally prefer to use the `Clone with SSH` option most of the time. Alternatively, `Download ZIP File` can be a quick and easy way to simply download the files without a terminal or Git. 
+Below you will find various methods that are available to download/clone this repository. 
 
 Feel free to use whichever option you are most comfortable & familiar with. You can also read GitHub's guide on [downloading source code archives](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives) & [cloning repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
@@ -622,6 +624,10 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 </details>
 
 </blockquote>
+
+<hr>
+
+★ When I have the option, I personally prefer to use the `Clone with SSH` method. Alternatively, `Download ZIP File` can be a quick and easy way to simply download the files without a terminal or Git. 
 
 </td>
 </tr>
@@ -928,7 +934,7 @@ JavaScript plays a crucial role in this project. It controls the activation and 
 
 ##### What I Learned/Key Takeaways
 
-1. **Dynamic User Interfaces:** This project deepened my understanding of creating interfaces that respond to user input, a key skill in front-end development.
+1. **Dynamic User Interfaces:** This project deepened my understanding of creating interfaces that respond to user input.
 2. **CSS Variables:** Using CSS variables for styling was a practical lesson in maintaining a consistent design theme and simplifying style changes.
 3. **Event Handling in JavaScript:** Implementing button click events and managing element classes based on these events was a valuable exercise in JavaScript event handling.
 4. **Progress Indication Techniques:** Designing a step-by-step progress indicator was a great way to learn how to visually guide users through multi-step processes.
@@ -1317,7 +1323,7 @@ The JavaScript script is the core of this application. It adds an event listener
 ## What I Learned/Key Takeaways
 
 1. **Keyboard Event Handling:** This project improved my understanding of how to handle keyboard events in JavaScript and the different properties available within a keyboard event.
-2. **Dynamic DOM Manipulation:** I gained experience in dynamically updating the DOM in response to user actions, a key skill in interactive web development.
+2. **Dynamic DOM Manipulation:** I gained experience in dynamically updating the DOM in response to user actions.
 3. **CSS Design:** The project allowed me to practice designing a simple yet effective user interface using CSS.
 4. **Practical JavaScript Application:** It provided a practical use case for JavaScript in creating interactive educational tools, reinforcing my skills in applying JavaScript to real-world scenarios.
 
@@ -1388,7 +1394,7 @@ The JavaScript script adds interactivity to the application. It listens for keyu
 
 ## What I Learned/Key Takeaways
 
-1. **Dynamic Content Creation:** I learned how to dynamically create and display content based on user input, a key skill in interactive web development.
+1. **Dynamic Content Creation:** I learned how to dynamically create and display content based on user input.
 2. **Array Manipulation and Randomization:** The project enhanced my understanding of JavaScript array methods and implementing randomization logic.
 3. **CSS Styling for Interactivity:** I gained experience in styling interactive elements, such as highlighting selected items for visual feedback.
 4. **Event Handling in JavaScript:** The project reinforced my skills in handling user events like key presses and using them to trigger specific functions.
@@ -3304,61 +3310,73 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 </details>
 
 <details open>
-<summary><h3>❌ Possible Errors & Issues</h3></summary><blockquote>
+<summary><h3>❌ Potential Issues & Possible Solutions</h3></summary><blockquote>
 
 <table>
   <tr>
-    <th>Issue</th>
-    <th>Solutions</th>
+    <th>Troubleshooting Potential Issues</th>
   </tr>
   <tr>
-    <td>Initial Display Blank</td>
     <td>
+      <h4>Initial Display Blank</h4>
       <ul>
         <li>Ensure your browser is updated.</li>
         <li>Clear browser cache and cookies.</li>
-        <li>Check URL accuracy and internet stability.</li>
-        <li>Test in incognito/private mode.</li>
         <li>Verify file directory structure for index.html, style.css, and script.js.</li>
       </ul>
+      <blockquote>
+        <details>
+          <summary>More Solutions</summary>
+            <ul>
+              <li>Check URL accuracy and internet stability.</li>
+              <li>Test in incognito/private mode.</li>
+            </ul>
+        </details>
+      </blockquote>
     </td>
   </tr>
   <tr>
-    <td>Missing Styles</td>
     <td>
+      <h4>Missing Styles</h4>
       <ul>
+        <li>Ensure no reader/accessibility modes are active.</li>
         <li>Confirm browser support for latest CSS standards.</li>
         <li>Check for global settings or extensions overriding CSS.</li>
-        <li>Ensure no reader/accessibility modes are active.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>Content Visibility Issues</td>
     <td>
+      <h4>Content Visibility Issues</h4>
       <ul>
-        <li>Check if firewall or antivirus is blocking content.</li>
         <li>Disable content blockers or ad blockers.</li>
         <li>Consider network restrictions (corporate, educational).</li>
-        <li>Assess VPN impact on content loading.</li>
+        <li>Check if firewall or antivirus is blocking content.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>Interactivity Issues</td>
     <td>
+      <h4>Interactivity Issues</h4>
       <ul>
-        <li>Update your browser for JavaScript support.</li>
         <li>Disable conflicting browser extensions.</li>
-        <li>Check browser JavaScript settings.</li>
         <li>Enable cookies if necessary for JavaScript.</li>
         <li>Ensure no security software is blocking scripts.</li>
       </ul>
+      <blockquote>
+        <details>
+          <summary>More Solutions</summary>
+          <ul>
+          <li>Check browser JavaScript settings.</li>
+          <li>Update your browser for JavaScript support.</li>
+          </ul>
+        </details>
+      </blockquote>
     </td>
   </tr>
   <tr>
-    <td>Image Display Problems</td>
     <td>
+      <h4>Image Display Problems</h4>
       <ul>
         <li>Inspect network stability for image loading.</li>
         <li>Test website on different browsers.</li>
@@ -3367,76 +3385,124 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
     </td>
   </tr>
   <tr>
-    <td>Extended Load Times</td>
     <td>
+      <h4>Extended Load Times</h4>
       <ul>
         <li>Check network tab in browser's developer tools.</li>
         <li>Ensure fast and stable network connection.</li>
-        <li>Test on different devices.</li>
-        <li>Close other bandwidth-intensive applications.</li>
         <li>Disable data saver modes.</li>
       </ul>
+      <blockquote>
+        <details>
+          <summary>More Solutions</summary>
+          <ul>
+            <li>Close other bandwidth-intensive applications.</li>
+            <li>Test on different devices.</li>
+          </ul>
+      </details>
+      </blockquote>
     </td>
   </tr>
   <tr>
-    <td>API Issues</td>
     <td>
+      <h4>API Issues</h4>
       <ul>
-        <li>Follow documentation for API key insertion.</li>
         <li>Check API key formatting and case sensitivity.</li>
         <li>Refer to API provider's key usage guidelines.</li>
-        <li>Correctly enter key/token as required.</li>
-        <li>Renew expired API keys.</li>
         <li>Visit API provider for new key and troubleshooting.</li>
       </ul>
+      <blockquote>
+        <details>
+          <summary>More Solutions</summary>
+          <ul>
+            <li>Follow documentation for API key insertion.</li>
+            <li>Correctly enter key/token as required.</li>
+            <li>Renew expired API keys.</li>
+          </ul>
+        </details>
+      </blockquote>
     </td>
   </tr>
   <tr>
-    <td>Issues Cloning/Downloading Repository</td>
     <td>
+      <h4>Issues Cloning/Downloading Repository</h4>
       <ul>
         <li>Verify Git installation and update if necessary.</li>
         <li>Check for correct repository URL in Git commands.</li>
-        <li>Ensure adequate permissions for the repository access.</li>
-        <li>Check internet connection for stability.</li>
         <li>Try downloading the ZIP file of the repository if Git clone fails.</li>
       </ul>
+      <blockquote>
+        <details>
+          <summary>More Solutions</summary>
+          <ul>
+            <li>Check internet connection for stability.</li>
+          </ul>
+        </details>
+      </blockquote>
     </td>
   </tr>
   <tr>
-    <td>Having Trouble Viewing Live Demos</td>
     <td>
+      <h4>Having Trouble Viewing Live Demos</h4>
       <ul>
-        <li>Ensure a stable internet connection.</li>
-        <li>Check if the demo link is up-to-date and correct.</li>
-        <li>Try accessing the demo on different browsers or devices.</li>
         <li>Disable browser extensions that might interfere with the demo.</li>
-        <li>Contact the project maintainer if the issue persists.</li>
+        <li>Ensure a stable internet connection.</li>
+        <li>Try accessing the demo on different browsers or devices.</li>
       </ul>
+      <blockquote>
+        <details>
+          <summary>More Solutions</summary>
+          <ul>
+            <li>Check if the demo link is up-to-date and correct.</li>
+            <li>Get in contact with me if the issue persists.</li>
+          </ul>
+        </details>
+      </blockquote>
     </td>
   </tr>
   <tr>
-    <td>Can't Get Site Running on Local Machine</td>
     <td>
+      <h4>Can't Get Site Running on Local Machine</h4>
       <ul>
         <li>Ensure all required dependencies are installed.</li>
         <li>Check the local server setup and configuration.</li>
         <li>Verify environment variables and settings.</li>
-        <li>Consult the README for specific setup instructions.</li>
-        <li>Review error logs for specific issues during setup.</li>
       </ul>
+      <blockquote>
+        <details>
+          <summary>More Solutions</summary>
+          <ul>
+            <li>Consult the README for specific setup instructions.</li>
+            <li>Review error logs for specific issues during setup.</li>
+          </ul>
+        </details>
+      </blockquote>
     </td>
   </tr>
   <tr>
-    <td>Problems with Dependency Installation</td>
     <td>
+      <h4>Problems with Dependency Installation</h4>
       <ul>
         <li>Ensure correct versions of node and npm are installed.</li>
         <li>Run 'npm install' to install all required dependencies.</li>
         <li>Check for errors in the console during installation.</li>
-        <li>Try removing 'node_modules' folder and reinstalling dependencies.</li>
-        <li>Consult documentation for any specific dependency issues.</li>
       </ul>
+      <blockquote>
+        <details>
+          <summary>More Solutions</summary>
+          <ul>
+            <li>Try removing 'node_modules' folder and reinstalling dependencies.</li>
+            <li>Consult documentation for any specific dependency issues.</li>
+          </ul>
+        </details>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <br>
+        <strong><em>Please let me know if you run into any issues while trying to view or run this or any of my other portfolio projects on your local machine. <ins>Constructive feedback is always appreciated</ins>, and I'm always looking to learn new things and make my projects the best they can possibly be! My <a href="#contact-section">Contact Information</a> can be found below.</em></strong>
+      <hr>
     </td>
   </tr>
 </table>
@@ -3482,37 +3548,37 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 <li>Access to Instructor Support</li>
 <li>Community of Students Working on Same Projects</li>
 </ul>
-<p><strong><em>A link to the course can be found below in the Links & Citations.</em></strong></p>
+<p><strong><em>A link to the course can be found below in the <a href="#resources-section">Links & Citations</a>.</em></strong></p>
 </td>
 </tr>
 </tbody>
 </table>
 
 <table>
-<thead>
-<tr>
-<th>
-💡 Still Need Help/Having Issues?
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<p>I am always available to help with these projects, please reach out if you:</p>
-<ul>
-<li>Have a Question For Me</li>
-<li>Encounter Any Issues Whatsoever</li>
-<li>Have Trouble Viewing The Live Demos</li>
-<li>Need Help Running the Projects on Your Local Machine</li>
-<li>Find a Broken Link</li>
-<li>Have Trouble Viewing Images</li>
-<li>Notice Something Could Be Improved</li>
-</ul>
-<p><strong><em>Please see below for my personal contact information. I would love to hear from you!</em></strong></p>
-</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>
+      💡 Still Need Help/Having Issues?
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>I am always available to help with these projects, please reach out if you:</p>
+          <ul>
+            <li>Have a Question For Me</li>
+            <li>Encounter Any Issues Whatsoever</li>
+            <li>Have Trouble Viewing The Live Demos</li>
+            <li>Need Help Running the Projects on Your Local Machine</li>
+            <li>Find a Broken Link</li>
+            <li>Have Trouble Viewing Images</li>
+            <li>Notice Something Could Be Improved</li>
+          </ul>
+        <p><strong><em>Please see below for my personal contact information. I would love to hear from you!</em></strong></p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <hr>
@@ -3600,33 +3666,45 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 
 <h3>Course & Instructor Details</h3>
 <table>
-<tr>
-<th nowrap="nowrap" align="left">Full Course Name</th>
-<th align="left">Link to Course<br></th>
-</tr>
-<tr><td>50 Projects In 50 Days - HTML, CSS & JavaScript</td><td>https://www.udemy.com/course/50-projects-50-days/</td></tr>
+  <thead>
+    <tr>
+      <th nowrap="nowrap" align="left">Full Course Name</th>
+      <th align="left">Link to Course<br></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>50 Projects In 50 Days - HTML, CSS & JavaScript</td>
+      <td>https://www.udemy.com/course/50-projects-50-days/</td>
+    </tr>
+  </tbody>
 </table>
+
+<br><img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/projects/50-in-50/50-in-50-html-css-javascript-course.png" alt="50 Projects In 50 Days - HTML, CSS & JavaScript Course Cover" width="525px"/><br><hr>
 
 <blockquote>
-
-<h4>Instructor Information</h4>
-<table width=100%>
-<tr>
-  <th nowrap="nowrap" align="left" width="100%">Instructor Name</th>
-  <th align="left" width="100%">Platform</th>
-  <th align="left" width="100%">Link to Profile</th>
-</tr>
-<tr>
-  <td>Brad Traversy</td>
-  <td>Udemy Profile</td>
-  <td>https://www.udemy.com/user/brad-traversy/</td>
-</tr>
-<tr>
-  <td>Florin Pop</td>
-  <td>Udemy Profile</td>
-  <td>https://www.udemy.com/user/popflorin/</td>
-</tr>
-</table>
+  <h4>Instructor Information</h4>
+  <table width=100%>
+    <thead>
+      <tr>
+        <th nowrap="nowrap" align="left" width="100%">Instructor Name</th>
+        <th align="left" width="100%">Platform</th>
+        <th align="left" width="100%">Link to Profile</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Brad Traversy</td>
+        <td>Udemy Profile</td>
+        <td>https://www.udemy.com/user/brad-traversy/</td>
+      </tr>
+      <tr>
+        <td>Florin Pop</td>
+        <td>Udemy Profile</td>
+        <td>https://www.udemy.com/user/popflorin/</td>
+      </tr>
+    </tbody>
+  </table>
 </blockquote>
 
 <hr>
@@ -5276,7 +5354,7 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 
 <hr>
 
-<h3>Repository License Information</h3>
+<h3>Repository License Details</h3>
 <table>
   <tr>
     <th align="left">License</th>
