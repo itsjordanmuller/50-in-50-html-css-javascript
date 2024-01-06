@@ -257,7 +257,7 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
 <details open>
 <summary><h3>🚀 Getting Started</h3></summary>
 
-<h4>🌐 Looking for Live Demos?</h4>
+<h4>Looking for Live Demos? 🌐</h4>
 
 <blockquote>
   <p>If you're eager to simply see the results of this project, most, if not all of the projects have a Live Demo associated with them. I have linked them all in the overview for each specific project/section. To view these live demos, simply follow the links provided with each project. You'll see them alongside buttons that look like this:</p>
@@ -279,7 +279,7 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
     <tbody align="center">
       <tr>
         <td>
-        <img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/>
         </td>
         <td>
         <img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/>
@@ -294,7 +294,7 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
   <p>Click the button/link and you should be taken to the Live Demo for that specific project. Please note that some projects don't have a Live Demo, and if that's the case there will not be a button/link. I'm hoping to get all of the projects on the internet at some point in the near future, so check back soon and you might find a link!</p>
 </blockquote>
 
-<h4>💻 Want to View the Projects on Your Local Machine?</h4>
+<h4>Want to View the Projects on Your Local Machine? 💻</h4>
 
 <blockquote>
   <p>I have provided detailed instructions for how to clone/download this repository to your local machine in the Setup Instructions section. In that section, you should find everything you need to be able to get these projects running and working on your own machine. Please note that a few of the projects use external APIs that include verification, so you will need to setup your own accounts/API keys for those services.</p>
@@ -306,7 +306,7 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
 <thead>
 <tr>
 <th>
-<h4>📚 Just Hoping to Learn More About Programming?</h4>
+<h4>Just Hoping to Learn More About Programming? 📚</h4>
 </th>
 </tr>
 </thead>
@@ -336,7 +336,7 @@ b
 c
 
 <details open>
-<summary><h4>✳️ In Progress Features</h4></summary><blockquote>
+<summary><h4>In Progress Features ✳️</h4></summary><blockquote>
 a
 b
 c
@@ -356,7 +356,7 @@ c
 
 <details open>
 <summary><h3>📑 Examples & Snippets</h3></summary>
-<h4>📝 Project Starter Template</h4>
+<h4>Project Starter Template 📝</h4>
 <blockquote>
 
 <img src="https://img.shields.io/badge/HTML5_-_Project%20Boilerplate%20Code-595959.svg?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26" alt="HTML5 Boilerplate">
@@ -441,7 +441,7 @@ body {
 
 <details open>
 <summary><h3>💾 Installation</h3></summary><blockquote>
-For detailed installation instructions, please refer to the <a href="#setup-section">Setup Instructions</a> section below:
+For detailed installation instructions, please refer to the <a href="#setup-section">Setup Instructions</a> section below.
 </blockquote>
 </details>
 
@@ -458,7 +458,7 @@ For detailed installation instructions, please refer to the <a href="#setup-sect
 <summary><h3>📋 Prerequisites</h3></summary><blockquote>
 
 <details open>
-<summary><h4>💽 Required Software</h4></summary>
+<summary><h4>Required Software 💽</h4></summary>
 
 <table>
 <tbody>
@@ -486,7 +486,7 @@ For those using mobile devices, I advise switching to a laptop or desktop for a 
 </details>
 
 <details open>
-<summary><h4>🖥️ System Requirements</h4></summary>
+<summary><h4>System Requirements 🖥️</h4></summary>
 
 <table>
 <tbody>
@@ -527,7 +527,7 @@ If you're unsure, I recommend testing your setup with the intended software. Sho
 <summary><h3>📦 Installation Guide</h3></summary><blockquote>
 
 <details open>
-<summary><h4>⬇️ Download/Clone This Repo</h4></summary>
+<summary><h4>Download/Clone This Repo ⬇️</h4></summary>
 
 <table>
 <tbody>
@@ -630,25 +630,25 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 </details>
 
 <!-- <details open>
-<summary><h4>🔄 How to Pull New Changes</h4></summary><blockquote>
+<summary><h4>How to Pull New Changes 🔄</h4></summary><blockquote>
 
 </blockquote>
 </details> -->
 
 <!-- <details open>
-<summary><h4>⛓️ Dependencies</h4></summary><blockquote>
+<summary><h4>Dependencies ⛓️</h4></summary><blockquote>
 
 </blockquote>
 </details> -->
 
 <!-- <details open>
-<summary><h4>🏝️ Virtual Environments Setup</h4></summary><blockquote>
+<summary><h4>Virtual Environments Setup 🏝️</h4></summary><blockquote>
 
 </blockquote>
 </details>
 
 <details open>
-<summary><h4>📦 Installing Required Packages</h4></summary><blockquote>
+<summary><h4>Installing Required Packages 📦</h4></summary><blockquote>
 
 </blockquote>
 </details> -->
@@ -659,19 +659,19 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 <summary><h3>⚙️ Configuration</h3></summary><blockquote>
 
 <details open>
-<summary><h4>🔐 API Keys/Environment Variables</h4></summary><blockquote>
+<summary><h4>API Keys/Environment Variables 🔐</h4></summary><blockquote>
 
 </blockquote>
 </details>
 
 <!-- <details open>
-<summary><h4>📡 External Services</h4></summary><blockquote>
+<summary><h4>External Services 📡</h4></summary><blockquote>
 
 </blockquote>
 </details>
 
 <details open>
-<summary><h4>💽 Database Setups & Connections</h4></summary><blockquote>
+<summary><h4>Database Setups & Connections 💽</h4></summary><blockquote>
 
 </blockquote>
 </details> -->
@@ -865,13 +865,11 @@ Navigation Quick Links
 
 <img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Expanding Cards" width="100%"/>
 
-![Expanding Cards - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-1.png)
+| ![Expanding Cards - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-1.png) | ![Expanding Cards - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-3.png) |
+|---|---|
 
-![Expanding Cards - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-2.png)
-
-![Expanding Cards - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-3.png)
-
-![Expanding Cards - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-4.png)
+| ![Expanding Cards - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-4.png) | ![Expanding Cards - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-2.png) |
+|---|---|
 
 ##### Project Description
 
@@ -903,13 +901,11 @@ This project was a valuable step in my journey as a recent graduate, solidifying
 
 <img src="https://custom-icon-badges.demolab.com/badge/Progress%20Steps-ffbbb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Progress Steps" width="100%"/>
 
-![Progress Steps - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-1.png)
+| ![Progress Steps - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-1.png) | ![Progress Steps - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-2.png) |
+|---|---|
 
-![Progress Steps - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-2.png)
-
-![Progress Steps - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png)
-
-![Progress Steps - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png)
+| ![Progress Steps - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png) | ![Progress Steps - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png) |
+|---|---|
 
 ##### Project Description
 
@@ -941,13 +937,11 @@ Overall, this project strengthened my abilities in creating visually appealing, 
 
 <img src="https://custom-icon-badges.demolab.com/badge/Rotating%20Navigation-ffc4b2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Rotating Navigation" width="100%"/>
 
-![Rotating Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-1.png)
+| ![Rotating Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-1.png) | ![Rotating Navigation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-4.png) |
+|---|---|
 
-![Rotating Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-2.png)
-
-![Rotating Navigation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-3.png)
-
-![Rotating Navigation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-4.png)
+| ![Rotating Navigation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-3.png) | ![Rotating Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-2.png) |
+|---|---|
 
 ## Project Description
 
@@ -979,13 +973,11 @@ Overall, the "Rotating Navigation" project was a challenging yet rewarding exper
 
 <img src="https://custom-icon-badges.demolab.com/badge/Hidden%20Search%20Widget-ffceb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Hidden Search Widget" width="100%"/>
 
-![Hidden Search Widget - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-1.png)
+| ![Hidden Search Widget - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-3.png) | ![Hidden Search Widget - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-2.png) |
+|---|---|
 
-![Hidden Search Widget - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-2.png)
-
-![Hidden Search Widget - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-3.png)
-
-![Hidden Search Widget - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-4.png)
+| ![Hidden Search Widget - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-1.png) | ![Hidden Search Widget - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/004-Hidden-Search-Widget/004-hidden-search-widget-4.png) |
+|---|---|
 
 ## Project Description
 
@@ -3304,7 +3296,7 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
 </details>
 
 <details open>
-<summary><h3>❌ Potential Issues & Possible Solutions</h3></summary><blockquote>
+<summary><h3>❌ Possible Issues & Solutions</h3></summary><blockquote>
 
 <table>
   <tr>
@@ -3496,7 +3488,7 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
     <td>
       <br>
         <p>Please let me know if you run into any issues while trying to view or run this or any of my other portfolio projects on your local machine. Constructive feedback is <ins>always</ins> appreciated, and I'm always looking to learn new things and make my projects the best they can possibly be!</p>
-        <p><strong><em>My <a href="#contact-section">Contact Information</a>, and many other helpful resources can be found below</em></strong></p>
+        <p><strong><em>My <a href="#contact-section">Contact Information</a>, and many other helpful resources can be found below.</em></strong></p>
       <hr>
     </td>
   </tr>
@@ -3642,28 +3634,29 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 <details open>
 <summary align="center"><h2>🔗 Links & Citations</h2></summary>
 
-<h3>Course & Instructor Details</h3>
+<h3>📓 Course & Instructor Details</h3>
 <table>
   <thead>
     <tr>
-      <th>
+      <th colspan="2">
         <h4>Course - 50 Projects In 50 Days - HTML, CSS & JavaScript</h4>
       </th>
     </tr>
   </thead>
   <tbody align="center">
     <tr>
-      <td>
+      <td colspan="2">
         <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/projects/50-in-50/50-in-50-html-css-javascript-course.png" alt="50 Projects In 50 Days - HTML, CSS & JavaScript Course Cover" width="525px"/>
       </td>
     </tr>
     <tr>
+      <td>🔗</td>
       <td>
         <a href="https://www.udemy.com/course/50-projects-50-days/">udemy.com/course/50-projects-50-days/</a>
       </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
         <img src="https://img.shields.io/badge/View%20Course%20on%20Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" width="80%" alt="Udemy Badge"/>
       </td>
     </tr>
@@ -3673,25 +3666,22 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 <hr>
 
 <blockquote>
-  <h4>Instructor Information</h4>
+  <h4>Instructor Information 👥</h4>
   <table width=100%>
     <thead>
       <tr>
-        <th nowrap="nowrap" align="left" width="100%">Instructor Name</th>
-        <th align="left" width="100%">Platform</th>
-        <th align="left" width="100%">Link to Profile</th>
+        <th>Instructor Name</th>
+        <th>Profile Link</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Brad Traversy</td>
-        <td>Udemy Profile</td>
-        <td><a href="https://www.udemy.com/user/brad-traversy/">udemy.com/user/brad-traversy/</a></td>
+        <th><strong><em>Brad Traversy</em></strong></th>
+        <td align="center"><a href="https://www.udemy.com/user/brad-traversy/">Brad's Udemy Profile</a></td>
       </tr>
       <tr>
-        <td>Florin Pop</td>
-        <td>Udemy Profile</td>
-        <td><a href="https://www.udemy.com/user/popflorin/">udemy.com/user/popflorin/</a></td>
+        <th><strong><em>Florin Pop</em></strong></th>
+        <td align="center"><a href="https://www.udemy.com/user/popflorin/">Florin's Udemy Profile</a></td>
       </tr>
     </tbody>
   </table>
@@ -3701,7 +3691,7 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 
 <h3>📀 Core Technologies</h3>
 
-<h4>🔠 Languages</h4>
+<h4>Languages 🔠</h4>
 <table>
   <thead>
     <tr>
@@ -4044,7 +4034,7 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 <div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
-<h4>🏗️ Frameworks</h4>
+<h4>Frameworks 🏗️</h4>
 
 <table>
   <thead>
@@ -4130,7 +4120,7 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 <div align="right"><a href="#top">(back to top)</a></div>
 <hr>
 
-<h4>📙 Libraries</h4>
+<h4>Libraries 📙</h4>
 
 <table>
   <thead>
@@ -5327,15 +5317,28 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 
 <a id="license-section"></a>
 <details open>
-<summary align="center"><h2>📜 License Details</h2></summary><blockquote>
+<summary align="center"><h2>📜 License Details</h2></summary>
 
-The content within this repository was created as part of a personal educational project, following the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) & [Florin Pop](https://www.udemy.com/user/popflorin/) on [Udemy](https://www.udemy.com/). This repository is intended for personal use only and serves as a record of my learning progress. This repository & the content within it are not intended for commercial use, distribution, or replication. All rights to the original course content and methodologies belong to the respective copyright holders.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-
-Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rights Reserved.
-
-</blockquote>
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/LICENSE.md">LICENSE.md</a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <blockquote>
+          <p>The content within this repository was created as part of a personal educational project, following the <a href="https://www.udemy.com/course/50-projects-50-days/">50 Projects In 50 Days - HTML, CSS & JavaScript</a> course by <a href="https://www.udemy.com/user/brad-traversy/">Brad Traversy</a> & <a href="https://www.udemy.com/user/popflorin/">Florin Pop</a> on <a href="https://www.udemy.com/">Udemy</a>. This repository is intended for personal use only and serves as a record of my learning progress. This repository & the content within it are not intended for commercial use, distribution, or replication. All rights to the original course content and methodologies belong to the respective copyright holders.</p>
+          <p>THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.</p>
+          <p>Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rights Reserved.</p>
+        </blockquote>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="right"><a href="#top">(back to top)</a></div>
 
