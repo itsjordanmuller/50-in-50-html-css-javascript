@@ -3973,6 +3973,8 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </tbody>
 </table>
 
+<hr>
+
 <h4>Frameworks</h4>
 
 <table>
@@ -3983,6 +3985,11 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/tailwind-css-home.png" width="525px" alt="Tailwind CSS Home Page"/>
+      </td>
+    </tr>
     <tr>
       <td align="center">Home</td>
       <td><a href="https://tailwindcss.com/">tailwindcss.com</a></td>
@@ -4051,6 +4058,8 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </tbody>
 </table>
 
+<hr>
+
 <h4>Libraries</h4>
 
 <table>
@@ -4061,6 +4070,11 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/axios-home.png" width="525px" alt="Axios Home Page"/>
+      </td>
+    </tr>
     <tr>
       <td align="center">Home</td>
       <td><a href="https://axios-http.com/">axios-http.com</a></td>
@@ -4128,8 +4142,8 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
     </tr>
   </tbody>
 </table>
-
-
+<br>
+<hr>
 
 <h3>Developer Tools</h3>
 
@@ -4141,6 +4155,11 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/git-home.png" width="525px" alt="Git Home Page"/>
+      </td>
+    </tr>
     <tr>
       <td align="center">Home</td>
       <td><a href="https://git-scm.com/">git-scm.com/</a></td>
@@ -4233,6 +4252,11 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </thead>
   <tbody>
     <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/github-home.png" width="525px" alt="GitHub Home Page"/>
+      </td>
+    </tr>
+    <tr>
       <td align="center">Home</td>
       <td><a href="https://github.com/">github.com/</a></td>
     </tr>
@@ -4317,6 +4341,11 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </thead>
   <tbody>
     <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/vs-code-home.png" width="525px" alt="Visual Studio Code Home Page"/>
+      </td>
+    </tr>
+    <tr>
       <td align="center">Home</td>
       <td><a href="https://code.visualstudio.com/">code.visualstudio.com/</a></td>
     </tr>
@@ -4389,6 +4418,11 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </thead>
   <tbody>
     <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/bash-home.png" width="525px" alt="Bash Home Page"/>
+      </td>
+    </tr>
+    <tr>
       <td align="center">Home</td>
       <td><a href="https://www.gnu.org/software/bash/">gnu.org/software/bash/</a></td>
     </tr>
@@ -4456,11 +4490,167 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
 <table>
   <thead>
     <tr>
+      <th><em>Prettier</em><br><a href="https://github.com/prettier/prettier/releases">2017</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/prettier/"><img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black" height="47px" alt="Prettier Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/prettier-home.png" width="525px" alt="Prettier Home Page"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://prettier.io/">prettier.io</a></td>
+    </tr>
+    <tr>
+      <td align="center">Docs</td>
+      <td><a href="https://prettier.io/docs/en/">prettier.io/docs/en</a></td>
+    </tr>
+    <tr>
+      <td align="center">Repo</td>
+      <td><a href="https://github.com/prettier/prettier">github.com/prettier/prettier</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/prettier">github.com/topics/prettier</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+            <details>
+            <summary>View Prettier Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Prettier Playground</strong><br>
+                    <a href="https://prettier.io/playground/">prettier.io/playground</a>
+                  </td>
+                </tr>
+                <tr>
+                <tr>
+                  <td>
+                    <strong>Prettier Blog</strong><br>
+                    <a href="https://prettier.io/blog/">prettier.io/blog</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View Prettier Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/prettier">stackoverflow.com/questions/tagged/prettier</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>ESLint</em><br><a href="https://en.wikipedia.org/wiki/ESLint">2013</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/es-lint/"><img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" height="47px" alt="ESLint Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/es-lint-home.png" width="525px" alt="ESLint Home Page"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://eslint.org/">eslint.org</a></td>
+    </tr>
+    <tr>
+      <td align="center">Docs</td>
+      <td><a href="https://eslint.org/docs/latest/">eslint.org/docs/latest</a></td>
+    </tr>
+    <tr>
+      <td align="center">Repo</td>
+      <td><a href="https://github.com/eslint/eslint">github.com/eslint/eslint</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/eslint">github.com/topics/eslint</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View ESLint Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Playground</strong><br>
+                    <a href="https://eslint.org/play/">eslint.org/play</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Blog</strong><br>
+                    <a href="https://eslint.org/blog/">eslint.org/blog</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View ESLint Support & Communities</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/eslint">stackoverflow.com/questions/tagged/eslint</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
       <th><em>Kubuntu</em><br><a href="https://en.wikipedia.org/wiki/Kubuntu">2006</a></th>
       <th align="left"><a href="https://jordanmuller.com/portfolio/tags/kubuntu/"><img src="https://img.shields.io/badge/Kubuntu-0079C1.svg?style=for-the-badge&logo=Kubuntu&logoColor=white" height="47px" alt="Kubuntu Badge"/></a></th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/kubuntu-home.png" width="525px" alt="Kubuntu Home Page"/>
+      </td>
+    </tr>
     <tr>
       <td align="center">Home</td>
       <td><a href="https://kubuntu.org/">kubuntu.org/</a></td>
@@ -4541,6 +4731,11 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
     </tr>
   </thead>
   <tbody>
+  <tr>
+    <td colspan="2">
+      <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/kde-home.png" width="525px" alt="KDE Home Page"/>
+    </td>
+  </tr>
     <tr>
       <td align="center">Home</td>
       <td><a href="https://kde.org/">kde.org/</a></td>
@@ -4615,6 +4810,11 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/ubuntu-home.png" width="525px" alt="Ubuntu Home Page"/>
+      </td>
+    </tr>
     <tr>
       <td align="center">Home</td>
       <td><a href="https://ubuntu.com/">ubuntu.com/</a></td>
@@ -4696,6 +4896,11 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </thead>
   <tbody>
     <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/debian-home.png" width="525px" alt="Debian Home Page"/>
+      </td>
+    </tr>
+    <tr>
       <td align="center">Home</td>
       <td><a href="https://www.debian.org/">debian.org</a></td>
     </tr>
@@ -4771,6 +4976,11 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
   </thead>
   <tbody>
     <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/linux-home.png" width="525px" alt="Linux Home Page"/>
+      </td>
+    </tr>
+    <tr>
       <td align="center">Home</td>
       <td><a href="https://kernel.org/">kernel.org</a></td>
     </tr>
@@ -4841,8 +5051,178 @@ Copyright © 2024 <a href="https://jordanmuller.com/">Jordan Muller</a>. All Rig
     </tr>
   </tbody>
 </table>
+<br>
+<hr>
 
-<h3>Additional Resources</h3>
+<h3>Additional & External Resources</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>Font Awesome</em><br><a href="https://en.wikipedia.org/wiki/Font_Awesome">2012</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/font-awesome/"><img src="https://img.shields.io/badge/Font%20Awesome-528DD7.svg?style=for-the-badge&logo=Font-Awesome&logoColor=white" height="47px" alt="Font Awesome Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/5df4ef75d87c9ff26c459aa15b3aae5955b637dc/src/assets/images/external/font-awesome-home.png" width="525px" alt="Font Awesome Home Page"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://fontawesome.com/">fontawesome.com</a></td>
+    </tr>
+    <tr>
+      <td align="center">Docs</td>
+      <td><a href="https://fontawesome.com/docs">fontawesome.com/docs</a></td>
+    </tr>
+    <tr>
+      <td align="center">Repo</td>
+      <td><a href="https://github.com/FortAwesome/Font-Awesome">github.com/FortAwesome/Font-Awesome</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/font-awesome">github.com/topics/font-awesome</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View Font Awesome Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Icons</strong><br>
+                    <a href="https://fontawesome.com/icons">fontawesome.com/icons</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View Font Awesome Support & Community</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Stack Overflow Help</strong><br>
+                    <a href="https://stackoverflow.com/questions/tagged/font-awesome">stackoverflow.com/questions/tagged/font-awesome</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Support</strong><br>
+                    <a href="https://fontawesome.com/support">fontawesome.com/support</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><em>Unsplash</em><br><a href="https://en.wikipedia.org/wiki/Unsplash">2013</a></th>
+      <th align="left"><a href="https://jordanmuller.com/portfolio/tags/unsplash/"><img src="https://img.shields.io/badge/Unsplash-000000.svg?style=for-the-badge&logo=Unsplash&logoColor=white" height="47px" alt="Unsplash Badge"/></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/5df4ef75d87c9ff26c459aa15b3aae5955b637dc/src/assets/images/external/unsplash-home.png" width="525px" alt="Unsplash Home Page"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Home</td>
+      <td><a href="https://unsplash.com/">unsplash.com</a></td>
+    </tr>
+    <tr>
+      <td align="center">Docs</td>
+      <td><a href="https://unsplash.com/documentation">unsplash.com/documentation</a></td>
+    </tr>
+    <tr>
+      <td align="center">Repo</td>
+      <td><a href="https://github.com/unsplash/datasets">github.com/unsplash/datasets</a></td>
+    </tr>
+    <tr>
+      <td align="center">Topic</td>
+      <td><a href="https://github.com/topics/unsplash">github.com/topics/unsplash</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <blockquote>
+          <details>
+            <summary>View Unsplash Resources & Information</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Developer Portal</strong><br>
+                    <a href="https://unsplash.com/developers">unsplash.com/developers</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Unsplash Dataset</strong><br>
+                    <a href="https://unsplash.com/data">unsplash.com/data</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Unsplash Blog</strong><br>
+                    <a href="https://unsplash.com/blog/">unsplash.com/blog/</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>GitHub Organization</strong><br>
+                    <a href="https://github.com/unsplash">github.com/unsplash</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </details>
+          <details>
+            <summary>View Unsplash Support & Community</summary>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong>Unsplash Support</strong><br>
+                    <a href="https://unsplash.com/community">unsplash.com/community</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Unsplash Community</strong><br>
+                    <a href="https://help.unsplash.com/en/">help.unsplash.com/en/</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </blockquote>
+        <hr>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <hr>
 
