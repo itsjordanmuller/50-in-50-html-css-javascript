@@ -3495,7 +3495,8 @@ The "Insect Catch Game" is a fun and straightforward game that demonstrates how 
   <tr>
     <td>
       <br>
-        <strong><em>Please let me know if you run into any issues while trying to view or run this or any of my other portfolio projects on your local machine. <ins>Constructive feedback is always appreciated</ins>, and I'm always looking to learn new things and make my projects the best they can possibly be! My <a href="#contact-section">Contact Information</a> can be found below.</em></strong>
+        <p>Please let me know if you run into any issues while trying to view or run this or any of my other portfolio projects on your local machine. Constructive feedback is <ins>always</ins> appreciated, and I'm always looking to learn new things and make my projects the best they can possibly be!</p>
+        <p><strong><em>My <a href="#contact-section">Contact Information</a>, and many other helpful resources can be found below</em></strong></p>
       <hr>
     </td>
   </tr>
