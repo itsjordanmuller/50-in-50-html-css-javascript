@@ -1009,21 +1009,17 @@ Overall, the "Hidden Search Widget" project was an enriching experience in creat
 
 <img src="https://custom-icon-badges.demolab.com/badge/Blurry%20Loading-ffd7b2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Blurry Loading" width="100%"/>
 
-![Blurry Loading - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-1.png)
+| ![Blurry Loading - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-1.png) | ![Blurry Loading - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-5.png) |
+|---|---|
 
-![Blurry Loading - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-2.png)
+| ![Blurry Loading - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-6.png) | ![Blurry Loading - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-2.png) |
+|---|---|
 
-![Blurry Loading - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-3.png)
+| ![Blurry Loading - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-3.png) | ![Blurry Loading - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-7.png) |
+|---|---|
 
-![Blurry Loading - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-4.png)
-
-![Blurry Loading - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-5.png)
-
-![Blurry Loading - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-6.png)
-
-![Blurry Loading - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-7.png)
-
-![Blurry Loading - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-8.png)
+| ![Blurry Loading - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-8.png) | ![Blurry Loading - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-4.png) |
+|---|---|
 
 ## Project Description
 
@@ -1055,21 +1051,17 @@ Overall, the "Blurry Loading" project was a fantastic exercise in creating visua
 
 <img src="https://custom-icon-badges.demolab.com/badge/Scroll%20Animation-ffe0b2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Scroll Animation" width="100%"/>
 
-![Scroll Animation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-1.png)
+| ![Scroll Animation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-1.png) | ![Scroll Animation - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-5.png) |
+|---|---|
 
-![Scroll Animation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-2.png)
+| ![Scroll Animation - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-6.png) | ![Scroll Animation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-2.png) |
+|---|---|
 
-![Scroll Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-3.png)
+| ![Scroll Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-3.png) | ![Scroll Animation - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-7.png) |
+|---|---|
 
-![Scroll Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-4.png)
-
-![Scroll Animation - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-5.png)
-
-![Scroll Animation - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-6.png)
-
-![Scroll Animation - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-7.png)
-
-![Scroll Animation - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-8.png)
+| ![Scroll Animation - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-8.png) | ![Scroll Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-4.png) |
+|---|---|
 
 ## Project Description
 
@@ -1127,17 +1119,14 @@ Overall, the "Scroll Animation" project was a valuable practice in combining CSS
 
 ![Split Landing Page - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-1.png)
 
-![Split Landing Page - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-2.png)
+| ![Split Landing Page - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-6.png) | ![Split Landing Page - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-2.png) |
+|---|---|
 
-![Split Landing Page - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-3.png)
+| ![Split Landing Page - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-3.png) | ![Split Landing Page - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-5.png) |
+|---|---|
 
-![Split Landing Page - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-4.png)
-
-![Split Landing Page - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-5.png)
-
-![Split Landing Page - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-6.png)
-
-![Split Landing Page - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-7.png)
+| ![Split Landing Page - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-4.png) | ![Split Landing Page - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-7.png) |
+|---|---|
 
 ## Project Description
 
@@ -1169,21 +1158,17 @@ Overall, the "Split Landing Page" project was an exciting exploration into creat
 
 <img src="https://custom-icon-badges.demolab.com/badge/Form%20Wave%20Animation-fff2b2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Form Wave Animation" width="100%"/>
 
-![Form Wave Animation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-1.png)
+| ![Form Wave Animation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-1.png) | ![Form Wave Animation - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-5.png) |
+|---|---|
 
-![Form Wave Animation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-2.png)
+| ![Form Wave Animation - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-6.png) | ![Form Wave Animation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-2.png) |
+|---|---|
 
-![Form Wave Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-3.png)
+| ![Form Wave Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-3.png) | ![Form Wave Animation - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-7.png) |
+|---|---|
 
-![Form Wave Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-4.png)
-
-![Form Wave Animation - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-5.png)
-
-![Form Wave Animation - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-6.png)
-
-![Form Wave Animation - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-7.png)
-
-![Form Wave Animation - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-8.png)
+| ![Form Wave Animation - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-8.png) | ![Form Wave Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-4.png) |
+|---|---|
 
 ## Project Description
 
@@ -1215,9 +1200,8 @@ Overall, the "Form Wave Animation" project was an excellent practice in enhancin
 
 <img src="https://custom-icon-badges.demolab.com/badge/Sound%20Board-fffbb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Sound Board" width="100%"/>
 
-![Sound Board - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/009-Sound-Board/009-sound-board-1.png)
-
-![Sound Board - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/009-Sound-Board/009-sound-board-2.png)
+| ![Sound Board - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/009-Sound-Board/009-sound-board-1.png) | ![Sound Board - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/009-Sound-Board/009-sound-board-2.png) |
+|---|---|
 
 ## Project Description
 
@@ -1249,13 +1233,11 @@ Overall, the "Sound Board" project was a fun and educational experience in build
 
 <img src="https://custom-icon-badges.demolab.com/badge/Dad%20Jokes-f8ffb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Dad Jokes" width="100%"/>
 
-![Dad Jokes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-1.png)
+| ![Dad Jokes - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-1.png) | ![Dad Jokes - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-3.png) |
+|---|---|
 
-![Dad Jokes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-2.png)
-
-![Dad Jokes - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-3.png)
-
-![Dad Jokes - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-4.png)
+| ![Dad Jokes - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-4.png) | ![Dad Jokes - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/010-Dad-Jokes/010-dad-jokes-2.png) |
+|---|---|
 
 ## Project Description
 
