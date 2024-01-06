@@ -80,8 +80,6 @@
 
 🛠️ <a href="#setup-section"><strong>Setup Instructions</strong></a>
 
-🖼️ <a href="#gallery-section"><strong>Image Gallery</strong></a>
-
 <details open><summary>🔍 <a href="#overview-section"><strong>Sections & Projects</strong></a></summary><blockquote>
 <br>
 <table>
@@ -688,87 +686,6 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 
 </details>
 
-<a id="gallery-section"></a>
-<details open>
-<summary align="center"><h2>🖼️ Image Gallery</h2></summary>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Cover Images</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-1-25.png" alt="50 Projects in 50 Days Cover - Projects 1-25" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/cover-26-50.png" alt="50 Projects in 50 Days Cover - Projects 26-50" width="100%"></td>
-  </tr>
-</tbody>
-</table>
-<details>
-<summary align="center">
-View More Images 🌌
-</summary>
-
-<div align="right"><a href="#top">(back to top)</a></div>
-<hr>
-<div align="center">
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Day 1 - Expanding Cards</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Portfolio Link</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-1.png" alt="Expanding Cards - Desktop View" width="100%"></td>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-4.png" alt="Expanding Cards - Mobile View" width="100%"></td>
-  </tr>
-  <tr align="center">
-    <td>Desktop</td>
-    <td>Mobile</td>
-  </tr>
-</tbody>
-</table>
-<hr>
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Day 2 - Progress Steps</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" align="center"><a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View Repo/Directory</a> / <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">View On Portfolio Site</a></td>
-  </tr>
-  <!-- <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
-  </tr> -->
-  <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png" alt="Progress Steps - Desktop View 1" width="100%"></td>
-  </tr>
-    <tr>
-    <td><img src="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png" alt="Progress Steps - Desktop View 2" width="100%"></td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">Desktop</td>
-  </tr>
-</tbody>
-</table>
-</details>
-</div>
-
-<div align="right"><a href="#top">(back to top)</a></div>
-<hr>
-
-</details>
-
 <a id="overview-section"></a>
 <details open>
 <summary align="center"><h2>🔍 Sections & Projects</h2></summary>
@@ -1200,7 +1117,7 @@ Overall, the "Form Wave Animation" project was an excellent practice in enhancin
 
 <img src="https://custom-icon-badges.demolab.com/badge/Sound%20Board-fffbb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Sound Board" width="100%"/>
 
-| ![Sound Board - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/009-Sound-Board/009-sound-board-1.png) | ![Sound Board - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/009-Sound-Board/009-sound-board-2.png) |
+| ![Sound Board - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/009-Sound-Board/009-sound-board-2.png) | ![Sound Board - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/009-Sound-Board/009-sound-board-1.png) |
 |---|---|
 
 ## Project Description
