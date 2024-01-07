@@ -1274,15 +1274,13 @@ Overall, the "Scroll Animation" project was a valuable practice in combining CSS
 
 <img src="https://custom-icon-badges.demolab.com/badge/Split%20Landing%20Page-ffe9b2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Split Landing Page" width="100%"/><br>
 
-![Split Landing Page - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-1.png)
-
-| ![Split Landing Page - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-6.png) | ![Split Landing Page - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-2.png) |
+| ![Split Landing Page - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-1.png) | ![Split Landing Page - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-6.png) |
 |---|---|
+
+| ![Split Landing Page - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-4.png) | ![Split Landing Page - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-7.png) | ![Split Landing Page - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-2.png) |
+|---|---|---|
 
 | ![Split Landing Page - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-3.png) | ![Split Landing Page - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-5.png) |
-|---|---|
-
-| ![Split Landing Page - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-4.png) | ![Split Landing Page - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/007-Split-Landing-Page/007-split-landing-page-7.png) |
 |---|---|
 
 #### Project Description
@@ -1319,14 +1317,11 @@ Overall, the "Split Landing Page" project was an exciting exploration into creat
 | ![Form Wave Animation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-1.png) | ![Form Wave Animation - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-5.png) |
 |---|---|
 
-| ![Form Wave Animation - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-6.png) | ![Form Wave Animation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-2.png) |
-|---|---|
+| ![Form Wave Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-3.png) | ![Form Wave Animation - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-6.png) | ![Form Wave Animation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-2.png) |
+|---|---|---|
 
-| ![Form Wave Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-3.png) | ![Form Wave Animation - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-7.png) |
-|---|---|
-
-| ![Form Wave Animation - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-8.png) | ![Form Wave Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-4.png) |
-|---|---|
+| ![Form Wave Animation - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-8.png) | ![Form Wave Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-4.png) | ![Form Wave Animation - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/008-Form-Wave-Animation/008-form-wave-animation-7.png) |
+|---|---|---|
 
 #### Project Description
 
