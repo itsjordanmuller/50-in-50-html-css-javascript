@@ -979,7 +979,7 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
           <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Go to Directory</a>
         </td>
         <td>
-          <ins href="#">🚧 Check Soon 🏗️</ins>
+          <ins href="#">🚧Check Soon🏗️</ins>
         </td>
         <td>
           <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">Open on Portfolio</a>
@@ -1047,7 +1047,7 @@ This project was a valuable step in my journey as a recent graduate, solidifying
           <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">Go to Directory</a>
         </td>
         <td>
-          <ins href="#">🚧 Check Soon 🏗️</ins>
+          <ins href="#">🚧Check Soon🏗️</ins>
         </td>
         <td>
           <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">Open on Portfolio</a>
@@ -1116,7 +1116,7 @@ Overall, this project strengthened my abilities in creating visually appealing, 
           <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation">Go to Directory</a>
         </td>
         <td>
-          <ins href="#">🚧 Check Soon 🏗️</ins>
+          <ins href="#">🚧Check Soon🏗️</ins>
         </td>
         <td>
           <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">Open on Portfolio</a>
