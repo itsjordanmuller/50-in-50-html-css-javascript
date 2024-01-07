@@ -3777,6 +3777,11 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
   </thead>
   <tbody>
     <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/html-github-topic.png" width="525px" alt="HTML GitHub Topic"/>
+      </td>
+    </tr>
+    <tr>
       <td align="center">Home</td>
       <td><a href="https://html.spec.whatwg.org/">html.spec.whatwg.org/</a></td>
     </tr>
@@ -3855,6 +3860,11 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/css-github-topic.png" width="525px" alt="CSS GitHub Topic"/>
+      </td>
+    </tr>
     <tr>
       <td align="center">Home</td>
       <td><a href="https://www.w3.org/TR/CSS/#css">w3.org/TR/CSS/#css</a></td>
@@ -3954,6 +3964,11 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
   </thead>
   <tbody>
     <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/javascript-github-topic.png" width="525px" alt="JavaScript GitHub Topic"/>
+      </td>
+    </tr>
+    <tr>
       <td align="center">Home</td>
       <td><a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">ecma-international.org/</a></td>
     </tr>
@@ -4038,6 +4053,11 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/itsjordanmuller/portfolio-website/blob/main/src/assets/images/external/markdown-github-topic.png" width="525px" alt="Markdown GitHub Topic"/>
+      </td>
+    </tr>
     <tr>
       <td align="center">Home</td>
       <td><a href="https://daringfireball.net/projects/markdown/">daringfireball.net/projects/markdown/</a></td>
