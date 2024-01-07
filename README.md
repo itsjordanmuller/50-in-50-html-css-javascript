@@ -260,34 +260,36 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
 <blockquote>
   <p>If you're eager to simply see the results of this project, most, if not all of the projects have a Live Demo associated with them. I have linked them all in the overview for each specific project/section. To view these live demos, simply follow the links provided with each project. You'll see them alongside buttons that look like this:</p>
 
+<div align="center">
   <table >
-    <thead>
+    <thead align="center">
       <tr>
-        <th>
-          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">Live Demo</a>
-        </th>
-        <th>
-          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">Directory</a>
-        </th>
-        <th>
-          <a href="">View On Portfolio</a>
-        </th>
+        <td>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards"><img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
+        </td>
+        <td>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
+        </td>
+        <td>
+        <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
+        </td>
       </tr>
     </thead>
     <tbody align="center">
       <tr>
         <td>
-        <img src="https://custom-icon-badges.demolab.com/badge/Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/>
+          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Go to Directory</a>
         </td>
         <td>
-        <img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/>
+          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">View Live Demo</a>
         </td>
         <td>
-        <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/>
+          <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">Open on Portfolio</a>
         </td>
       </tr>
     </tbody>
   </table>
+</div>
 
   <p>Click the button/link and you should be taken to the Live Demo for that specific project. Please note that some projects don't have a Live Demo, and if that's the case there will not be a button/link. I'm hoping to get all of the projects on the internet at some point in the near future, so check back soon and you might find a link!</p>
 </blockquote>
@@ -334,7 +336,7 @@ b
 c
 
 <details open>
-<summary><h4>In Progress Features ✳️</h4></summary><blockquote>
+<summary><h4>Building Features ✳️</h4></summary><blockquote>
 a
 b
 c
@@ -783,43 +785,42 @@ Navigation Quick Links
 
 <img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Expanding Cards" width="100%"/><br>
 
-| ↞ first | ← prev | **#1** | [next →](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main#2-progress-steps) | [last ↠](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main#50-insect-catch-game) |
-|---|---|---|---|---|
-
 | ![Expanding Cards - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-1.png) | ![Expanding Cards - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-3.png) |
 |---|---|
 
 | ![Expanding Cards - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-4.png) | ![Expanding Cards - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/001-Expanding-Cards/001-expanding-cards-2.png) |
 |---|---|
 
-<table >
-  <thead align="center">
-    <tr>
-      <td>
-      <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
-      </td>
-      <td>
-      <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards"><img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
-      </td>
-      <td>
-      <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
-      </td>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">View Live Demo</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Directory / Subfolder</a>
-      </td>
-      <td>
-        <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">View On Portfolio</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table >
+    <thead align="center">
+      <tr>
+        <td>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards"><img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
+        </td>
+        <td>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
+        </td>
+        <td>
+        <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
+        </td>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr>
+        <td>
+          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Go to Directory</a>
+        </td>
+        <td>
+          <a href="#">🚧 Check Soon 🏗️</a>
+        </td>
+        <td>
+          <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">Open on Portfolio</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 #### Project Description
 
@@ -852,43 +853,42 @@ This project was a valuable step in my journey as a recent graduate, solidifying
 
 <img src="https://custom-icon-badges.demolab.com/badge/Progress%20Steps-ffbbb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Progress Steps" width="100%"/><br>
 
-| [↞ first](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main#1-expanding-cards) | [← prev](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main#1-expanding-cards) | **#2** | [next →](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main#3-rotating-navigation) | [last ↠](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main#50-insect-catch-game) |
-|---|---|---|---|---|
-
 | ![Progress Steps - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-1.png) | ![Progress Steps - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-2.png) |
 |---|---|
 
 | ![Progress Steps - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-3.png) | ![Progress Steps - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/002-Progress-Steps/002-progress-steps-4.png) |
 |---|---|
 
-<table >
-  <thead align="center">
-    <tr>
-      <td>
-      <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
-      </td>
-      <td>
-      <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps"><img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
-      </td>
-      <td>
-      <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
-      </td>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">View Live Demo</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">Directory / Subfolder</a>
-      </td>
-      <td>
-        <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">View On Portfolio</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table >
+    <thead align="center">
+      <tr>
+        <td>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps"><img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
+        </td>
+        <td>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
+        </td>
+        <td>
+        <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
+        </td>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr>
+        <td>
+          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">Go to Directory</a>
+        </td>
+        <td>
+          <a href="#">🚧 Check Soon 🏗️</a>
+        </td>
+        <td>
+          <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">Open on Portfolio</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 #### Project Description
 
@@ -921,43 +921,43 @@ Overall, this project strengthened my abilities in creating visually appealing, 
 
 <img src="https://custom-icon-badges.demolab.com/badge/Rotating%20Navigation-ffc4b2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Rotating Navigation" width="100%"/><br>
 
-| [↞ first](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main#1-expanding-cards) | [← prev](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main#2-progress-steps) | **#3** | [next →](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main#4-hidden-search-widget) | [last ↠](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main#50-insect-catch-game) |
-|---|---|---|---|---|
-
 | ![Rotating Navigation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-1.png) | ![Rotating Navigation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-4.png) |
 |---|---|
 
 | ![Rotating Navigation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-3.png) | ![Rotating Navigation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/003-Rotating-Navigation/003-rotating-navigation-2.png) |
 |---|---|
 
-<table >
-  <thead align="center">
-    <tr>
-      <td>
-      <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
-      </td>
-      <td>
-      <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation"><img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
-      </td>
-      <td>
-      <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
-      </td>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">View Live Demo</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation">Directory / Subfolder</a>
-      </td>
-      <td>
-        <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">View On Portfolio</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+<div align="center">
+  <table >
+    <thead align="center">
+      <tr>
+        <td>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation"><img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
+        </td>
+        <td>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
+        </td>
+        <td>
+        <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
+        </td>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr>
+        <td>
+          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation">Go to Directory</a>
+        </td>
+        <td>
+          <a href="#">🚧 Check Soon 🏗️</a>
+        </td>
+        <td>
+          <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">Open on Portfolio</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 #### Project Description
 
