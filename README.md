@@ -82,210 +82,6 @@
 
 <details open><summary>🔍 <a href="#overview-section"><strong>Sections & Projects</strong></a></summary><blockquote>
 <br>
-<!-- <table>
-  <tbody align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">1.&nbsp;Expanding Cards</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">2.&nbsp;Progress Steps</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation">3.&nbsp;Rotating Navigation</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/004-Hidden-Search-Widget">4.&nbsp;Hidden Search Widget</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/005-Blurry-Loading">5.&nbsp;Blurry Loading</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/006-Scroll-Animation">6.&nbsp;Scroll Animation</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/007-Split-Landing-Page">7.&nbsp;Split Landing Page</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/008-Form-Wave-Animation">8.&nbsp;Form Wave Animation</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/009-Sound-Board">9.&nbsp;Sound Board</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/010-Dad-Jokes">10.&nbsp;Dad Jokes</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/011-Event-KeyCodes">11.&nbsp;Event KeyCodes</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/012-FAQ-Collapse">12.&nbsp;FAQ Collapse</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/013-Random-Choice-Picker">13.&nbsp;Random Choice Picker</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/014-Animated-Navigation">14.&nbsp;Animated Navigation</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/015-Incrementing-Counter">15.&nbsp;Incrementing Counter</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/016-Drink-Water">16.&nbsp;Drink Water</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/017-Movie-App">17.&nbsp;Movie App</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/018-Background-Slider">18.&nbsp;Background Slider</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/019-Theme-Clock">19.&nbsp;Theme Clock</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/020-Button-Ripple-Effect">20.&nbsp;Button Ripple Effect</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/021-Drag-N-Drop">21.&nbsp;Drag N Drop</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/022-Drawing-App">22.&nbsp;Drawing App</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/023-Kinetic-CSS-Loader">23.&nbsp;Kinetic CSS Loader</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/024-Content-Placeholder">24.&nbsp;Content Placeholder</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://ithub.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/025-Sticky-Navigation">25.&nbsp;Sticky Navigation</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/026-Double-Vertical-Slider">26.&nbsp;Double Vertical Slider</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/027-Toast-Notifications">27.&nbsp;Toast Notifications</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/028-GitHub-Profiles">28.&nbsp;GitHub Profiles</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/029-Double-Click-Heart">29.&nbsp;Double Click Heart</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/030-Auto-Text-Effect">30.&nbsp;Auto Text Effect</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/031-Password-Generator">31.&nbsp;Password Generator</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/032-Good-Cheap-Fast-Checkboxes">32.&nbsp;Good, Cheap, Fast Checkboxes</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/033-Notes-App">33.&nbsp;Notes App</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/034-Animated-Countdown">34.&nbsp;Animated Countdown</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/035-Image-Carousel">35.&nbsp;Image Carousel</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/036-Hoverboard">36.&nbsp;Hoverboard</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/037-Pokedex">37.&nbsp;Pokedex</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/038-Mobile-Tab-Navigation">38.&nbsp;Mobile Tab Navigation</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/039-Password-Strength-Background">39.&nbsp;Password Strength Background</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/040-3D-Background-Boxes">40.&nbsp;3D Background Boxes</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/041-Verify-Account-UI">41.&nbsp;Verify Account UI</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/042-Live-User-Filter">42.&nbsp;Live User Filter</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/043-Feedback-UI-Design">43.&nbsp;Feedback UI Design</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/044-Custom-Range-Slider">44.&nbsp;Custom Range Slider</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/045-Netflix-Mobile-Navigation">45.&nbsp;Netflix Mobile Navigation</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/046-Quiz-App">46.&nbsp;Quiz App</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/047-Testimonial-Box-Switcher">47.&nbsp;Testimonial Box Switcher</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/048-Random-Image-Feed">48.&nbsp;Random Image Feed</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/049-Todo-List">49.&nbsp;Todo List</a>
-      </td>
-      <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/050-Insect-Catch-Game">50.&nbsp;Insect Catch Game</a>
-      </td>
-    </tr>
-  </tbody>
-</table> -->
 
 <table>
   <tbody align="center">
@@ -491,7 +287,6 @@
     </tr>
   </tbody>
 </table>
-
 
 </blockquote>
 </details>
@@ -992,90 +787,103 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 <summary align="center"><h2>🔍 Sections & Projects</h2></summary>
 
 <table>
-<thead>
-<tr>
-<th colspan="2">
-Navigation Quick Links
-</th>
-</tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center" width="72px">1-10</td>
-    <td align="center">
-      <img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?logo=star-fill&logoColor=000000" alt="Expanding Cards" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Progress%20Steps-ffbbb2.svg?logo=star-fill&logoColor=000000" alt="Progress Steps" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Rotating%20Navigation-ffc4b2.svg?logo=star-fill&logoColor=000000" alt="Rotating Navigation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Hidden%20Search%20Widget-ffceb2.svg?logo=star-fill&logoColor=000000" alt="Hidden Search Widget" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Blurry%20Loading-ffd7b2.svg?logo=star-fill&logoColor=000000" alt="Blurry Loading" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Scroll%20Animation-ffe0b2.svg?logo=star-fill&logoColor=000000" alt="Scroll Animation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Split%20Landing%20Page-ffe9b2.svg?logo=star-fill&logoColor=000000" alt="Split Landing Page" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Form%20Wave%20Animation-fff2b2.svg?logo=star-fill&logoColor=000000" alt="Form Wave Animation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Sound%20Board-fffbb2.svg?logo=star-fill&logoColor=000000" alt="Sound Board" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Dad%20Jokes-f8ffb2.svg?logo=star-fill&logoColor=000000" alt="Dad Jokes" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">11-20</td>
-    <td align="center">
-      <img src="https://custom-icon-badges.demolab.com/badge/Event%20KeyCodes-efffb2.svg?logo=star-fill&logoColor=000000" alt="Event KeyCodes" />
-      <img src="https://custom-icon-badges.demolab.com/badge/FAQ%20Collapse-e6ffb2.svg?logo=star-fill&logoColor=000000" alt="FAQ Collapse" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Random%20Choice%20Picker-ddffb2.svg?logo=star-fill&logoColor=000000" alt="Random Choice Picker" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Animated%20Navigation-d4ffb2.svg?logo=star-fill&logoColor=000000" alt="Animated Navigation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Incrementing%20Counter-caffb2.svg?logo=star-fill&logoColor=000000" alt="Incrementing Counter" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Drink%20Water-c1ffb2.svg?logo=star-fill&logoColor=000000" alt="Drink Water" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Movie%20App-b8ffb2.svg?logo=star-fill&logoColor=000000" alt="Movie App" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Background%20Slider-b2ffb5.svg?logo=star-fill&logoColor=000000" alt="Background Slider" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Theme%20Clock-b2ffbe.svg?logo=star-fill&logoColor=000000" alt="Theme Clock" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Button%20Ripple%20Effect-b2ffc7.svg?logo=star-fill&logoColor=000000" alt="Button Ripple Effect" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">21-30</td>
-    <td align="center">
-      <img src="https://custom-icon-badges.demolab.com/badge/Drag%20N%20Drop-b2ffd1.svg?logo=star-fill&logoColor=000000" alt="Drag N Drop" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Drawing%20App-b2ffda.svg?logo=star-fill&logoColor=000000" alt="Drawing App" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Kinetic%20CSS%20Loader-b2ffe3.svg?logo=star-fill&logoColor=000000" alt="Kinetic CSS Loader" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Content%20Placeholder-b2ffec.svg?logo=star-fill&logoColor=000000" alt="Content Placeholder" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Sticky%20Navigation-b2fff5.svg?logo=star-fill&logoColor=000000" alt="Sticky Navigation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Double%20Vertical%20Slider-b2ffff.svg?logo=star-fill&logoColor=000000" alt="Double Vertical Slider" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Toast%20Notifications-b2f5ff.svg?logo=star-fill&logoColor=000000" alt="Toast Notifications" />
-      <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Profiles-b2ecff.svg?logo=star-fill&logoColor=000000" alt="GitHub Profiles" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Double%20Click%20Heart-b2e3ff.svg?logo=star-fill&logoColor=000000" alt="Double Click Heart" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Auto%20Text%20Effect-b2daff.svg?logo=star-fill&logoColor=000000" alt="Auto Text Effect" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">31-40</td>
-    <td align="center">
-      <img src="https://custom-icon-badges.demolab.com/badge/Password%20Generator-b2d1ff.svg?logo=star-fill&logoColor=000000" alt="Password Generator" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Good/Cheap/Fast%20Checkboxes-b2c7ff.svg?logo=star-fill&logoColor=000000" alt="Good/Cheap/Fast Checkboxes" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Notes%20App-b2beff.svg?logo=star-fill&logoColor=000000" alt="Notes App" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Animated%20Countdown-b2b5ff.svg?logo=star-fill&logoColor=000000" alt="Animated Countdown" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Image%20Carousel-b8b2ff.svg?logo=star-fill&logoColor=000000" alt="Image Carousel" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Hoverboard-c1b2ff.svg?logo=star-fill&logoColor=000000" alt="Hoverboard" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Pokedex-cab2ff.svg?logo=star-fill&logoColor=000000" alt="Pokedex" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Mobile%20Tab%20Navigation-d4b2ff.svg?logo=star-fill&logoColor=000000" alt="Mobile Tab Navigation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Password%20Strength%20Background-ddb2ff.svg?logo=star-fill&logoColor=000000" alt="Password Strength Background" />
-      <img src="https://custom-icon-badges.demolab.com/badge/3D%20Background%20Boxes-e6b2ff.svg?logo=star-fill&logoColor=000000" alt="3D Background Boxes" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">41-50</td>
-    <td align="center">
-      <img src="https://custom-icon-badges.demolab.com/badge/Verify%20Account%20UI-efb2ff.svg?logo=star-fill&logoColor=000000" alt="Verify Account UI" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Live%20User%20Filter-f8b2ff.svg?logo=star-fill&logoColor=000000" alt="Live User Filter" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Feedback%20UI%20Design-ffb2fb.svg?logo=star-fill&logoColor=000000" alt="Feedback UI Design" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Custom%20Range%20Slider-ffb2f2.svg?logo=star-fill&logoColor=000000" alt="Custom Range Slider" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Netflix%20Mobile%20Navigation-ffb2e9.svg?logo=star-fill&logoColor=000000" alt="Netflix Mobile Navigation" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Quiz%20App-ffb2e0.svg?logo=star-fill&logoColor=000000" alt="Quiz App" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Testimonial%20Box%20Switcher-ffb2d7.svg?logo=star-fill&logoColor=000000" alt="Testimonial Box Switcher" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Random%20Image%20Feed-ffb2ce.svg?logo=star-fill&logoColor=000000" alt="Random Image Feed" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Todo%20List-ffb2c4.svg?logo=star-fill&logoColor=000000" alt="Todo List" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Insect%20Catch%20Game-ffb2bb.svg?logo=star-fill&logoColor=000000" alt="Insect Catch Game" />
-    </td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th colspan="2">
+      Navigation Quick Links
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td nowrap>
+        <div align="center">
+          <a href="#1-expanding-cards">01</a>&nbsp;|
+          <a href="#2-progress-steps">02</a><br>
+          <a href="#3-rotating-navigation">03</a>&nbsp;|
+          <a href="#4-hidden-search-widget">04</a><br>
+          <a href="#5-blurry-loading">05</a>&nbsp;|
+          <a href="#6-scroll-animation">06</a><br>
+          <a href="#7-split-landing-page">07</a>&nbsp;|
+          <a href="#8-form-wave-animation">08</a><br>
+          <a href="#9-sound-board">09</a>&nbsp;|
+          <a href="#10-dad-jokes">10</a><br>
+        </div>
+      </td>
+      <td align="center">
+        <a href="#1-expanding-cards"><img src="https://custom-icon-badges.demolab.com/badge/Expanding%20Cards-ffb2b2.svg?logo=star-fill&logoColor=000000" alt="Expanding Cards" /></a>
+        <a href="#2-progress-steps"><img src="https://custom-icon-badges.demolab.com/badge/Progress%20Steps-ffbbb2.svg?logo=star-fill&logoColor=000000" alt="Progress Steps" /></a>
+        <a href="#3-rotating-navigation"><img src="https://custom-icon-badges.demolab.com/badge/Rotating%20Navigation-ffc4b2.svg?logo=star-fill&logoColor=000000" alt="Rotating Navigation" /></a>
+        <a href="#4-hidden-search-widget"><img src="https://custom-icon-badges.demolab.com/badge/Hidden%20Search%20Widget-ffceb2.svg?logo=star-fill&logoColor=000000" alt="Hidden Search Widget" /></a>
+        <a href="#5-blurry-loading"><img src="https://custom-icon-badges.demolab.com/badge/Blurry%20Loading-ffd7b2.svg?logo=star-fill&logoColor=000000" alt="Blurry Loading" /></a>
+        <a href="#6-scroll-animation"><img src="https://custom-icon-badges.demolab.com/badge/Scroll%20Animation-ffe0b2.svg?logo=star-fill&logoColor=000000" alt="Scroll Animation" /></a>
+        <a href="#7-split-landing-page"><img src="https://custom-icon-badges.demolab.com/badge/Split%20Landing%20Page-ffe9b2.svg?logo=star-fill&logoColor=000000" alt="Split Landing Page" /></a>
+        <a href="#8-form-wave-animation"><img src="https://custom-icon-badges.demolab.com/badge/Form%20Wave%20Animation-fff2b2.svg?logo=star-fill&logoColor=000000" alt="Form Wave Animation" /></a>
+        <a href="#9-sound-board"><img src="https://custom-icon-badges.demolab.com/badge/Sound%20Board-fffbb2.svg?logo=star-fill&logoColor=000000" alt="Sound Board" /></a>
+        <a href="#10-dad-jokes"><img src="https://custom-icon-badges.demolab.com/badge/Dad%20Jokes-f8ffb2.svg?logo=star-fill&logoColor=000000" alt="Dad Jokes" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11-20</td>
+      <td align="center">
+        <a href="#11-event-keycodes"><img src="https://custom-icon-badges.demolab.com/badge/Event%20KeyCodes-efffb2.svg?logo=star-fill&logoColor=000000" alt="Event KeyCodes" /></a>
+        <a href="#12-faq-collapse"><img src="https://custom-icon-badges.demolab.com/badge/FAQ%20Collapse-e6ffb2.svg?logo=star-fill&logoColor=000000" alt="FAQ Collapse" /></a>
+        <a href="#13-random-choice-picker"><img src="https://custom-icon-badges.demolab.com/badge/Random%20Choice%20Picker-ddffb2.svg?logo=star-fill&logoColor=000000" alt="Random Choice Picker" /></a>
+        <a href="#14-animated-navigation"><img src="https://custom-icon-badges.demolab.com/badge/Animated%20Navigation-d4ffb2.svg?logo=star-fill&logoColor=000000" alt="Animated Navigation" /></a>
+        <a href="#15-incrementing-counter"><img src="https://custom-icon-badges.demolab.com/badge/Incrementing%20Counter-caffb2.svg?logo=star-fill&logoColor=000000" alt="Incrementing Counter" /></a>
+        <a href="#16-drink-water"><img src="https://custom-icon-badges.demolab.com/badge/Drink%20Water-c1ffb2.svg?logo=star-fill&logoColor=000000" alt="Drink Water" /></a>
+        <a href="#17-movie-app"><img src="https://custom-icon-badges.demolab.com/badge/Movie%20App-b8ffb2.svg?logo=star-fill&logoColor=000000" alt="Movie App" /></a>
+        <a href="#18-background-slider"><img src="https://custom-icon-badges.demolab.com/badge/Background%20Slider-b2ffb5.svg?logo=star-fill&logoColor=000000" alt="Background Slider" /></a>
+        <a href="#19-theme-clock"><img src="https://custom-icon-badges.demolab.com/badge/Theme%20Clock-b2ffbe.svg?logo=star-fill&logoColor=000000" alt="Theme Clock" /></a>
+        <a href="#20-button-ripple-effect"><img src="https://custom-icon-badges.demolab.com/badge/Button%20Ripple%20Effect-b2ffc7.svg?logo=star-fill&logoColor=000000" alt="Button Ripple Effect" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">21-30</td>
+      <td align="center">
+        <a href="#21-drag-n-drop"><img src="https://custom-icon-badges.demolab.com/badge/Drag%20N%20Drop-b2ffd1.svg?logo=star-fill&logoColor=000000" alt="Drag N Drop" /></a>
+        <a href="#22-drawing-app"><img src="https://custom-icon-badges.demolab.com/badge/Drawing%20App-b2ffda.svg?logo=star-fill&logoColor=000000" alt="Drawing App" /></a>
+        <a href="#23-kinetic-css-loader"><img src="https://custom-icon-badges.demolab.com/badge/Kinetic%20CSS%20Loader-b2ffe3.svg?logo=star-fill&logoColor=000000" alt="Kinetic CSS Loader" /></a>
+        <a href="#24-content-placeholder"><img src="https://custom-icon-badges.demolab.com/badge/Content%20Placeholder-b2ffec.svg?logo=star-fill&logoColor=000000" alt="Content Placeholder" /></a>
+        <a href="#25-sticky-navigation"><img src="https://custom-icon-badges.demolab.com/badge/Sticky%20Navigation-b2fff5.svg?logo=star-fill&logoColor=000000" alt="Sticky Navigation" /></a>
+        <a href="#26-double-vertical-slider"><img src="https://custom-icon-badges.demolab.com/badge/Double%20Vertical%20Slider-b2ffff.svg?logo=star-fill&logoColor=000000" alt="Double Vertical Slider" /></a>
+        <a href="#27-toast-notifications"><img src="https://custom-icon-badges.demolab.com/badge/Toast%20Notifications-b2f5ff.svg?logo=star-fill&logoColor=000000" alt="Toast Notifications" /></a>
+        <a href="#28-github-profiles"><img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Profiles-b2ecff.svg?logo=star-fill&logoColor=000000" alt="GitHub Profiles" /></a>
+        <a href="#29-double-click-heart"><img src="https://custom-icon-badges.demolab.com/badge/Double%20Click%20Heart-b2e3ff.svg?logo=star-fill&logoColor=000000" alt="Double Click Heart" /></a>
+        <a href="#30-auto-text-effect"><img src="https://custom-icon-badges.demolab.com/badge/Auto%20Text%20Effect-b2daff.svg?logo=star-fill&logoColor=000000" alt="Auto Text Effect" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">31-40</td>
+      <td align="center">
+        <a href="#31-password-generator"><img src="https://custom-icon-badges.demolab.com/badge/Password%20Generator-b2d1ff.svg?logo=star-fill&logoColor=000000" alt="Password Generator" /></a>
+        <a href="#32-good-cheap-fast-checkboxes"><img src="https://custom-icon-badges.demolab.com/badge/Good/Cheap/Fast%20Checkboxes-b2c7ff.svg?logo=star-fill&logoColor=000000" alt="Good/Cheap/Fast Checkboxes" /></a>
+        <a href="#33-notes-app"><img src="https://custom-icon-badges.demolab.com/badge/Notes%20App-b2beff.svg?logo=star-fill&logoColor=000000" alt="Notes App" /></a>
+        <a href="#34-animated-countdown"><img src="https://custom-icon-badges.demolab.com/badge/Animated%20Countdown-b2b5ff.svg?logo=star-fill&logoColor=000000" alt="Animated Countdown" /></a>
+        <a href="#35-image-carousel"><img src="https://custom-icon-badges.demolab.com/badge/Image%20Carousel-b8b2ff.svg?logo=star-fill&logoColor=000000" alt="Image Carousel" /></a>
+        <a href="#36-hoverboard"><img src="https://custom-icon-badges.demolab.com/badge/Hoverboard-c1b2ff.svg?logo=star-fill&logoColor=000000" alt="Hoverboard" /></a>
+        <a href="#37-pokedex"><img src="https://custom-icon-badges.demolab.com/badge/Pokedex-cab2ff.svg?logo=star-fill&logoColor=000000" alt="Pokedex" /></a>
+        <a href="#38-mobile-tab-navigation"><img src="https://custom-icon-badges.demolab.com/badge/Mobile%20Tab%20Navigation-d4b2ff.svg?logo=star-fill&logoColor=000000" alt="Mobile Tab Navigation" /></a>
+        <a href="#39-password-strength-background"><img src="https://custom-icon-badges.demolab.com/badge/Password%20Strength%20Background-ddb2ff.svg?logo=star-fill&logoColor=000000" alt="Password Strength Background" /></a>
+        <a href="#40-3d-background-boxes"><img src="https://custom-icon-badges.demolab.com/badge/3D%20Background%20Boxes-e6b2ff.svg?logo=star-fill&logoColor=000000" alt="3D Background Boxes" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">41-50</td>
+      <td align="center">
+        <a href="#41-verify-account-ui"><img src="https://custom-icon-badges.demolab.com/badge/Verify%20Account%20UI-efb2ff.svg?logo=star-fill&logoColor=000000" alt="Verify Account UI" /></a>
+        <a href="#42-live-user-filter"><img src="https://custom-icon-badges.demolab.com/badge/Live%20User%20Filter-f8b2ff.svg?logo=star-fill&logoColor=000000" alt="Live User Filter" /></a>
+        <a href="#43-feedback-ui-design"><img src="https://custom-icon-badges.demolab.com/badge/Feedback%20UI%20Design-ffb2fb.svg?logo=star-fill&logoColor=000000" alt="Feedback UI Design" /></a>
+        <a href="#44-custom-range-slider"><img src="https://custom-icon-badges.demolab.com/badge/Custom%20Range%20Slider-ffb2f2.svg?logo=star-fill&logoColor=000000" alt="Custom Range Slider" /></a>
+        <a href="#45-netflix-mobile-navigation"><img src="https://custom-icon-badges.demolab.com/badge/Netflix%20Mobile%20Navigation-ffb2e9.svg?logo=star-fill&logoColor=000000" alt="Netflix Mobile Navigation" /></a>
+        <a href="#46-quiz-app"><img src="https://custom-icon-badges.demolab.com/badge/Quiz%20App-ffb2e0.svg?logo=star-fill&logoColor=000000" alt="Quiz App" /></a>
+        <a href="#47-testimonial-box-switcher"><img src="https://custom-icon-badges.demolab.com/badge/Testimonial%20Box%20Switcher-ffb2d7.svg?logo=star-fill&logoColor=000000" alt="Testimonial Box Switcher" /></a>
+        <a href="#48-random-image-feed"><img src="https://custom-icon-badges.demolab.com/badge/Random%20Image%20Feed-ffb2ce.svg?logo=star-fill&logoColor=000000" alt="Random Image Feed" /></a>
+        <a href="#49-todo-list"><img src="https://custom-icon-badges.demolab.com/badge/Todo%20List-ffb2c4.svg?logo=star-fill&logoColor=000000" alt="Todo List" /></a>
+        <a href="#50-insect-catch-game"><img src="https://custom-icon-badges.demolab.com/badge/Insect%20Catch%20Game-ffb2bb.svg?logo=star-fill&logoColor=000000" alt="Insect Catch Game" /></a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <hr>
@@ -5511,8 +5319,8 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 <h3>🖇️ Additional Resources & Learning Materials</h3>
 <table>
   <tr>
-    <th nowrap="nowrap" align="left">Resource Title</th>
-    <th nowrap="nowrap" align="left">Resource Description</th>
+    <th nowrap align="left">Resource Title</th>
+    <th nowrap align="left">Resource Description</th>
     <th align="left">Link Type</th>
     <th align="left">Link to Resource</th>
   </tr>
