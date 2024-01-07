@@ -616,7 +616,6 @@ If you're unsure, I recommend testing your setup with the intended software. Sho
 
 </details>
 
-
 <details open>
 <summary><h3>📦 Installation Guide</h3></summary><blockquote>
 
@@ -769,7 +768,6 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
 
 </blockquote>
 </details> -->
-
 
 </blockquote>
 
@@ -3737,13 +3735,11 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/View%20Course%20on%20Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" width="80%" alt="Udemy Badge"/>
+        <a href="https://www.udemy.com/course/50-projects-50-days/"><img src="https://img.shields.io/badge/View%20Course%20on%20Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" width="80%" alt="Udemy Badge"/></a>
       </td>
     </tr>
   </tbody>
 </table>
-
-<hr>
 
 <blockquote>
   <h4>Instructor Information 👥</h4>
