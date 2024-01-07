@@ -265,7 +265,7 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
     <thead align="center">
       <tr>
         <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards"><img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards"><img src="https://custom-icon-badges.demolab.com/badge/Directory-F6E481.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
         </td>
         <td>
         <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
@@ -281,7 +281,7 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
           <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Go to Directory</a>
         </td>
         <td>
-          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">View Live Demo</a>
+          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main">Live Demo</a>
         </td>
         <td>
           <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">Open on Portfolio</a>
@@ -796,13 +796,13 @@ Navigation Quick Links
     <thead align="center">
       <tr>
         <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards"><img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
+          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards"><img src="https://custom-icon-badges.demolab.com/badge/Directory-F6E481.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
         </td>
         <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
+          <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
         </td>
         <td>
-        <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
+          <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-a61168.svg?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
         </td>
       </tr>
     </thead>
@@ -864,7 +864,7 @@ This project was a valuable step in my journey as a recent graduate, solidifying
     <thead align="center">
       <tr>
         <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps"><img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps"><img src="https://custom-icon-badges.demolab.com/badge/Directory-F6E481.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
         </td>
         <td>
         <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
@@ -933,7 +933,7 @@ Overall, this project strengthened my abilities in creating visually appealing, 
     <thead align="center">
       <tr>
         <td>
-        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation"><img src="https://custom-icon-badges.demolab.com/badge/Directory-FFE16B.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
+        <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation"><img src="https://custom-icon-badges.demolab.com/badge/Directory-F6E481.svg?style=for-the-badge&logo=file-submodule&logoColor=black"/></a>
         </td>
         <td>
         <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main"><img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-FF3333.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=white"/></a>
