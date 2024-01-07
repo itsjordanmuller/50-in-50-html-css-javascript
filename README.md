@@ -793,6 +793,14 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
       Navigation Quick Links
       </th>
     </tr>
+    <tr>
+      <th>
+        Day #
+      </th>
+      <th>
+        Name Links
+      </th>
+    </tr>
   </thead>
   <tbody>
     <tr>
@@ -824,7 +832,20 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
       </td>
     </tr>
     <tr>
-      <td align="center">11-20</td>
+      <td nowrap>
+        <div align="center">
+          <a href="#11-event-keycodes">11</a>&nbsp;|
+          <a href="#12-faq-collapse">12</a><br>
+          <a href="#13-random-choice-picker">13</a>&nbsp;|
+          <a href="#14-animated-navigation">14</a><br>
+          <a href="#15-incrementing-counter">15</a>&nbsp;|
+          <a href="#16-drink-water">16</a><br>
+          <a href="#17-movie-app">17</a>&nbsp;|
+          <a href="#18-background-slider">18</a><br>
+          <a href="#19-theme-clock">19</a>&nbsp;|
+          <a href="#20-button-ripple-effect">20</a><br>
+        </div>
+      </td>
       <td align="center">
         <a href="#11-event-keycodes"><img src="https://custom-icon-badges.demolab.com/badge/Event%20KeyCodes-efffb2.svg?logo=star-fill&logoColor=000000" alt="Event KeyCodes" /></a>
         <a href="#12-faq-collapse"><img src="https://custom-icon-badges.demolab.com/badge/FAQ%20Collapse-e6ffb2.svg?logo=star-fill&logoColor=000000" alt="FAQ Collapse" /></a>
@@ -839,7 +860,20 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
       </td>
     </tr>
     <tr>
-      <td align="center">21-30</td>
+      <td nowrap>
+        <div align="center">
+          <a href="#21-drag-n-drop">21</a>&nbsp;|
+          <a href="#22-drawing-app">22</a><br>
+          <a href="#23-kinetic-css-loader">23</a>&nbsp;|
+          <a href="#24-content-placeholder">24</a><br>
+          <a href="#25-sticky-navigation">25</a>&nbsp;|
+          <a href="#26-double-vertical-slider">26</a><br>
+          <a href="#27-toast-notifications">27</a>&nbsp;|
+          <a href="#28-github-profiles">28</a><br>
+          <a href="#29-double-click-heart">29</a>&nbsp;|
+          <a href="#30-auto-text-effect">30</a><br>
+        </div>
+      </td>
       <td align="center">
         <a href="#21-drag-n-drop"><img src="https://custom-icon-badges.demolab.com/badge/Drag%20N%20Drop-b2ffd1.svg?logo=star-fill&logoColor=000000" alt="Drag N Drop" /></a>
         <a href="#22-drawing-app"><img src="https://custom-icon-badges.demolab.com/badge/Drawing%20App-b2ffda.svg?logo=star-fill&logoColor=000000" alt="Drawing App" /></a>
@@ -854,7 +888,20 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
       </td>
     </tr>
     <tr>
-      <td align="center">31-40</td>
+      <td nowrap>
+        <div align="center">
+          <a href="#31-password-generator">31</a>&nbsp;|
+          <a href="#32-good-cheap-fast-checkboxes">32</a><br>
+          <a href="#33-notes-app">33</a>&nbsp;|
+          <a href="#34-animated-countdown">34</a><br>
+          <a href="#35-image-carousel">35</a>&nbsp;|
+          <a href="#36-hoverboard">36</a><br>
+          <a href="#37-pokedex">37</a>&nbsp;|
+          <a href="#38-mobile-tab-navigation">38</a><br>
+          <a href="#39-password-strength-background">39</a>&nbsp;|
+          <a href="#40-3d-background-boxes">40</a><br>
+        </div>
+      </td>
       <td align="center">
         <a href="#31-password-generator"><img src="https://custom-icon-badges.demolab.com/badge/Password%20Generator-b2d1ff.svg?logo=star-fill&logoColor=000000" alt="Password Generator" /></a>
         <a href="#32-good-cheap-fast-checkboxes"><img src="https://custom-icon-badges.demolab.com/badge/Good/Cheap/Fast%20Checkboxes-b2c7ff.svg?logo=star-fill&logoColor=000000" alt="Good/Cheap/Fast Checkboxes" /></a>
@@ -869,7 +916,20 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
       </td>
     </tr>
     <tr>
-      <td align="center">41-50</td>
+      <td nowrap>
+        <div align="center">
+          <a href="#41-verify-account-ui">41</a>&nbsp;|
+          <a href="#42-live-user-filter">42</a><br>
+          <a href="#43-feedback-ui-design">43</a>&nbsp;|
+          <a href="#44-custom-range-slider">44</a><br>
+          <a href="#45-netflix-mobile-navigation">45</a>&nbsp;|
+          <a href="#46-quiz-app">46</a><br>
+          <a href="#47-testimonial-box-switcher">47</a>&nbsp;|
+          <a href="#48-random-image-feed">48</a><br>
+          <a href="#49-todo-list">49</a>&nbsp;|
+          <a href="#50-insect-catch-game">50</a><br>
+        </div>
+      </td>
       <td align="center">
         <a href="#41-verify-account-ui"><img src="https://custom-icon-badges.demolab.com/badge/Verify%20Account%20UI-efb2ff.svg?logo=star-fill&logoColor=000000" alt="Verify Account UI" /></a>
         <a href="#42-live-user-filter"><img src="https://custom-icon-badges.demolab.com/badge/Live%20User%20Filter-f8b2ff.svg?logo=star-fill&logoColor=000000" alt="Live User Filter" /></a>
@@ -919,7 +979,7 @@ Note: The GitHub CLI streamlines various GitHub operations and is particularly u
           <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/001-Expanding-Cards">Go to Directory</a>
         </td>
         <td>
-          <a href="#">🚧 Check Soon 🏗️</a>
+          <ins href="#">🚧 Check Soon 🏗️</ins>
         </td>
         <td>
           <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">Open on Portfolio</a>
@@ -987,7 +1047,7 @@ This project was a valuable step in my journey as a recent graduate, solidifying
           <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/002-Progress-Steps">Go to Directory</a>
         </td>
         <td>
-          <a href="#">🚧 Check Soon 🏗️</a>
+          <ins href="#">🚧 Check Soon 🏗️</ins>
         </td>
         <td>
           <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">Open on Portfolio</a>
@@ -1056,7 +1116,7 @@ Overall, this project strengthened my abilities in creating visually appealing, 
           <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript/tree/main/003-Rotating-Navigation">Go to Directory</a>
         </td>
         <td>
-          <a href="#">🚧 Check Soon 🏗️</a>
+          <ins href="#">🚧 Check Soon 🏗️</ins>
         </td>
         <td>
           <a href="https://jordanmuller.com/portfolio/50-projects-50-days-html-css-js/">Open on Portfolio</a>
@@ -1137,14 +1197,11 @@ Overall, the "Hidden Search Widget" project was an enriching experience in creat
 | ![Blurry Loading - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-1.png) | ![Blurry Loading - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-5.png) |
 |---|---|
 
-| ![Blurry Loading - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-6.png) | ![Blurry Loading - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-2.png) |
-|---|---|
+| ![Blurry Loading - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-6.png) | ![Blurry Loading - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-2.png) | ![Blurry Loading - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-7.png) |
+|---|---|---|
 
-| ![Blurry Loading - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-3.png) | ![Blurry Loading - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-7.png) |
-|---|---|
-
-| ![Blurry Loading - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-8.png) | ![Blurry Loading - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-4.png) |
-|---|---|
+| ![Blurry Loading - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-3.png) | ![Blurry Loading - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-8.png) | ![Blurry Loading - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/005-Blurry-Loading/005-blurry-loading-4.png) |
+|---|---|---|
 
 #### Project Description
 
@@ -1180,14 +1237,11 @@ Overall, the "Blurry Loading" project was a fantastic exercise in creating visua
 | ![Scroll Animation - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-1.png) | ![Scroll Animation - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-5.png) |
 |---|---|
 
-| ![Scroll Animation - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-6.png) | ![Scroll Animation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-2.png) |
-|---|---|
+| ![Scroll Animation - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-6.png) | ![Scroll Animation - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-2.png) | ![Scroll Animation - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-8.png) |
+|---|---|---|
 
-| ![Scroll Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-3.png) | ![Scroll Animation - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-7.png) |
-|---|---|
-
-| ![Scroll Animation - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-8.png) | ![Scroll Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-4.png) |
-|---|---|
+| ![Scroll Animation - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-3.png) | ![Scroll Animation - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-7.png) | ![Scroll Animation - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/006-Scroll-Animation/006-scroll-animation-4.png) |
+|---|---|---|
 
 #### Project Description
 
@@ -1410,8 +1464,10 @@ Overall, the "Event KeyCodes" project was an informative and practical exercise 
 
 <img src="https://custom-icon-badges.demolab.com/badge/FAQ%20Collapse-e6ffb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="FAQ Collapse" width="100%"/><br>
 
-| ![FAQ Collapse - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012-FAQ-Collapse/012-faq-collapse-1.png) | ![FAQ Collapse - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012-FAQ-Collapse/012-faq-collapse-3.png) | ![FAQ Collapse - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012-FAQ-Collapse/012-faq-collapse-2.png) |
-|---|---|---|
+![FAQ Collapse - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012-FAQ-Collapse/012-faq-collapse-1.png)
+
+| ![FAQ Collapse - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012-FAQ-Collapse/012-faq-collapse-3.png) | ![FAQ Collapse - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/012-FAQ-Collapse/012-faq-collapse-2.png) |
+|---|---|
 
 #### Project Description
 
@@ -1444,8 +1500,10 @@ Overall, the "FAQ Collapse" project was an excellent practice in building user-f
 
 <img src="https://custom-icon-badges.demolab.com/badge/Random%20Choice%20Picker-ddffb2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Random Choice Picker" width="100%"/>
 
-| ![Random Choice Picker - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013-Random-Choice-Picker/013-random-choice-picker-2.png) | ![Random Choice Picker - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013-Random-Choice-Picker/013-random-choice-picker-1.png) | ![Random Choice Picker - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013-Random-Choice-Picker/013-random-choice-picker-3.png) |
-|---|---|---|
+![Random Choice Picker - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013-Random-Choice-Picker/013-random-choice-picker-3.png)
+
+| ![Random Choice Picker - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013-Random-Choice-Picker/013-random-choice-picker-2.png) | ![Random Choice Picker - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/013-Random-Choice-Picker/013-random-choice-picker-1.png) |
+|---|---|
 
 #### Project Description
 
@@ -1994,8 +2052,10 @@ Overall, the "Double Vertical Slider" project was an excellent practice in combi
 
 <img src="https://custom-icon-badges.demolab.com/badge/Toast%20Notifications-b2f5ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Toast Notifications" width="100%"/>
 
-| ![Toast Notifications - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027-Toast-Notifications/027-toast-notifications-1.png) | ![Toast Notifications - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027-Toast-Notifications/027-toast-notifications-2.png) | ![Toast Notifications - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027-Toast-Notifications/027-toast-notifications-3.png) |
-|---|---|---|
+![Toast Notifications - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027-Toast-Notifications/027-toast-notifications-2.png)
+
+| ![Toast Notifications - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027-Toast-Notifications/027-toast-notifications-1.png) | ![Toast Notifications - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/027-Toast-Notifications/027-toast-notifications-3.png) |
+|---|---|
 
 #### Project Description
 
@@ -2071,7 +2131,7 @@ Overall, the "GitHub Profiles" project was a valuable experience in combining va
 | ![Double Click Heart - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-1.png) | ![Double Click Heart - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-6.png) |
 |---|---|
 
-| ![Double Click Heart - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-3.png) | ![Double Click Heart - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-4.png) |
+| ![Double Click Heart - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-4.png) | ![Double Click Heart - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/029-Double-Click-Heart/029-double-click-heart-3.png) |
 |---|---|
 
 #### Project Description
@@ -2297,8 +2357,10 @@ Overall, the "Animated Countdown" project was a fun and creative way to explore 
 
 <img src="https://custom-icon-badges.demolab.com/badge/Image%20Carousel-b8b2ff.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Image Carousel" width="100%"/>
 
-| ![Image Carousel - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035-Image-Carousel/035-image-carousel-1.png) | ![Image Carousel - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035-Image-Carousel/035-image-carousel-2.png) | ![Image Carousel - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035-Image-Carousel/035-image-carousel-3.png) |
-|---|---|---|
+![Image Carousel - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035-Image-Carousel/035-image-carousel-1.png)
+
+| ![Image Carousel - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035-Image-Carousel/035-image-carousel-2.png) | ![Image Carousel - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/035-Image-Carousel/035-image-carousel-3.png) |
+|---|---|
 
 #### Project Description
 
@@ -2811,7 +2873,7 @@ Overall, the "Feedback UI Design" project demonstrates how to create an interact
 
 <img src="https://custom-icon-badges.demolab.com/badge/Custom%20Range%20Slider-ffb2f2.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Custom Range Slider" width="100%"/>
 
-| ![Custom Range Slider - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044-Custom-Range-Slider/044-custom-range-slider-1.png) | ![Custom Range Slider - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044-Custom-Range-Slider/044-custom-range-slider-2.png) | ![Custom Range Slider - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044-Custom-Range-Slider/044-custom-range-slider-3.png) |
+| ![Custom Range Slider - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044-Custom-Range-Slider/044-custom-range-slider-2.png) | ![Custom Range Slider - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044-Custom-Range-Slider/044-custom-range-slider-1.png) | ![Custom Range Slider - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/044-Custom-Range-Slider/044-custom-range-slider-3.png) |
 |---|---|---|
 
 #### Project Description
@@ -3153,14 +3215,11 @@ This "Random Image Feed" serves as a simple example of how to create a dynamic i
 | ![Todo List - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-1.png) | ![Todo List - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-5.png) |
 |---|---|
 
-| ![Todo List - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-6.png) | ![Todo List - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-2.png) |
-|---|---|
+| ![Todo List - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-6.png) | ![Todo List - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-2.png) | ![Todo List - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-7.png) |
+|---|---|---|
 
-| ![Todo List - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-3.png) | ![Todo List - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-7.png) |
-|---|---|
-
-| ![Todo List - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-8.png) | ![Todo List - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-4.png) |
-|---|---|
+| ![Todo List - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-3.png) | ![Todo List - Image 8](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-8.png) | ![Todo List - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/049-Todo-List/049-todo-list-4.png) |
+|---|---|---|
 
 #### Project Description
 
@@ -3219,11 +3278,11 @@ The "Todo List" application provides a basic but functional example of how to cr
 
 <img src="https://custom-icon-badges.demolab.com/badge/Insect%20Catch%20Game-ffb2bb.svg?style=for-the-badge&logo=star-fill&logoColor=000000" alt="Insect Catch Game" width="100%" />
 
-| ![Insect Catch Game - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-1.png) | ![Insect Catch Game - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-3.png) | ![Insect Catch Game - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-4.png) |
-|---|---|---|
-
-| ![Insect Catch Game - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-5.png) | ![Insect Catch Game - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-2.png) |
+| ![Insect Catch Game - Image 1](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-1.png) | ![Insect Catch Game - Image 3](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-3.png) |
 |---|---|
+
+| ![Insect Catch Game - Image 4](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-4.png) | ![Insect Catch Game - Image 5](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-5.png) | ![Insect Catch Game - Image 2](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-2.png) |
+|---|---|--|
 
 | ![Insect Catch Game - Image 6](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-6.png) | ![Insect Catch Game - Image 7](https://github.com/itsjordanmuller/50-in-50-html-css-javascript/blob/main/050-Insect-Catch-Game/050-insect-catch-game-7.png) |
 |---|---|
@@ -3677,13 +3736,12 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
       </td>
     </tr>
     <tr>
-      <td>🔗</td>
       <td>
         <a href="https://www.udemy.com/course/50-projects-50-days/">udemy.com/course/50-projects-50-days/</a>
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
         <img src="https://img.shields.io/badge/View%20Course%20on%20Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" width="80%" alt="Udemy Badge"/>
       </td>
     </tr>
