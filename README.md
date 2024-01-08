@@ -396,29 +396,27 @@ In this project, I worked with <strong>HTML</strong>, <strong>CSS</strong>, and 
   <p>If you want to avoid setting up environment variables, check to see if the project has a Live Demo associated with it. For all of the projects that I have hosted on the internet, you'll be able to use them without any API configuration required. This is often a simpler way of viewing more complicated projects, since everything will already be running for you to view, use & explore.</p>
 </blockquote>
 <hr>
+
 <table>
-<thead>
-<tr>
-<th>
-<h4>Just Hoping to Learn More About Programming? 📚</h4>
-</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>
-
-<blockquote>
-  <p>I have provided a variety of resources and guides throughout this README for new developers. From the absolute basics, to specific videos and guides that helped me get unstuck in certain situations, I tried to include every single resource I ended up utilizing over the course of my journey.</p>
-  <p>We are so lucky to live in a time where almost all of this information is available for free on the internet. The only thing I paid for was the course itself, which can be purchased for about $20 on sale at <a href="https://www.udemy.com/">Udemy</a>. Besides that, I was able to complete the project with a low-spec <a href="https://www.amazon.com/dp/B0842X4BNF">Lenovo Thinkpad T480</a> I purchased for just under $300. It's proven to be a perfect machine for development & running <a href="https://kubuntu.org/">Kubuntu Linux</a>.</p>
-</blockquote>
-<br>
-<strong><em>A full list of tech, tools, and other links & resources can be found towards the bottom of this README in the <a href="#resources-section">Links & Citations</a> section.</em></strong>
-
-</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>
+        <h4>Just Hoping to Learn More About Programming? 📚</h4>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <blockquote>
+          <p>I have provided a variety of resources and guides throughout this README for new developers. From the absolute basics, to specific videos and guides that helped me get unstuck in certain situations, I tried to include every single resource I ended up utilizing over the course of my journey.</p>
+          <p>We are so lucky to live in a time where almost all of this information is available for free on the internet. The only thing I paid for was the course itself, which can be purchased for about $20 on sale at <a href="https://www.udemy.com/">Udemy</a>. Besides that, I was able to complete the project with a low-spec <a href="https://www.amazon.com/dp/B0842X4BNF">Lenovo Thinkpad T480</a> I purchased for just under $300. It's proven to be a perfect machine for development & running <a href="https://kubuntu.org/">Kubuntu Linux</a>.</p>
+        </blockquote>
+        <br>
+        <strong><em>A full list of tech, tools, and other links & resources can be found towards the bottom of this README in the <a href="#resources-section">Links & Citations</a> section.</em></strong>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 </details>
@@ -3701,7 +3699,7 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
 <p>Your way of teaching made the complex concepts of web development accessible and engaging. The clarity and depth of your explanations in each of the 50 projects have greatly improved my skills in HTML, CSS, and JavaScript.</p>
 <p>Your passion for teaching and commitment to helping students like me understand the nuances of web development is truly admirable. I feel much more confident in my abilities to create web projects thanks to your instruction. Thank you for being such a fantastic mentor and teacher.</p>
 <br>
-<p align="left">Sincerely,<br><strong><em>Jordan Muller</em></strong></p>
+<p align="left">Sincerely,<br><strong><em>- Jordan Muller</em></strong></p>
 </blockquote>
 
 <div align="right"><a href="#top">(back to top)</a></div>
